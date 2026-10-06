@@ -382,6 +382,15 @@
     "pham_vi": "tat_ca"
    }
   ],
+  "9758\tmachine_weight_tskt_master\tbd": [
+   {
+    "a": "Nặng",
+    "b": "kg",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "pham_vi": "tat_ca"
+   }
+  ],
   "9758\twide_tskt_master\tbd": [
    {
     "a": "Rộng",
@@ -392,7 +401,7 @@
    }
   ]
  },
- "luc_luu": "2026-10-06 16:47:09",
+ "luc_luu": "2026-10-06 16:47:55",
  "map_ten": "tham_chieu",
  "nguoi_luu": "ducd",
  "rong": {
