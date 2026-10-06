@@ -1,16 +1,35 @@
 {
  "chon": [
   {
-   "CHỌN": false,
-   "GHI CHÚ": "Chưa có tab TSKT lẫn cấu hình — thêm 1 trong 2",
+   "CHỌN": true,
+   "GHI CHÚ": "",
    "MÃ NH": "1988",
    "NGUỒN CATE": "CATEGORYID",
    "SỐ SKU": 388,
-   "TAB TSKT / CẤU HÌNH": "",
-   "TÊN NGÀNH HÀNG": ""
+   "TAB TSKT / CẤU HÌNH": "cấu hình — 21 cột",
+   "TÊN NGÀNH HÀNG": "Bàn ủi"
   }
  ],
- "chua_map": [],
+ "chua_map": [
+  {
+   "cate": "1988",
+   "goi_y_ma": "",
+   "prop_id": "7859",
+   "prop_name": "Kích thước - Khối lượng sản phẩm",
+   "so_dong": 70,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Dài 29 cm - Rộng 12.7 cm - Cao 14.6 cm"
+  },
+  {
+   "cate": "1988",
+   "goi_y_ma": "",
+   "prop_id": "9164",
+   "prop_name": "Mặt đế",
+   "so_dong": 336,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Chống dính"
+  }
+ ],
  "dx_dang_ap": 0,
  "goc_cms": {},
  "log": [
@@ -27,21 +46,168 @@
    "Không có dòng nào trong DATA SP"
   ],
   [
-   "",
+   "4844140000156",
    "1988",
-   "",
-   "Không có tab TSKT lẫn cấu hình — bỏ qua"
+   "brand_of_filter_master",
+   "FILTER: giá trị CMS \"Cộng hòa Séc\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "4844140000156",
+   "1988",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Làm mềm vải\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "4844140000156",
+   "1988",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Lưu lượng phun hơi 21 g/phút\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "4844140000158",
+   "1988",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Lưu lượng phun hơi 20 g/phút\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "4844140000169",
+   "1988",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Thiết kế tay cầm gấp gọn\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "4844141000057",
+   "1988",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Điều chỉnh nhiệt độ linh hoạt\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "4844141000057",
+   "1988",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Mặt ủi chống dính\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "4844141000057",
+   "1988",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Mũi nhọn ủi phẳng mọi chi tiết\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "4844140000172",
+   "1988",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Bộ gom cặn có thể tháo rời\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "4844143000059",
+   "1988",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Chống đóng cặn\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "4844140000176",
+   "1988",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Chọn nhiều chế độ vải\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "4844140000192",
+   "1988",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Dây treo tiết kiệm không gian\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "4844140000186",
+   "1988",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Bình chứa nước tháo rời\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "4844140000186",
+   "1988",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Đầu phun hơi nước gập gọn\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "4844140000189",
+   "1988",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Tay cầm quay 90 độ\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "4844140000194",
+   "1988",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Dùng với nước máy\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "4844140000194",
+   "1988",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Không xoắn dây\" chưa có option trong DATA PIM — để trống"
   ]
  ],
- "luc": "2026-10-06 09:56:58",
- "nganh": {},
+ "luc": "2026-10-06 10:01:43",
+ "nganh": {
+  "1988": {
+   "attr": [
+    "brand_of_filter_master",
+    "output_power_filter_master",
+    "utilities_filter_master",
+    "brand_of_tskt_master",
+    "capacity_tskt_master",
+    "deep_tskt_master",
+    "function_tskt_master",
+    "high_tskt_master",
+    "horizontal_tskt_master",
+    "long_cord_tskt_master",
+    "machine_weight_tskt_master",
+    "made_in_tskt_master",
+    "main_accessory_length_tskt_master",
+    "main_accessory_thickness_tskt_master",
+    "power_tskt_master",
+    "product_type_tskt_master",
+    "release_date_tskt_master",
+    "safety_features_tskt_master",
+    "surface_material_tskt_master",
+    "utilities_tskt_master",
+    "wide_accessories_tskt_master"
+   ],
+   "ten": {
+    "brand_of_filter_master": "Thương hiệu của",
+    "brand_of_tskt_master": "Thương hiệu của",
+    "capacity_tskt_master": "Dung lượng",
+    "deep_tskt_master": "Sâu",
+    "function_tskt_master": "Chức năng",
+    "high_tskt_master": "Cao",
+    "horizontal_tskt_master": "Ngang",
+    "long_cord_tskt_master": "Dài dây",
+    "machine_weight_tskt_master": "Khối lượng máy",
+    "made_in_tskt_master": "Sản xuất tại",
+    "main_accessory_length_tskt_master": "Dài phụ kiện chính",
+    "main_accessory_thickness_tskt_master": "Độ dày phụ kiện chính",
+    "output_power_filter_master": "Công suất đầu ra",
+    "power_tskt_master": "Công suất",
+    "product_type_tskt_master": "Loại sản phẩm",
+    "release_date_tskt_master": "Thời gian ra mắt",
+    "safety_features_tskt_master": "Tính năng an toàn",
+    "surface_material_tskt_master": "Chất liệu mặt",
+    "utilities_filter_master": "Tiện ích",
+    "utilities_tskt_master": "Tiện ích",
+    "wide_accessories_tskt_master": "Rộng phụ kiện"
+   },
+   "ten_nh": "Bàn ủi",
+   "title": "TSKT 1988 Bàn ủi"
+  }
+ },
  "tom_tat": {
-  "filter_khong_khop": 0,
-  "khong_data": 390,
+  "filter_khong_khop": 17,
+  "khong_data": 2,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 0,
-  "so_o": 0,
-  "so_sku": 0
+  "so_nganh": 1,
+  "so_o": 5956,
+  "so_sku": 388
  }
 }
