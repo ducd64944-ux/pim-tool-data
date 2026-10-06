@@ -3,333 +3,952 @@
   {
    "CHỌN": true,
    "GHI CHÚ": "",
-   "MÃ NH": "7358",
+   "MÃ NH": "2162",
    "NGUỒN CATE": "CATEGORYID",
-   "SỐ SKU": 15,
-   "TAB TSKT / CẤU HÌNH": "cấu hình — 18 cột",
-   "TÊN NGÀNH HÀNG": "Bóng đèn led"
+   "SỐ SKU": 1464,
+   "TAB TSKT / CẤU HÌNH": "tab TSKT 2162 Loa + cấu hình",
+   "TÊN NGÀNH HÀNG": "Loa"
   }
  ],
  "chua_map": [
   {
-   "cate": "7358",
-   "goi_y_ma": "power_tskt_master",
-   "prop_id": "25819",
-   "prop_name": "Công suất",
-   "so_dong": 15,
+   "cate": "2162",
+   "goi_y_ma": "",
+   "prop_id": "2143",
+   "prop_name": "Tổng Công suất (W) (làm label)",
+   "so_dong": 332,
    "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Dưới 5W"
+   "vi_du": "9"
   },
   {
-   "cate": "7358",
+   "cate": "2162",
    "goi_y_ma": "",
-   "prop_id": "16514",
-   "prop_name": "Loại đèn",
-   "so_dong": 2,
+   "prop_id": "32898",
+   "prop_name": "Nhóm hàng",
+   "so_dong": 1462,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "",
+   "prop_id": "8860",
+   "prop_name": "Tên thương hiệu",
+   "so_dong": 155,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Logitech"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "",
+   "prop_id": "8861",
+   "prop_name": "Model",
+   "so_dong": 152,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Z120."
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "",
+   "prop_id": "8865",
+   "prop_name": "Kích thước loa siêu trầm",
+   "so_dong": 100,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không."
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "satellite_speaker_dimensions_tskt_master",
+   "prop_id": "8866",
+   "prop_name": "Kích thước loa vệ tinh",
+   "so_dong": 90,
+   "trang_thai": "Đã map theo TÊN (nên thêm vào MAPPING TSKT)",
+   "vi_du": "12 x 12 x 9.5cm."
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "",
+   "prop_id": "8867",
+   "prop_name": "Công suất loa siêu trầm",
+   "so_dong": 108,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không."
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "",
+   "prop_id": "8868",
+   "prop_name": "Công suất loa vệ tinh",
+   "so_dong": 106,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "1.2 W."
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "",
+   "prop_id": "8870",
+   "prop_name": "Trọng lượng",
+   "so_dong": 154,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "1000gr."
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "",
+   "prop_id": "9848",
+   "prop_name": "Công suất loa",
+   "so_dong": 155,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Dưới 15 W"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "total_power_tskt_master",
+   "prop_id": "7720",
+   "prop_name": "Tổng công suất",
+   "so_dong": 618,
+   "trang_thai": "Đã map theo TÊN (nên thêm vào MAPPING TSKT)",
+   "vi_du": "35 W"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "",
+   "prop_id": "8163",
+   "prop_name": "Âm thanh đọc được",
+   "so_dong": 541,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "",
+   "prop_id": "8863",
+   "prop_name": "Cách kết nối thiết bị",
+   "so_dong": 333,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Cổng USB"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "",
+   "prop_id": "8864",
+   "prop_name": "Số lượng loa",
+   "so_dong": 146,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "3"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "control_tskt_master",
+   "prop_id": "8869",
+   "prop_name": "Phím điều khiển",
+   "so_dong": 297,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Chỉnh Bass"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "inside_the_box_is_tskt_master",
+   "prop_id": "8871",
+   "prop_name": "Bộ bán hàng chuẩn",
+   "so_dong": 434,
+   "trang_thai": "Đã map theo TÊN (nên thêm vào MAPPING TSKT)",
+   "vi_du": "2 loa vệ tinh"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "",
+   "prop_id": "9821",
+   "prop_name": "Chọn loại loa",
+   "so_dong": 144,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Loa vi tính"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "",
+   "prop_id": "10621",
+   "prop_name": "Loa >400k",
+   "so_dong": 148,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Có"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "size_tskt_master",
+   "prop_id": "12316",
+   "prop_name": "Kích thước",
+   "so_dong": 129,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "power_tskt_master",
+   "prop_id": "12317",
+   "prop_name": "Công suất",
+   "so_dong": 142,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Loa siêu trầm 13 W, Loa vệ tinh 11 W x 2 loa"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "",
+   "prop_id": "14819",
+   "prop_name": "Chính hãng",
+   "so_dong": 95,
    "trang_thai": "CHƯA MAP — bỏ qua",
    "vi_du": "Đang cập nhật"
   },
   {
-   "cate": "7358",
-   "goi_y_ma": "utilities_tskt_master",
-   "prop_id": "16515",
-   "prop_name": "Tiện ích",
-   "so_dong": 4,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "CRI 80 phản ánh chân thực màu sắc của vật thể"
-  },
-  {
-   "cate": "7358",
+   "cate": "2162",
    "goi_y_ma": "",
-   "prop_id": "16516",
-   "prop_name": "Điều khiển",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Công tắc"
-  },
-  {
-   "cate": "7358",
-   "goi_y_ma": "power_tskt_master",
-   "prop_id": "16517",
-   "prop_name": "Công suất",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "5W"
-  },
-  {
-   "cate": "7358",
-   "goi_y_ma": "",
-   "prop_id": "16518",
-   "prop_name": "Số bóng đèn LED",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "1 bóng"
-  },
-  {
-   "cate": "7358",
-   "goi_y_ma": "",
-   "prop_id": "27249",
-   "prop_name": "Loại đèn",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Đèn LED treo"
-  },
-  {
-   "cate": "7358",
-   "goi_y_ma": "",
-   "prop_id": "27721",
-   "prop_name": "Thời gian sạc - sử dụng",
-   "so_dong": 2,
+   "prop_id": "15013",
+   "prop_name": "Phụ kiện",
+   "so_dong": 1064,
    "trang_thai": "CHƯA MAP — bỏ qua",
    "vi_du": "Không"
   },
   {
-   "cate": "7358",
+   "cate": "2162",
    "goi_y_ma": "",
-   "prop_id": "27722",
-   "prop_name": "Chiếu sáng",
-   "so_dong": 2,
+   "prop_id": "15014",
+   "prop_name": "Bình ắc quy",
+   "so_dong": 1064,
    "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "1 chế độ"
+   "vi_du": "Không"
   },
   {
-   "cate": "7358",
+   "cate": "2162",
    "goi_y_ma": "brand_of_tskt_master",
-   "prop_id": "27723",
+   "prop_id": "20981",
    "prop_name": "Thương hiệu của",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Đức"
-  },
-  {
-   "cate": "7358",
-   "goi_y_ma": "made_in_tskt_master",
-   "prop_id": "27724",
-   "prop_name": "Sản xuất tại",
-   "so_dong": 2,
+   "so_dong": 62,
    "trang_thai": "CHƯA MAP — bỏ qua",
    "vi_du": "Trung Quốc"
   },
   {
-   "cate": "7358",
+   "cate": "2162",
+   "goi_y_ma": "made_in_tskt_master",
+   "prop_id": "21146",
+   "prop_name": "Sản xuất tại",
+   "so_dong": 67,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Trung Quốc"
+  },
+  {
+   "cate": "2162",
    "goi_y_ma": "",
-   "prop_id": "27725",
-   "prop_name": "Năm ra mắt",
-   "so_dong": 2,
+   "prop_id": "21259",
+   "prop_name": "Tương thích",
+   "so_dong": 216,
    "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "2025"
+   "vi_du": "Android"
   },
   {
-   "cate": "7358",
-   "goi_y_ma": "high_tskt_master",
-   "prop_id": "29514",
-   "prop_name": "Cao",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "5.5"
-  },
-  {
-   "cate": "7358",
-   "goi_y_ma": "horizontal_tskt_master",
-   "prop_id": "29515",
-   "prop_name": "Ngang",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "5.5"
-  },
-  {
-   "cate": "7358",
-   "goi_y_ma": "deep_tskt_master",
-   "prop_id": "29516",
-   "prop_name": "Sâu",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "10"
-  },
-  {
-   "cate": "7358",
+   "cate": "2162",
    "goi_y_ma": "",
-   "prop_id": "29517",
-   "prop_name": "Khối lượng",
-   "so_dong": 2,
+   "prop_id": "21590",
+   "prop_name": "Tổng số lượng loa Mid",
+   "so_dong": 1036,
    "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "0.02"
+   "vi_du": "Không"
   },
   {
-   "cate": "7358",
-   "goi_y_ma": "product_type_tskt_master",
-   "prop_id": "36909",
-   "prop_name": "Loại bóng",
-   "so_dong": 2,
+   "cate": "2162",
+   "goi_y_ma": "number_of_channels_tskt_master",
+   "prop_id": "23469",
+   "prop_name": "Số lượng kênh",
+   "so_dong": 995,
    "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Bóng LED"
+   "vi_du": "2.1 kênh"
   },
   {
-   "cate": "7358",
+   "cate": "2162",
+   "goi_y_ma": "",
+   "prop_id": "23918",
+   "prop_name": "Chính sách đặc biệt",
+   "so_dong": 1010,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "inside_the_box_is_tskt_master",
+   "prop_id": "23922",
+   "prop_name": "Bộ bán hàng chuẩn",
+   "so_dong": 2219,
+   "trang_thai": "Đã map theo TÊN (nên thêm vào MAPPING TSKT)",
+   "vi_du": "2 loa vệ tinh"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "",
+   "prop_id": "23923",
+   "prop_name": "Chính hãng",
+   "so_dong": 1010,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "",
+   "prop_id": "26094",
+   "prop_name": "Label đại diện",
+   "so_dong": 994,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "",
+   "prop_id": "26287",
+   "prop_name": "Sản phẩm độc quyền",
+   "so_dong": 985,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "made_in_tskt_master",
+   "prop_id": "21146",
+   "prop_name": "Sản xuất tại",
+   "so_dong": 15,
+   "trang_thai": "Đã map theo TÊN (nên thêm vào MAPPING TSKT)",
+   "vi_du": "Trung Quốc"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "",
+   "prop_id": "29413",
+   "prop_name": "Map tivi",
+   "so_dong": 909,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "",
+   "prop_id": "40064",
+   "prop_name": "Map tivi theo giá (cập nhật 6/4/2023)",
+   "so_dong": 853,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Đang cập nhật"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "product_line_tskt_master",
+   "prop_id": "29235",
+   "prop_name": "Dòng sản phẩm",
+   "so_dong": 955,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không có"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "",
+   "prop_id": "38499",
+   "prop_name": "Dòng sản phẩm (Thuộc tính ẩn)",
+   "so_dong": 999,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "2016"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "size_tskt_master",
+   "prop_id": "10292",
+   "prop_name": "Kích thước",
+   "so_dong": 95,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không có"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "",
+   "prop_id": "38760",
+   "prop_name": "Combo Loa",
+   "so_dong": 849,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "",
+   "prop_id": "38798",
+   "prop_name": "Label hình thumb",
+   "so_dong": 852,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Đang cập nhật"
+  },
+  {
+   "cate": "2162",
    "goi_y_ma": "power_tskt_master",
-   "prop_id": "36925",
+   "prop_id": "40838",
    "prop_name": "Công suất",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Từ 4 - 7W"
-  },
-  {
-   "cate": "7358",
-   "goi_y_ma": "",
-   "prop_id": "47079",
-   "prop_name": "Đầu vào",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Cắm điện trực tiếp"
-  },
-  {
-   "cate": "7358",
-   "goi_y_ma": "",
-   "prop_id": "47080",
-   "prop_name": "Dòng điện vào",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "220V ~ 50Hz"
-  },
-  {
-   "cate": "7358",
-   "goi_y_ma": "",
-   "prop_id": "47081",
-   "prop_name": "Pin",
-   "so_dong": 2,
+   "so_dong": 817,
    "trang_thai": "CHƯA MAP — bỏ qua",
    "vi_du": "Không"
   },
   {
-   "cate": "7358",
+   "cate": "2162",
+   "goi_y_ma": "utilities_tskt_master",
+   "prop_id": "20643",
+   "prop_name": "Tiện ích",
+   "so_dong": 63,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Có đèn Led"
+  },
+  {
+   "cate": "2162",
    "goi_y_ma": "",
-   "prop_id": "47082",
-   "prop_name": "Nhiệt độ màu",
-   "so_dong": 2,
+   "prop_id": "21302",
+   "prop_name": "Tính năng khác",
+   "so_dong": 78,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Nghe được đài FM"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "control_tskt_master",
+   "prop_id": "8869",
+   "prop_name": "Phím điều khiển",
+   "so_dong": 205,
+   "trang_thai": "Đã map theo TÊN (nên thêm vào MAPPING TSKT)",
+   "vi_du": "Chỉnh Bass"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "",
+   "prop_id": "9069",
+   "prop_name": "Hệ thống loa",
+   "so_dong": 16,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "2.1 kênh"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "total_power_tskt_master",
+   "prop_id": "9070",
+   "prop_name": "Tổng công suất",
+   "so_dong": 16,
+   "trang_thai": "Đã map theo TÊN (nên thêm vào MAPPING TSKT)",
+   "vi_du": "80 W"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "audio_technology_tskt_master",
+   "prop_id": "9071",
+   "prop_name": "Công nghệ âm thanh",
+   "so_dong": 50,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "ClearAudio+"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "",
+   "prop_id": "9073",
+   "prop_name": "Đuôi file phổ biến loa đọc được",
+   "so_dong": 52,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "m4a"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "",
+   "prop_id": "9074",
+   "prop_name": "Loại âm thanh loa đọc được",
+   "so_dong": 16,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "MP3, Lossless"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "",
+   "prop_id": "9075",
+   "prop_name": "Kết nối có dây",
+   "so_dong": 42,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Jack phone 3.5 mm"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "connect_tskt_master",
+   "prop_id": "9076",
+   "prop_name": "Kết nối không dây",
+   "so_dong": 25,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Bluetooth"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "",
+   "prop_id": "9077",
+   "prop_name": "Điều khiển bằng điện thoại, máy tính bảng",
+   "so_dong": 16,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không có"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "",
+   "prop_id": "9078",
+   "prop_name": "Loa chính",
+   "so_dong": 16,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Cao 5.1 cm - Ngang 90 cm - Sâu 8.4 cm, Nặng 2 kg"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "",
+   "prop_id": "9079",
+   "prop_name": "Loa siêu trầm",
+   "so_dong": 16,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Cao 24.3 cm - Ngang 16.5 cm - Sâu 29.6 cm, Nặng 2.7 kg"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "",
+   "prop_id": "9080",
+   "prop_name": "Nơi sản xuất",
+   "so_dong": 16,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Trung Quốc"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "",
+   "prop_id": "9081",
+   "prop_name": "Năm sản xuất",
+   "so_dong": 16,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "2016"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "power_tskt_master",
+   "prop_id": "9082",
+   "prop_name": "Công suất",
+   "so_dong": 16,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Dưới 100 W"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "",
+   "prop_id": "21269",
+   "prop_name": "Công nghệ",
+   "so_dong": 41,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Extra Bass"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "usage_time_tskt_master",
+   "prop_id": "21299",
+   "prop_name": "Thời gian sử dụng",
+   "so_dong": 42,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "5 giờ"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "",
+   "prop_id": "21300",
+   "prop_name": "Thời gian sạc đầy",
+   "so_dong": 44,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "3 giờ"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "number_of_channels_tskt_master",
+   "prop_id": "23469",
+   "prop_name": "Số lượng kênh",
+   "so_dong": 4,
+   "trang_thai": "Đã map theo TÊN (nên thêm vào MAPPING TSKT)",
+   "vi_du": "2.0 kênh"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "",
+   "prop_id": "31299",
+   "prop_name": "Kích thước loa Mid",
+   "so_dong": 173,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Hãng không công bố"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "utilities_tskt_master",
+   "prop_id": "20643",
+   "prop_name": "Tiện ích",
+   "so_dong": 5,
+   "trang_thai": "Đã map theo TÊN (nên thêm vào MAPPING TSKT)",
+   "vi_du": "Chống nước, chống bụi"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "brand_of_tskt_master",
+   "prop_id": "20981",
+   "prop_name": "Thương hiệu của",
+   "so_dong": 5,
+   "trang_thai": "Đã map theo TÊN (nên thêm vào MAPPING TSKT)",
+   "vi_du": "Nhật Bản"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "usage_time_tskt_master",
+   "prop_id": "21299",
+   "prop_name": "Thời gian sử dụng",
+   "so_dong": 10,
+   "trang_thai": "Đã map theo TÊN (nên thêm vào MAPPING TSKT)",
+   "vi_du": "16 giờ"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "",
+   "prop_id": "18390",
+   "prop_name": "Dải tần số (Hz)",
+   "so_dong": 31,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "20 Hz - 20 KHz"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "satellite_speaker_dimensions_tskt_master",
+   "prop_id": "8866",
+   "prop_name": "Kích thước loa vệ tinh",
+   "so_dong": 10,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Cao 17.7 cm - Ngang 12.3 cm - Dày 11 cm"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "",
+   "prop_id": "21303",
+   "prop_name": "Khoảng cách kết nối tối đa (Bluetooth)",
+   "so_dong": 10,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "10 m"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "version_tskt_master",
+   "prop_id": "39281",
+   "prop_name": "Phiên bản",
+   "so_dong": 46,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Đen"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "",
+   "prop_id": "46579",
+   "prop_name": "Map Laptop",
+   "so_dong": 5,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Laptop (Loa vi tính Bluetooth Enkor S2880 Đen)"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "",
+   "prop_id": "48978",
+   "prop_name": "Khuyến mãi ngắn hạn",
+   "so_dong": 283,
    "trang_thai": "CHƯA MAP — bỏ qua",
    "vi_du": "Không"
   },
   {
-   "cate": "7358",
+   "cate": "2162",
    "goi_y_ma": "",
-   "prop_id": "47083",
-   "prop_name": "Ánh sáng đèn",
-   "so_dong": 2,
+   "prop_id": "7035",
+   "prop_name": "Loại Micro",
+   "so_dong": 3,
    "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Trắng"
+   "vi_du": "Không dây"
   },
   {
-   "cate": "7358",
+   "cate": "2162",
    "goi_y_ma": "",
-   "prop_id": "47084",
-   "prop_name": "Chỉ số hoàn màu (CRI)",
-   "so_dong": 2,
+   "prop_id": "7036",
+   "prop_name": "Tần số",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "28 Hz - 20 kHz"
+  },
+  {
+   "cate": "2162",
+   "goi_y_ma": "",
+   "prop_id": "7037",
+   "prop_name": "Băng tần",
+   "so_dong": 3,
    "trang_thai": "CHƯA MAP — bỏ qua",
    "vi_du": "Không"
   },
   {
-   "cate": "7358",
+   "cate": "2162",
    "goi_y_ma": "",
-   "prop_id": "47100",
-   "prop_name": "Chất liệu",
-   "so_dong": 2,
+   "prop_id": "7038",
+   "prop_name": "Độ méo tiếng",
+   "so_dong": 3,
    "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Nhựa"
+   "vi_du": "0.50%"
   },
   {
-   "cate": "7358",
+   "cate": "2162",
    "goi_y_ma": "",
-   "prop_id": "47881",
-   "prop_name": "Kích thước tấm pin",
-   "so_dong": 2,
+   "prop_id": "7039",
+   "prop_name": "Nơi sản xuất",
+   "so_dong": 3,
    "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
+   "vi_du": "Trung Quốc"
   },
   {
-   "cate": "7358",
+   "cate": "2162",
    "goi_y_ma": "",
-   "prop_id": "47882",
-   "prop_name": "Khối lượng tấm pin",
-   "so_dong": 2,
+   "prop_id": "7153",
+   "prop_name": "Khoảng cách sử dụng tối đa",
+   "so_dong": 3,
    "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
+   "vi_du": "10 m"
   },
   {
-   "cate": "7358",
-   "goi_y_ma": "lamp_size_tskt_master",
-   "prop_id": "47898",
-   "prop_name": "Kích thước đèn",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "5.5 x 5.5 x 10"
-  },
-  {
-   "cate": "7358",
+   "cate": "2162",
    "goi_y_ma": "",
-   "prop_id": "47899",
-   "prop_name": "Khối lượng đèn",
-   "so_dong": 2,
+   "prop_id": "7154",
+   "prop_name": "Năm sản xuất",
+   "so_dong": 3,
    "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "0.02"
+   "vi_du": "Đang cập nhật"
   }
  ],
  "dx_dang_ap": 0,
  "goc_cms": {},
- "log": [],
- "luc": "2026-10-06 15:37:02",
+ "log": [
+  [
+   "0164779000317",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3040880000265",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1505122004300",
+   "2162",
+   "usage_time_filter_master",
+   "FILTER: giá trị CMS \"Đang cập nhật\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1705109003300",
+   "2162",
+   "product_line_filter_master",
+   "FILTER: giá trị CMS \"Không\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1704112305300",
+   "2162",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Không\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "2003122901900",
+   "2162",
+   "product_line_filter_master",
+   "FILTER: giá trị CMS \"Không có\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "3040875000003",
+   "2162",
+   "output_power_filter_master",
+   "FILTER: giá trị CMS \"Đang cập nhật\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "0161031000004",
+   "2162",
+   "product_line_filter_master",
+   "FILTER: giá trị CMS \"Đang cập nhật\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "7641351000098",
+   "2162",
+   "product_line_filter_master",
+   "FILTER: giá trị CMS \"Hãng không công bố\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "3040875000087",
+   "2162",
+   "output_power_filter_master",
+   "FILTER: giá trị CMS \"Không\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "3040875000099",
+   "2162",
+   "usage_time_filter_master",
+   "FILTER: giá trị CMS \"Không\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "0164659000069",
+   "2162",
+   "output_power_filter_master",
+   "FILTER: giá trị CMS \"Hãng không công bố\" chưa có option trong DATA PIM — để trống"
+  ]
+ ],
+ "luc": "2026-10-06 16:07:21",
  "nganh": {
-  "7358": {
+  "2162": {
    "attr": [
+    "output_power_filter_master",
+    "product_line_filter_master",
     "product_type_filter_master",
+    "usage_time_filter_master",
+    "utilities_filter_master",
+    "audio_technology_tskt_master",
+    "bass_speaker_size_tskt_master",
+    "body_material_tskt_master",
+    "bookshelf_speaker_dimensions_tskt_master",
     "brand_of_tskt_master",
-    "color_rendering_index_tskt_master",
+    "ceiling_speaker_dimensions_tskt_master",
+    "center_speaker_size_tskt_master",
+    "charging_port_tskt_master",
+    "charging_time_tskt_master",
+    "connection_distance_tskt_master",
+    "connects_to_amplifier_tskt_master",
+    "connects_to_speakers_tskt_master",
+    "connect_tskt_master",
+    "continuous_power_tskt_master",
+    "control_tskt_master",
+    "control_via_phone_tskt_master",
     "deep_tskt_master",
+    "dvd_player_size_tskt_master",
+    "front_speaker_size_tskt_master",
     "high_tskt_master",
     "horizontal_tskt_master",
-    "lamp_lifespan_tskt_master",
-    "lamp_size_tskt_master",
-    "light_color_tskt_master",
-    "luminous_efficacy_tskt_master",
-    "luminous_flux_tskt_master",
+    "impedance_tskt_master",
+    "inside_the_box_is_tskt_master",
     "made_in_tskt_master",
-    "operating_frequency_tskt_master",
-    "power_tskt_master",
+    "mass_tskt_master",
+    "music_playback_port_tskt_master",
+    "number_of_channels_tskt_master",
+    "number_of_speaker_channels_tskt_master",
+    "other_gates_tskt_master",
+    "peak_power_tskt_master",
+    "product_line_tskt_master",
     "product_type_tskt_master",
-    "size_tskt_master",
+    "rear_speaker_size_tskt_master",
+    "response_frequency_tskt_master",
+    "satellite_speaker_dimensions_tskt_master",
+    "sensitivity_tskt_master",
+    "soundbar_depth_tskt_master",
+    "soundbar_height_tskt_master",
+    "soundbar_power_tskt_master",
+    "soundbar_size_weight_tskt_master",
+    "soundbar_weight_tskt_master",
+    "soundbar_width_tskt_master",
+    "source_tskt_master",
+    "subwoofer_depth_tskt_master",
+    "subwoofer_height_tskt_master",
+    "subwoofer_power_tskt_master",
+    "subwoofer_size_weight_tskt_master",
+    "subwoofer_weight_tskt_master",
+    "subwoofer_width_tskt_master",
+    "total_capacity_tskt_master",
+    "total_number_of_bass_speakers_tskt_master",
+    "total_number_of_treble_speakers_tskt_master",
+    "total_number_of_upfiring_speakers_tskt_master",
+    "total_number_of_woofer_speakers_tskt_master",
+    "total_power_tskt_master",
+    "total_subwoofer_count_tskt_master",
+    "tower_speaker_dimensions_tskt_master",
+    "treble_speaker_size_tskt_master",
+    "usage_time_tskt_master",
     "utilities_tskt_master",
-    "voltage_tskt_master"
+    "woofer_size_tskt_master"
    ],
    "ten": {
+    "audio_technology_tskt_master": "Công nghệ âm thanh",
+    "bass_speaker_size_tskt_master": "Kích thước loa Bass",
+    "body_material_tskt_master": "Chất liệu thân vỏ",
+    "bookshelf_speaker_dimensions_tskt_master": "Kích thước loa Bookshelf",
     "brand_of_tskt_master": "Thương hiệu của",
-    "color_rendering_index_tskt_master": "Chỉ số hoàn màu",
+    "ceiling_speaker_dimensions_tskt_master": "Kích thước loa đánh trần",
+    "center_speaker_size_tskt_master": "Kích thước loa trung tâm",
+    "charging_port_tskt_master": "Cổng sạc",
+    "charging_time_tskt_master": "Thời gian sạc",
+    "connect_tskt_master": "Kết nối",
+    "connection_distance_tskt_master": "Khoảng cách kết nối",
+    "connects_to_amplifier_tskt_master": "Kết nối được với amply",
+    "connects_to_speakers_tskt_master": "Kết nối được với loa",
+    "continuous_power_tskt_master": "Công suất liên tục",
+    "control_tskt_master": "Điều khiển",
+    "control_via_phone_tskt_master": "Điều khiển bằng điện thoại",
     "deep_tskt_master": "Sâu",
+    "dvd_player_size_tskt_master": "Kích thước đầu đĩa",
+    "front_speaker_size_tskt_master": "Kích thước loa trước",
     "high_tskt_master": "Cao",
     "horizontal_tskt_master": "Ngang",
-    "lamp_lifespan_tskt_master": "Tuổi thọ đèn",
-    "lamp_size_tskt_master": "Kích thước đèn",
-    "light_color_tskt_master": "Màu sắc ánh sáng",
-    "luminous_efficacy_tskt_master": "Hiệu suất sáng",
-    "luminous_flux_tskt_master": "Quang thông",
+    "impedance_tskt_master": "Trở kháng",
+    "inside_the_box_is_tskt_master": "Trong hộp có",
     "made_in_tskt_master": "Sản xuất tại",
-    "operating_frequency_tskt_master": "Tần số hoạt động",
-    "power_tskt_master": "Công suất",
+    "mass_tskt_master": "Khối lượng",
+    "music_playback_port_tskt_master": "Cổng phát nhạc",
+    "number_of_channels_tskt_master": "Số lượng kênh",
+    "number_of_speaker_channels_tskt_master": "Số đường tiếng của loa",
+    "other_gates_tskt_master": "Cổng khác",
+    "output_power_filter_master": "Công suất đầu ra",
+    "peak_power_tskt_master": "Công suất cực đỉnh",
+    "product_line_filter_master": "Dòng sản phẩm",
+    "product_line_tskt_master": "Dòng sản phẩm",
     "product_type_filter_master": "Loại sản phẩm",
     "product_type_tskt_master": "Loại sản phẩm",
-    "size_tskt_master": "Kích thước",
+    "rear_speaker_size_tskt_master": "Kích thước loa sau",
+    "response_frequency_tskt_master": "Tần số đáp ứng",
+    "satellite_speaker_dimensions_tskt_master": "Kích thước loa vệ tinh",
+    "sensitivity_tskt_master": "Độ nhạy",
+    "soundbar_depth_tskt_master": "Sâu loa thanh",
+    "soundbar_height_tskt_master": "Cao loa thanh",
+    "soundbar_power_tskt_master": "Công suất loa thanh",
+    "soundbar_size_weight_tskt_master": "Kích thước loa thanh",
+    "soundbar_weight_tskt_master": "Nặng loa thanh",
+    "soundbar_width_tskt_master": "Ngang loa thanh",
+    "source_tskt_master": "Nguồn",
+    "subwoofer_depth_tskt_master": "Sâu loa sub",
+    "subwoofer_height_tskt_master": "Cao loa sub",
+    "subwoofer_power_tskt_master": "Công suất loa Sub",
+    "subwoofer_size_weight_tskt_master": "Kích thước loa Sub",
+    "subwoofer_weight_tskt_master": "Nặng loa sub",
+    "subwoofer_width_tskt_master": "Ngang loa sub",
+    "total_capacity_tskt_master": "Dung tích tổng",
+    "total_number_of_bass_speakers_tskt_master": "Tổng số lượng loa Bass",
+    "total_number_of_treble_speakers_tskt_master": "Tổng số lượng loa Treble",
+    "total_number_of_upfiring_speakers_tskt_master": "Tổng số lượng loa đánh trần (Up-Firing)",
+    "total_number_of_woofer_speakers_tskt_master": "Tổng số lượng loa Woofer",
+    "total_power_tskt_master": "Tổng công suất",
+    "total_subwoofer_count_tskt_master": "Tổng số lượng loa Sub",
+    "tower_speaker_dimensions_tskt_master": "Kích thước loa tháp",
+    "treble_speaker_size_tskt_master": "Kích thước loa Treble",
+    "usage_time_filter_master": "Thời gian sử dụng",
+    "usage_time_tskt_master": "Thời gian sử dụng",
+    "utilities_filter_master": "Tiện ích",
     "utilities_tskt_master": "Tiện ích",
-    "voltage_tskt_master": "Điện áp"
+    "woofer_size_tskt_master": "Kích thước loa Woofer"
    },
-   "ten_nh": "Bóng đèn led",
-   "title": "TSKT 7358 Bóng đèn led"
+   "ten_nh": "Loa",
+   "title": "TSKT 2162 Loa"
   }
  },
  "tom_tat": {
-  "filter_khong_khop": 0,
-  "khong_data": 0,
-  "map_theo_ten": 0,
+  "filter_khong_khop": 10,
+  "khong_data": 2,
+  "map_theo_ten": 3370,
   "o_sua_theo_quy_tac": 0,
   "so_nganh": 1,
-  "so_o": 233,
-  "so_sku": 15
+  "so_o": 45581,
+  "so_sku": 1464
  }
 }
