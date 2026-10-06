@@ -41,6 +41,11 @@
   "1988\tmain_accessory_length_tskt_master": "cm",
   "1988\tmain_accessory_thickness_tskt_master": "cm",
   "1988\twide_accessories_tskt_master": "cm",
+  "1989\tdeep_tskt_master": "cm",
+  "1989\thigh_tskt_master": "cm",
+  "1989\thorizontal_tskt_master": "cm",
+  "1989\tlong_cord_tskt_master": "cm",
+  "1989\tmachine_weight_tskt_master": "kg",
   "4930\tbase_diameter_tskt_master": "cm",
   "4930\tbase_diameter_tskt_master\tbd": [
    {
@@ -135,7 +140,7 @@
    }
   ]
  },
- "luc_luu": "2026-10-06 13:34:32",
+ "luc_luu": "2026-10-06 13:35:46",
  "map_ten": "tham_chieu",
  "nguoi_luu": "ducd",
  "rong": {
