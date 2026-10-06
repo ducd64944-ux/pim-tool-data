@@ -1,4 +1,45 @@
 {
+ "11518": {
+  "cot": [
+   "brand_of_tskt_master",
+   "deck_size_tskt_master",
+   "folding_angle_tskt_master",
+   "handle_material_tskt_master",
+   "high_tskt_master",
+   "long_tskt_master",
+   "made_in_tskt_master",
+   "mass_tskt_master",
+   "payload_tskt_master",
+   "product_type_tskt_master",
+   "surface_material_tskt_master",
+   "utilities_tskt_master",
+   "wheel_axle_material_tskt_master",
+   "wheel_diameter_tskt_master",
+   "wheel_material_tskt_master",
+   "wide_tskt_master",
+   "year_of_manufacture_tskt_master"
+  ],
+  "ten": "Xe đẩy, kéo hàng",
+  "ten_cot": {
+   "brand_of_tskt_master": "Thương hiệu của",
+   "deck_size_tskt_master": "Kích thước sàn xe",
+   "folding_angle_tskt_master": "Độ gập",
+   "handle_material_tskt_master": "Chất liệu tay cầm",
+   "high_tskt_master": "Cao",
+   "long_tskt_master": "Dài",
+   "made_in_tskt_master": "Sản xuất tại",
+   "mass_tskt_master": "Khối lượng",
+   "payload_tskt_master": "Trọng tải",
+   "product_type_tskt_master": "Loại sản phẩm",
+   "surface_material_tskt_master": "Chất liệu mặt",
+   "utilities_tskt_master": "Tiện ích",
+   "wheel_axle_material_tskt_master": "Chất liệu trục bánh xe",
+   "wheel_diameter_tskt_master": "Đường kính bánh xe",
+   "wheel_material_tskt_master": "Chất liệu bánh xe",
+   "wide_tskt_master": "Rộng",
+   "year_of_manufacture_tskt_master": "Năm sản xuất"
+  }
+ },
  "166": {
   "cot": [
    "cabinet_style_filter_master",
