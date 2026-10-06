@@ -547,6 +547,55 @@
    "vertical_tskt_master": "Dọc"
   }
  },
+ "1988": {
+  "cot": [
+   "brand_of_filter_master",
+   "output_power_filter_master",
+   "utilities_filter_master",
+   "brand_of_tskt_master",
+   "capacity_tskt_master",
+   "deep_tskt_master",
+   "function_tskt_master",
+   "high_tskt_master",
+   "horizontal_tskt_master",
+   "long_cord_tskt_master",
+   "machine_weight_tskt_master",
+   "made_in_tskt_master",
+   "main_accessory_length_tskt_master",
+   "main_accessory_thickness_tskt_master",
+   "power_tskt_master",
+   "product_type_tskt_master",
+   "release_date_tskt_master",
+   "safety_features_tskt_master",
+   "surface_material_tskt_master",
+   "utilities_tskt_master",
+   "wide_accessories_tskt_master"
+  ],
+  "ten": "Bàn ủi",
+  "ten_cot": {
+   "brand_of_filter_master": "Thương hiệu của",
+   "brand_of_tskt_master": "Thương hiệu của",
+   "capacity_tskt_master": "Dung lượng",
+   "deep_tskt_master": "Sâu",
+   "function_tskt_master": "Chức năng",
+   "high_tskt_master": "Cao",
+   "horizontal_tskt_master": "Ngang",
+   "long_cord_tskt_master": "Dài dây",
+   "machine_weight_tskt_master": "Khối lượng máy",
+   "made_in_tskt_master": "Sản xuất tại",
+   "main_accessory_length_tskt_master": "Dài phụ kiện chính",
+   "main_accessory_thickness_tskt_master": "Độ dày phụ kiện chính",
+   "output_power_filter_master": "Công suất đầu ra",
+   "power_tskt_master": "Công suất",
+   "product_type_tskt_master": "Loại sản phẩm",
+   "release_date_tskt_master": "Thời gian ra mắt",
+   "safety_features_tskt_master": "Tính năng an toàn",
+   "surface_material_tskt_master": "Chất liệu mặt",
+   "utilities_filter_master": "Tiện ích",
+   "utilities_tskt_master": "Tiện ích",
+   "wide_accessories_tskt_master": "Rộng phụ kiện"
+  }
+ },
  "2002": {
   "cot": [
    "inverter_technology_filter_master",
