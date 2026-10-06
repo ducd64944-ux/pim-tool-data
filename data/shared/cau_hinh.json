@@ -1041,6 +1041,37 @@
    "size_weight_tskt_master": "Kích thước Khối lượng"
   }
  },
+ "4927": {
+  "cot": [
+   "mop_shape_filter_master",
+   "product_type_filter_master",
+   "utilities_filter_master",
+   "accessory_compatibility_tskt_master",
+   "body_material_tskt_master",
+   "brand_of_tskt_master",
+   "compatibility_tskt_master",
+   "made_in_tskt_master",
+   "mop_shape_tskt_master",
+   "product_type_tskt_master",
+   "size_tskt_master",
+   "utilities_tskt_master"
+  ],
+  "ten": "Bộ lau nhà",
+  "ten_cot": {
+   "accessory_compatibility_tskt_master": "Tương thích phụ kiện",
+   "body_material_tskt_master": "Chất liệu thân vỏ",
+   "brand_of_tskt_master": "Thương hiệu của",
+   "compatibility_tskt_master": "Tương thích",
+   "made_in_tskt_master": "Sản xuất tại",
+   "mop_shape_filter_master": "Hình dạng bông lau",
+   "mop_shape_tskt_master": "Hình dạng bông lau",
+   "product_type_filter_master": "Loại sản phẩm",
+   "product_type_tskt_master": "Loại sản phẩm",
+   "size_tskt_master": "Kích thước",
+   "utilities_filter_master": "Tiện ích",
+   "utilities_tskt_master": "Tiện ích"
+  }
+ },
  "4930": {
   "cot": [
    "body_material_filter_master",
