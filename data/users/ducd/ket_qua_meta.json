@@ -3,118 +3,592 @@
   {
    "CHỌN": true,
    "GHI CHÚ": "",
-   "MÃ NH": "1989",
+   "MÃ NH": "5205",
    "NGUỒN CATE": "CATEGORYID",
-   "SỐ SKU": 415,
-   "TAB TSKT / CẤU HÌNH": "cấu hình — 20 cột",
-   "TÊN NGÀNH HÀNG": "Bình đun siêu tốc"
+   "SỐ SKU": 676,
+   "TAB TSKT / CẤU HÌNH": "cấu hình — 18 cột",
+   "TÊN NGÀNH HÀNG": "Bình, ly giữ nhiệt"
   }
  ],
- "chua_map": [],
+ "chua_map": [
+  {
+   "cate": "5205",
+   "goi_y_ma": "",
+   "prop_id": "12710",
+   "prop_name": "Chất liệu",
+   "so_dong": 24,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Inox"
+  },
+  {
+   "cate": "5205",
+   "goi_y_ma": "",
+   "prop_id": "34498",
+   "prop_name": "Thời gian giữ nóng",
+   "so_dong": 655,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "-"
+  },
+  {
+   "cate": "5205",
+   "goi_y_ma": "",
+   "prop_id": "34500",
+   "prop_name": "Thời gian giữ lạnh",
+   "so_dong": 655,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "-"
+  },
+  {
+   "cate": "5205",
+   "goi_y_ma": "utilities_tskt_master",
+   "prop_id": "13225",
+   "prop_name": "Tiện ích",
+   "so_dong": 6,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Khóa chống đổ nước"
+  },
+  {
+   "cate": "5205",
+   "goi_y_ma": "",
+   "prop_id": "11982",
+   "prop_name": "Chất liệu",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Inox"
+  },
+  {
+   "cate": "5205",
+   "goi_y_ma": "capacity_tskt_master",
+   "prop_id": "12136",
+   "prop_name": "Dung tích",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Từ 0,5 lít - 1 lít"
+  },
+  {
+   "cate": "5205",
+   "goi_y_ma": "",
+   "prop_id": "12200",
+   "prop_name": "Loại",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Bình giữ nhiệt"
+  },
+  {
+   "cate": "5205",
+   "goi_y_ma": "",
+   "prop_id": "12202",
+   "prop_name": "Chất liệu",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Inox"
+  },
+  {
+   "cate": "5205",
+   "goi_y_ma": "capacity_tskt_master",
+   "prop_id": "12209",
+   "prop_name": "Dung tích",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "500ml - 1000ml"
+  },
+  {
+   "cate": "5205",
+   "goi_y_ma": "",
+   "prop_id": "11965",
+   "prop_name": "Loại",
+   "so_dong": 4,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Bình thủy"
+  },
+  {
+   "cate": "5205",
+   "goi_y_ma": "",
+   "prop_id": "11966",
+   "prop_name": "Chất liệu",
+   "so_dong": 4,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Inox"
+  },
+  {
+   "cate": "5205",
+   "goi_y_ma": "product_type_tskt_master",
+   "prop_id": "19098",
+   "prop_name": "Loại sản phẩm",
+   "so_dong": 5,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Dụng cụ xay tiêu cầm tay"
+  },
+  {
+   "cate": "5205",
+   "goi_y_ma": "",
+   "prop_id": "19099",
+   "prop_name": "Chất liệu",
+   "so_dong": 5,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Inox"
+  },
+  {
+   "cate": "5205",
+   "goi_y_ma": "made_in_tskt_master",
+   "prop_id": "18488",
+   "prop_name": "Nơi sản xuất",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Hungary"
+  },
+  {
+   "cate": "5205",
+   "goi_y_ma": "",
+   "prop_id": "18489",
+   "prop_name": "Chất liệu",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Inox"
+  }
+ ],
  "dx_dang_ap": 0,
  "goc_cms": {},
  "log": [
   [
-   "4844142000320",
+   "2727122858200",
    "",
    "",
    "Không có dòng nào trong DATA SP"
   ],
   [
-   "4844142000028",
-   "1989",
+   "2727122813500",
+   "5205",
    "utilities_filter_master",
-   "FILTER: giá trị CMS \"Đèn báo nguồn\" chưa có option trong DATA PIM — để trống"
+   "FILTER: giá trị CMS \"Dễ dàng mở và khóa với 1 lần nhấn\" chưa có option trong DATA PIM — để trống"
   ],
   [
-   "1033265000554",
-   "1989",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Không\" chưa có option trong DATA PIM — để trống"
+   "2727122813500",
+   "5205",
+   "product_type_filter_master",
+   "FILTER: giá trị CMS \"Bình giữ nhiệt\" chưa có option trong DATA PIM — để trống"
   ],
   [
-   "4844142000276",
-   "1989",
-   "bottle_lining_filter_master",
+   "2727122858000",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Ron Silicone kín chặt, không rò rỉ hơi nước\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "2727122858700",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Nắp đậy 2 cấp giúp tăng hiệu quả giữ nhiệt\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "4842859000005",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Miệng bình rộng\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033239000510",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Nắp bình chắc chắn, chống đổ nước khi di chuyển\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033239000521",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Gioăng cao su kín hơi, không rò rỉ hơi nước\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033187000101",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Công nghệ Blasting - chống bám bẩn và mùi hôi\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033187000101",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Sơn tĩnh điện, chống trơn trượt khi cầm nắm\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033187000101",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Tay cầm nghiêng chuyên dùng cho hoạt động ngoài trời\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033187000102",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Có nắp chặn đá\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033187000103",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Đế nhựa giúp đặt lên mặt bàn êm ái hơn\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033187000103",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Thiết kế nắp mở trượt đẩy và tự động khóa\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033187000155",
+   "5205",
+   "product_type_filter_master",
    "FILTER: giá trị CMS \"Đang cập nhật\" chưa có option trong DATA PIM — để trống"
   ],
   [
-   "4842053001483",
-   "1989",
+   "1033187000196",
+   "5205",
    "utilities_filter_master",
-   "FILTER: giá trị CMS \"Bình đun 2 trong 1\" chưa có option trong DATA PIM — để trống"
+   "FILTER: giá trị CMS \"Kết cấu nút uống dạng gập có ống tiện dụng\" chưa có option trong DATA PIM — để trống"
   ],
   [
-   "4842053001483",
-   "1989",
+   "1033187000196",
+   "5205",
    "utilities_filter_master",
-   "FILTER: giá trị CMS \"Thao tác chạm tiện lợi\" chưa có option trong DATA PIM — để trống"
+   "FILTER: giá trị CMS \"Lớp tráng bạc bên trong tăng khả năng kháng khuẩn\" chưa có option trong DATA PIM — để trống"
   ],
   [
-   "4844142000333",
-   "1989",
+   "1033187000211",
+   "5205",
    "utilities_filter_master",
-   "FILTER: giá trị CMS \"Điều chỉnh nhiệt độ linh hoạt lên đến 6 mức cài đặt sẵn\" chưa có option trong DATA PIM — để trống"
+   "FILTER: giá trị CMS \"Có 3 ngăn đựng thức ăn\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033187000115",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Có miệng rót\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033187000265",
+   "5205",
+   "inner_material_filter_master",
+   "FILTER: giá trị CMS \"Inox 316\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033187000309",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Có kèm đũa ăn\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033187000398",
+   "5205",
+   "inner_material_filter_master",
+   "FILTER: giá trị CMS \"Ceramic\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033187000408",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Có lưới lọc đá\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033187000411",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Có tặng kèm cọ vệ sinh ống hút\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033187000492",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Chất liệu an toàn\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033187000483",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Gioăng silicone kín nước\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033187000483",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Nắp lật dễ dàng đóng mở, không bị bắn ra ngoài khi uống\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033187000483",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Thiết kế chống tràn, chống đổ\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033187000498",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Bộ lọc thép không gỉ\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033187000498",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Thiết kế miệng ly rộng\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033187000490",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Công nghệ chân không hai lớp\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033187000490",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Tiện lợi, dễ mang theo\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033187000485",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Cấu trúc tường đôi ngăn ngừa sự truyền nhiệt ra bên ngoài\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033187000153",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Miệng cốc rộng dễ dàng thêm đá viên và vệ sinh bên trong\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033187000153",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Nắp có dây đai đính kèm\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033187000153",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Tay cầm TPE ngăn nắp rơi ra và mất\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033187000491",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Công nghệ tường 2 lớp\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033187000491",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Sơn tĩnh điện\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033187000491",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Tấm lót silicon\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033187000487",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Khả năng giữ nhiệt vượt trội\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033187000487",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Thân bình nhám, chống trơn trượt\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033187000487",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Thiết kế nắp có thể dùng làm cốc nước\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033187000442",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"3 cách uống\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033187000442",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Kết cấu 7 lớp\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033187000446",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"2 cách uống\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033187000455",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Kết cấu thiết kế liền khối\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033187000459",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Kết cấu 6 lớp\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033187000465",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Kết cấu 5 lớp\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033187000525",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Nắp mở một chạm\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033187000533",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Nắp kín chân không\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033187000533",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Thân bình có thể tháo rời\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033187000536",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Lớp phủ gốm bên trong\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1032999001533",
+   "5205",
+   "product_type_filter_master",
+   "FILTER: giá trị CMS \"Phụ kiện\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033187000507",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Có ống hút và nắp đậy ống hút\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033187000624",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Có dây cầm tay\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033187000687",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"1 cốc 3 nắp riêng biệt\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033187000690",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Ống hút tháo rời\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033187000693",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Vòng khóa an toàn\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033187000704",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Nắp tích hợp tay cầm\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033187000714",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Quai đeo\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033187000761",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Có dây đeo, lớp phủ sứ bên trong chống bám mùi cà phê, nắp lật tiện lợi\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033187000763",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Có quai xách, lớp phủ ceramic bên trong chống bám mùi, nắp chống rò rỉ\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1034699000025",
+   "5205",
+   "capacity_filter_master",
+   "FILTER: giá trị CMS \"Không\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1032999001577",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Hộp 480 ml giữ nhiệt, hộp 310 ml và 230 ml không có chức năng giữ nhiệt\" chưa có option trong DATA PIM — để trống"
   ]
  ],
- "luc": "2026-10-06 13:32:25",
+ "luc": "2026-10-06 13:58:47",
  "nganh": {
-  "1989": {
+  "5205": {
    "attr": [
-    "bottle_lining_filter_master",
     "capacity_filter_master",
-    "made_in_filter_master",
+    "inner_material_filter_master",
+    "product_type_filter_master",
     "utilities_filter_master",
+    "base_diameter_tskt_master",
     "body_material_tskt_master",
     "brand_of_tskt_master",
     "capacity_tskt_master",
-    "deep_tskt_master",
     "high_tskt_master",
-    "horizontal_tskt_master",
+    "holding_time_tskt_master",
     "inner_material_tskt_master",
-    "input_tskt_master",
-    "long_cord_tskt_master",
+    "lid_diameter_tskt_master",
     "machine_weight_tskt_master",
     "made_in_tskt_master",
-    "output_power_tskt_master",
-    "power_base_tskt_master",
+    "product_type_tskt_master",
     "release_date_tskt_master",
-    "safety_features_tskt_master",
+    "size_weight_tskt_master",
     "utilities_tskt_master"
    ],
    "ten": {
+    "base_diameter_tskt_master": "Đường kính đáy",
     "body_material_tskt_master": "Chất liệu thân vỏ",
-    "bottle_lining_filter_master": "Ruột bình",
     "brand_of_tskt_master": "Thương hiệu của",
     "capacity_filter_master": "Dung lượng dung tích",
     "capacity_tskt_master": "Dung lượng",
-    "deep_tskt_master": "Sâu",
     "high_tskt_master": "Cao",
-    "horizontal_tskt_master": "Ngang",
+    "holding_time_tskt_master": "Thời gian giữ",
+    "inner_material_filter_master": "Chất liệu ruột",
     "inner_material_tskt_master": "Chất liệu ruột",
-    "input_tskt_master": "Nguồn vào",
-    "long_cord_tskt_master": "Dài dây",
+    "lid_diameter_tskt_master": "Đường kính nắp",
     "machine_weight_tskt_master": "Khối lượng máy",
-    "made_in_filter_master": "Sản xuất tại",
     "made_in_tskt_master": "Sản xuất tại",
-    "output_power_tskt_master": "Công suất đầu ra",
-    "power_base_tskt_master": "Đế tiếp điện",
+    "product_type_filter_master": "Loại sản phẩm",
+    "product_type_tskt_master": "Loại sản phẩm",
     "release_date_tskt_master": "Thời gian ra mắt",
-    "safety_features_tskt_master": "Tính năng an toàn",
+    "size_weight_tskt_master": "Kích thước Khối lượng",
     "utilities_filter_master": "Tiện ích",
     "utilities_tskt_master": "Tiện ích"
    },
-   "ten_nh": "Bình đun siêu tốc",
-   "title": "TSKT 1989 Bình đun siêu tốc"
+   "ten_nh": "Bình, ly giữ nhiệt",
+   "title": "TSKT 5205 Bình, ly giữ nhiệt"
   }
  },
  "tom_tat": {
-  "filter_khong_khop": 6,
+  "filter_khong_khop": 63,
   "khong_data": 1,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
   "so_nganh": 1,
-  "so_o": 6460,
-  "so_sku": 415
+  "so_o": 10379,
+  "so_sku": 676
  }
 }
