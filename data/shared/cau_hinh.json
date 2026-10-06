@@ -596,6 +596,53 @@
    "wide_accessories_tskt_master": "Rộng phụ kiện"
   }
  },
+ "1989": {
+  "cot": [
+   "bottle_lining_filter_master",
+   "capacity_filter_master",
+   "made_in_filter_master",
+   "utilities_filter_master",
+   "body_material_tskt_master",
+   "brand_of_tskt_master",
+   "capacity_tskt_master",
+   "deep_tskt_master",
+   "high_tskt_master",
+   "horizontal_tskt_master",
+   "inner_material_tskt_master",
+   "input_tskt_master",
+   "long_cord_tskt_master",
+   "machine_weight_tskt_master",
+   "made_in_tskt_master",
+   "output_power_tskt_master",
+   "power_base_tskt_master",
+   "release_date_tskt_master",
+   "safety_features_tskt_master",
+   "utilities_tskt_master"
+  ],
+  "ten": "Bình đun siêu tốc",
+  "ten_cot": {
+   "body_material_tskt_master": "Chất liệu thân vỏ",
+   "bottle_lining_filter_master": "Ruột bình",
+   "brand_of_tskt_master": "Thương hiệu của",
+   "capacity_filter_master": "Dung lượng dung tích",
+   "capacity_tskt_master": "Dung lượng",
+   "deep_tskt_master": "Sâu",
+   "high_tskt_master": "Cao",
+   "horizontal_tskt_master": "Ngang",
+   "inner_material_tskt_master": "Chất liệu ruột",
+   "input_tskt_master": "Nguồn vào",
+   "long_cord_tskt_master": "Dài dây",
+   "machine_weight_tskt_master": "Khối lượng máy",
+   "made_in_filter_master": "Sản xuất tại",
+   "made_in_tskt_master": "Sản xuất tại",
+   "output_power_tskt_master": "Công suất đầu ra",
+   "power_base_tskt_master": "Đế tiếp điện",
+   "release_date_tskt_master": "Thời gian ra mắt",
+   "safety_features_tskt_master": "Tính năng an toàn",
+   "utilities_filter_master": "Tiện ích",
+   "utilities_tskt_master": "Tiện ích"
+  }
+ },
  "2002": {
   "cot": [
    "inverter_technology_filter_master",
