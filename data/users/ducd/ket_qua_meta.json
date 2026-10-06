@@ -3,637 +3,77 @@
   {
    "CHỌN": true,
    "GHI CHÚ": "",
-   "MÃ NH": "9758",
+   "MÃ NH": "9218",
    "NGUỒN CATE": "CATEGORYID",
-   "SỐ SKU": 1460,
-   "TAB TSKT / CẤU HÌNH": "cấu hình — 54 cột",
-   "TÊN NGÀNH HÀNG": "Xe đạp"
+   "SỐ SKU": 34,
+   "TAB TSKT / CẤU HÌNH": "cấu hình — 21 cột",
+   "TÊN NGÀNH HÀNG": "Xe đạp tập thể dục tại nhà"
   }
  ],
- "chua_map": [
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "28219",
-   "prop_name": "Hãng",
-   "so_dong": 1450,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Fornix"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "28498",
-   "prop_name": "Model",
-   "so_dong": 1392,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "F24"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "31687",
-   "prop_name": "Label sản phẩm",
-   "so_dong": 1442,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "35969",
-   "prop_name": "Kích cỡ",
-   "so_dong": 736,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Size M"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "28214",
-   "prop_name": "Kích thước - Khối lượng",
-   "so_dong": 8,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "105 cm - 68 cm - 55 cm - 10.5 kg"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "recommended_age_tskt_master",
-   "prop_id": "39363",
-   "prop_name": "Độ tuổi khuyến nghị",
-   "so_dong": 33,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "4 - 6 tuổi"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "43678",
-   "prop_name": "Map cùng dòng",
-   "so_dong": 308,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Xanh"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48765",
-   "prop_name": "Loại động cơ",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48766",
-   "prop_name": "Vị trí động cơ",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48767",
-   "prop_name": "Công suất động cơ",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48768",
-   "prop_name": "Mô-men xoắn",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48769",
-   "prop_name": "Mức trợ lực",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48772",
-   "prop_name": "Tốc độ trợ lực tối đa",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48776",
-   "prop_name": "Loại pin",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48782",
-   "prop_name": "Dung lượng pin",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48786",
-   "prop_name": "Pin tháo rời",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48787",
-   "prop_name": "Vị trí pin",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48789",
-   "prop_name": "Thời gian sạc",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48790",
-   "prop_name": "Bộ sạc đi kèm",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48792",
-   "prop_name": "Quãng đường/lần sạc",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "frame_material_filter_master",
-   "prop_id": "48800",
-   "prop_name": "Chất liệu khung sườn",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48801",
-   "prop_name": "Kích cỡ khung",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "wheel_size_tskt_master",
-   "prop_id": "48802",
-   "prop_name": "Kích cỡ bánh xe",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48808",
-   "prop_name": "Loại lốp",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48809",
-   "prop_name": "Phuộc",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48810",
-   "prop_name": "Bộ truyền động",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48811",
-   "prop_name": "Loại phanh",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48813",
-   "prop_name": "Loại xe",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48814",
-   "prop_name": "Phù hợp chiều cao",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48815",
-   "prop_name": "Màn hình hiển thị",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48816",
-   "prop_name": "Thông tin hiển thị",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48818",
-   "prop_name": "Gấp gọn",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48821",
-   "prop_name": "Chất liệu cổ xe",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48822",
-   "prop_name": "Chất liệu ghi đông",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "saddle_material_tskt_master",
-   "prop_id": "48823",
-   "prop_name": "Chất liệu yên",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48827",
-   "prop_name": "Năm ra mắt",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "made_in_tskt_master",
-   "prop_id": "48829",
-   "prop_name": "Sản xuất tại",
-   "so_dong": 152,
-   "trang_thai": "Đã map theo TÊN (nên thêm vào MAPPING TSKT)",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "brand_of_tskt_master",
-   "prop_id": "48830",
-   "prop_name": "Thương hiệu của",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48858",
-   "prop_name": "Xe đạp trợ lực điện",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48770",
-   "prop_name": "Cảm biến trợ lực",
-   "so_dong": 17,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Cảm biến vòng xoay"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48774",
-   "prop_name": "Chế độ trợ lực thông minh",
-   "so_dong": 17,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Tự động tối ưu lực đạp"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48812",
-   "prop_name": "Tải trọng tối đa",
-   "so_dong": 5,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "120"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48817",
-   "prop_name": "Kết nối ứng dụng",
-   "so_dong": 17,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Bluetooth App hãng"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48819",
-   "prop_name": "Chống nước, bụi",
-   "so_dong": 27,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "IP65 (màn hình hiển thị)"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "utilities_tskt_master",
-   "prop_id": "48820",
-   "prop_name": "Tiện ích",
-   "so_dong": 29,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Có baga"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48824",
-   "prop_name": "Kích thước",
-   "so_dong": 5,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Dài 156 cm - Cao 115 cm - Rộng 59 cm"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48825",
-   "prop_name": "Khối lượng không bao gồm pin",
-   "so_dong": 5,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "17.2"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48826",
-   "prop_name": "Khối lượng bao gồm pin",
-   "so_dong": 5,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "20"
-  }
- ],
+ "chua_map": [],
  "dx_dang_ap": 0,
  "goc_cms": {},
- "log": [
-  [
-   "1314740000013",
-   "9758",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Không\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "1314740000004",
-   "9758",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Hãng không công bố\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "1314741000096",
-   "9758",
-   "frame_material_filter_master",
-   "FILTER: giá trị CMS \"Hợp kim magie & nhôm\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "1314740000105",
-   "9758",
-   "frame_material_filter_master",
-   "FILTER: giá trị CMS \"Đang cập nhật\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "1314740000105",
-   "9758",
-   "wheel_size_filter_master",
-   "FILTER: giá trị CMS \"Đang cập nhật\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "1314740000105",
-   "9758",
-   "product_type_filter_master",
-   "FILTER: giá trị CMS \"Đang cập nhật\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "1317180000001",
-   "9758",
-   "frame_material_filter_master",
-   "FILTER: giá trị CMS \"Không\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "1317180000001",
-   "9758",
-   "wheel_size_filter_master",
-   "FILTER: giá trị CMS \"Không\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "1317180000001",
-   "9758",
-   "number_of_gears_filter_master",
-   "FILTER: giá trị CMS \"Không\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "1317180000001",
-   "9758",
-   "first_type_filter_master",
-   "FILTER: giá trị CMS \"Không\" chưa có option trong DATA PIM — để trống"
-  ]
- ],
- "luc": "2026-10-06 16:44:12",
+ "log": [],
+ "luc": "2026-10-06 17:07:05",
  "nganh": {
-  "9758": {
+  "9218": {
    "attr": [
-    "drivers_height_filter_master",
-    "first_type_filter_master",
-    "frame_material_filter_master",
-    "number_of_gears_filter_master",
-    "product_type_filter_master",
-    "purpose_of_use_filter_master",
-    "utilities_filter_master",
-    "wheel_size_filter_master",
-    "bicycle_chain_tskt_master",
-    "bone_type_tskt_master",
-    "brake_set_tskt_master",
-    "brake_type_tskt_master",
+    "body_material_tskt_master",
     "brand_of_tskt_master",
-    "cam_tskt_master",
-    "change_disc_tskt_master",
-    "core_material_tskt_master",
-    "diameter_tskt_master",
-    "drive_system_warranty_tskt_master",
-    "fork_material_tskt_master",
-    "fork_position_tskt_master",
-    "frame_material_tskt_master",
-    "frame_size_tskt_master",
-    "handle_bar_tskt_master",
-    "hand_tskt_master",
-    "highly_recommended_tskt_master",
+    "control_panel_tskt_master",
+    "cycling_force_tskt_master",
+    "flywheel_weight_tskt_master",
+    "handle_material_tskt_master",
     "high_tskt_master",
-    "horizontal_tskt_master",
-    "hub_tskt_master",
+    "long_tskt_master",
     "machine_weight_tskt_master",
     "made_in_tskt_master",
-    "note_tskt_master",
-    "number_of_discs_tskt_master",
-    "number_of_gears_tskt_master",
-    "passenger_seat_load_tskt_master",
-    "pork_knuckle_tskt_master",
-    "pump_valve_type_tskt_master",
-    "recommended_age_tskt_master",
-    "rim_height_tskt_master",
-    "rim_type_tskt_master",
-    "saddle_brand_tskt_master",
+    "maximum_height_of_the_vehicle_tskt_master",
+    "maximum_load_tskt_master",
+    "maximum_seat_height_tskt_master",
+    "pedal_material_tskt_master",
+    "product_dimensions_tskt_master",
+    "product_type_tskt_master",
     "saddle_material_tskt_master",
-    "shock_absorber_warranty_tskt_master",
-    "stem_material_tskt_master",
-    "surface_material_tskt_master",
-    "suspension_travel_tskt_master",
-    "tires_tskt_master",
-    "type_of_gear_tskt_master",
-    "type_of_shifter_tskt_master",
-    "type_of_shock_absorber_tskt_master",
+    "type_of_resistance_tskt_master",
     "utilities_tskt_master",
-    "vehicle_load_tskt_master",
-    "wheel_size_tskt_master",
     "wide_tskt_master",
-    "winning_hands_tskt_master"
+    "year_of_manufacture_tskt_master"
    ],
    "ten": {
-    "bicycle_chain_tskt_master": "Sên xe",
-    "bone_type_tskt_master": "Loại cốt",
-    "brake_set_tskt_master": "Bộ thắng",
-    "brake_type_tskt_master": "Loại phanh thắng",
+    "body_material_tskt_master": "Chất liệu thân vỏ",
     "brand_of_tskt_master": "Thương hiệu của",
-    "cam_tskt_master": "Căm",
-    "change_disc_tskt_master": "Chuyển dĩa",
-    "core_material_tskt_master": "Chất liệu cốt",
-    "diameter_tskt_master": "Đường kính",
-    "drive_system_warranty_tskt_master": "Bảo hành bộ truyền động",
-    "drivers_height_filter_master": "Chiều cao người lái",
-    "first_type_filter_master": "Loại thắng trước",
-    "fork_material_tskt_master": "Chất liệu phuộc",
-    "fork_position_tskt_master": "Vị trí phuộc",
-    "frame_material_filter_master": "Chất liệu khung sườn",
-    "frame_material_tskt_master": "Chất liệu khung viền",
-    "frame_size_tskt_master": "Kích thước khung viền",
-    "hand_tskt_master": "Tay đề",
-    "handle_bar_tskt_master": "Ghi đông",
+    "control_panel_tskt_master": "Bảng điều khiển",
+    "cycling_force_tskt_master": "Lực đạp xe",
+    "flywheel_weight_tskt_master": "Khối lượng bánh đà",
+    "handle_material_tskt_master": "Chất liệu tay cầm",
     "high_tskt_master": "Cao",
-    "highly_recommended_tskt_master": "Cao khuyến nghị",
-    "horizontal_tskt_master": "Ngang",
-    "hub_tskt_master": "Đùm",
+    "long_tskt_master": "Dài",
     "machine_weight_tskt_master": "Khối lượng máy",
     "made_in_tskt_master": "Sản xuất tại",
-    "note_tskt_master": "Lưu ý",
-    "number_of_discs_tskt_master": "Số đĩa",
-    "number_of_gears_filter_master": "Số líp",
-    "number_of_gears_tskt_master": "Số líp",
-    "passenger_seat_load_tskt_master": "Tải trọng yên phụ",
-    "pork_knuckle_tskt_master": "Giò dĩa",
-    "product_type_filter_master": "Loại sản phẩm",
-    "pump_valve_type_tskt_master": "Loại van bơm",
-    "purpose_of_use_filter_master": "Mục đích sử dụng",
-    "recommended_age_tskt_master": "Độ tuổi khuyến nghị",
-    "rim_height_tskt_master": "Độ cao vành",
-    "rim_type_tskt_master": "Loại vành",
-    "saddle_brand_tskt_master": "Thương hiệu yên xe",
+    "maximum_height_of_the_vehicle_tskt_master": "Cao tối đa cổ xe",
+    "maximum_load_tskt_master": "Tải trọng tối đa",
+    "maximum_seat_height_tskt_master": "Cao tối đa yên xe",
+    "pedal_material_tskt_master": "Chất liệu bàn đạp",
+    "product_dimensions_tskt_master": "Kích thước sản phẩm",
+    "product_type_tskt_master": "Loại sản phẩm",
     "saddle_material_tskt_master": "Chất liệu yên",
-    "shock_absorber_warranty_tskt_master": "Bảo hành phuộc giảm xóc",
-    "stem_material_tskt_master": "Chất liệu Pô tăng Cổ xe",
-    "surface_material_tskt_master": "Chất liệu mặt",
-    "suspension_travel_tskt_master": "Hành trình phuộc",
-    "tires_tskt_master": "Lốp xe",
-    "type_of_gear_tskt_master": "Loại líp",
-    "type_of_shifter_tskt_master": "Loại tay đề",
-    "type_of_shock_absorber_tskt_master": "Loại phuộc",
-    "utilities_filter_master": "Tiện ích",
+    "type_of_resistance_tskt_master": "Loại kháng lực",
     "utilities_tskt_master": "Tiện ích",
-    "vehicle_load_tskt_master": "Tải trọng nguyên xe",
-    "wheel_size_filter_master": "Kích cỡ bánh xe",
-    "wheel_size_tskt_master": "Kích cỡ bánh xe",
     "wide_tskt_master": "Rộng",
-    "winning_hands_tskt_master": "Tay thắng"
+    "year_of_manufacture_tskt_master": "Năm sản xuất"
    },
-   "ten_nh": "Xe đạp",
-   "title": "TSKT 9758 Xe đạp"
+   "ten_nh": "Xe đạp tập thể dục tại nhà",
+   "title": "TSKT 9218 Xe đạp tập thể dục tại nhà"
   }
  },
  "tom_tat": {
-  "filter_khong_khop": 10,
+  "filter_khong_khop": 0,
   "khong_data": 0,
-  "map_theo_ten": 152,
+  "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
   "so_nganh": 1,
-  "so_o": 73268,
-  "so_sku": 1460
+  "so_o": 647,
+  "so_sku": 34
  }
 }
