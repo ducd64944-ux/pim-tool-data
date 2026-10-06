@@ -59,6 +59,15 @@
     "pham_vi": "tat_ca"
    }
   ],
+  "7858\tweight_tskt_master\tbd": [
+   {
+    "a": "Khối lượng",
+    "b": "",
+    "he_so": "",
+    "kieu": "them_truoc",
+    "pham_vi": "tat_ca"
+   }
+  ],
   "7858\twide_tskt_master\tbd": [
    {
     "a": "Rộng",
@@ -69,7 +78,7 @@
    }
   ]
  },
- "luc_luu": "2026-10-06 11:19:49",
+ "luc_luu": "2026-10-06 11:20:24",
  "map_ten": "tham_chieu",
  "nguoi_luu": "ducd",
  "rong": {
