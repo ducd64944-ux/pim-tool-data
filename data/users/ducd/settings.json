@@ -42,6 +42,15 @@
   "1988\tmain_accessory_thickness_tskt_master": "cm",
   "1988\twide_accessories_tskt_master": "cm",
   "1989\tdeep_tskt_master": "cm",
+  "1989\tdeep_tskt_master\tbd": [
+   {
+    "a": "Sâu",
+    "b": "",
+    "he_so": "",
+    "kieu": "them_truoc",
+    "pham_vi": "tat_ca"
+   }
+  ],
   "1989\thigh_tskt_master": "cm",
   "1989\thorizontal_tskt_master": "cm",
   "1989\tlong_cord_tskt_master": "cm",
@@ -140,7 +149,7 @@
    }
   ]
  },
- "luc_luu": "2026-10-06 13:35:46",
+ "luc_luu": "2026-10-06 13:39:46",
  "map_ten": "tham_chieu",
  "nguoi_luu": "ducd",
  "rong": {
