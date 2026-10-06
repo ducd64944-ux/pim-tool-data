@@ -1,0 +1,198 @@
+{
+ "chon": [
+  {
+   "CHỌN": true,
+   "GHI CHÚ": "",
+   "MÃ NH": "2202",
+   "NGUỒN CATE": "CATEGORYID",
+   "SỐ SKU": 129,
+   "TAB TSKT / CẤU HÌNH": "tab TSKT 2202 Máy sấy quần áo + cấu hình",
+   "TÊN NGÀNH HÀNG": "Máy sấy quần áo"
+  }
+ ],
+ "chua_map": [
+  {
+   "cate": "2202",
+   "goi_y_ma": "",
+   "prop_id": "8642",
+   "prop_name": "Kích thước - Khối lượng",
+   "so_dong": 24,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "62 x 62 x 84.5 cm"
+  },
+  {
+   "cate": "2202",
+   "goi_y_ma": "",
+   "prop_id": "8740",
+   "prop_name": "Chất liệu vỏ máy",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Kim loại sơn tĩnh điện"
+  },
+  {
+   "cate": "2202",
+   "goi_y_ma": "",
+   "prop_id": "8741",
+   "prop_name": "Chất liệu lồng giặt",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Thép không gỉ"
+  },
+  {
+   "cate": "2202",
+   "goi_y_ma": "",
+   "prop_id": "10400",
+   "prop_name": "Loại máy sấy",
+   "so_dong": 128,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Máy sấy cửa ngang"
+  },
+  {
+   "cate": "2202",
+   "goi_y_ma": "",
+   "prop_id": "26092",
+   "prop_name": "Label đại diện",
+   "so_dong": 107,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Đang cập nhật"
+  },
+  {
+   "cate": "2202",
+   "goi_y_ma": "",
+   "prop_id": "41299",
+   "prop_name": "Loại máy sấy (tên trong trang NH)",
+   "so_dong": 92,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Máy sấy ngưng tụ"
+  },
+  {
+   "cate": "2202",
+   "goi_y_ma": "",
+   "prop_id": "45279",
+   "prop_name": "Map mua kèm máy giặt theo hãng",
+   "so_dong": 62,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Hãng LG"
+  },
+  {
+   "cate": "2202",
+   "goi_y_ma": "",
+   "prop_id": "49339",
+   "prop_name": "Map mua kèm máy sấy CTKM tháng 06/2026",
+   "so_dong": 8,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Máy sấy Aqua AD10-AR377U1L GN"
+  },
+  {
+   "cate": "2202",
+   "goi_y_ma": "",
+   "prop_id": "49358",
+   "prop_name": "Map mua kèm máy giặt CTKM tháng 06/2026",
+   "so_dong": 22,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Máy giặt Aqua"
+  }
+ ],
+ "dx_dang_ap": 0,
+ "goc_cms": {},
+ "log": [
+  [
+   "4844743000039",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3053659000063",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3053659000046",
+   "2202",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Không\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1753659000008",
+   "2202",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Chồng đôi trên máy giặt kèm giá đỡ\" chưa có option trong DATA PIM — để trống"
+  ]
+ ],
+ "luc": "2026-10-06 09:39:08",
+ "nganh": {
+  "2202": {
+   "attr": [
+    "main_load_filter_master",
+    "product_type_filter_master",
+    "utilities_filter_master",
+    "body_material_tskt_master",
+    "control_panel_tskt_master",
+    "deep_tskt_master",
+    "door_material_tskt_master",
+    "electricity_consumption_tskt_master",
+    "energysaving_technology_tskt_master",
+    "engine_tskt_master",
+    "high_tskt_master",
+    "horizontal_tskt_master",
+    "inner_material_tskt_master",
+    "long_drain_pipe_tskt_master",
+    "long_exhaust_pipe_tskt_master",
+    "machine_weight_tskt_master",
+    "made_in_tskt_master",
+    "main_load_tskt_master",
+    "maximum_temperature_tskt_master",
+    "number_of_users_tskt_master",
+    "product_line_tskt_master",
+    "product_type_tskt_master",
+    "programme_tskt_master",
+    "sensor_tskt_master",
+    "technology_tskt_master",
+    "upside_down_install_tskt_master",
+    "utilities_tskt_master"
+   ],
+   "ten": {
+    "body_material_tskt_master": "Chất liệu thân vỏ",
+    "control_panel_tskt_master": "Bảng điều khiển",
+    "deep_tskt_master": "Sâu",
+    "door_material_tskt_master": "Chất liệu cửa",
+    "electricity_consumption_tskt_master": "Điện năng tiêu thụ",
+    "energysaving_technology_tskt_master": "Công nghệ tiết kiệm điện",
+    "engine_tskt_master": "Động cơ",
+    "high_tskt_master": "Cao",
+    "horizontal_tskt_master": "Ngang",
+    "inner_material_tskt_master": "Chất liệu ruột",
+    "long_drain_pipe_tskt_master": "Dài ống xả nước",
+    "long_exhaust_pipe_tskt_master": "Dài ống thoát khí",
+    "machine_weight_tskt_master": "Khối lượng máy",
+    "made_in_tskt_master": "Sản xuất tại",
+    "main_load_filter_master": "Khối lượng tải chính",
+    "main_load_tskt_master": "Khối lượng tải chính",
+    "maximum_temperature_tskt_master": "Nhiệt độ tối đa",
+    "number_of_users_tskt_master": "Số người sử dụng",
+    "product_line_tskt_master": "Dòng sản phẩm",
+    "product_type_filter_master": "Loại sản phẩm",
+    "product_type_tskt_master": "Loại sản phẩm",
+    "programme_tskt_master": "Chương trình",
+    "sensor_tskt_master": "Cảm biến",
+    "technology_tskt_master": "Công nghệ",
+    "upside_down_install_tskt_master": "Úp ngược đặt lên máy giặt",
+    "utilities_filter_master": "Tiện ích",
+    "utilities_tskt_master": "Tiện ích"
+   },
+   "ten_nh": "Máy sấy quần áo",
+   "title": "TSKT 2202 Máy sấy quần áo"
+  }
+ },
+ "tom_tat": {
+  "filter_khong_khop": 2,
+  "khong_data": 2,
+  "map_theo_ten": 0,
+  "o_sua_theo_quy_tac": 0,
+  "so_nganh": 1,
+  "so_o": 2577,
+  "so_sku": 129
+ }
+}
