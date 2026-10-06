@@ -115,5 +115,18 @@
   "Thêm đơn vị": 0,
   "Tách xin data": 10,
   "Workspace": "ducd"
+ },
+ {
+  "Biến đổi": 216,
+  "Cảnh báo": "• 217 ô KHÁC spec PIM (sẽ ghi đè) | • 4 dòng không có trong file PIM | • 3 SKU KHÔNG có thông số nào (sẽ xuất dòng trống) | • 2 model_code lặp ở nhiều dòng file MODEL (PIM sẽ lấy dòng sau cùng — kiểm tra IMPORT có thiếu variant_code không)",
+  "File": "PIM_TSKT 2064 Bình thủy điện_MODEL_20261006_1437.xlsx, PIM_TSKT 2064 Bình thủy điện_BIENTHE_20261006_1437.xlsx",
+  "Không/Đang cập nhật": 33,
+  "Lúc": "2026-10-06 14:37:43",
+  "Người xuất": "ducd",
+  "Số dòng": 91,
+  "Sửa tay": 0,
+  "Thêm đơn vị": 0,
+  "Tách xin data": 3,
+  "Workspace": "ducd"
  }
 ]
