@@ -22,12 +22,21 @@
   },
   {
    "cate": "1988",
-   "goi_y_ma": "",
+   "goi_y_ma": "surface_material_tskt_master",
    "prop_id": "9164",
    "prop_name": "Mặt đế",
-   "so_dong": 336,
+   "so_dong": 333,
    "trang_thai": "CHƯA MAP — bỏ qua",
    "vi_du": "Chống dính"
+  },
+  {
+   "cate": "1988",
+   "goi_y_ma": "surface_material_tskt_master",
+   "prop_id": "9164",
+   "prop_name": "Mặt đế",
+   "so_dong": 3,
+   "trang_thai": "Đã map theo TÊN (nên thêm vào MAPPING TSKT)",
+   "vi_du": "Hợp kim nhôm"
   }
  ],
  "dx_dang_ap": 0,
@@ -148,7 +157,7 @@
    "FILTER: giá trị CMS \"Không xoắn dây\" chưa có option trong DATA PIM — để trống"
   ]
  ],
- "luc": "2026-10-06 10:24:42",
+ "luc": "2026-10-06 10:35:53",
  "nganh": {
   "1988": {
    "attr": [
@@ -204,10 +213,10 @@
  "tom_tat": {
   "filter_khong_khop": 17,
   "khong_data": 2,
-  "map_theo_ten": 0,
+  "map_theo_ten": 3,
   "o_sua_theo_quy_tac": 0,
   "so_nganh": 1,
-  "so_o": 5956,
+  "so_o": 5959,
   "so_sku": 388
  }
 }
