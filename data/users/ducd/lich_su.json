@@ -141,5 +141,18 @@
   "Thêm đơn vị": 0,
   "Tách xin data": 1,
   "Workspace": "ducd"
+ },
+ {
+  "Biến đổi": 0,
+  "Cảnh báo": "• 3 ô kích thước/khối lượng chưa có đơn vị | • 6 dòng không có trong file PIM | • 101 ô giá trị CMS bị MẤT khi map (xem 🧾 Đối soát)",
+  "File": "PIM_TSKT 4927 Bộ lau nhà_MODEL_20261006_1517.xlsx",
+  "Không/Đang cập nhật": 0,
+  "Lúc": "2026-10-06 15:17:03",
+  "Người xuất": "ducd",
+  "Số dòng": 66,
+  "Sửa tay": 0,
+  "Thêm đơn vị": 0,
+  "Tách xin data": 0,
+  "Workspace": "ducd"
  }
 ]
