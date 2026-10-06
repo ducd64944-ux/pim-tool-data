@@ -1026,6 +1026,21 @@
    "utilities_tskt_master": "Tiện ích"
   }
  },
+ "4706": {
+  "cot": [
+   "made_in_tskt_master",
+   "product_line_tskt_master",
+   "product_type_tskt_master",
+   "size_weight_tskt_master"
+  ],
+  "ten": "Bộ dụng cụ đa năng",
+  "ten_cot": {
+   "made_in_tskt_master": "Sản xuất tại",
+   "product_line_tskt_master": "Dòng sản phẩm",
+   "product_type_tskt_master": "Loại sản phẩm",
+   "size_weight_tskt_master": "Kích thước Khối lượng"
+  }
+ },
  "4930": {
   "cot": [
    "body_material_filter_master",
