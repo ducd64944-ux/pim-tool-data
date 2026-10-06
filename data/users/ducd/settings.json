@@ -68,6 +68,15 @@
     "pham_vi": "tat_ca"
    }
   ],
+  "7858\ttoothbrush_accessory_height_tskt_master\tbd": [
+   {
+    "a": "Cao",
+    "b": "",
+    "he_so": "",
+    "kieu": "them_truoc",
+    "pham_vi": "tat_ca"
+   }
+  ],
   "7858\tweight_tskt_master\tbd": [
    {
     "a": "Khối lượng",
@@ -87,7 +96,7 @@
    }
   ]
  },
- "luc_luu": "2026-10-06 11:22:36",
+ "luc_luu": "2026-10-06 11:22:57",
  "map_ten": "tham_chieu",
  "nguoi_luu": "ducd",
  "rong": {
