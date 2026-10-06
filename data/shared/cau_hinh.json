@@ -926,6 +926,35 @@
    "utilities_tskt_master": "Tiện ích"
   }
  },
+ "4930": {
+  "cot": [
+   "body_material_filter_master",
+   "capacity_filter_master",
+   "utilities_filter_master",
+   "base_diameter_tskt_master",
+   "body_material_tskt_master",
+   "capacity_tskt_master",
+   "high_tskt_master",
+   "lid_diameter_tskt_master",
+   "made_in_tskt_master",
+   "material_tskt_master",
+   "size_tskt_master"
+  ],
+  "ten": "Bình đựng nước",
+  "ten_cot": {
+   "base_diameter_tskt_master": "Đường kính đáy",
+   "body_material_filter_master": "Chất liệu thân vỏ",
+   "body_material_tskt_master": "Chất liệu thân vỏ",
+   "capacity_filter_master": "Dung lượng dung tích",
+   "capacity_tskt_master": "Dung lượng",
+   "high_tskt_master": "Cao",
+   "lid_diameter_tskt_master": "Đường kính nắp",
+   "made_in_tskt_master": "Sản xuất tại",
+   "material_tskt_master": "Chất liệu",
+   "size_tskt_master": "Kích thước",
+   "utilities_filter_master": "Tiện ích"
+  }
+ },
  "5475": {
   "cot": [
    "control_panel_filter_master",
