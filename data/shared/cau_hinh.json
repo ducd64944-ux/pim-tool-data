@@ -1209,6 +1209,49 @@
    "water_consumption_tskt_master": "Tiêu thụ nước"
   }
  },
+ "7358": {
+  "cot": [
+   "product_type_filter_master",
+   "brand_of_tskt_master",
+   "color_rendering_index_tskt_master",
+   "deep_tskt_master",
+   "high_tskt_master",
+   "horizontal_tskt_master",
+   "lamp_lifespan_tskt_master",
+   "lamp_size_tskt_master",
+   "light_color_tskt_master",
+   "luminous_efficacy_tskt_master",
+   "luminous_flux_tskt_master",
+   "made_in_tskt_master",
+   "operating_frequency_tskt_master",
+   "power_tskt_master",
+   "product_type_tskt_master",
+   "size_tskt_master",
+   "utilities_tskt_master",
+   "voltage_tskt_master"
+  ],
+  "ten": "Bóng đèn led",
+  "ten_cot": {
+   "brand_of_tskt_master": "Thương hiệu của",
+   "color_rendering_index_tskt_master": "Chỉ số hoàn màu",
+   "deep_tskt_master": "Sâu",
+   "high_tskt_master": "Cao",
+   "horizontal_tskt_master": "Ngang",
+   "lamp_lifespan_tskt_master": "Tuổi thọ đèn",
+   "lamp_size_tskt_master": "Kích thước đèn",
+   "light_color_tskt_master": "Màu sắc ánh sáng",
+   "luminous_efficacy_tskt_master": "Hiệu suất sáng",
+   "luminous_flux_tskt_master": "Quang thông",
+   "made_in_tskt_master": "Sản xuất tại",
+   "operating_frequency_tskt_master": "Tần số hoạt động",
+   "power_tskt_master": "Công suất",
+   "product_type_filter_master": "Loại sản phẩm",
+   "product_type_tskt_master": "Loại sản phẩm",
+   "size_tskt_master": "Kích thước",
+   "utilities_tskt_master": "Tiện ích",
+   "voltage_tskt_master": "Điện áp"
+  }
+ },
  "7858": {
   "cot": [
    "product_type_filter_master",
