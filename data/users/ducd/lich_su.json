@@ -167,5 +167,18 @@
   "Thêm đơn vị": 0,
   "Tách xin data": 0,
   "Workspace": "ducd"
+ },
+ {
+  "Biến đổi": 45,
+  "Cảnh báo": "• 36 ô KHÁC spec PIM (sẽ ghi đè) | • 3 dòng không có trong file PIM",
+  "File": "PIM_TSKT 7358 Bóng đèn led_MODEL_20261006_1559.xlsx",
+  "Không/Đang cập nhật": 10,
+  "Lúc": "2026-10-06 15:59:24",
+  "Người xuất": "ducd",
+  "Số dòng": 15,
+  "Sửa tay": 0,
+  "Thêm đơn vị": 0,
+  "Tách xin data": 0,
+  "Workspace": "ducd"
  }
 ]
