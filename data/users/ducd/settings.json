@@ -364,6 +364,24 @@
     "pham_vi": "tat_ca"
    }
   ],
+  "9218\tflywheel_weight_tskt_master\tbd": [
+   {
+    "a": "",
+    "b": "kg",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "pham_vi": "tat_ca"
+   }
+  ],
+  "9218\tmachine_weight_tskt_master\tbd": [
+   {
+    "a": "",
+    "b": "kg",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "pham_vi": "tat_ca"
+   }
+  ],
   "9758\thigh_tskt_master\tbd": [
    {
     "a": "Cao",
@@ -401,7 +419,7 @@
    }
   ]
  },
- "luc_luu": "2026-10-06 17:07:47",
+ "luc_luu": "2026-10-06 17:08:52",
  "map_ten": "tham_chieu",
  "nguoi_luu": "ducd",
  "rong": {
