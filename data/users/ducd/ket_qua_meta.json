@@ -3,130 +3,333 @@
   {
    "CHỌN": true,
    "GHI CHÚ": "",
-   "MÃ NH": "4927",
+   "MÃ NH": "7358",
    "NGUỒN CATE": "CATEGORYID",
-   "SỐ SKU": 66,
-   "TAB TSKT / CẤU HÌNH": "cấu hình — 12 cột",
-   "TÊN NGÀNH HÀNG": "Bộ lau nhà"
+   "SỐ SKU": 15,
+   "TAB TSKT / CẤU HÌNH": "cấu hình — 18 cột",
+   "TÊN NGÀNH HÀNG": "Bóng đèn led"
   }
  ],
  "chua_map": [
   {
-   "cate": "4927",
-   "goi_y_ma": "",
-   "prop_id": "11561",
-   "prop_name": "Loại (label)",
-   "so_dong": 9,
+   "cate": "7358",
+   "goi_y_ma": "power_tskt_master",
+   "prop_id": "25819",
+   "prop_name": "Công suất",
+   "so_dong": 15,
    "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Bàn chải vệ sinh nhà tắm"
+   "vi_du": "Dưới 5W"
+  },
+  {
+   "cate": "7358",
+   "goi_y_ma": "",
+   "prop_id": "16514",
+   "prop_name": "Loại đèn",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Đang cập nhật"
+  },
+  {
+   "cate": "7358",
+   "goi_y_ma": "utilities_tskt_master",
+   "prop_id": "16515",
+   "prop_name": "Tiện ích",
+   "so_dong": 4,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "CRI 80 phản ánh chân thực màu sắc của vật thể"
+  },
+  {
+   "cate": "7358",
+   "goi_y_ma": "",
+   "prop_id": "16516",
+   "prop_name": "Điều khiển",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Công tắc"
+  },
+  {
+   "cate": "7358",
+   "goi_y_ma": "power_tskt_master",
+   "prop_id": "16517",
+   "prop_name": "Công suất",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "5W"
+  },
+  {
+   "cate": "7358",
+   "goi_y_ma": "",
+   "prop_id": "16518",
+   "prop_name": "Số bóng đèn LED",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "1 bóng"
+  },
+  {
+   "cate": "7358",
+   "goi_y_ma": "",
+   "prop_id": "27249",
+   "prop_name": "Loại đèn",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Đèn LED treo"
+  },
+  {
+   "cate": "7358",
+   "goi_y_ma": "",
+   "prop_id": "27721",
+   "prop_name": "Thời gian sạc - sử dụng",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "7358",
+   "goi_y_ma": "",
+   "prop_id": "27722",
+   "prop_name": "Chiếu sáng",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "1 chế độ"
+  },
+  {
+   "cate": "7358",
+   "goi_y_ma": "brand_of_tskt_master",
+   "prop_id": "27723",
+   "prop_name": "Thương hiệu của",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Đức"
+  },
+  {
+   "cate": "7358",
+   "goi_y_ma": "made_in_tskt_master",
+   "prop_id": "27724",
+   "prop_name": "Sản xuất tại",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Trung Quốc"
+  },
+  {
+   "cate": "7358",
+   "goi_y_ma": "",
+   "prop_id": "27725",
+   "prop_name": "Năm ra mắt",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "2025"
+  },
+  {
+   "cate": "7358",
+   "goi_y_ma": "high_tskt_master",
+   "prop_id": "29514",
+   "prop_name": "Cao",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "5.5"
+  },
+  {
+   "cate": "7358",
+   "goi_y_ma": "horizontal_tskt_master",
+   "prop_id": "29515",
+   "prop_name": "Ngang",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "5.5"
+  },
+  {
+   "cate": "7358",
+   "goi_y_ma": "deep_tskt_master",
+   "prop_id": "29516",
+   "prop_name": "Sâu",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "10"
+  },
+  {
+   "cate": "7358",
+   "goi_y_ma": "",
+   "prop_id": "29517",
+   "prop_name": "Khối lượng",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "0.02"
+  },
+  {
+   "cate": "7358",
+   "goi_y_ma": "product_type_tskt_master",
+   "prop_id": "36909",
+   "prop_name": "Loại bóng",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Bóng LED"
+  },
+  {
+   "cate": "7358",
+   "goi_y_ma": "power_tskt_master",
+   "prop_id": "36925",
+   "prop_name": "Công suất",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Từ 4 - 7W"
+  },
+  {
+   "cate": "7358",
+   "goi_y_ma": "",
+   "prop_id": "47079",
+   "prop_name": "Đầu vào",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Cắm điện trực tiếp"
+  },
+  {
+   "cate": "7358",
+   "goi_y_ma": "",
+   "prop_id": "47080",
+   "prop_name": "Dòng điện vào",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "220V ~ 50Hz"
+  },
+  {
+   "cate": "7358",
+   "goi_y_ma": "",
+   "prop_id": "47081",
+   "prop_name": "Pin",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "7358",
+   "goi_y_ma": "",
+   "prop_id": "47082",
+   "prop_name": "Nhiệt độ màu",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "7358",
+   "goi_y_ma": "",
+   "prop_id": "47083",
+   "prop_name": "Ánh sáng đèn",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Trắng"
+  },
+  {
+   "cate": "7358",
+   "goi_y_ma": "",
+   "prop_id": "47084",
+   "prop_name": "Chỉ số hoàn màu (CRI)",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "7358",
+   "goi_y_ma": "",
+   "prop_id": "47100",
+   "prop_name": "Chất liệu",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Nhựa"
+  },
+  {
+   "cate": "7358",
+   "goi_y_ma": "",
+   "prop_id": "47881",
+   "prop_name": "Kích thước tấm pin",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "7358",
+   "goi_y_ma": "",
+   "prop_id": "47882",
+   "prop_name": "Khối lượng tấm pin",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "7358",
+   "goi_y_ma": "lamp_size_tskt_master",
+   "prop_id": "47898",
+   "prop_name": "Kích thước đèn",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "5.5 x 5.5 x 10"
+  },
+  {
+   "cate": "7358",
+   "goi_y_ma": "",
+   "prop_id": "47899",
+   "prop_name": "Khối lượng đèn",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "0.02"
   }
  ],
  "dx_dang_ap": 0,
  "goc_cms": {},
- "log": [
-  [
-   "2727122813300",
-   "4927",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Có khóa điều chỉnh độ dài thân cây\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "2727122813300",
-   "4927",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Lau nhà hỗ trợ góc xoay 360 độ\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4842053000048",
-   "4927",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Lồng xoay có thể tháo rời\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4842053000055",
-   "4927",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Cấu tạo xoay 360 độ\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "1033185000016",
-   "4927",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Tự vắt\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "1033185000018",
-   "4927",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Dễ dàng tháo rời để vệ sinh\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "1033185000067",
-   "4927",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"3 trong 1:  Phun nước, lau sàn và quét rác\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "1033185000067",
-   "4927",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Hút bụi\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "1033185000104",
-   "4927",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Có thanh gạt nước\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "1033240000755",
-   "4927",
-   "product_type_filter_master",
-   "FILTER: giá trị CMS \"Cây lau nhà 360\" chưa có option trong DATA PIM — để trống"
-  ]
- ],
- "luc": "2026-10-06 15:14:50",
+ "log": [],
+ "luc": "2026-10-06 15:36:45",
  "nganh": {
-  "4927": {
+  "7358": {
    "attr": [
-    "mop_shape_filter_master",
     "product_type_filter_master",
-    "utilities_filter_master",
-    "accessory_compatibility_tskt_master",
-    "body_material_tskt_master",
     "brand_of_tskt_master",
-    "compatibility_tskt_master",
+    "color_rendering_index_tskt_master",
+    "deep_tskt_master",
+    "high_tskt_master",
+    "horizontal_tskt_master",
+    "lamp_lifespan_tskt_master",
+    "lamp_size_tskt_master",
+    "light_color_tskt_master",
+    "luminous_efficacy_tskt_master",
+    "luminous_flux_tskt_master",
     "made_in_tskt_master",
-    "mop_shape_tskt_master",
+    "operating_frequency_tskt_master",
+    "power_tskt_master",
     "product_type_tskt_master",
     "size_tskt_master",
-    "utilities_tskt_master"
+    "utilities_tskt_master",
+    "voltage_tskt_master"
    ],
    "ten": {
-    "accessory_compatibility_tskt_master": "Tương thích phụ kiện",
-    "body_material_tskt_master": "Chất liệu thân vỏ",
     "brand_of_tskt_master": "Thương hiệu của",
-    "compatibility_tskt_master": "Tương thích",
+    "color_rendering_index_tskt_master": "Chỉ số hoàn màu",
+    "deep_tskt_master": "Sâu",
+    "high_tskt_master": "Cao",
+    "horizontal_tskt_master": "Ngang",
+    "lamp_lifespan_tskt_master": "Tuổi thọ đèn",
+    "lamp_size_tskt_master": "Kích thước đèn",
+    "light_color_tskt_master": "Màu sắc ánh sáng",
+    "luminous_efficacy_tskt_master": "Hiệu suất sáng",
+    "luminous_flux_tskt_master": "Quang thông",
     "made_in_tskt_master": "Sản xuất tại",
-    "mop_shape_filter_master": "Hình dạng bông lau",
-    "mop_shape_tskt_master": "Hình dạng bông lau",
+    "operating_frequency_tskt_master": "Tần số hoạt động",
+    "power_tskt_master": "Công suất",
     "product_type_filter_master": "Loại sản phẩm",
     "product_type_tskt_master": "Loại sản phẩm",
     "size_tskt_master": "Kích thước",
-    "utilities_filter_master": "Tiện ích",
-    "utilities_tskt_master": "Tiện ích"
+    "utilities_tskt_master": "Tiện ích",
+    "voltage_tskt_master": "Điện áp"
    },
-   "ten_nh": "Bộ lau nhà",
-   "title": "TSKT 4927 Bộ lau nhà"
+   "ten_nh": "Bóng đèn led",
+   "title": "TSKT 7358 Bóng đèn led"
   }
  },
  "tom_tat": {
-  "filter_khong_khop": 10,
+  "filter_khong_khop": 0,
   "khong_data": 0,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
   "so_nganh": 1,
-  "so_o": 604,
-  "so_sku": 66
+  "so_o": 233,
+  "so_sku": 15
  }
 }
