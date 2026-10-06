@@ -3,116 +3,114 @@
   {
    "CHỌN": true,
    "GHI CHÚ": "",
-   "MÃ NH": "2064",
+   "MÃ NH": "4706",
    "NGUỒN CATE": "CATEGORYID",
-   "SỐ SKU": 94,
-   "TAB TSKT / CẤU HÌNH": "cấu hình — 23 cột",
-   "TÊN NGÀNH HÀNG": "Bình thủy điện"
+   "SỐ SKU": 60,
+   "TAB TSKT / CẤU HÌNH": "cấu hình — 4 cột",
+   "TÊN NGÀNH HÀNG": "Bộ dụng cụ đa năng"
   }
  ],
  "chua_map": [
   {
-   "cate": "2064",
-   "goi_y_ma": "capacity_tskt_master",
-   "prop_id": "7560",
-   "prop_name": "Dung tích",
-   "so_dong": 19,
+   "cate": "4706",
+   "goi_y_ma": "product_type_tskt_master",
+   "prop_id": "20905",
+   "prop_name": "Loại sản phẩm",
+   "so_dong": 1,
    "trang_thai": "Đã map theo TÊN (nên thêm vào MAPPING TSKT)",
-   "vi_du": "Từ 3 lít trở lên"
+   "vi_du": "Dụng cụ đa năng"
   },
   {
-   "cate": "2064",
-   "goi_y_ma": "size_weight_tskt_master",
-   "prop_id": "7881",
-   "prop_name": "Kích thước - Khối lượng",
-   "so_dong": 30,
-   "trang_thai": "Đã map theo TÊN (nên thêm vào MAPPING TSKT)",
-   "vi_du": "22 x 22 x 33.5"
-  },
-  {
-   "cate": "2064",
-   "goi_y_ma": "capacity_tskt_master",
-   "prop_id": "7560",
-   "prop_name": "Dung tích",
-   "so_dong": 70,
+   "cate": "4706",
+   "goi_y_ma": "",
+   "prop_id": "24306",
+   "prop_name": "Chính sách đặc biệt",
+   "so_dong": 56,
    "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Từ 3 lít trở lên"
+   "vi_du": "Không"
+  },
+  {
+   "cate": "4706",
+   "goi_y_ma": "",
+   "prop_id": "24789",
+   "prop_name": "Chính hãng",
+   "so_dong": 55,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Chính hãng"
+  },
+  {
+   "cate": "4706",
+   "goi_y_ma": "product_type_tskt_master",
+   "prop_id": "25754",
+   "prop_name": "Loại sản phẩm",
+   "so_dong": 4,
+   "trang_thai": "Đã map theo TÊN (nên thêm vào MAPPING TSKT)",
+   "vi_du": "Bộ dụng cụ đa năng"
+  },
+  {
+   "cate": "4706",
+   "goi_y_ma": "product_type_tskt_master",
+   "prop_id": "20905",
+   "prop_name": "Loại sản phẩm",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Dụng cụ đa năng"
+  },
+  {
+   "cate": "4706",
+   "goi_y_ma": "product_type_tskt_master",
+   "prop_id": "25754",
+   "prop_name": "Loại sản phẩm",
+   "so_dong": 52,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Bộ dụng cụ đa năng"
+  },
+  {
+   "cate": "4706",
+   "goi_y_ma": "product_type_tskt_master",
+   "prop_id": "25750",
+   "prop_name": "Loại sản phẩm",
+   "so_dong": 2,
+   "trang_thai": "Đã map theo TÊN (nên thêm vào MAPPING TSKT)",
+   "vi_du": "Bộ vặn vít"
   }
  ],
  "dx_dang_ap": 0,
  "goc_cms": {},
  "log": [
   [
-   "4844149000058",
-   "2064",
-   "inner_material_filter_master",
-   "FILTER: giá trị CMS \"Đang cập nhật\" chưa có option trong DATA PIM — để trống"
+   "9923381000149",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ]
  ],
- "luc": "2026-10-06 14:29:16",
+ "luc": "2026-10-06 14:51:51",
  "nganh": {
-  "2064": {
+  "4706": {
    "attr": [
-    "brand_of_filter_master",
-    "capacity_filter_master",
-    "control_panel_filter_master",
-    "inner_material_filter_master",
-    "utilities_filter_master",
-    "bottle_casing_tskt_master",
-    "bottle_lining_tskt_master",
-    "brand_of_tskt_master",
-    "capacity_tskt_master",
-    "deep_tskt_master",
-    "function_tskt_master",
-    "high_tskt_master",
-    "horizontal_tskt_master",
-    "how_to_get_water_tskt_master",
-    "keep_warm_temperature_tskt_master",
-    "machine_weight_tskt_master",
     "made_in_tskt_master",
-    "material_tskt_master",
-    "output_power_tskt_master",
-    "safety_features_tskt_master",
-    "size_weight_tskt_master",
-    "timer_tskt_master",
-    "utilities_tskt_master"
+    "product_line_tskt_master",
+    "product_type_tskt_master",
+    "size_weight_tskt_master"
    ],
    "ten": {
-    "bottle_casing_tskt_master": "Vỏ bình",
-    "bottle_lining_tskt_master": "Ruột bình",
-    "brand_of_filter_master": "Thương hiệu của",
-    "brand_of_tskt_master": "Thương hiệu của",
-    "capacity_filter_master": "Dung lượng dung tích",
-    "capacity_tskt_master": "Dung lượng",
-    "control_panel_filter_master": "Bảng điều khiển",
-    "deep_tskt_master": "Sâu",
-    "function_tskt_master": "Chức năng",
-    "high_tskt_master": "Cao",
-    "horizontal_tskt_master": "Ngang",
-    "how_to_get_water_tskt_master": "Cách lấy nước",
-    "inner_material_filter_master": "Chất liệu ruột",
-    "keep_warm_temperature_tskt_master": "Mức nhiệt giữ nóng",
-    "machine_weight_tskt_master": "Khối lượng máy",
     "made_in_tskt_master": "Sản xuất tại",
-    "material_tskt_master": "Chất liệu",
-    "output_power_tskt_master": "Công suất đầu ra",
-    "safety_features_tskt_master": "Tính năng an toàn",
-    "size_weight_tskt_master": "Kích thước Khối lượng",
-    "timer_tskt_master": "Hẹn giờ",
-    "utilities_filter_master": "Tiện ích",
-    "utilities_tskt_master": "Tiện ích"
+    "product_line_tskt_master": "Dòng sản phẩm",
+    "product_type_tskt_master": "Loại sản phẩm",
+    "size_weight_tskt_master": "Kích thước Khối lượng"
    },
-   "ten_nh": "Bình thủy điện",
-   "title": "TSKT 2064 Bình thủy điện"
+   "ten_nh": "Bộ dụng cụ đa năng",
+   "title": "TSKT 4706 Bộ dụng cụ đa năng"
   }
  },
  "tom_tat": {
-  "filter_khong_khop": 1,
-  "khong_data": 0,
-  "map_theo_ten": 49,
+  "filter_khong_khop": 0,
+  "khong_data": 1,
+  "map_theo_ten": 7,
   "o_sua_theo_quy_tac": 0,
   "so_nganh": 1,
-  "so_o": 1443,
-  "so_sku": 94
+  "so_o": 206,
+  "so_sku": 60
  }
 }
