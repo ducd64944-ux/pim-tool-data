@@ -41,6 +41,9 @@
   "1988\tmain_accessory_length_tskt_master": "cm",
   "1988\tmain_accessory_thickness_tskt_master": "cm",
   "1988\twide_accessories_tskt_master": "cm",
+  "4930\tbase_diameter_tskt_master": "cm",
+  "4930\thigh_tskt_master": "cm",
+  "4930\tlid_diameter_tskt_master": "cm",
   "7858\thigh_tskt_master\tbd": [
    {
     "a": "Cao",
@@ -105,7 +108,7 @@
    }
   ]
  },
- "luc_luu": "2026-10-06 11:44:42",
+ "luc_luu": "2026-10-06 11:45:47",
  "map_ten": "tham_chieu",
  "nguoi_luu": "ducd",
  "rong": {
