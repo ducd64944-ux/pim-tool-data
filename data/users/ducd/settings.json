@@ -18,13 +18,22 @@
    }
   ],
   "1988\thorizontal_tskt_master": "cm",
+  "1988\thorizontal_tskt_master\tbd": [
+   {
+    "a": "Ngang",
+    "b": "",
+    "he_so": "",
+    "kieu": "them_truoc",
+    "pham_vi": "tat_ca"
+   }
+  ],
   "1988\tlong_cord_tskt_master": "cm",
   "1988\tmachine_weight_tskt_master": "kg",
   "1988\tmain_accessory_length_tskt_master": "cm",
   "1988\tmain_accessory_thickness_tskt_master": "cm",
   "1988\twide_accessories_tskt_master": "cm"
  },
- "luc_luu": "2026-10-06 10:54:06",
+ "luc_luu": "2026-10-06 10:54:32",
  "map_ten": "tham_chieu",
  "nguoi_luu": "ducd",
  "rong": {
