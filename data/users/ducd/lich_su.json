@@ -37,5 +37,18 @@
   "Thêm đơn vị": 1346,
   "Tách xin data": 0,
   "Workspace": "ducd"
+ },
+ {
+  "Biến đổi": 345,
+  "Cảnh báo": "• 198 ô KHÁC spec PIM (sẽ ghi đè) | • 1 ô tool để trống trong khi PIM đang có | • 3 ô kích thước/khối lượng chưa có đơn vị | • 18 dòng không có trong file PIM | • 119 ô giá trị CMS bị MẤT khi map (xem 🧾 Đối soát) | • 17 model_code lặp ở nhiều dòng file MODEL (PIM sẽ lấy dòng sau cùng — kiểm tra IMPORT có thiếu variant_code không)",
+  "File": "PIM_TSKT 7858 Bàn chải điện_MODEL_20261006_1126.xlsx",
+  "Không/Đang cập nhật": 1208,
+  "Lúc": "2026-10-06 11:26:17",
+  "Người xuất": "ducd",
+  "Số dòng": 110,
+  "Sửa tay": 0,
+  "Thêm đơn vị": 0,
+  "Tách xin data": 0,
+  "Workspace": "ducd"
  }
 ]
