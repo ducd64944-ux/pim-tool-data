@@ -1002,6 +1002,49 @@
    "utilities_filter_master": "Tiện ích"
   }
  },
+ "5205": {
+  "cot": [
+   "capacity_filter_master",
+   "inner_material_filter_master",
+   "product_type_filter_master",
+   "utilities_filter_master",
+   "base_diameter_tskt_master",
+   "body_material_tskt_master",
+   "brand_of_tskt_master",
+   "capacity_tskt_master",
+   "high_tskt_master",
+   "holding_time_tskt_master",
+   "inner_material_tskt_master",
+   "lid_diameter_tskt_master",
+   "machine_weight_tskt_master",
+   "made_in_tskt_master",
+   "product_type_tskt_master",
+   "release_date_tskt_master",
+   "size_weight_tskt_master",
+   "utilities_tskt_master"
+  ],
+  "ten": "Bình, ly giữ nhiệt",
+  "ten_cot": {
+   "base_diameter_tskt_master": "Đường kính đáy",
+   "body_material_tskt_master": "Chất liệu thân vỏ",
+   "brand_of_tskt_master": "Thương hiệu của",
+   "capacity_filter_master": "Dung lượng dung tích",
+   "capacity_tskt_master": "Dung lượng",
+   "high_tskt_master": "Cao",
+   "holding_time_tskt_master": "Thời gian giữ",
+   "inner_material_filter_master": "Chất liệu ruột",
+   "inner_material_tskt_master": "Chất liệu ruột",
+   "lid_diameter_tskt_master": "Đường kính nắp",
+   "machine_weight_tskt_master": "Khối lượng máy",
+   "made_in_tskt_master": "Sản xuất tại",
+   "product_type_filter_master": "Loại sản phẩm",
+   "product_type_tskt_master": "Loại sản phẩm",
+   "release_date_tskt_master": "Thời gian ra mắt",
+   "size_weight_tskt_master": "Kích thước Khối lượng",
+   "utilities_filter_master": "Tiện ích",
+   "utilities_tskt_master": "Tiện ích"
+  }
+ },
  "5475": {
   "cot": [
    "control_panel_filter_master",
