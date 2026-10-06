@@ -364,6 +364,15 @@
     "pham_vi": "tat_ca"
    }
   ],
+  "9758\thorizontal_tskt_master\tbd": [
+   {
+    "a": "Ngang",
+    "b": "cm",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "pham_vi": "tat_ca"
+   }
+  ],
   "9758\twide_tskt_master\tbd": [
    {
     "a": "Rộng",
@@ -374,7 +383,7 @@
    }
   ]
  },
- "luc_luu": "2026-10-06 16:46:06",
+ "luc_luu": "2026-10-06 16:46:39",
  "map_ten": "tham_chieu",
  "nguoi_luu": "ducd",
  "rong": {
