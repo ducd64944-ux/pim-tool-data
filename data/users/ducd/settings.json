@@ -73,6 +73,15 @@
   ],
   "1989\tlong_cord_tskt_master": "cm",
   "1989\tmachine_weight_tskt_master": "kg",
+  "1989\tmachine_weight_tskt_master\tbd": [
+   {
+    "a": "Nặng",
+    "b": "",
+    "he_so": "",
+    "kieu": "them_truoc",
+    "pham_vi": "tat_ca"
+   }
+  ],
   "4930\tbase_diameter_tskt_master": "cm",
   "4930\tbase_diameter_tskt_master\tbd": [
    {
@@ -167,7 +176,7 @@
    }
   ]
  },
- "luc_luu": "2026-10-06 13:40:46",
+ "luc_luu": "2026-10-06 13:41:15",
  "map_ten": "tham_chieu",
  "nguoi_luu": "ducd",
  "rong": {
