@@ -193,5 +193,18 @@
   "Thêm đơn vị": 0,
   "Tách xin data": 298,
   "Workspace": "ducd"
+ },
+ {
+  "Biến đổi": 4595,
+  "Cảnh báo": "• 5,190 ô KHÁC spec PIM (sẽ ghi đè) | • 278 ô tool để trống trong khi PIM đang có | • 54 dòng không có trong file PIM | • 3 ô giá trị CMS bị MẤT khi map (xem 🧾 Đối soát) | • 4 SKU KHÔNG có thông số nào (sẽ xuất dòng trống) | • 376 model_code lặp ở nhiều dòng file MODEL (PIM sẽ lấy dòng sau cùng — kiểm tra IMPORT có thiếu variant_code không)",
+  "File": "PIM_TSKT 9758 Xe đạp_MODEL_20261006_1652.xlsx, PIM_TSKT 9758 Xe đạp_BIENTHE_20261006_1652.xlsx",
+  "Không/Đang cập nhật": 14207,
+  "Lúc": "2026-10-06 16:52:19",
+  "Người xuất": "ducd",
+  "Số dòng": 1456,
+  "Sửa tay": 0,
+  "Thêm đơn vị": 0,
+  "Tách xin data": 4,
+  "Workspace": "ducd"
  }
 ]
