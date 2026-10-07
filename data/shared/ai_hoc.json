@@ -1476,6 +1476,380 @@
    "total_samples": 124
   }
  },
+ "2342": {
+  "battery_capacity_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "2500 mAh": 2,
+    "2600 mAh": 1,
+    "4000 mAh": 2,
+    "5200 mAh": 1,
+    "6400 mAh": 1
+   },
+   "total_samples": 7
+  },
+  "brand_of_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Hà Lan": 3,
+    "Hàn Quốc": 10,
+    "Mỹ": 2,
+    "Nhật Bản": 11,
+    "Singapore": 2,
+    "Thái Lan": 1,
+    "Trung Quốc": 9
+   },
+   "total_samples": 38
+  },
+  "charging_specifications_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "5V - 1A": 4,
+    "5V - 2A": 1,
+    "9V - 2A": 1
+   },
+   "total_samples": 6
+  },
+  "function_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Chải mượt tóc, thẳng tóc": 3,
+    "Chải mượt tóc, thẳng tóc|Làm phồng tóc|Tạo kiểu đa năng|Uốn tóc": 1,
+    "Chải mượt tóc, thẳng tóc|Làm thẳng, duỗi tóc|Tạo kiểu đa năng|Uốn tóc": 1,
+    "Chải mượt tóc, thẳng tóc|Tạo kiểu đa năng": 1,
+    "Làm phồng tóc": 2,
+    "Làm phồng tóc|Tạo kiểu đa năng": 1,
+    "Làm thẳng, duỗi tóc": 7,
+    "Làm thẳng, duỗi tóc|Tạo kiểu đa năng": 2,
+    "Làm thẳng, duỗi tóc|Tạo kiểu đa năng|Uốn tóc": 6,
+    "Làm thẳng, duỗi tóc|Uốn tóc": 7,
+    "Tạo kiểu đa năng": 3,
+    "Tạo kiểu đa năng|Uốn tóc": 2,
+    "Uốn tóc": 2
+   },
+   "total_samples": 38
+  },
+  "heat_mode_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "1 mức nhiệt: 180°C": 1,
+    "1 mức nhiệt: 210°C": 4,
+    "10 mức nhiệt độ điều chỉnh: 120-210°C": 2,
+    "12 mức nhiệt: 120 - 230°C": 1,
+    "2 mức nhiệt": 2,
+    "2 mức nhiệt: 140 - 160°C": 1,
+    "2 mức nhiệt: 160 - 180°C": 2,
+    "3 mức nhiệt": 3,
+    "3 mức nhiệt: 160 ,180, 200°C": 3,
+    "3 mức nhiệt: 160, 190, 220°C": 1,
+    "3 mức nhiệt: 170, 190, 210°C": 2,
+    "4 mức nhiệt: 140, 160, 180, 220°C": 2,
+    "5 mức nhiệt: 130 - 145 - 160 - 175 - 200°C": 3,
+    "5 mức nhiệt: 140, 160, 180, 200, 220°C": 1,
+    "5 mức nhiệt: 140, 160, 180, 200, 230°C": 2,
+    "5 mức nhiệt: 150, 170, 180, 200, 230°C": 1,
+    "5 mức nhiệt: 150, 170, 190, 210, 230°C": 1,
+    "9 mức nhiệt: khoảng 120 - 200°C": 1,
+    "Nhiều mức nhiệt: Tối đa 200°C": 1,
+    "Nhiều mức nhiệt: từ 150- 210°C": 1
+   },
+   "total_samples": 40
+  },
+  "high_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Cao 10.7 cm": 1,
+    "Cao 18 cm": 1,
+    "Cao 2.7 cm": 1,
+    "Cao 21 cm": 2,
+    "Cao 25 cm": 1,
+    "Cao 26.7 cm": 3,
+    "Cao 26.8 cm": 1,
+    "Cao 3.3 cm": 1,
+    "Cao 3.5 cm": 1,
+    "Cao 32 cm": 1,
+    "Cao 4.4 cm": 1,
+    "Cao 4.5 cm": 1,
+    "Cao 5.2 cm": 2,
+    "Cao 5.4 cm": 1,
+    "Cao 6 cm": 1,
+    "Cao 7.1 cm": 2,
+    "Cao 7.7 cm": 1,
+    "Cao 8 cm": 1,
+    "Cao 8.5 cm": 2,
+    "Cao Sấy tóc: 29 cm, Ép tóc: 7.5 cm": 1
+   },
+   "total_samples": 36
+  },
+  "horizontal_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Ngang 20.3 cm": 1,
+    "Ngang 23 cm": 2,
+    "Ngang 25 cm": 1,
+    "Ngang 25.5 cm": 1,
+    "Ngang 26 cm": 2,
+    "Ngang 27.5 cm": 1,
+    "Ngang 28.7 cm": 1,
+    "Ngang 29 cm": 2,
+    "Ngang 30 cm": 1,
+    "Ngang 30.5 cm": 1,
+    "Ngang 30.8 cm": 1,
+    "Ngang 32 cm": 1,
+    "Ngang 35 cm": 1,
+    "Ngang 4 cm": 2,
+    "Ngang 4.2 cm": 1,
+    "Ngang 4.5 cm": 4,
+    "Ngang 4.65 cm": 2,
+    "Ngang 6 cm": 1,
+    "Ngang 6.5 cm": 2,
+    "Ngang Sấy tóc: 19.5 cm, Ép tóc: 26 cm": 1
+   },
+   "total_samples": 37
+  },
+  "included_accessories_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "2 phụ kiện: kẹp tóc, túi đựng": 1,
+    "2 phụ kiện: đầu uốn/duỗi, lược chải": 1,
+    "3 phụ kiện: đế sạc, bao silicon che bản nhiệt, cáp sạc USB-C": 1,
+    "5 phụ kiện: uốn lọn vừa, uốn lọn to, uốn lọn siêu to, làm phồng tóc, phụ kiện duỗi tóc": 1,
+    "5 phụ kiện: uốn lọn vừa, uốn lọn to, uốn lọn siêu to, làm phồng tóc, phụ kiện duỗi tóc|Không có": 1,
+    "7 phụ kiện: lược cuộn lớn, lược cuộn nhỏ, đầu chải bồng, đầu sấy, đầu kẹp hơi nóng và 2 kẹp tóc": 1,
+    "Kẹp tóc": 3,
+    "Kẹp tóc|Lược nhỏ": 1,
+    "Lược nhỏ và 3 chiếc kẹp tóc": 1,
+    "Lược và 2 kẹp tóc": 1,
+    "Miếng chịu nhiệt": 1,
+    "Nắp đậy": 2,
+    "ThermoProtect": 1
+   },
+   "total_samples": 16
+  },
+  "input_voltage_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "100V - 240V": 3,
+    "110V - 220V": 3,
+    "120 - 240V": 1,
+    "220V": 5,
+    "220V - 240V": 3,
+    "3.7V": 9,
+    "5V": 1,
+    "7.4V": 2
+   },
+   "total_samples": 27
+  },
+  "long_cord_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "110": 2,
+    "150": 1,
+    "152": 1,
+    "154": 1,
+    "163": 1,
+    "165": 1,
+    "174": 1,
+    "175": 1,
+    "180": 10,
+    "187": 1,
+    "189": 2,
+    "190": 1,
+    "197": 1,
+    "210": 1,
+    "211": 1,
+    "Sấy tóc: 185 cm - Ép tóc: 165 cm": 1
+   },
+   "total_samples": 27
+  },
+  "machine_weight_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Nặng 0,332 kg": 1,
+    "Nặng 0.157 kg": 1,
+    "Nặng 0.23 kg": 1,
+    "Nặng 0.246 kg": 2,
+    "Nặng 0.265 kg": 1,
+    "Nặng 0.289 kg": 1,
+    "Nặng 0.298 kg": 1,
+    "Nặng 0.3 kg": 2,
+    "Nặng 0.34 kg": 1,
+    "Nặng 0.35 kg": 3,
+    "Nặng 0.357 kg": 1,
+    "Nặng 0.45 kg": 1,
+    "Nặng 0.5 kg": 2,
+    "Nặng 0.6 kg": 2,
+    "Nặng 0.636 kg": 1,
+    "Nặng 0.637 kg": 1,
+    "Nặng 0.69 kg": 1,
+    "Nặng 331g kg": 1,
+    "Nặng 425g kg": 4,
+    "Nặng Sấy tóc, ép tóc: 1.13 kg": 1
+   },
+   "total_samples": 33
+  },
+  "made_in_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Thái Lan": 10,
+    "Trung Quốc": 31
+   },
+   "total_samples": 41
+  },
+  "output_power_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "100W": 1,
+    "15W": 1,
+    "210W": 1,
+    "22W": 3,
+    "25W": 3,
+    "30W": 3,
+    "32W": 1,
+    "33W": 1,
+    "35W": 5,
+    "38W": 1,
+    "42W": 2,
+    "43W": 1,
+    "44W": 2,
+    "45W": 7,
+    "55W": 1,
+    "62W": 1,
+    "650W": 2,
+    "65W": 1,
+    "Pin AAA": 1,
+    "Sấy tóc 1600W, Ép tóc 31 - 33W": 1
+   },
+   "total_samples": 41
+  },
+  "product_type_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Lược chải tóc điện": 10,
+    "Lược chải tóc điện|Máy kẹp và uốn tóc": 1,
+    "Máy bấm tóc": 2,
+    "Máy kẹp duỗi tóc": 6,
+    "Máy kẹp duỗi tóc|Máy tạo kiểu tóc": 1,
+    "Máy kẹp và uốn tóc": 8,
+    "Máy tạo kiểu tóc": 4,
+    "Máy uốn duỗi tóc": 4,
+    "Máy uốn tóc": 4
+   },
+   "total_samples": 40
+  },
+  "usage_time_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "30 phút": 3,
+    "35 phút": 1,
+    "60 phút": 2
+   },
+   "total_samples": 6
+  },
+  "utilities_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Các thanh gốm được pha thêm keratin giúp chăm sóc tốt hơn|Chăm sóc tóc với ion giúp tóc không bị khô, luôn mềm mượt|Màn ": 1,
+    "Các thanh gốm được pha thêm keratin giúp chăm sóc tốt hơn|Có móc treo|Dây điện xoay 360 độ|Thời gian làm nóng nhanh": 1,
+    "Các thanh gốm được pha thêm keratin giúp chăm sóc tốt hơn|Có móc treo|Dây điện xoay 360 độ|Thời gian làm nóng nhanh tron": 1,
+    "Các tấm kẹp làm bằng gốm được tẩm dầu argan|Có móc treo|Thời gian làm nóng nhanh trong 30 giây|Tính năng Ion âm|Tự động ": 1,
+    "Cách nhiệt hai lớp, chống bỏng, an toàn|Có móc treo|Dây điện xoay 360 độ|Giá đỡ cách nhiệt khi đặt lên mặt bàn|Lớp phủ m": 1,
+    "Cách nhiệt hai lớp, chống bỏng, an toàn|Có móc treo|Thời gian làm nóng nhanh trong 30 giây": 3,
+    "Cách nhiệt hai lớp, chống bỏng, an toàn|Điều tiết ion cho mái tóc bóng mượt, không xoăn rối|Lớp phủ men gốm bảo vệ tóc|T": 1,
+    "Công nghệ Nanoe ngăn ngừa tổn thương tóc|Thời gian làm nóng nhanh trong 30 giây": 1,
+    "Dây điện xoay 360 độ|Hiển thị nhiệt độ LCD|Thời gian làm nóng nhanh|Tự động ngắt sau 60 phút": 1,
+    "Dây điện xoay 360 độ|Tích hợp khí mát|Tự động ngắt điện sau 30 phút": 1,
+    "Giảm tĩnh điện giúp chải tóc mượt mà|Lớp phủ men gốm bảo vệ tóc|Tính năng Ion âm|Tự động ngắt điện sau 15 phút": 2,
+    "Giảm tĩnh điện giúp chải tóc mượt mà|Tính năng Ion âm": 1,
+    "Khóa an toàn|Tấm nhiệt phủ ceramic": 1,
+    "Kẹp duỗi có phủ lớp Keratin và dầu dừa|Miếng kẹp bằng gốm chống phai màu tóc": 2,
+    "Kẹp duỗi có phủ lớp Keratin và dầu dừa|Miếng kẹp bằng gốm chống phai màu tóc|Thời gian làm nóng nhanh": 1,
+    "Lớp phủ men gốm hạn chế làm tóc hư tổn|Lớp phủ protein bảo vệ tóc|Thời gian làm nóng nhanh|Tính năng Ion âm": 1,
+    "Thời gian làm nóng nhanh": 1,
+    "Âm thanh báo khi tóc uốn hoàn thành|Cách nhiệt hai lớp, chống bỏng, an toàn|Dây điện xoay 360 độ|Đèn LED báo nhiệt độ|Đi": 1,
+    "Đèn LED báo nhiệt độ|Khóa an toàn|Tính năng Ion âm|Tự động ngắt điện sau 30 phút": 1,
+    "Đầu chống bỏng|Đèn LED báo nhiệt độ|Đèn LED báo pin|Khoá an toàn|Lớp phủ men gốm hạn chế làm tóc hư tổn|Thời gian làm nó": 1
+   },
+   "total_samples": 41
+  },
+  "wide_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Rộng 10.5 cm": 2,
+    "Rộng 2.5 cm": 1,
+    "Rộng 2.8 cm": 1,
+    "Rộng 25.5 cm": 1,
+    "Rộng 3 cm": 2,
+    "Rộng 3.2 cm": 2,
+    "Rộng 3.5 cm": 1,
+    "Rộng 3.6 cm": 1,
+    "Rộng 3.7 cm": 2,
+    "Rộng 4 cm": 1,
+    "Rộng 4.2 cm": 1,
+    "Rộng 4.3 cm": 3,
+    "Rộng 4.4 cm": 1,
+    "Rộng 4.5 cm": 4,
+    "Rộng 4.9 cm": 1,
+    "Rộng 5.2 cm": 1,
+    "Rộng 5.4 cm": 1,
+    "Rộng 5.5 cm": 3,
+    "Rộng 7.4 cm": 1,
+    "Rộng Sấy tóc: 8.7 cm, Ép tóc: 2.6 cm": 1
+   },
+   "total_samples": 37
+  }
+ },
  "2825": {
   "compatibility_tskt_master": {
    "contributors": [
