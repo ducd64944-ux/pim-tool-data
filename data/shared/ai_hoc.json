@@ -448,6 +448,522 @@
    "total_samples": 7
   }
  },
+ "14258": {
+  "backwash_cycle_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "15 ngày/lần": 1,
+    "Theo thời gian và lưu lượng nước đi qua": 23
+   },
+   "total_samples": 24
+  },
+  "backwash_mechanism_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Tự động 2 chế độ": 1,
+    "Tự động 4 chế độ": 1,
+    "Tự động 6 chế độ": 14,
+    "Tự động hoàn nguyên bộ làm mềm": 4,
+    "Tự động hoàn nguyên và sục rửa toàn bộ hệ thống lọc": 1,
+    "Tự động hoàn nguyên và sục rửa toàn bộ hệ thống lọc (trừ lõi than hoạt tính)": 1,
+    "Tự động sục rửa (mô tơ điều khiển trục lên/xuống) và sục rửa thủ công bằng một nút chạm \"Flush\"": 2
+   },
+   "total_samples": 24
+  },
+  "booster_pump_power_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "550W": 3,
+    "550W (không kèm máy bơm)": 1,
+    "750W": 4,
+    "Tùy theo khách hàng và phương án lắp đặt": 6
+   },
+   "total_samples": 14
+  },
+  "brand_of_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Mỹ": 6,
+    "Nhật Bản": 4,
+    "Việt Nam": 16
+   },
+   "total_samples": 26
+  },
+  "connect_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Wifi": 2,
+    "Wifi, Bluetooth": 5
+   },
+   "total_samples": 7
+  },
+  "control_valve_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Van thủ công": 1,
+    "Van tự động": 25
+   },
+   "total_samples": 26
+  },
+  "display_screen_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Màn hình cảm ứng": 1,
+    "Màn hình cảm ứng LCD": 5,
+    "Màn hình cảm ứng LCD và màn hình hiển thị LED": 1,
+    "Màn hình hiển thị LCD": 18
+   },
+   "total_samples": 25
+  },
+  "filter_cartridge_type_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "2 cột lọc than hoạt tính|Cột lọc Max Clean đa tầng|Cột lọc Max Soft làm mềm|Lõi PP 5 micron": 1,
+    "2 cột lọc than hoạt tính|Cột lọc Max Soft làm mềm": 1,
+    "3 lõi lọc APT 200": 1,
+    "8 lõi lọc APT 200": 1,
+    "Bộ lọc High - Density Active Cacbon viên nén mật độ cao|Bộ lọc kép Filter Ag - Aquamandix 2.0|Bộ lọc làm mềm nước": 1,
+    "Bộ lọc Jumbo hiệu suất cao|Bộ lọc làm mềm nước|Bộ lọc than hoạt tính": 4,
+    "Bộ lọc kép Filter Ag - Aquamandix 2.0|Bộ lọc làm mềm nước|Bộ lọc than hoạt tính": 1,
+    "Bộ lọc than hoạt tính|Cột lọc Max Clean đa tầng|Cột lọc Max Soft làm mềm|Lõi PP 5 micron": 1,
+    "Cột lọc Max Clean đa tầng|Cột lọc Max Soft làm mềm|Lõi PP 5 micron": 7,
+    "Cột lọc Max Clean đa tầng|Cột lọc Max Soft làm mềm|Lõi PP 5 micron|Lõi UF": 3,
+    "Cột lọc Max Clean đa tầng|Lõi PP 5 micron": 1,
+    "Cột lọc Max Soft làm mềm|Lõi CTO|Lõi PP 5 micron": 1,
+    "Cột lọc Max Soft làm mềm|Màng lọc UDF": 1,
+    "Cột lọc Super Softener 10X|Lõi lọc SuperClean": 1
+   },
+   "total_samples": 25
+  },
+  "filter_pore_size_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "10 micron": 2,
+    "40 micron": 1,
+    "5 micron": 19
+   },
+   "total_samples": 22
+  },
+  "filter_replacement_cycle_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Aquamandix - 7 đến 8 năm|Bộ làm mềm - 20 năm|Đèn UV - 9000 giờ|Than hoạt tính - 7 đến 8 năm": 1,
+    "Aquamandix - 7 đến 8 năm|Bộ làm mềm - 20 năm|Đèn UV - 9000 giờ|Than hoạt tính - 9 đến 12 tháng": 1,
+    "Bộ làm mềm - 20 năm|Đèn UV - 9000 giờ|Jumbo - 9 đến 12 tháng|Than hoạt tính - 9 đến 12 tháng": 4,
+    "Cột lọc Cation - 72 tháng|Cột lọc đa tầng - 18 tháng|Lõi PP 5 micron - 6 tháng": 1,
+    "Cột lọc Cation - 72 tháng|Cột lọc đa tầng - 18 tháng|Lõi PP 5 micron - 6 tháng|Muối hoàn nguyên 3 - 4 tháng": 2,
+    "Cột lọc Cation - 72 tháng|Cột lọc đa tầng - 36 tháng|Lõi PP 5 micron - 6 tháng|Muối hoàn nguyên 3 - 4 tháng|Than hoạt tí": 1,
+    "Cột lọc Cation - 72 tháng|Cột lọc đa tầng - 36 tháng|Lõi PP 5 micron - 6 tháng|Than hoạt tính - 18 tháng": 1,
+    "Cột lọc Cation - 96 tháng|Cột lọc đa tầng - 24 tháng|Đèn UV - 60 tháng|Lõi PP 5 micron - 6 tháng|Lõi UF - 60 tháng|Muối ": 1,
+    "Cột lọc Cation - 96 tháng|Cột lọc đa tầng - 24 tháng|Đèn UV - 60 tháng|Lõi PP 5 micron - 6 tháng|Muối hoàn nguyên 3 - 4 ": 1,
+    "Cột lọc Cation - 96 tháng|Lõi UDF - 6 tháng|Muối hoàn nguyên 3 - 6 tháng": 1,
+    "Cột lọc Cation - 96 tháng|Muối hoàn nguyên 3 - 6 tháng|Than hoạt tính - 18 tháng": 1,
+    "Cột lọc Max Clean đa tầng - 24 tháng|Cột lọc Max Soft làm mềm - 96 tháng|Lõi PP 5 micron - 6 tháng|Muối hoàn nguyên 3 - ": 2,
+    "Cột lọc Max Clean đa tầng - 24 tháng|Cột lọc Max Soft làm mềm - 96 tháng|Đèn UV - 60 tháng|Lõi PP 5 micron - 6 tháng|Lõi": 2,
+    "Cột lọc Max Clean đa tầng - 24 tháng|Cột lọc Max Soft làm mềm - 96 tháng|Đèn UV - 60 tháng|Lõi PP 5 micron - 6 tháng|Muố": 1,
+    "Cột lọc Max Clean đa tầng - 24 tháng|Đèn UV - 60 tháng|Lõi PP 5 micron - 6 tháng": 1,
+    "Cột lọc Max Soft làm mềm - 96 tháng|Đèn UV - 60 tháng|Lõi CTO - 6 tháng|Lõi PP 5 micron - 6 tháng|Muối hoàn nguyên 3 - 4": 1,
+    "Cột lọc Super Softener 10X - 96 tháng|Lõi lọc SuperClean - 6 tháng": 1,
+    "Không|Lõi APT 200 - 24 đến 60 tháng": 1,
+    "Lõi APT 200 - 24 đến 60 tháng": 1,
+    "Lõi thép không gỉ 316L - 8 đến 12 tháng": 1
+   },
+   "total_samples": 26
+  },
+  "filtration_capacity_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "1000 - 1500 lít/giờ": 2,
+    "1000 lít/giờ": 1,
+    "1300 - 1500 lít/giờ": 1,
+    "1500 - 2000 lít/giờ": 10,
+    "1500 lít/giờ": 1,
+    "2000 - 2500 lít/giờ": 4,
+    "2000 - 3000 lít/giờ": 1,
+    "2000 lít/giờ": 3,
+    "2500 lít/giờ": 1,
+    "3600 - 4000 lít/giờ": 1,
+    "7000 lít/giờ": 1
+   },
+   "total_samples": 26
+  },
+  "input_water_ph_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "6 - 8.6": 1,
+    "6.0 - 8.5": 15,
+    "6.5 - 8.5": 6,
+    "Theo tiêu chuẩn của nước máy": 4
+   },
+   "total_samples": 26
+  },
+  "input_water_temperature_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "3℃ - 38℃": 2,
+    "4℃ - 49℃": 21,
+    "5℃ - 38℃": 1
+   },
+   "total_samples": 24
+  },
+  "made_in_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Mỹ - Thổ Nhĩ Kỳ - Việt Nam (lắp ráp tại nhà khách hàng)": 2,
+    "Mỹ - Đài Loan - Việt Nam (lắp ráp tại nhà khách hàng)": 4,
+    "Nhật Bản": 3,
+    "Trung Quốc": 3,
+    "Việt Nam": 14
+   },
+   "total_samples": 26
+  },
+  "main_filter_material_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Filter Ag - Aquamandix, than hoạt tính carbon, cation, KDF": 2,
+    "Hạt Cation": 1,
+    "Lưới thép không gỉ 316L": 1,
+    "Nhựa PP, Than hoạt tính carbon, cation, KDF": 4,
+    "Than hoạt tính, hạt Cation": 2,
+    "Than hoạt tính, hạt cation UltraSoft™ iON Matrix": 1,
+    "Than hoạt tính, hạt cation, hạt mangan, hạt ODM-2F,…": 5,
+    "Than hoạt tính, than nano, hạt ODM-2F,…": 1,
+    "Than hoạt tính, than nano, hạt cation, hạt ODM-2F,…": 7,
+    "Vải không dệt, than hoạt tính dạng hạt, than hoạt tính dạng sợi, hạt trao đổi ion, hạt chống bám cặn và màng sợi rỗng.": 2
+   },
+   "total_samples": 26
+  },
+  "material_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Cốc lọc inox 304|Cột lọc inox 304": 2,
+    "Cốc lọc nhựa ABS": 2,
+    "Cốc lọc nhựa ABS nguyên sinh": 2,
+    "Cốc lọc nhựa ABS nguyên sinh|Cột lọc composite (có Jacket nhựa PP)|Hộp đèn UV inox 304": 2,
+    "Cốc lọc nhựa ABS nguyên sinh|Hộp đèn UV inox 304": 2,
+    "Cốc lọc nhựa PP nguyên sinh|Cột lọc Composite FRP - Sợi thủy tinh": 5,
+    "Cốc lọc nhựa PP nguyên sinh|Cột lọc Composite FRP - Sợi thủy tinh|Cột lọc inox 304|Không": 1,
+    "Cốc lọc nhựa PP nguyên sinh|Cột lọc Composite FRP - Sợi thủy tinh|Hộp đèn UV inox 304": 6,
+    "Cột lọc Composite FRP - Sợi thủy tinh": 2,
+    "Cột lọc nhựa ABS": 1
+   },
+   "total_samples": 25
+  },
+  "maximum_input_water_turbidity_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "2 NTU": 15,
+    "3 NTU": 1,
+    "Theo tiêu chuẩn của nước máy": 4,
+    "≤ 15 NTU": 6
+   },
+   "total_samples": 26
+  },
+  "maximum_iron_removal_capacity_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "10 mg/lít": 4,
+    "12 mg/lít": 1,
+    "15 mg/lít": 1,
+    "4 ppm": 3
+   },
+   "total_samples": 9
+  },
+  "number_of_filter_columns_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "1 cột": 5,
+    "2 cột": 11,
+    "3 cột": 4,
+    "8 cột": 1
+   },
+   "total_samples": 21
+  },
+  "number_of_filter_cores_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "1 lõi": 11,
+    "2 lõi": 8,
+    "3 lõi": 3
+   },
+   "total_samples": 22
+  },
+  "number_of_filter_stages_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "1 cấp": 1,
+    "2 cấp": 2,
+    "3 cấp": 10,
+    "4 cấp": 9,
+    "5 cấp": 3,
+    "8 cấp": 1
+   },
+   "total_samples": 26
+  },
+  "operating_pressure_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "14.5 - 145 psi": 1,
+    "14.5 - 58 psi": 2,
+    "20 - 120 psi": 6,
+    "20.3 - 124.7 psi": 14,
+    "21.7 - 58 psi": 1
+   },
+   "total_samples": 24
+  },
+  "output_water_standard_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "QCVN 01-1:2024/BYT": 22
+   },
+   "total_samples": 22
+  },
+  "regeneration_cycle_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "3000 - 4000 lít/lần": 6,
+    "Phụ thuộc vào cách lắp đặt, chất lượng nước, tần suất sử dụng nước của khách hàng": 16
+   },
+   "total_samples": 22
+  },
+  "salt_tank_capacity_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "100": 5,
+    "120": 1,
+    "60": 11,
+    "Tích hợp trong hệ thống": 4
+   },
+   "total_samples": 21
+  },
+  "size_weight_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Dài 113.2 cm - Rộng 66 cm - Cao 148 cm - Nặng 165 kg": 2,
+    "Dài 114.1 cm - Rộng 66.8 cm - Cao 175.7 cm - Nặng 200 kg": 2,
+    "Dài 114.1 cm - Rộng 66.8 cm - Cao 175.7 cm - Nặng 210 kg": 1,
+    "Dài 132 cm - Rộng 46.2 cm - Cao 161 cm - Nặng 200 kg": 2,
+    "Dài 17.2 cm - Rộng 9.5 cm - Cao 30.9 cm - Nặng 2.5 kg": 1,
+    "Dài 36 cm - Rộng 31 cm - Cao 138 cm - Nặng 40 kg": 1,
+    "Dài 45.5 cm - Rộng 27.3 cm - Cao 49 cm - Nặng 21 kg": 1,
+    "Dài 56.8 cm - Rộng 36.8 cm - Cao 110.2 cm - Nặng 58.5 kg": 1,
+    "Dài 60 cm - Rộng 65 cm - Cao 130 cm - Nặng 112 kg": 1,
+    "Dài 60 cm - Rộng 65 cm - Cao 130 cm - Nặng 115 kg": 1,
+    "Dài 60 cm - Rộng 65 cm - Cao 130 cm - Nặng 52 kg": 1,
+    "Dài 61.5 cm - Rộng 33 cm - Cao 59 cm - Nặng 18.5 kg": 1,
+    "Dài 64 cm - Rộng 13 cm - Cao 62 cm - Nặng 25 kg": 1,
+    "Dài 65 cm - Rộng 88 cm - Cao 130 cm - Nặng 118 kg": 1,
+    "Dài 68 cm - Rộng 65 cm - Cao 147.5 cm - Nặng 140 kg": 1,
+    "Dài 74.9 cm - Rộng 69.1 cm - Cao 143.5 cm - Nặng 125 kg": 1,
+    "Dài 75 cm - Rộng 82.6 cm - Cao 140.5 cm - Nặng 125 kg": 1,
+    "Dài 78 cm - Rộng 65 cm - Cao 131 cm - Nặng 140 kg": 1,
+    "Dài 81 cm - Rộng 41 cm - Cao 160 cm - Nặng 145 kg": 1,
+    "Dài 95 cm - Rộng 46.2 cm - Cao 161 cm - Nặng 150 kg": 2
+   },
+   "total_samples": 26
+  },
+  "suitable_water_source_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Nước máy sinh hoạt": 25,
+    "Nước máy, nước giếng khoan, nước phèn": 1
+   },
+   "total_samples": 26
+  },
+  "technology_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Hấp phụ bằng vật liệu lọc": 1,
+    "Hấp phụ bằng vật liệu lọc|Trao đổi ion": 17,
+    "Lọc vật lý (giữ lại chất bẩn bằng lưới lọc)": 1,
+    "Trao đổi ion": 7
+   },
+   "total_samples": 26
+  },
+  "total_power_consumption_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "0.0005 kW/h": 2,
+    "0.018 kW/h ± 10%": 8,
+    "0.026 kW/h": 2,
+    "0.04 kW/h": 1,
+    "0.07 kW/h": 1,
+    "0.55 kW/h ± 10%": 3,
+    "0.75 kW/h ± 10%": 5
+   },
+   "total_samples": 22
+  },
+  "treatment_capacity_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Ca2+, Mg2+, Clo, kim loại nặng, vi sinh…": 1,
+    "Ca2+, Mg2+, Clo, kim loại nặng,…": 7,
+    "Ca²⁺, Mg²⁺, Clo, kim loại nặng, vi sinh…": 7,
+    "Clo, kim loại nặng, vi sinh…": 1,
+    "Làm mềm nước; chống bám cặn; loại bỏ canxi (Ca²⁺) và magie (Mg²⁺); loại bỏ cặn bẩn, tạp chất": 1,
+    "Ngăn chặn các chất gây ô nhiễm như tạp chất dạng hạt, cặn bẩn, rỉ sét và các mảnh vụn trôi nổi.": 1,
+    "Tạp chất, chất lơ lửng, kim loại nặng như: sắt, mangan, asen, đồng, chì, thủy ngân, làm mềm nước, vi sinh, clo dư, thuốc": 6,
+    "Vi khuẩn, rỉ sét, tảo, hạt lơ lửng, kim loại nặng, mùi lạ, clo dư, cặn bẩn. Loại bỏ các chất độc hại bao gồm: Clo, kim l": 2
+   },
+   "total_samples": 26
+  },
+  "utilities_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Bảng hiển thị điều khiển thông minh|Cảnh báo mực muối thấp|Đồng hồ đo áp suất nước|Pin dự phòng lưu trữ cài đặt khi mất ": 1,
+    "Bảng hiển thị điều khiển thông minh|Pin dự phòng lưu trữ cài đặt khi mất điện|Tự động sục rửa|Tự động tính toán lượng mu": 4,
+    "Bảng hiển thị điều khiển thông minh|Đồng hồ đo áp suất nước|Pin dự phòng lưu trữ cài đặt khi mất điện|Tự động sục rửa|Tự": 1,
+    "Công nghệ Aiotec - Kiểm soát chất lượng nước trên điện thoại|Công nghệ IonExchange làm mềm nước|Công nghệ Max Pure - tự ": 1,
+    "Công nghệ Aiotec - Kiểm soát chất lượng nước trên điện thoại|Công nghệ Max Pure - tự động tính thời điểm hoàn nguyên và ": 4,
+    "Công nghệ Max Pure - tự động tính thời điểm hoàn nguyên và tự động hoàn nguyên|Công nghệ Max Safe - Tự động tắt màn hình": 6,
+    "Công nghệ Max Pure - tự động tính thời điểm hoàn nguyên và tự động hoàn nguyên|Đồng hồ đo áp suất nước|Lắp đặt ngoài trờ": 5,
+    "Công nghệ MaxSave 10X - tiết kiệm tối đa lượng muối và nước|Công nghệ MaxShield 10X chống bám cặn|Tự động sục rửa Turbo ": 1,
+    "Cảnh báo thay lõi tự động|Công nghệ One - Touch thay lõi chỉ một chạm|Smart AI - Tự động phân tích chất lượng nước": 1,
+    "Cảnh báo thay lõi tự động|Công nghệ chống bám cặn X3|Công nghệ IONMAX|Công nghệ One - Touch thay lõi chỉ một chạm|Smart ": 1,
+    "Cảnh báo điện áp thấp khi sắp hết pin|Chế độ ngủ tự động tiết kiệm pin|Tự kiểm tra lỗi (đóng/mở không hoàn toàn)": 1
+   },
+   "total_samples": 26
+  },
+  "uv_disinfection_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Đèn UV 21W": 3,
+    "Đèn UV 25W": 7,
+    "Đèn UV 41W": 1
+   },
+   "total_samples": 11
+  },
+  "voltage_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "100 - 240V/50 - 60 Hz": 1,
+    "220V / 50 Hz": 22,
+    "3 viên pin AA": 1
+   },
+   "total_samples": 24
+  },
+  "wastewater_discharge_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Không có nước thải khi lọc": 26
+   },
+   "total_samples": 26
+  },
+  "water_softening_capacity_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "1540 mg/L": 5,
+    "1882 mg/L": 1,
+    "800 ppm": 14
+   },
+   "total_samples": 20
+  }
+ },
  "14479": {
   "age_of_use_tskt_master": {
    "contributors": [
