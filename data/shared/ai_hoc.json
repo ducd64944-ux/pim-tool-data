@@ -1,0 +1,332 @@
+{
+ "11518": {
+  "brand_of_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Nhật Bản": 7,
+    "Trung Quốc": 7,
+    "Đài Loan": 20
+   },
+   "total_samples": 34
+  },
+  "deck_size_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Dài 124.7 cm - Rộng 76.7 cm": 1,
+    "Dài 40 cm - Rộng 38.5 cm": 1,
+    "Dài 42 cm - Rộng 38 cm": 1,
+    "Dài 44 cm - Rộng 42 cm": 1,
+    "Dài 47 cm - Rộng 40 cm": 1,
+    "Dài 47 cm - Rộng 46.7 cm": 1,
+    "Dài 51 cm - Rộng 48.7 cm": 1,
+    "Dài 52.2 cm - Rộng 48 cm": 1,
+    "Dài 52.5 cm - Rộng 49 cm": 1,
+    "Dài 62 cm - Rộng 61.5 cm": 1,
+    "Dài 71.5 cm - Rộng 42 cm": 1,
+    "Dài 72 cm - Rộng 49 cm": 1,
+    "Dài 73 cm - Rộng 47 cm": 3,
+    "Dài 74 cm - Rộng 47 cm": 1,
+    "Dài 75.5 cm - Rộng 48.5 cm": 1,
+    "Dài 78.5 cm - Rộng 48.5 cm": 1,
+    "Dài 90 cm - Rộng 60 cm": 2,
+    "Dài 90.9 cm - Rộng 60 cm": 1,
+    "Dài 91 cm - Rộng 61 cm": 1,
+    "Dài 95.7 cm - Rộng 60 cm": 1
+   },
+   "total_samples": 29
+  },
+  "folding_angle_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "90°": 19
+   },
+   "total_samples": 19
+  },
+  "handle_material_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Cao su": 1,
+    "Hợp kim nhôm": 4,
+    "Inox": 5,
+    "Nhựa": 2,
+    "Thép": 8,
+    "Thép mạ Crom bọc cao su": 1,
+    "Thép sơn tĩnh điện": 3,
+    "Thép sơn tĩnh điện, phủ Hammertone nhám chống gỉ": 1
+   },
+   "total_samples": 25
+  },
+  "high_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Cao 100 cm": 5,
+    "Cao 105 cm": 1,
+    "Cao 108 cm": 1,
+    "Cao 108.7 cm": 1,
+    "Cao 111.6 cm": 1,
+    "Cao 112.2 cm": 1,
+    "Cao 123 cm": 1,
+    "Cao 17.5 cm": 1,
+    "Cao 21 cm": 2,
+    "Cao 81 cm": 1,
+    "Cao 83 cm": 3,
+    "Cao 84.5 cm": 2,
+    "Cao 85 cm": 3,
+    "Cao 85.5 cm": 1,
+    "Cao 86 cm": 3,
+    "Cao 9 cm": 1,
+    "Cao 90 cm": 1,
+    "Cao 93 cm": 2,
+    "Cao 95 cm": 2,
+    "Cao 98 cm": 1
+   },
+   "total_samples": 34
+  },
+  "long_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Dài 12 cm": 1,
+    "Dài 12.5 cm": 1,
+    "Dài 124.7 cm": 1,
+    "Dài 13 cm": 1,
+    "Dài 40 cm": 1,
+    "Dài 42 cm": 3,
+    "Dài 44 cm": 2,
+    "Dài 47 cm": 2,
+    "Dài 52.2 cm": 1,
+    "Dài 52.5 cm": 1,
+    "Dài 71.5 cm": 1,
+    "Dài 72 cm": 1,
+    "Dài 73 cm": 4,
+    "Dài 74 cm": 1,
+    "Dài 75.5 cm": 1,
+    "Dài 78.5 cm": 1,
+    "Dài 90 cm": 2,
+    "Dài 90.9 cm": 1,
+    "Dài 91 cm": 1,
+    "Dài 95.7 cm": 1
+   },
+   "total_samples": 34
+  },
+  "made_in_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Thái Lan": 4,
+    "Trung Quốc": 30
+   },
+   "total_samples": 34
+  },
+  "mass_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Nặng 1.5 kg": 1,
+    "Nặng 10 kg": 5,
+    "Nặng 10.6 kg": 1,
+    "Nặng 12 kg": 1,
+    "Nặng 12.5 kg": 1,
+    "Nặng 18 kg": 2,
+    "Nặng 2.3 kg": 1,
+    "Nặng 2.5 kg": 1,
+    "Nặng 22.6 kg": 2,
+    "Nặng 3 kg": 3,
+    "Nặng 3.5 kg": 1,
+    "Nặng 4 kg": 2,
+    "Nặng 5 kg": 1,
+    "Nặng 5.21 kg": 1,
+    "Nặng 5.5 kg": 1,
+    "Nặng 5.96 kg": 1,
+    "Nặng 53.6 kg": 1,
+    "Nặng 7.5 kg": 2,
+    "Nặng 7.8 kg": 1,
+    "Nặng 9.55 kg": 1
+   },
+   "total_samples": 34
+  },
+  "payload_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "100": 1,
+    "110": 1,
+    "150": 5,
+    "170": 2,
+    "170 kg": 1,
+    "180": 1,
+    "2000": 2,
+    "220": 2,
+    "250": 1,
+    "300": 2,
+    "300 - 320 kg": 1,
+    "320": 2,
+    "35": 2,
+    "40 - 50 kg": 1,
+    "400 - 500 kg": 1,
+    "4000": 1,
+    "6000": 1,
+    "70": 1,
+    "80": 1,
+    "85": 2
+   },
+   "total_samples": 34
+  },
+  "product_type_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Con đội": 4,
+    "Xe kéo hàng": 2,
+    "Xe kéo đẩy leo cầu thang": 2,
+    "Xe đẩy hàng": 26
+   },
+   "total_samples": 34
+  },
+  "surface_material_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Hợp kim nhôm": 7,
+    "Inox": 2,
+    "Nhôm": 4,
+    "Nhựa": 4,
+    "Nhựa PP": 1,
+    "Nhựa và sắt": 3,
+    "Thép": 9,
+    "Thép sơn tĩnh điện": 3,
+    "Thép sơn tĩnh điện, phủ Hammertone nhám chống gỉ": 1
+   },
+   "total_samples": 34
+  },
+  "utilities_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Bánh xe leo cầu thang|Bánh xe xoay|Có khả năng gấp gọn|Tay nắm bọc nhựa/cao su": 1,
+    "Bánh xe xoay": 2,
+    "Bánh xe xoay|Có khả năng gấp gọn": 1,
+    "Móc thép xoay 360 độ|Tay nắm bọc nhựa/cao su": 1,
+    "Tay cầm tháo rời": 3,
+    "Tay nắm bọc nhựa/cao su": 3
+   },
+   "total_samples": 11
+  },
+  "wheel_axle_material_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Nylon cao cấp": 1
+   },
+   "total_samples": 1
+  },
+  "wheel_diameter_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "10 cm": 7,
+    "10.1 cm": 1,
+    "12 cm": 2,
+    "12.4 cm": 1,
+    "12.5 cm": 2,
+    "13 cm": 1,
+    "15 cm": 3,
+    "20 cm": 3,
+    "7.5 cm": 2
+   },
+   "total_samples": 22
+  },
+  "wheel_material_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Cao su": 2,
+    "Cao su thiên nhiên": 1,
+    "Cao su tổng hợp": 2,
+    "Cao su và nhựa tổng hợp TPR": 6,
+    "Nhựa PP": 1,
+    "Nhựa PU + lõi sắt": 1,
+    "Nhựa tổng hợp": 1
+   },
+   "total_samples": 14
+  },
+  "wide_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Rộng 10 cm": 1,
+    "Rộng 11 cm": 1,
+    "Rộng 12 cm": 2,
+    "Rộng 30 cm": 1,
+    "Rộng 38 cm": 1,
+    "Rộng 38.5 cm": 2,
+    "Rộng 40 cm": 1,
+    "Rộng 41.2 cm": 1,
+    "Rộng 42 cm": 2,
+    "Rộng 46.7 cm": 1,
+    "Rộng 47 cm": 4,
+    "Rộng 47.7 cm": 1,
+    "Rộng 48 cm": 2,
+    "Rộng 48.5 cm": 2,
+    "Rộng 48.7 cm": 1,
+    "Rộng 49 cm": 3,
+    "Rộng 60 cm": 4,
+    "Rộng 61 cm": 1,
+    "Rộng 61.5 cm": 1,
+    "Rộng 76.7 cm": 1
+   },
+   "total_samples": 34
+  },
+  "year_of_manufacture_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "2020": 24,
+    "2021": 5,
+    "2022": 1,
+    "2024": 3,
+    "2025": 1
+   },
+   "total_samples": 34
+  }
+ }
+}
