@@ -262,9 +262,27 @@
     "pham_vi": "tat_ca"
    }
   ],
+  "344\tlong_tskt_master\tbd": [
+   {
+    "a": "Dài",
+    "b": "cm",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "pham_vi": "tat_ca"
+   }
+  ],
   "344\treclined_height_tskt_master\tbd": [
    {
     "a": "Cao",
+    "b": "cm",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "pham_vi": "tat_ca"
+   }
+  ],
+  "344\treclined_length_tskt_master\tbd": [
+   {
+    "a": "Dài",
     "b": "cm",
     "he_so": "",
     "kieu": "ca_hai",
@@ -617,7 +635,7 @@
    }
   ]
  },
- "luc_luu": "2026-10-07 10:58:06",
+ "luc_luu": "2026-10-07 10:58:41",
  "map_ten": "tham_chieu",
  "nguoi_luu": "ducd",
  "rong": {
