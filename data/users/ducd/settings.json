@@ -22,6 +22,15 @@
     "pham_vi": "tat_ca"
    }
   ],
+  "11518\twide_tskt_master\tbd": [
+   {
+    "a": "Rộng",
+    "b": "cm",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "pham_vi": "tat_ca"
+   }
+  ],
   "1942\tlegless_mass_tskt_master": "kg",
   "1942\tmass_with_base_tskt_master": "kg",
   "1988\tdeep_tskt_master": "cm",
@@ -464,7 +473,7 @@
    }
   ]
  },
- "luc_luu": "2026-10-07 09:19:02",
+ "luc_luu": "2026-10-07 09:19:39",
  "map_ten": "tham_chieu",
  "nguoi_luu": "ducd",
  "rong": {
