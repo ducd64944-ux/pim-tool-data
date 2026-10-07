@@ -1,91 +1,307 @@
 {
- "chon": [],
- "chua_map": [],
+ "chon": [
+  {
+   "CHỌN": true,
+   "GHI CHÚ": "",
+   "MÃ NH": "9100",
+   "NGUỒN CATE": "CATEGORYID",
+   "SỐ SKU": 12,
+   "TAB TSKT / CẤU HÌNH": "cấu hình — 22 cột",
+   "TÊN NGÀNH HÀNG": "Bồn ngâm chân"
+  }
+ ],
+ "chua_map": [
+  {
+   "cate": "9100",
+   "goi_y_ma": "",
+   "prop_id": "26973",
+   "prop_name": "Loại máy",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Máy massage chân"
+  },
+  {
+   "cate": "9100",
+   "goi_y_ma": "function_tskt_master",
+   "prop_id": "26974",
+   "prop_name": "Chức năng",
+   "so_dong": 6,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Giảm đau, căng cứng, mỏi cơ"
+  },
+  {
+   "cate": "9100",
+   "goi_y_ma": "",
+   "prop_id": "26975",
+   "prop_name": "Vùng sử dụng",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Lòng bàn chân"
+  },
+  {
+   "cate": "9100",
+   "goi_y_ma": "technology_tskt_master",
+   "prop_id": "26977",
+   "prop_name": "Công nghệ",
+   "so_dong": 6,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Công nghệ gia nhiệt thông minh DPS"
+  },
+  {
+   "cate": "9100",
+   "goi_y_ma": "control_panel_tskt_master",
+   "prop_id": "26978",
+   "prop_name": "Bảng điều khiển",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Nút nhấn"
+  },
+  {
+   "cate": "9100",
+   "goi_y_ma": "",
+   "prop_id": "26979",
+   "prop_name": "Thời gian massage tối đa",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "45 phút"
+  },
+  {
+   "cate": "9100",
+   "goi_y_ma": "",
+   "prop_id": "26980",
+   "prop_name": "Chế độ hoạt động & mức điều chỉnh",
+   "so_dong": 4,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "1 chế độ"
+  },
+  {
+   "cate": "9100",
+   "goi_y_ma": "",
+   "prop_id": "26982",
+   "prop_name": "Phương pháp massage",
+   "so_dong": 4,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Con lăn"
+  },
+  {
+   "cate": "9100",
+   "goi_y_ma": "",
+   "prop_id": "26983",
+   "prop_name": "Tải trọng tối đa",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "9100",
+   "goi_y_ma": "",
+   "prop_id": "26984",
+   "prop_name": "Chất liệu",
+   "so_dong": 4,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Nhựa ABS"
+  },
+  {
+   "cate": "9100",
+   "goi_y_ma": "",
+   "prop_id": "26985",
+   "prop_name": "Chất liệu đầu massage",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Nhựa ABS"
+  },
+  {
+   "cate": "9100",
+   "goi_y_ma": "",
+   "prop_id": "26986",
+   "prop_name": "Tần số rung",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "9100",
+   "goi_y_ma": "",
+   "prop_id": "26987",
+   "prop_name": "Dùng cho vòng eo",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "9100",
+   "goi_y_ma": "utilities_tskt_master",
+   "prop_id": "26988",
+   "prop_name": "Tiện ích",
+   "so_dong": 6,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Chườm nóng 40°C, 42°C và 44°C"
+  },
+  {
+   "cate": "9100",
+   "goi_y_ma": "output_power_tskt_master",
+   "prop_id": "26989",
+   "prop_name": "Công suất",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "750W"
+  },
+  {
+   "cate": "9100",
+   "goi_y_ma": "",
+   "prop_id": "26990",
+   "prop_name": "Nguồn cấp điện",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Điện trực tiếp"
+  },
+  {
+   "cate": "9100",
+   "goi_y_ma": "",
+   "prop_id": "26991",
+   "prop_name": "Thời gian sạc",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "9100",
+   "goi_y_ma": "usage_time_tskt_master",
+   "prop_id": "26992",
+   "prop_name": "Thời gian sử dụng",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "9100",
+   "goi_y_ma": "",
+   "prop_id": "26995",
+   "prop_name": "Khối lượng",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "2.77"
+  },
+  {
+   "cate": "9100",
+   "goi_y_ma": "brand_of_tskt_master",
+   "prop_id": "26996",
+   "prop_name": "Thương hiệu của",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Hà Lan"
+  },
+  {
+   "cate": "9100",
+   "goi_y_ma": "made_in_tskt_master",
+   "prop_id": "26997",
+   "prop_name": "Sản xuất tại",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Trung Quốc"
+  },
+  {
+   "cate": "9100",
+   "goi_y_ma": "release_date_tskt_master",
+   "prop_id": "26998",
+   "prop_name": "Năm ra mắt",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "2025"
+  },
+  {
+   "cate": "9100",
+   "goi_y_ma": "horizontal_tskt_master",
+   "prop_id": "27360",
+   "prop_name": "Ngang",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "38.35"
+  },
+  {
+   "cate": "9100",
+   "goi_y_ma": "high_tskt_master",
+   "prop_id": "27361",
+   "prop_name": "Cao",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "32.25"
+  },
+  {
+   "cate": "9100",
+   "goi_y_ma": "",
+   "prop_id": "27362",
+   "prop_name": "Rộng",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "40.35"
+  }
+ ],
  "dx_dang_ap": 0,
  "goc_cms": {},
- "log": [
-  [
-   "4845000000137",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001253",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001328",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001254",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4845000000373",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001171",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001172",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4845000000049",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4845000000346",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4845000000347",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4845000000201",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4845000000195",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ]
- ],
- "luc": "2026-10-07 09:30:35",
- "nganh": {},
+ "log": [],
+ "luc": "2026-10-07 09:31:14",
+ "nganh": {
+  "9100": {
+   "attr": [
+    "brand_of_tskt_master",
+    "capacity_tskt_master",
+    "control_panel_tskt_master",
+    "deep_tskt_master",
+    "display_screen_tskt_master",
+    "function_tskt_master",
+    "high_tskt_master",
+    "horizontal_tskt_master",
+    "inner_material_tskt_master",
+    "long_cord_tskt_master",
+    "machine_weight_tskt_master",
+    "made_in_tskt_master",
+    "massage_roller_tskt_master",
+    "operating_temperature_tskt_master",
+    "output_power_tskt_master",
+    "power_source_tskt_master",
+    "release_date_tskt_master",
+    "safety_features_tskt_master",
+    "size_weight_tskt_master",
+    "technology_tskt_master",
+    "usage_time_tskt_master",
+    "utilities_tskt_master"
+   ],
+   "ten": {
+    "brand_of_tskt_master": "Thương hiệu của",
+    "capacity_tskt_master": "Dung lượng",
+    "control_panel_tskt_master": "Bảng điều khiển",
+    "deep_tskt_master": "Sâu",
+    "display_screen_tskt_master": "Màn hình hiển thị",
+    "function_tskt_master": "Chức năng",
+    "high_tskt_master": "Cao",
+    "horizontal_tskt_master": "Ngang",
+    "inner_material_tskt_master": "Chất liệu ruột",
+    "long_cord_tskt_master": "Dài dây",
+    "machine_weight_tskt_master": "Khối lượng máy",
+    "made_in_tskt_master": "Sản xuất tại",
+    "massage_roller_tskt_master": "Con lăn massage",
+    "operating_temperature_tskt_master": "Nhiệt độ hoạt động",
+    "output_power_tskt_master": "Công suất đầu ra",
+    "power_source_tskt_master": "Nguồn điện",
+    "release_date_tskt_master": "Thời gian ra mắt",
+    "safety_features_tskt_master": "Tính năng an toàn",
+    "size_weight_tskt_master": "Kích thước Khối lượng",
+    "technology_tskt_master": "Công nghệ",
+    "usage_time_tskt_master": "Thời gian sử dụng",
+    "utilities_tskt_master": "Tiện ích"
+   },
+   "ten_nh": "Bồn ngâm chân",
+   "title": "TSKT 9100 Bồn ngâm chân"
+  }
+ },
  "tom_tat": {
   "filter_khong_khop": 0,
-  "khong_data": 12,
+  "khong_data": 0,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 0,
-  "so_o": 0,
-  "so_sku": 0
+  "so_nganh": 1,
+  "so_o": 242,
+  "so_sku": 12
  }
 }
