@@ -86,6 +86,15 @@
    }
   ],
   "11758\tmachine_weight_tskt_master": "kg",
+  "12458\thigh_tskt_master\tbd": [
+   {
+    "a": "Cao",
+    "b": "cm",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "pham_vi": "tat_ca"
+   }
+  ],
   "12458\tlong_tskt_master\tbd": [
    {
     "a": "Dài",
@@ -911,24 +920,6 @@
   {
    "d": {
     "dv": {
-     "1986\tmass_tskt_master\tbd": [
-      {
-       "a": "Nặng",
-       "b": "cm",
-       "he_so": "",
-       "kieu": "ca_hai",
-       "pham_vi": "tat_ca"
-      }
-     ]
-    }
-   },
-   "luc": "2026-10-07 16:52:45",
-   "nhan": "Sửa biến đổi hàng loạt cột mass_tskt_master",
-   "so": 1
-  },
-  {
-   "d": {
-    "dv": {
      "9678\tdeep_tskt_master\tbd": null
     }
    },
@@ -1065,9 +1056,19 @@
    "luc": "2026-10-07 21:59:09",
    "nhan": "Biến đổi hàng loạt 1 cột: Thêm cả TRƯỚC và SAU",
    "so": 1
+  },
+  {
+   "d": {
+    "dv": {
+     "12458\thigh_tskt_master\tbd": null
+    }
+   },
+   "luc": "2026-10-07 21:59:31",
+   "nhan": "Biến đổi hàng loạt 1 cột: Thêm cả TRƯỚC và SAU",
+   "so": 1
   }
  ],
- "luc_luu": "2026-10-07 21:59:09",
+ "luc_luu": "2026-10-07 21:59:31",
  "nguoi_luu": "ducd",
  "rong": {
   "-": [
