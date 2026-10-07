@@ -1,379 +1,167 @@
 {
- "chon": [],
- "chua_map": [],
+ "chon": [
+  {
+   "CHỌN": true,
+   "GHI CHÚ": "",
+   "MÃ NH": "8558",
+   "NGUỒN CATE": "CATEGORYID",
+   "SỐ SKU": 60,
+   "TAB TSKT / CẤU HÌNH": "cấu hình — 6 cột",
+   "TÊN NGÀNH HÀNG": "Kéo"
+  }
+ ],
+ "chua_map": [
+  {
+   "cate": "8558",
+   "goi_y_ma": "",
+   "prop_id": "11335",
+   "prop_name": "Loại dao",
+   "so_dong": 12,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "-"
+  },
+  {
+   "cate": "8558",
+   "goi_y_ma": "",
+   "prop_id": "15430",
+   "prop_name": "Chất liệu lưỡi dao",
+   "so_dong": 14,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "-"
+  },
+  {
+   "cate": "8558",
+   "goi_y_ma": "made_in_tskt_master",
+   "prop_id": "15433",
+   "prop_name": "Sản xuất tại",
+   "so_dong": 14,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Trung Quốc"
+  },
+  {
+   "cate": "8558",
+   "goi_y_ma": "material_tskt_master",
+   "prop_id": "15474",
+   "prop_name": "Chất liệu",
+   "so_dong": 14,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Thép không gỉ"
+  },
+  {
+   "cate": "8558",
+   "goi_y_ma": "",
+   "prop_id": "15475",
+   "prop_name": "Kích thước",
+   "so_dong": 9,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "16 cm"
+  },
+  {
+   "cate": "8558",
+   "goi_y_ma": "",
+   "prop_id": "19260",
+   "prop_name": "Chất liệu cán dao",
+   "so_dong": 14,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "-"
+  },
+  {
+   "cate": "8558",
+   "goi_y_ma": "",
+   "prop_id": "19263",
+   "prop_name": "Mã sản phẩm",
+   "so_dong": 8,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "KE001"
+  },
+  {
+   "cate": "8558",
+   "goi_y_ma": "",
+   "prop_id": "19264",
+   "prop_name": "Màu sắc",
+   "so_dong": 14,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "-1"
+  },
+  {
+   "cate": "8558",
+   "goi_y_ma": "",
+   "prop_id": "19265",
+   "prop_name": "Kích thước",
+   "so_dong": 4,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Chiều dài 16.5cm"
+  },
+  {
+   "cate": "8558",
+   "goi_y_ma": "",
+   "prop_id": "19261",
+   "prop_name": "Điểm nổi bật (*)",
+   "so_dong": 4,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "23.5 cm"
+  },
+  {
+   "cate": "8558",
+   "goi_y_ma": "",
+   "prop_id": "15476",
+   "prop_name": "Loại",
+   "so_dong": 4,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Dao bào"
+  },
+  {
+   "cate": "8558",
+   "goi_y_ma": "",
+   "prop_id": "25752",
+   "prop_name": "Loại sản phẩm - Mua kèm",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Kìm"
+  },
+  {
+   "cate": "8558",
+   "goi_y_ma": "product_type_tskt_master",
+   "prop_id": "34374",
+   "prop_name": "Loại sản phẩm",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Kìm cắt"
+  }
+ ],
  "dx_dang_ap": 0,
  "goc_cms": {},
- "log": [
-  [
-   "9923381000521",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923381000438",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923381000502",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923381000442",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923381000525",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923381000488",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033241000363",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923381000714",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923381000712",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033241000362",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923189000066",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923189000214",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033241000241",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033241000239",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033241000515",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033241000540",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033241000568",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033241000496",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033241000474",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033241000238",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033241000593",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923381000463",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033241000514",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923381000690",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033241000584",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033241000582",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033339000017",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923381000064",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033339000014",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033339000015",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923381000591",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033339000016",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923381000063",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033241000237",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033241000171",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033241000240",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033339000013",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923381000061",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033241000592",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033241000170",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033241000569",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033241000581",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033241000580",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033241000594",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033339000018",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033241000168",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033241000169",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033241000242",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033241000361",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033241000583",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033241000542",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033241000475",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033241000541",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923381000713",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923381000691",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923189000213",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923381000447",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033241000543",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033241000495",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033241000497",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ]
- ],
- "luc": "2026-10-07 14:13:26",
- "nganh": {},
+ "log": [],
+ "luc": "2026-10-07 14:13:52",
+ "nganh": {
+  "8558": {
+   "attr": [
+    "product_type_filter_master",
+    "function_tskt_master",
+    "handle_material_tskt_master",
+    "made_in_tskt_master",
+    "material_tskt_master",
+    "product_type_tskt_master"
+   ],
+   "ten": {
+    "function_tskt_master": "Chức năng",
+    "handle_material_tskt_master": "Chất liệu tay cầm",
+    "made_in_tskt_master": "Sản xuất tại",
+    "material_tskt_master": "Chất liệu",
+    "product_type_filter_master": "Loại sản phẩm",
+    "product_type_tskt_master": "Loại sản phẩm"
+   },
+   "ten_nh": "Kéo",
+   "title": "TSKT 8558 Kéo"
+  }
+ },
  "tom_tat": {
   "filter_khong_khop": 0,
-  "khong_data": 60,
+  "khong_data": 0,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 0,
-  "so_o": 0,
-  "so_sku": 0
+  "so_nganh": 1,
+  "so_o": 360,
+  "so_sku": 60
  }
 }
