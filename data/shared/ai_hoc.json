@@ -329,6 +329,73 @@
    "total_samples": 34
   }
  },
+ "4932": {
+  "brand_of_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Việt nam": 3
+   },
+   "total_samples": 3
+  },
+  "color_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Vàng cỏ úa": 1,
+    "xanh đen": 1,
+    "Đỏ đô": 1
+   },
+   "total_samples": 3
+  },
+  "made_in_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Việt nam": 3
+   },
+   "total_samples": 3
+  },
+  "material_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Vải dù tổ ong": 3
+   },
+   "total_samples": 3
+  },
+  "product_type_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Áo mưa bít": 1,
+    "Áo mưa cánh dơi": 2
+   },
+   "total_samples": 3
+  },
+  "size_weight_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Dài: 120 cm - Ngang: 102 cm Nặng: 0.9 kg": 1,
+    "Dài: 144 cm - Ngang: 150 cm Nặng: 0.9 kg": 1,
+    "Dài: 152 cm - Ngang: 159 cm Nặng: 1.1 kg": 1
+   },
+   "total_samples": 3
+  }
+ },
  "5227": {
   "brand_of_tskt_master": {
    "contributors": [
