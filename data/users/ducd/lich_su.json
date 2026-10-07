@@ -534,5 +534,19 @@
   "Thêm đơn vị": 0,
   "Tách xin data": 0,
   "Workspace": "ducd"
+ },
+ {
+  "Biến đổi": 0,
+  "Chặn ô theo tên": 0,
+  "Cảnh báo": "• 86 ô KHÁC spec PIM (sẽ ghi đè) | • 3 dòng không có trong file PIM | • 253 ô giá trị CMS bị MẤT khi map (xem 🧾 Đối soát)",
+  "File": "PIM_TSKT 5105 Lõi máy lọc nước_MODEL_20261007_1739.xlsx, PIM_TSKT 5105 Lõi máy lọc nước_BIENTHE_20261007_1739.xlsx",
+  "Không/Đang cập nhật": 43,
+  "Lúc": "2026-10-07 17:39:50",
+  "Người xuất": "ducd",
+  "Số dòng": 250,
+  "Sửa tay": 0,
+  "Thêm đơn vị": 0,
+  "Tách xin data": 0,
+  "Workspace": "ducd"
  }
 ]
