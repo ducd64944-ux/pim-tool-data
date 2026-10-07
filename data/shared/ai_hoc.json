@@ -329,6 +329,125 @@
    "total_samples": 34
   }
  },
+ "13238": {
+  "brand_of_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Việt Nam": 7
+   },
+   "total_samples": 7
+  },
+  "deep_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Sâu 11.7 cm": 1,
+    "Sâu 14.8 cm": 1,
+    "Sâu 23.4 cm": 1,
+    "Sâu 30 cm": 2,
+    "Sâu 40 cm": 1,
+    "Sâu 42 cm": 1
+   },
+   "total_samples": 7
+  },
+  "function_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Lưu trữ các loại đồ dùng khác nhau": 7
+   },
+   "total_samples": 7
+  },
+  "high_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Cao 12.3 cm": 1,
+    "Cao 12.4 cm": 1,
+    "Cao 14 cm": 1,
+    "Cao 20 cm": 1,
+    "Cao 34 cm": 1,
+    "Cao 40 cm": 1,
+    "Cao 6.3 cm": 1
+   },
+   "total_samples": 7
+  },
+  "horizontal_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Ngang 23.4 cm": 1,
+    "Ngang 29.6 cm": 2,
+    "Ngang 40 cm": 1,
+    "Ngang 50 cm": 1,
+    "Ngang 60 cm": 2
+   },
+   "total_samples": 7
+  },
+  "made_in_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Trung Quốc": 4,
+    "Việt Nam": 3
+   },
+   "total_samples": 7
+  },
+  "mass_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Nặng 182g": 1,
+    "Nặng 231g": 1,
+    "Nặng 300g": 4,
+    "Nặng 476g": 1
+   },
+   "total_samples": 7
+  },
+  "material_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Bìa cứng|Vải không dệt": 1,
+    "Hạt màu|Nhựa PP": 3,
+    "Lớp lót vải|Tấm PP|Vải cation": 1,
+    "Thép mạ kẽm 3.0|Vải Oxford 600D PE": 2
+   },
+   "total_samples": 7
+  },
+  "size_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "100L": 1,
+    "30L": 1,
+    "66L": 1,
+    "Size M": 2,
+    "Size XL": 1,
+    "Size XS": 1
+   },
+   "total_samples": 7
+  }
+ },
  "14479": {
   "age_of_use_tskt_master": {
    "contributors": [
