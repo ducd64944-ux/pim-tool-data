@@ -1531,6 +1531,128 @@
    "total_samples": 2
   }
  },
+ "7899": {
+  "brand_of_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Hàn Quốc": 4,
+    "Trung Quốc": 2,
+    "Việt Nam": 3
+   },
+   "total_samples": 9
+  },
+  "capacity_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "0.35 lít - 0.6 lít - 1.2 lít": 1,
+    "1 lít": 1,
+    "1 lít (mỗi khay 0.5 lít)": 1,
+    "1.5 lít": 2,
+    "2 lít": 5
+   },
+   "total_samples": 10
+  },
+  "function_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Hâm nóng thức ăn|Hấp|Luộc trứng|Nấu canh|Nấu cơm": 2,
+    "Hâm nóng thức ăn|Hấp|Luộc trứng|Nấu cơm": 4,
+    "Hâm nóng thức ăn|Hấp|Làm bánh|Luộc trứng|Nấu canh|Nấu cơm": 1,
+    "Hâm nóng thức ăn|Luộc rau|Luộc trứng|Nấu cơm|Nấu mì": 1,
+    "Hâm nóng thức ăn|Nấu cháo|Nấu cơm|Nấu lẩu": 2
+   },
+   "total_samples": 10
+  },
+  "made_in_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Trung Quốc": 10
+   },
+   "total_samples": 10
+  },
+  "material_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Nắp nhựa PP, thân nhựa PP, lòng inox 304": 1,
+    "Nắp nhựa PP, thân nhựa PS, lòng inox 304": 1,
+    "Vỏ nhựa ABS, khay đựng inox 304": 3,
+    "Vỏ và nắp bằng nhựa PP, khay đựng bằng inox 304": 5
+   },
+   "total_samples": 10
+  },
+  "output_power_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "250W": 2,
+    "270W": 4,
+    "300W": 2,
+    "600W": 2
+   },
+   "total_samples": 10
+  },
+  "product_dimensions_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Dài 17.5 cm - rộng 17.5 cm - cao 24 cm": 1,
+    "Ngang 16 cm - Cao 23.7 cm - Sâu 16 cm": 2,
+    "Ngang 16.2 cm - Cao 25.5 cm - Sâu 19 cm": 1,
+    "Ngang 18 cm - Cao 23 cm - Sâu 17 cm": 2,
+    "Ngang 23 cm - Cao 15 cm - Sâu 11.5 cm": 1,
+    "Ngang 25 cm - Sâu 12 cm - Cao 17.5 cm - Nặng 1.4 kg": 1,
+    "Ngang 25 cm - sâu 12 cm - cao 17.5 cm": 1,
+    "Ngang 25.5 cm - Cao 15 cm - Sâu 12.5 cm - Nặng 1.1 kg": 1
+   },
+   "total_samples": 10
+  },
+  "quantity_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "1 tầng - 2 khay đựng": 1,
+    "1 tầng, 2 khay, 3 ngăn": 1,
+    "2 tầng, 3 khay, 1 ngăn": 1,
+    "2 tầng, 3 khay, 4 ngăn": 2,
+    "3 tầng, 2 khay, 3 ngăn": 4,
+    "3 tầng, 3 khay, 3 ngăn": 1
+   },
+   "total_samples": 10
+  },
+  "release_date_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "2019": 3,
+    "2020": 6,
+    "2021": 1
+   },
+   "total_samples": 10
+  }
+ },
  "8579": {
   "body_material_tskt_master": {
    "contributors": [
