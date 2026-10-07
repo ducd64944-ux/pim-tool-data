@@ -1845,6 +1845,35 @@
    "year_of_manufacture_tskt_master": "Năm sản xuất"
   }
  },
+ "9239": {
+  "cot": [
+   "brand_of_tskt_master",
+   "deep_tskt_master",
+   "handle_material_tskt_master",
+   "high_tskt_master",
+   "horizontal_tskt_master",
+   "made_in_tskt_master",
+   "mass_tskt_master",
+   "material_tskt_master",
+   "product_type_tskt_master",
+   "size_weight_tskt_master",
+   "utilities_tskt_master"
+  ],
+  "ten": "Khay - kệ đựng đồ",
+  "ten_cot": {
+   "brand_of_tskt_master": "Thương hiệu của",
+   "deep_tskt_master": "Sâu",
+   "handle_material_tskt_master": "Chất liệu tay cầm",
+   "high_tskt_master": "Cao",
+   "horizontal_tskt_master": "Ngang",
+   "made_in_tskt_master": "Sản xuất tại",
+   "mass_tskt_master": "Khối lượng",
+   "material_tskt_master": "Chất liệu",
+   "product_type_tskt_master": "Loại sản phẩm",
+   "size_weight_tskt_master": "Kích thước Khối lượng",
+   "utilities_tskt_master": "Tiện ích"
+  }
+ },
  "9538": {
   "cot": [
    "brand_of_tskt_master",
