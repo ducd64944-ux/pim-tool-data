@@ -1445,6 +1445,33 @@
    "year_of_manufacture_tskt_master": "Năm sản xuất"
   }
  },
+ "8984": {
+  "cot": [
+   "brand_of_tskt_master",
+   "display_screen_tskt_master",
+   "made_in_tskt_master",
+   "material_tskt_master",
+   "payload_tskt_master",
+   "power_source_tskt_master",
+   "product_type_tskt_master",
+   "scope_of_use_tskt_master",
+   "size_weight_tskt_master",
+   "utilities_tskt_master"
+  ],
+  "ten": "Dụng cụ cân, đo",
+  "ten_cot": {
+   "brand_of_tskt_master": "Thương hiệu của",
+   "display_screen_tskt_master": "Màn hình hiển thị",
+   "made_in_tskt_master": "Sản xuất tại",
+   "material_tskt_master": "Chất liệu",
+   "payload_tskt_master": "Trọng tải",
+   "power_source_tskt_master": "Nguồn điện",
+   "product_type_tskt_master": "Loại sản phẩm",
+   "scope_of_use_tskt_master": "Phạm vi sử dụng",
+   "size_weight_tskt_master": "Kích thước Khối lượng",
+   "utilities_tskt_master": "Tiện ích"
+  }
+ },
  "9100": {
   "cot": [
    "brand_of_tskt_master",
