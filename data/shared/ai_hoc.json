@@ -2557,6 +2557,199 @@
    "total_samples": 10
   }
  },
+ "9239": {
+  "brand_of_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Việt Nam": 26
+   },
+   "total_samples": 26
+  },
+  "deep_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Sâu 11 cm": 2,
+    "Sâu 12.5 cm": 1,
+    "Sâu 19 cm": 1,
+    "Sâu 21.4 cm": 1,
+    "Sâu 22.5 cm": 3,
+    "Sâu 23.2 cm": 3,
+    "Sâu 24.5 cm": 1,
+    "Sâu 25 cm": 1,
+    "Sâu 30 cm": 1,
+    "Sâu 31.3 cm": 2,
+    "Sâu 33.6 cm": 1,
+    "Sâu 35 cm": 4,
+    "Sâu 36 - 52 cm": 2,
+    "Sâu 36 - 54 cm": 2,
+    "Sâu 36 cm": 1
+   },
+   "total_samples": 26
+  },
+  "handle_material_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Nhựa": 7
+   },
+   "total_samples": 7
+  },
+  "high_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Cao 10 cm": 2,
+    "Cao 100 cm": 2,
+    "Cao 117 cm": 1,
+    "Cao 12 cm": 1,
+    "Cao 168 cm": 1,
+    "Cao 29 cm": 1,
+    "Cao 29.4 cm": 1,
+    "Cao 35 cm": 1,
+    "Cao 36 cm": 1,
+    "Cao 47 cm": 1,
+    "Cao 6.5 cm": 1,
+    "Cao 60 cm": 1,
+    "Cao 66 cm": 1,
+    "Cao 69 cm": 1,
+    "Cao 70 cm": 2,
+    "Cao 73 cm": 1,
+    "Cao 8 cm": 2,
+    "Cao 9 cm": 1,
+    "Cao 9.5 cm": 2,
+    "Cao 98 cm": 1
+   },
+   "total_samples": 26
+  },
+  "horizontal_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Ngang 16 cm": 2,
+    "Ngang 21 cm": 1,
+    "Ngang 26 cm": 1,
+    "Ngang 27 cm": 1,
+    "Ngang 28 cm": 1,
+    "Ngang 32 cm": 2,
+    "Ngang 34 cm": 1,
+    "Ngang 35.8 cm": 1,
+    "Ngang 36.5 cm": 5,
+    "Ngang 42 cm": 1,
+    "Ngang 43 cm": 1,
+    "Ngang 45 cm": 3,
+    "Ngang 46 cm": 2,
+    "Ngang 46.9 cm": 1,
+    "Ngang 48 cm": 1,
+    "Ngang 51 cm": 1,
+    "Ngang 61.5 cm": 1
+   },
+   "total_samples": 26
+  },
+  "made_in_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Trung Quốc": 3,
+    "Việt Nam": 23
+   },
+   "total_samples": 26
+  },
+  "mass_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Nặng 0.11 g": 1,
+    "Nặng 0.14 g": 1,
+    "Nặng 0.19 g": 1,
+    "Nặng 0.25 g": 1,
+    "Nặng 0.5 g": 1,
+    "Nặng 0.54 g": 2,
+    "Nặng 0.75 g": 1,
+    "Nặng 0.92 g": 2,
+    "Nặng 1.185 g": 2,
+    "Nặng 1.2 g": 1,
+    "Nặng 1.24 g": 1,
+    "Nặng 1.5 g": 1,
+    "Nặng 1.51 g": 1,
+    "Nặng 1.6 g": 1,
+    "Nặng 1.685 g": 1,
+    "Nặng 1.88 g": 1,
+    "Nặng 2.05 g": 1,
+    "Nặng 3 g": 1,
+    "Nặng 5.5 g": 1,
+    "Nặng 8 g": 1
+   },
+   "total_samples": 24
+  },
+  "material_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Inox": 7,
+    "Nhựa": 2,
+    "Nhựa AS nguyên sinh, hạt màu, inox cao cấp": 1,
+    "Nhựa PET, inox": 2,
+    "Nhựa PP": 9,
+    "Nhựa PP (Polypropylen) nguyên sinh, hạt màu": 4,
+    "Nhựa PP, PS nguyên sinh": 1
+   },
+   "total_samples": 26
+  },
+  "product_type_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Khay dán tường": 3,
+    "Kệ giày dép": 4,
+    "Kệ gác bồn rửa chén": 4,
+    "Kệ lò vi sóng": 1,
+    "Kệ úp chén": 3,
+    "Kệ đa năng": 11
+   },
+   "total_samples": 26
+  },
+  "utilities_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Bánh xe di động giúp di chuyển dễ dàng|Chịu được khối lượng dưới 15 kg|Kết cấu chắc chắn chịu lực tốt|Lắp ráp dễ dàng, đ": 1,
+    "Chiều ngang có thể thay đổi kích thước": 4,
+    "Chịu được khối lượng dưới 10 kg": 1,
+    "Chịu được khối lượng dưới 10 kg|Có nắp giúp hạn chế được bụi bám, côn trùng, hoặc có thể để cả thức ăn vào đây|Có thêm 1": 1,
+    "Chịu được khối lượng dưới 15 kg|Kết cấu chắc chắn chịu lực tốt|Lắp ráp dễ dàng, đa chức năng": 4,
+    "Chịu được khối lượng dưới 7 kg|Kết cấu chắc chắn chịu lực tốt|Khay đựng muỗng nĩa tiện lợi|Lắp ráp dễ dàng, đa chức năng": 1,
+    "Chống bụi, chống côn trùng|Lắp ráp dễ dàng, đa chức năng": 3,
+    "Có khay hứng nước": 1,
+    "Kết cấu chắc chắn chịu lực tốt|Lắp ráp dễ dàng, đa chức năng": 6,
+    "Kệ nhiều tầng dễ lắp ráp": 1,
+    "Đáy khay có các rãnh thoát nước thông minh, không đọng nước|Kết cấu chắc chắn chịu lực tốt|Lắp ráp dễ dàng, đa chức năng": 1,
+    "Đáy khay có các rãnh thoát nước thông minh, không đọng nước|Đi kèm miếng dán cường lực siêu dính": 2
+   },
+   "total_samples": 26
+  }
+ },
  "9538": {
   "brand_of_tskt_master": {
    "contributors": [
