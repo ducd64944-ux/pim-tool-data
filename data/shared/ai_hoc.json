@@ -2646,6 +2646,226 @@
    "total_samples": 18
   }
  },
+ "5105": {
+  "brand_of_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Hàn Quốc": 7,
+    "Mỹ": 1,
+    "Nhật Bản": 35,
+    "Trung Quốc": 13,
+    "Việt Nam": 175,
+    "Úc": 2,
+    "Đức": 17
+   },
+   "total_samples": 250
+  },
+  "compatibility_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Daikiosan DXW-33009G": 5,
+    "Livotec 608|Livotec 635|Livotec 636|Livotec 638|Livotec 818|Livotec 828": 3,
+    "Máy lọc nước": 4,
+    "Máy lọc nước Delites": 8,
+    "Máy lọc nước Hòa Phát": 11,
+    "Máy lọc nước Kangaroo": 10,
+    "Máy lọc nước Karofi": 11,
+    "Máy lọc nước Korihome": 4,
+    "Máy lọc nước Midea": 13,
+    "Máy lọc nước Sunhouse": 15,
+    "Máy lọc nước|Máy lọc nước IONPIA": 4,
+    "Robot GRAND-X9WKUR": 4,
+    "Robot IonPrince 37X|Robot IonPrince 59X|Robot IonPrince 79X|Robot IonPrince 910X|Robot IonQueen 1113X|Robot IonQueen 511": 5,
+    "Robot SPRING-X10GUR|Robot SPRING-X9GN": 4,
+    "Sanaky VH101HP|Sanaky VH102HP3|Sanaky VH202HY|Sanaky VH202HY3": 5,
+    "Stiebel Eltron Glacier": 4,
+    "Stiebel Eltron Stream 5S": 4,
+    "TWP-NA1SVN(K)|TWP-WA2SVN(K)|TWP-WA3SVN(K)": 3,
+    "Toshiba TWP-H2396SVN(W)|Toshiba TWP-N2396SVN(W)|Toshiba TWP-W2396SVN(M)|Toshiba TWP-W2398SVN(M)|Toshiba TWP-W2399SVN(M)": 9,
+    "Toshiba TWP-W1643SV(W)": 4
+   },
+   "total_samples": 241
+  },
+  "filter_core_material_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Các hạt bóng gốm, với thành phần gồm các Oxide Khoáng như Silicat Oxide hay Nhôm Oxide": 3,
+    "Hạt Cation Resins": 3,
+    "Hạt Tourmaline/FIR/ion âm/ Magic ball/đá tạo khoáng": 3,
+    "Polypropylene": 4,
+    "Polypropylene 1 micron": 6,
+    "Polypropylene 5 micron": 3,
+    "Sợi PP nguyên sinh": 16,
+    "Sợi bông PP": 12,
+    "Sợi nhựa Polypropylene": 5,
+    "TFC - Thin Film Composite": 7,
+    "Than hoạt tính": 15,
+    "Than hoạt tính dạng hạt": 5,
+    "Than hoạt tính dạng hạt (xốp)": 4,
+    "Than hoạt tính gáo dừa dạng hạt": 3,
+    "Than hoạt tính gáo dừa dạng nén": 6,
+    "Than hoạt tính làm từ gáo dừa": 18,
+    "Từ các màng lọc R.O thẩm thấu ngược": 4,
+    "Từ đá khoáng tự nhiên": 6,
+    "Vải polyester, xốp polysulfone, lớp lọc polyamide": 5,
+    "Đá tạo khoáng, hạt lọc nước FIR": 4
+   },
+   "total_samples": 246
+  },
+  "filter_order_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Bộ lõi trong máy dòng IonPrince, IonQueen, UHC (Lõi 3); Bộ tiền xử lý dòng IonSmart (Lõi 4)": 1,
+    "Bộ tiền xử lý của dòng IonPrince, IonQueen, IonSmart (Lõi 1); Bộ lõi trong máy IonPrince, IonQueen, IonSmart, UHC - (Lõi": 1,
+    "Lõi lọc số 1": 36,
+    "Lõi lọc số 10": 2,
+    "Lõi lọc số 2": 43,
+    "Lõi lọc số 3": 40,
+    "Lõi lọc số 4": 24,
+    "Lõi lọc số 5": 12,
+    "Lõi lọc số 6": 10,
+    "Lõi lọc số 7": 12,
+    "Lõi lọc số 8": 9,
+    "Lõi lọc số 9": 9,
+    "SPRING-X9GN (Lõi số 6); SPRING-X10GUR (Lõi số 7)": 1,
+    "SPRING-X9GN (Lõi số 7); SPRING-X10GUR (Lõi số 8)": 1,
+    "SPRING-X9GN (Lõi số 8); SPRING-X10GUR (Lõi số 10)": 1,
+    "Theo model": 17,
+    "Đèn UV": 1
+   },
+   "total_samples": 220
+  },
+  "function_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Bổ sung các vi khoáng (Na, K, Ca, Mg) có lợi cho cơ thể|Giúp cân bằng pH, ổn định lại vị ngọt tự nhiên cho nước|Hấp phụ ": 11,
+    "Bổ sung khoáng chất vi lượng: Sắt, canxi, Magie…": 4,
+    "Diệt khuẩn và chống tái nhiễm khuẩn cho nước": 5,
+    "Hoạt hóa các phân tử nước, tăng lượng oxy trong nước giúp cơ thể hấp thụ nước nhanh hơn": 7,
+    "Hấp phụ kim loại nặng, chất hữu cơ, chất tẩy rửa, các loại hóa chất độc hại": 3,
+    "Khử mùi, loại bỏ kim loại nặng, chất hữu cơ, thuốc bảo vệ thực vật, dư lượng Clo": 3,
+    "Loại bỏ Clo, chất hữu cơ dư thừa và các khí gây mùi trong nước": 14,
+    "Loại bỏ chất bẩn, cát, sạn, bùn, tảo, rêu, chất rắn khác có kích thước trên 5 micron": 5,
+    "Loại bỏ các tạp chất còn sót lại trong quá trình lọc": 7,
+    "Loại bỏ các tạp chất còn sót lại trong quá trình lọc|Ngăn chặn bùn đất, rỉ sét, các loại tạp chất thô|Ngăn chặn bùn đất,": 3,
+    "Loại bỏ cặn bẩn, rêu tảo và các chất rắn có kích thước trên 1 micron": 8,
+    "Loại bỏ hoàn toàn chất rắn, các Ion kim loại nặng, vi sinh vật, vi khuẩn, siêu vi khuẩn, các chất hữu cơ": 4,
+    "Loại bỏ hoàn toàn chất rắn, các Ion kim loại nặng, vi sinh vật, vi khuẩn, siêu vi khuẩn, các chất hữu cơ|Loại bỏ mùi Clo": 4,
+    "Loại bỏ mùi Clo trong nước, hỗn hợp các độc tố có trong nước, kháng khuẩn đầu ra thêm lần nữa": 5,
+    "Loại bỏ đến 99.99% virus, vi khuẩn, tạp chất, kim loại nặng hòa tan trong nước": 4,
+    "Lọc các chất cặn bẩn": 8,
+    "Lọc được tạp chất, kim loại, vi khuẩn": 8,
+    "Ngăn chặn bùn đất, rỉ sét, các loại tạp chất thô": 13,
+    "Ngăn chặn bùn đất, tạp chất lơ lửng, loại bỏ mùi Clo trong nước, hỗn hợp các độc tố có trong nước": 5,
+    "Tăng chỉ số pH, tạo nước kiềm tính, trung hòa axit dư trong cơ thể": 5
+   },
+   "total_samples": 245
+  },
+  "made_in_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Hàn Quốc": 42,
+    "Mỹ": 3,
+    "Nga": 3,
+    "Nhật Bản": 11,
+    "Trung Quốc": 44,
+    "Việt Nam": 143,
+    "Đài Loan": 4
+   },
+   "total_samples": 250
+  },
+  "minimum_filtration_size_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "0.0001 micron": 5,
+    "0.01 micron": 1,
+    "0.1 - 0.5 micron": 4,
+    "1 - 5 micron": 1,
+    "1 micron": 8,
+    "10 - 20 micron": 1,
+    "5 micron": 9,
+    "> 0.0001 micron": 1,
+    "> 0.01 micron": 2,
+    "> 1 micron": 13,
+    "> 5 micron": 14,
+    "≥  1 micron": 1,
+    "≥  5 micron": 1,
+    "≥ 0.0001 micron": 9,
+    "≥ 0.01 micron": 5,
+    "≥ 0.1 micron": 2,
+    "≥ 0.1 micron.": 1,
+    "≥ 0.5 micron": 2,
+    "≥ 1 micron": 9,
+    "≥ 5 micron": 6
+   },
+   "total_samples": 95
+  },
+  "product_type_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Lõi Nano": 1,
+    "Lõi RO": 24,
+    "Lõi UF": 4,
+    "Lõi chức năng": 82,
+    "Lõi lọc tinh": 8,
+    "Lõi thô": 123
+   },
+   "total_samples": 242
+  },
+  "replacement_time_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Thay sau 12 - 18 tháng khoảng 52.000 lít nước": 5,
+    "Thay sau 12 - 24 tháng sử dụng": 4,
+    "Thay sau 12 tháng khoảng 10.000 lít nước": 3,
+    "Thay sau 12 tháng sử dụng": 6,
+    "Thay sau 24 - 36 tháng sử dụng": 5,
+    "Thay sau 24 tháng khoảng 7.200 lít nước": 4,
+    "Thay sau 3 - 6 tháng khoảng 10000 lít nước": 6,
+    "Thay sau 3 - 6 tháng khoảng 18.000 lít nước": 7,
+    "Thay sau 3 - 6 tháng sử dụng": 6,
+    "Thay sau 6 - 12 tháng khoảng 3600 lít nước": 4,
+    "Thay sau 6 - 12 tháng khoảng 4000 lít nước": 8,
+    "Thay sau 6 - 9 tháng khoảng 10.000 lít nước": 6,
+    "Thay sau 6 - 9 tháng khoảng 27.000 lít nước": 6,
+    "Thay sau 6 - 9 tháng sử dụng": 6,
+    "Thay sau 8 tháng khoảng 2.880 lít nước": 4,
+    "Thay sau 8 tháng khoảng 2880 lít nước": 3,
+    "Thay sau 9 - 12 tháng khoảng 10.000 lít nước": 16,
+    "Thay sau 9 - 12 tháng khoảng 36.000 lít nước": 4,
+    "Thay sau 9 tháng sử dụng": 3,
+    "Thay tối đa sau 12 tháng sử dụng": 66
+   },
+   "total_samples": 245
+  }
+ },
  "5227": {
   "brand_of_tskt_master": {
    "contributors": [
