@@ -1251,6 +1251,37 @@
    "utilities_tskt_master": "Tiện ích"
   }
  },
+ "4929": {
+  "cot": [
+   "body_material_filter_master",
+   "capacity_filter_master",
+   "launch_year_filter_master",
+   "product_type_filter_master",
+   "utilities_filter_master",
+   "capacity_tskt_master",
+   "material_tskt_master",
+   "product_type_tskt_master",
+   "release_date_tskt_master",
+   "style_tskt_master",
+   "temperature_resistance_level_tskt_master",
+   "utilities_tskt_master"
+  ],
+  "ten": "Hộp đựng thực phẩm",
+  "ten_cot": {
+   "body_material_filter_master": "Chất liệu thân vỏ",
+   "capacity_filter_master": "Dung lượng dung tích",
+   "capacity_tskt_master": "Dung lượng",
+   "launch_year_filter_master": "Năm ra mắt",
+   "material_tskt_master": "Chất liệu",
+   "product_type_filter_master": "Loại sản phẩm",
+   "product_type_tskt_master": "Loại sản phẩm",
+   "release_date_tskt_master": "Thời gian ra mắt",
+   "style_tskt_master": "Kiểu dáng",
+   "temperature_resistance_level_tskt_master": "Mức nhiệt chịu được",
+   "utilities_filter_master": "Tiện ích",
+   "utilities_tskt_master": "Tiện ích"
+  }
+ },
  "4930": {
   "cot": [
    "body_material_filter_master",
