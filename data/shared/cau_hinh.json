@@ -40,6 +40,33 @@
    "year_of_manufacture_tskt_master": "Năm sản xuất"
   }
  },
+ "13238": {
+  "cot": [
+   "brand_of_tskt_master",
+   "deep_tskt_master",
+   "function_tskt_master",
+   "high_tskt_master",
+   "horizontal_tskt_master",
+   "made_in_tskt_master",
+   "mass_tskt_master",
+   "material_tskt_master",
+   "size_tskt_master",
+   "size_weight_tskt_master"
+  ],
+  "ten": "Hộp đựng đồ đa năng",
+  "ten_cot": {
+   "brand_of_tskt_master": "Thương hiệu của",
+   "deep_tskt_master": "Sâu",
+   "function_tskt_master": "Chức năng",
+   "high_tskt_master": "Cao",
+   "horizontal_tskt_master": "Ngang",
+   "made_in_tskt_master": "Sản xuất tại",
+   "mass_tskt_master": "Khối lượng",
+   "material_tskt_master": "Chất liệu",
+   "size_tskt_master": "Kích thước",
+   "size_weight_tskt_master": "Kích thước Khối lượng"
+  }
+ },
  "14479": {
   "cot": [
    "age_of_use_tskt_master",
