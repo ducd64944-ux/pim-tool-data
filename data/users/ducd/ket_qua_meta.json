@@ -1,127 +1,59 @@
 {
- "chon": [],
+ "chon": [
+  {
+   "CHỌN": true,
+   "GHI CHÚ": "",
+   "MÃ NH": "9239",
+   "NGUỒN CATE": "CATEGORYID",
+   "SỐ SKU": 26,
+   "TAB TSKT / CẤU HÌNH": "cấu hình — 11 cột",
+   "TÊN NGÀNH HÀNG": "Khay - kệ đựng đồ"
+  }
+ ],
  "chua_map": [],
  "dx_dang_ap": 0,
  "goc_cms": {},
- "log": [
-  [
-   "8936040500571",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1034164000013",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1034164000014",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1032999000322",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1034164000001",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "8936040503213",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "8936040500595",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1032999001083",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1032999000890",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1032999000733",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1034164000007",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1034164000010",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1034164000039",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1034164000038",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1034164000037",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1032999000321",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "8935214710051",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "8936046203971",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ]
- ],
- "luc": "2026-10-07 14:36:40",
- "nganh": {},
+ "log": [],
+ "luc": "2026-10-07 14:37:36",
+ "nganh": {
+  "9239": {
+   "attr": [
+    "brand_of_tskt_master",
+    "deep_tskt_master",
+    "handle_material_tskt_master",
+    "high_tskt_master",
+    "horizontal_tskt_master",
+    "made_in_tskt_master",
+    "mass_tskt_master",
+    "material_tskt_master",
+    "product_type_tskt_master",
+    "size_weight_tskt_master",
+    "utilities_tskt_master"
+   ],
+   "ten": {
+    "brand_of_tskt_master": "Thương hiệu của",
+    "deep_tskt_master": "Sâu",
+    "handle_material_tskt_master": "Chất liệu tay cầm",
+    "high_tskt_master": "Cao",
+    "horizontal_tskt_master": "Ngang",
+    "made_in_tskt_master": "Sản xuất tại",
+    "mass_tskt_master": "Khối lượng",
+    "material_tskt_master": "Chất liệu",
+    "product_type_tskt_master": "Loại sản phẩm",
+    "size_weight_tskt_master": "Kích thước Khối lượng",
+    "utilities_tskt_master": "Tiện ích"
+   },
+   "ten_nh": "Khay - kệ đựng đồ",
+   "title": "TSKT 9239 Khay - kệ đựng đồ"
+  }
+ },
  "tom_tat": {
   "filter_khong_khop": 0,
-  "khong_data": 18,
+  "khong_data": 0,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 0,
-  "so_o": 0,
-  "so_sku": 0
+  "so_nganh": 1,
+  "so_o": 248,
+  "so_sku": 26
  }
 }
