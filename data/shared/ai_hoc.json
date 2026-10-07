@@ -680,6 +680,127 @@
    "total_samples": 5
   }
  },
+ "8984": {
+  "brand_of_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Trung Quốc": 12
+   },
+   "total_samples": 12
+  },
+  "display_screen_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Màn hình số": 1
+   },
+   "total_samples": 1
+  },
+  "made_in_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Thái Lan": 1,
+    "Trung Quốc": 12
+   },
+   "total_samples": 13
+  },
+  "material_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Cao su|Nhôm": 5,
+    "Kim loại": 1,
+    "Kim loại|Nhựa ABS": 5,
+    "Thép không gỉ": 1
+   },
+   "total_samples": 12
+  },
+  "payload_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "40 kg": 1
+   },
+   "total_samples": 1
+  },
+  "product_type_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Cân cầm tay, thước đo": 14,
+    "Cân điện tử": 1,
+    "Thước dây": 2,
+    "Thước kẹp": 2,
+    "Thước thuỷ": 5
+   },
+   "total_samples": 24
+  },
+  "scope_of_use_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "0.15 m": 2,
+    "0.4 m": 1,
+    "0.6 m": 1,
+    "0.8 m": 1,
+    "1.2 m": 1,
+    "1m": 1,
+    "30 m": 2,
+    "50 m": 2,
+    "Từ 0.15 đến 25 m": 1
+   },
+   "total_samples": 12
+  },
+  "size_weight_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Dài 100cm - Rộng 6.5cm - Cao 2.5cm - Nặng 0.875kg": 1,
+    "Dài 120cm - Rộng 6.5cm - Cao 2.5cm - Nặng 1.078kg": 1,
+    "Dài 15.5cm - Rộng 15.5cm - Cao 3cm - Nặng 0.36kg": 2,
+    "Dài 20cm - Rộng 20cm - Cao 4cm - Nặng 0.624kg": 2,
+    "Dài 23.5cm - Rộng 7.6cm - Cao 1.5cm - Nặng 0.19kg": 1,
+    "Dài 23.5cm - Rộng 7.6cm - Cao 1cm - Nặng 0.16kg": 1,
+    "Dài 36cm - Rộng 12cm - Cao 36cm - Nặng 3kg": 1,
+    "Dài 40cm - Rộng 6.5cm - Cao 2.5cm - Nặng 0.42kg": 1,
+    "Dài 60cm - Rộng 6.5cm - Cao 2.5cm - Nặng 0.56kg": 1,
+    "Dài 80cm - Rộng 6.5cm - Cao 2.5cm - Nặng 0.8kg": 1
+   },
+   "total_samples": 12
+  },
+  "utilities_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Bàn cân hình chữ T ngăn đồ vật lăn ra|Màn hình LED hiển thị|Nút chuyển đổi lb/kg giúp chuyển đổi đơn vị": 1,
+    "Có nam châm từ|Với 3 ống thủy 90 °- 180°- 45°": 5,
+    "Sử dụng hệ mét và inch": 4,
+    "Đo 4 chiều": 1,
+    "Đo 4 chiều|Sử dụng hệ mét và inch": 1
+   },
+   "total_samples": 12
+  }
+ },
  "9100": {
   "brand_of_tskt_master": {
    "contributors": [
