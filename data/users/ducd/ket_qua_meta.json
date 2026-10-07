@@ -1,248 +1,871 @@
 {
- "chon": [
-  {
-   "CHỌN": true,
-   "GHI CHÚ": "",
-   "MÃ NH": "5005",
-   "NGUỒN CATE": "CATEGORYID",
-   "SỐ SKU": 26,
-   "TAB TSKT / CẤU HÌNH": "cấu hình — 16 cột",
-   "TÊN NGÀNH HÀNG": "Khung treo Tivi"
-  }
- ],
- "chua_map": [
-  {
-   "cate": "5005",
-   "goi_y_ma": "",
-   "prop_id": "9012",
-   "prop_name": "Thông tin khác",
-   "so_dong": 3,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Dùng cho tivi từ 19-40 inch"
-  },
-  {
-   "cate": "5005",
-   "goi_y_ma": "",
-   "prop_id": "9013",
-   "prop_name": "Trọng lượng",
-   "so_dong": 3,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "1.2 kg"
-  },
-  {
-   "cate": "5005",
-   "goi_y_ma": "size_tskt_master",
-   "prop_id": "9014",
-   "prop_name": "Kích thước",
-   "so_dong": 3,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "300mm - 200mm"
-  },
-  {
-   "cate": "5005",
-   "goi_y_ma": "body_material_tskt_master",
-   "prop_id": "12322",
-   "prop_name": "Chất liệu",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "5005",
-   "goi_y_ma": "",
-   "prop_id": "12323",
-   "prop_name": "Thiết bị kết nối",
-   "so_dong": 3,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "5005",
-   "goi_y_ma": "",
-   "prop_id": "12324",
-   "prop_name": "Cách kết nối",
-   "so_dong": 3,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "5005",
-   "goi_y_ma": "",
-   "prop_id": "12325",
-   "prop_name": "Chống nước",
-   "so_dong": 3,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "5005",
-   "goi_y_ma": "",
-   "prop_id": "12326",
-   "prop_name": "Kết nối khác",
-   "so_dong": 3,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "5005",
-   "goi_y_ma": "",
-   "prop_id": "12327",
-   "prop_name": "Tính năng",
-   "so_dong": 3,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "5005",
-   "goi_y_ma": "",
-   "prop_id": "12381",
-   "prop_name": "Tính năng",
-   "so_dong": 3,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "73044"
-  },
-  {
-   "cate": "5005",
-   "goi_y_ma": "",
-   "prop_id": "12382",
-   "prop_name": "Số lượng sử dụng",
-   "so_dong": 3,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "73046"
-  },
-  {
-   "cate": "5005",
-   "goi_y_ma": "",
-   "prop_id": "12383",
-   "prop_name": "Số năm bản quyền",
-   "so_dong": 3,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "73050"
-  },
-  {
-   "cate": "5005",
-   "goi_y_ma": "",
-   "prop_id": "13006",
-   "prop_name": "Kích thước Tivi",
-   "so_dong": 25,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Khung treo 19-40"
-  },
-  {
-   "cate": "5005",
-   "goi_y_ma": "installation_dimensions_tskt_master",
-   "prop_id": "13185",
-   "prop_name": "Kích thước tivi phù hợp",
-   "so_dong": 224,
-   "trang_thai": "Đã map theo TÊN (nên thêm vào MAPPING TSKT)",
-   "vi_du": "21 inch"
-  },
-  {
-   "cate": "5005",
-   "goi_y_ma": "",
-   "prop_id": "13796",
-   "prop_name": "Trọng lượng",
-   "so_dong": 21,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "1.2 kg"
-  },
-  {
-   "cate": "5005",
-   "goi_y_ma": "size_tskt_master",
-   "prop_id": "13797",
-   "prop_name": "Kích thước",
-   "so_dong": 25,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "300mm - 200mm"
-  },
-  {
-   "cate": "5005",
-   "goi_y_ma": "product_type_tskt_master",
-   "prop_id": "36424",
-   "prop_name": "Loại khung treo",
-   "so_dong": 22,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Cố định"
-  },
-  {
-   "cate": "5005",
-   "goi_y_ma": "body_material_tskt_master",
-   "prop_id": "12322",
-   "prop_name": "Chất liệu",
-   "so_dong": 1,
-   "trang_thai": "Đã map theo TÊN (nên thêm vào MAPPING TSKT)",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "5005",
-   "goi_y_ma": "product_type_tskt_master",
-   "prop_id": "36424",
-   "prop_name": "Loại khung treo",
-   "so_dong": 1,
-   "trang_thai": "Đã map theo TÊN (nên thêm vào MAPPING TSKT)",
-   "vi_du": "Nghiêng"
-  }
- ],
+ "chon": [],
+ "chua_map": [],
  "dx_dang_ap": 0,
  "goc_cms": {},
  "log": [
   [
-   "0160073000113",
+   "4844151000398",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000349",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000339",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2714122084600",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000290",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2714215000100",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000366",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000262",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000159",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4842051000041",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000350",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000220",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2727122867800",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000001",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000216",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000218",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000164",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000202",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844142000070",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000128",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000092",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000261",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4842051000006",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000260",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000263",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2714122082600",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000367",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000084",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000129",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000130",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844142000099",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000093",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4842051000040",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000179",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000165",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000358",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000357",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000257",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000228",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000177",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000180",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000170",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000243",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000062",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000227",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000221",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000169",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000178",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000206",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000338",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000304",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000347",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000336",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000337",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000193",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000214",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000351",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000352",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000145",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000146",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000131",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000194",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000348",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000331",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000300",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2714122084900",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000251",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2727122845700",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000332",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000299",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4842051000002",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000138",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2714122085000",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000155",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2727122845600",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000181",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000162",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2714211002500",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2714122035000",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000137",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000381",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000391",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000382",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000248",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000335",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000361",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000314",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000380",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000305",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000022",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000370",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000319",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000127",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000103",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2727122873100",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000024",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000298",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4842051000027",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2714122073500",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2714215000200",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000049",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2714122078400",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2714122078500",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2714211003000",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2714122048200",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000289",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2727122841100",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000325",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2714211002900",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000334",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2714122041100",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2714122041900",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2714122073600",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2714122013500",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2719122012200",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000324",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2727122846200",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000124",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2714122083500",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2703122000300",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000141",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000318",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2727122884700",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2727122844100",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2714122079700",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2714122038400",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000147",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4842053001484",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4840957000223",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000383",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000333",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000323",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000377",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000121",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4840957000224",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000321",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000378",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000292",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000123",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000268",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000322",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844151000379",
    "",
    "",
    "Không có dòng nào trong DATA SP"
   ]
  ],
- "luc": "2026-10-07 15:49:45",
- "nganh": {
-  "5005": {
-   "attr": [
-    "adjust_height_tskt_master",
-    "angle_of_inclination_tskt_master",
-    "body_material_tskt_master",
-    "brand_of_tskt_master",
-    "compatibility_tskt_master",
-    "distance_from_the_tv_to_the_wall_tskt_master",
-    "installation_dimensions_tskt_master",
-    "made_in_tskt_master",
-    "main_frame_warranty_tskt_master",
-    "maximum_length_tskt_master",
-    "maximum_load_tskt_master",
-    "product_type_tskt_master",
-    "rotation_angle_tskt_master",
-    "size_weight_tskt_master",
-    "utilities_tskt_master",
-    "vesa_tskt_master"
-   ],
-   "ten": {
-    "adjust_height_tskt_master": "Điều chỉnh độ cao",
-    "angle_of_inclination_tskt_master": "Góc nghiêng",
-    "body_material_tskt_master": "Chất liệu thân vỏ",
-    "brand_of_tskt_master": "Thương hiệu của",
-    "compatibility_tskt_master": "Tương thích",
-    "distance_from_the_tv_to_the_wall_tskt_master": "Khoảng cách từ tivi đến tường",
-    "installation_dimensions_tskt_master": "Kích thước lắp đặt",
-    "made_in_tskt_master": "Sản xuất tại",
-    "main_frame_warranty_tskt_master": "Bảo hành khung chính",
-    "maximum_length_tskt_master": "Dài tối đa",
-    "maximum_load_tskt_master": "Tải trọng tối đa",
-    "product_type_tskt_master": "Loại sản phẩm",
-    "rotation_angle_tskt_master": "Góc xoay",
-    "size_weight_tskt_master": "Kích thước Khối lượng",
-    "utilities_tskt_master": "Tiện ích",
-    "vesa_tskt_master": "Vesa"
-   },
-   "ten_nh": "Khung treo Tivi",
-   "title": "TSKT 5005 Khung treo Tivi"
-  }
- },
+ "luc": "2026-10-07 16:05:19",
+ "nganh": {},
  "tom_tat": {
   "filter_khong_khop": 0,
-  "khong_data": 1,
-  "map_theo_ten": 226,
+  "khong_data": 142,
+  "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 1,
-  "so_o": 345,
-  "so_sku": 26
+  "so_nganh": 0,
+  "so_o": 0,
+  "so_sku": 0
  }
 }
