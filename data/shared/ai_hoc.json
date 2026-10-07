@@ -329,6 +329,128 @@
    "total_samples": 34
   }
  },
+ "11758": {
+  "arbor_hole_diameter_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "16 mm": 3,
+    "16 mm|20 mm": 2,
+    "22.23 mm": 2
+   },
+   "total_samples": 7
+  },
+  "blade_diameter_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "100 mm": 3,
+    "105 mm": 2,
+    "125 mm": 2
+   },
+   "total_samples": 7
+  },
+  "brand_of_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Đức": 7
+   },
+   "total_samples": 7
+  },
+  "cutting_capacity_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Bê tông": 1,
+    "Bê tông|Tường": 1
+   },
+   "total_samples": 2
+  },
+  "cutting_width_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "1.8 mm": 1
+   },
+   "total_samples": 1
+  },
+  "grit_size_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "P36": 1,
+    "P60": 2,
+    "P80": 2
+   },
+   "total_samples": 5
+  },
+  "machine_weight_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "0.1 kg": 5,
+    "0.15 kg": 2
+   },
+   "total_samples": 7
+  },
+  "made_in_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Trung Quốc": 7
+   },
+   "total_samples": 7
+  },
+  "material_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Hợp kim": 2
+   },
+   "total_samples": 2
+  },
+  "maximum_rotation_speed_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "14500 vòng/phút": 2
+   },
+   "total_samples": 2
+  },
+  "product_type_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Lưỡi cắt bê tông": 1,
+    "Lưỡi cắt đa năng": 1,
+    "Đĩa nhám xếp": 5
+   },
+   "total_samples": 7
+  }
+ },
  "13238": {
   "brand_of_tskt_master": {
    "contributors": [
