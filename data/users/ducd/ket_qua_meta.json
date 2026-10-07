@@ -1,266 +1,72 @@
 {
- "chon": [],
+ "chon": [
+  {
+   "CHỌN": true,
+   "GHI CHÚ": "",
+   "MÃ NH": "2342",
+   "NGUỒN CATE": "CATEGORYID",
+   "SỐ SKU": 41,
+   "TAB TSKT / CẤU HÌNH": "cấu hình — 17 cột",
+   "TÊN NGÀNH HÀNG": "Máy tạo kiểu tóc"
+  }
+ ],
  "chua_map": [],
  "dx_dang_ap": 0,
  "goc_cms": {},
- "log": [
-  [
-   "4845000000070",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4845000000071",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4845000000015",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4845000000017",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1515427000002",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1515427000006",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001008",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001092",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4845000000016",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4845000000099",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4845000000110",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4845000000214",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1515427000001",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1515427000003",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1515427000009",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001249",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4840967000076",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001094",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4845000000208",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1515427000015",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1515427000010",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1515427000008",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4840967000064",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4845000000330",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1515427000007",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4845000000019",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4845000000018",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "2727122867300",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4845000000284",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4840967000021",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001093",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4840967000020",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4845000000361",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4845000000243",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1515427000016",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1515427000017",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1515427000014",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4845000000331",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1515427000019",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1515427000018",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4840967000018",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ]
- ],
- "luc": "2026-10-07 17:46:31",
- "nganh": {},
+ "log": [],
+ "luc": "2026-10-07 17:47:29",
+ "nganh": {
+  "2342": {
+   "attr": [
+    "battery_capacity_tskt_master",
+    "brand_of_tskt_master",
+    "charging_specifications_tskt_master",
+    "function_tskt_master",
+    "heat_mode_tskt_master",
+    "high_tskt_master",
+    "horizontal_tskt_master",
+    "included_accessories_tskt_master",
+    "input_voltage_tskt_master",
+    "long_cord_tskt_master",
+    "machine_weight_tskt_master",
+    "made_in_tskt_master",
+    "output_power_tskt_master",
+    "product_type_tskt_master",
+    "usage_time_tskt_master",
+    "utilities_tskt_master",
+    "wide_tskt_master"
+   ],
+   "ten": {
+    "battery_capacity_tskt_master": "Dung lượng pin",
+    "brand_of_tskt_master": "Thương hiệu của",
+    "charging_specifications_tskt_master": "Thông số sạc",
+    "function_tskt_master": "Chức năng",
+    "heat_mode_tskt_master": "Chế độ nhiệt",
+    "high_tskt_master": "Cao",
+    "horizontal_tskt_master": "Ngang",
+    "included_accessories_tskt_master": "Phụ kiện đi kèm",
+    "input_voltage_tskt_master": "Điện áp đầu vào",
+    "long_cord_tskt_master": "Dài dây",
+    "machine_weight_tskt_master": "Khối lượng máy",
+    "made_in_tskt_master": "Sản xuất tại",
+    "output_power_tskt_master": "Công suất đầu ra",
+    "product_type_tskt_master": "Loại sản phẩm",
+    "usage_time_tskt_master": "Thời gian sử dụng",
+    "utilities_tskt_master": "Tiện ích",
+    "wide_tskt_master": "Rộng"
+   },
+   "ten_nh": "Máy tạo kiểu tóc",
+   "title": "TSKT 2342 Máy tạo kiểu tóc"
+  }
+ },
  "o_theo_ten": [],
  "tom_tat": {
   "filter_khong_khop": 0,
-  "khong_data": 41,
+  "khong_data": 0,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 0,
-  "so_o": 0,
-  "so_sku": 0
+  "so_nganh": 1,
+  "so_o": 598,
+  "so_sku": 41
  }
 }
