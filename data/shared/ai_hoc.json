@@ -329,6 +329,98 @@
    "total_samples": 34
   }
  },
+ "14479": {
+  "age_of_use_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Từ 6 tuổi trở lên": 6
+   },
+   "total_samples": 6
+  },
+  "appropriate_height_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Từ 110 cm trở lên": 6
+   },
+   "total_samples": 6
+  },
+  "chair_frame_material_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Nhựa PP": 6
+   },
+   "total_samples": 6
+  },
+  "cushion_material_carpet_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Đệm PU|Vải Polyester": 6
+   },
+   "total_samples": 6
+  },
+  "function_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Hỗ trợ điều chỉnh tư thế ngồi, giảm gù lưng, giảm mỏi khi ngồi lâu": 6
+   },
+   "total_samples": 6
+  },
+  "maximum_load_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "150 kg": 6
+   },
+   "total_samples": 6
+  },
+  "place_of_production_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Trung Quốc": 6
+   },
+   "total_samples": 6
+  },
+  "product_type_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Ghế chỉnh dáng ngồi": 6
+   },
+   "total_samples": 6
+  },
+  "utilities_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Dễ vệ sinh|Thiết kế thông thoáng": 6
+   },
+   "total_samples": 6
+  }
+ },
  "4932": {
   "brand_of_tskt_master": {
    "contributors": [
