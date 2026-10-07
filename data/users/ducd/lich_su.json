@@ -466,5 +466,18 @@
   "Thêm đơn vị": 0,
   "Tách xin data": 3,
   "Workspace": "ducd"
+ },
+ {
+  "Biến đổi": 102,
+  "Cảnh báo": "• 42 ô KHÁC spec PIM (sẽ ghi đè) | • 15 dòng không có trong file PIM | • 26 ô giá trị CMS bị MẤT khi map (xem 🧾 Đối soát)",
+  "File": "PIM_TSKT 9239 Khay - kệ đựng đồ_MODEL_20261007_1541.xlsx",
+  "Không/Đang cập nhật": 9,
+  "Lúc": "2026-10-07 15:41:51",
+  "Người xuất": "ducd",
+  "Số dòng": 26,
+  "Sửa tay": 0,
+  "Thêm đơn vị": 0,
+  "Tách xin data": 0,
+  "Workspace": "ducd"
  }
 ]
