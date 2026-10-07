@@ -1,129 +1,266 @@
 {
- "chon": [
-  {
-   "CHỌN": true,
-   "GHI CHÚ": "",
-   "MÃ NH": "5105",
-   "NGUỒN CATE": "CATEGORYID",
-   "SỐ SKU": 250,
-   "TAB TSKT / CẤU HÌNH": "cấu hình — 11 cột",
-   "TÊN NGÀNH HÀNG": "Lõi máy lọc nước"
-  }
- ],
- "chua_map": [
-  {
-   "cate": "5105",
-   "goi_y_ma": "",
-   "prop_id": "21510",
-   "prop_name": "Hãng",
-   "so_dong": 248,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Kangaroo"
-  },
-  {
-   "cate": "5105",
-   "goi_y_ma": "",
-   "prop_id": "40426",
-   "prop_name": "Chính sách lắp đặt",
-   "so_dong": 242,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "5105",
-   "goi_y_ma": "",
-   "prop_id": "47938",
-   "prop_name": "Map cùng dòng",
-   "so_dong": 56,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Lõi số 2"
-  },
-  {
-   "cate": "5105",
-   "goi_y_ma": "",
-   "prop_id": "47958",
-   "prop_name": "Map cùng dòng - Test",
-   "so_dong": 13,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Lõi số 1"
-  }
- ],
+ "chon": [],
+ "chua_map": [],
  "dx_dang_ap": 0,
  "goc_cms": {},
  "log": [
   [
-   "4842053000280",
-   "5105",
-   "functional_filter_cartridge_filter_master",
-   "FILTER: giá trị CMS \"Không\" chưa có option trong DATA PIM — để trống"
+   "4845000000070",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "1114169000009",
-   "5105",
-   "functional_filter_cartridge_filter_master",
-   "FILTER: giá trị CMS \"Đang cập nhật\" chưa có option trong DATA PIM — để trống"
+   "4845000000071",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "1114169000095",
-   "5105",
-   "cartridge_type_filter_master",
-   "FILTER: giá trị CMS \"Đang cập nhật\" chưa có option trong DATA PIM — để trống"
+   "4845000000015",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "1114169000142",
-   "5105",
-   "cartridge_type_filter_master",
-   "FILTER: giá trị CMS \"Bộ lõi lọc\" chưa có option trong DATA PIM — để trống"
+   "4845000000017",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "1114560000018",
-   "5105",
-   "cartridge_type_filter_master",
-   "FILTER: giá trị CMS \"Không\" chưa có option trong DATA PIM — để trống"
+   "1515427000002",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515427000006",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4842053001008",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4842053001092",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000016",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000099",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000110",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000214",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515427000001",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515427000003",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515427000009",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4842053001249",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4840967000076",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4842053001094",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000208",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515427000015",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515427000010",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515427000008",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4840967000064",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000330",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515427000007",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000019",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000018",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2727122867300",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000284",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4840967000021",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4842053001093",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4840967000020",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000361",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000243",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515427000016",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515427000017",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515427000014",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000331",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515427000019",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515427000018",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4840967000018",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ]
  ],
- "luc": "2026-10-07 17:38:41",
- "nganh": {
-  "5105": {
-   "attr": [
-    "cartridge_type_filter_master",
-    "functional_filter_cartridge_filter_master",
-    "brand_of_tskt_master",
-    "compatibility_tskt_master",
-    "filter_core_material_tskt_master",
-    "filter_order_tskt_master",
-    "function_tskt_master",
-    "made_in_tskt_master",
-    "minimum_filtration_size_tskt_master",
-    "product_type_tskt_master",
-    "replacement_time_tskt_master"
-   ],
-   "ten": {
-    "brand_of_tskt_master": "Thương hiệu của",
-    "cartridge_type_filter_master": "Loại lõi lọc (dùng cho filter)",
-    "compatibility_tskt_master": "Tương thích",
-    "filter_core_material_tskt_master": "Vật liệu, cấu tạo lõi lọc",
-    "filter_order_tskt_master": "Thứ tự lõi lọc",
-    "function_tskt_master": "Chức năng",
-    "functional_core_tskt_master": "Lõi chức năng",
-    "functional_filter_cartridge_filter_master": "Lõi chức năng",
-    "made_in_tskt_master": "Sản xuất tại",
-    "minimum_filtration_size_tskt_master": "Kích thước lọc nhỏ nhất",
-    "product_type_tskt_master": "Loại sản phẩm",
-    "replacement_time_tskt_master": "Thời gian thay thế"
-   },
-   "ten_nh": "Lõi máy lọc nước",
-   "title": "TSKT 5105 Lõi máy lọc nước"
-  }
- },
+ "luc": "2026-10-07 17:46:31",
+ "nganh": {},
  "o_theo_ten": [],
  "tom_tat": {
-  "filter_khong_khop": 5,
-  "khong_data": 0,
+  "filter_khong_khop": 0,
+  "khong_data": 41,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 1,
-  "so_o": 2338,
-  "so_sku": 250
+  "so_nganh": 0,
+  "so_o": 0,
+  "so_sku": 0
  }
 }
