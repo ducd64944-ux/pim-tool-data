@@ -40,6 +40,37 @@
    "year_of_manufacture_tskt_master": "Năm sản xuất"
   }
  },
+ "11758": {
+  "cot": [
+   "arbor_hole_diameter_tskt_master",
+   "blade_diameter_tskt_master",
+   "brand_of_tskt_master",
+   "cutting_capacity_tskt_master",
+   "cutting_width_tskt_master",
+   "grit_size_tskt_master",
+   "machine_weight_tskt_master",
+   "made_in_tskt_master",
+   "material_tskt_master",
+   "maximum_rotation_speed_tskt_master",
+   "number_of_teeth_tskt_master",
+   "product_type_tskt_master"
+  ],
+  "ten": "Lưỡi cắt, lưỡi mài",
+  "ten_cot": {
+   "arbor_hole_diameter_tskt_master": "Đường kính lỗ trục",
+   "blade_diameter_tskt_master": "Đường kính lưỡi",
+   "brand_of_tskt_master": "Thương hiệu của",
+   "cutting_capacity_tskt_master": "Khả năng cắt",
+   "cutting_width_tskt_master": "Độ rộng cắt",
+   "grit_size_tskt_master": "Độ hạt",
+   "machine_weight_tskt_master": "Khối lượng máy",
+   "made_in_tskt_master": "Sản xuất tại",
+   "material_tskt_master": "Chất liệu",
+   "maximum_rotation_speed_tskt_master": "Vòng quay tối đa",
+   "number_of_teeth_tskt_master": "Số răng",
+   "product_type_tskt_master": "Loại sản phẩm"
+  }
+ },
  "13238": {
   "cot": [
    "brand_of_tskt_master",
