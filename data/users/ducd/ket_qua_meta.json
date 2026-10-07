@@ -1,62 +1,62 @@
 {
- "chon": [],
+ "chon": [
+  {
+   "CHỌN": true,
+   "GHI CHÚ": "",
+   "MÃ NH": "11758",
+   "NGUỒN CATE": "CATEGORYID",
+   "SỐ SKU": 7,
+   "TAB TSKT / CẤU HÌNH": "cấu hình — 12 cột",
+   "TÊN NGÀNH HÀNG": "Lưỡi cắt, lưỡi mài"
+  }
+ ],
  "chua_map": [],
  "dx_dang_ap": 0,
  "goc_cms": {},
- "log": [
-  [
-   "9923381000678",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923381000667",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923381000679",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923381000676",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923381000666",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923381000680",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923381000677",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ]
- ],
- "luc": "2026-10-07 21:33:59",
- "nganh": {},
+ "log": [],
+ "luc": "2026-10-07 21:34:43",
+ "nganh": {
+  "11758": {
+   "attr": [
+    "arbor_hole_diameter_tskt_master",
+    "blade_diameter_tskt_master",
+    "brand_of_tskt_master",
+    "cutting_capacity_tskt_master",
+    "cutting_width_tskt_master",
+    "grit_size_tskt_master",
+    "machine_weight_tskt_master",
+    "made_in_tskt_master",
+    "material_tskt_master",
+    "maximum_rotation_speed_tskt_master",
+    "number_of_teeth_tskt_master",
+    "product_type_tskt_master"
+   ],
+   "ten": {
+    "arbor_hole_diameter_tskt_master": "Đường kính lỗ trục",
+    "blade_diameter_tskt_master": "Đường kính lưỡi",
+    "brand_of_tskt_master": "Thương hiệu của",
+    "cutting_capacity_tskt_master": "Khả năng cắt",
+    "cutting_width_tskt_master": "Độ rộng cắt",
+    "grit_size_tskt_master": "Độ hạt",
+    "machine_weight_tskt_master": "Khối lượng máy",
+    "made_in_tskt_master": "Sản xuất tại",
+    "material_tskt_master": "Chất liệu",
+    "maximum_rotation_speed_tskt_master": "Vòng quay tối đa",
+    "number_of_teeth_tskt_master": "Số răng",
+    "product_type_tskt_master": "Loại sản phẩm"
+   },
+   "ten_nh": "Lưỡi cắt, lưỡi mài",
+   "title": "TSKT 11758 Lưỡi cắt, lưỡi mài"
+  }
+ },
  "o_theo_ten": [],
  "tom_tat": {
   "filter_khong_khop": 0,
-  "khong_data": 7,
+  "khong_data": 0,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 0,
-  "so_o": 0,
-  "so_sku": 0
+  "so_nganh": 1,
+  "so_o": 79,
+  "so_sku": 7
  }
 }
