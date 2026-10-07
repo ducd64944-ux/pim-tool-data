@@ -112,6 +112,43 @@
    "product_type_tskt_master": "Loại sản phẩm"
   }
  },
+ "12458": {
+  "cot": [
+   "airflow_at_0_bar_tskt_master",
+   "brand_of_tskt_master",
+   "charging_port_tskt_master",
+   "charging_time_tskt_master",
+   "high_tskt_master",
+   "long_pipe_tskt_master",
+   "long_tskt_master",
+   "machine_weight_tskt_master",
+   "made_in_tskt_master",
+   "pressure_tskt_master",
+   "size_tskt_master",
+   "usage_time_tskt_master",
+   "utilities_tskt_master",
+   "voltage_tskt_master",
+   "wide_tskt_master"
+  ],
+  "ten": "Máy bơm hơi cầm tay",
+  "ten_cot": {
+   "airflow_at_0_bar_tskt_master": "Dòng khí tại 0 bar",
+   "brand_of_tskt_master": "Thương hiệu của",
+   "charging_port_tskt_master": "Cổng sạc",
+   "charging_time_tskt_master": "Thời gian sạc",
+   "high_tskt_master": "Cao",
+   "long_pipe_tskt_master": "Dài ống",
+   "long_tskt_master": "Dài",
+   "machine_weight_tskt_master": "Khối lượng máy",
+   "made_in_tskt_master": "Sản xuất tại",
+   "pressure_tskt_master": "Áp suất",
+   "size_tskt_master": "Kích thước",
+   "usage_time_tskt_master": "Thời gian sử dụng",
+   "utilities_tskt_master": "Tiện ích",
+   "voltage_tskt_master": "Điện áp",
+   "wide_tskt_master": "Rộng"
+  }
+ },
  "13238": {
   "cot": [
    "brand_of_tskt_master",
