@@ -421,6 +421,77 @@
    "total_samples": 6
   }
  },
+ "2825": {
+  "compatibility_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Chịu được trọng lượng tối đa 300 kg": 1,
+    "Chịu được trọng lượng tối đa 500 kg": 1,
+    "Loa 30 kg": 2,
+    "Loa 30kg": 1,
+    "Máy giặt": 2,
+    "Máy giặt, máy": 1,
+    "Máy lọc nước 30x46cm": 1,
+    "Sử dụng cho TỦ LẠNH từ 150 - 300 Lít. Sử dụng cho MÁY GIẶT từ 8 - 11 KG.": 2,
+    "Sử dụng cho TỦ LẠNH từ 250 - 450 Lít. Sử dụng cho MÁY GIẶT từ 8 - 18 KG.": 2,
+    "Sử dụng cho TỦ LẠNH từ 90 - 270 Lít. Sử dụng cho MÁY GIẶT từ 6 - 9 KG.": 2
+   },
+   "total_samples": 15
+  },
+  "made_in_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Trung Quốc": 6,
+    "Việt Nam": 9
+   },
+   "total_samples": 15
+  },
+  "maximum_load_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "100 kg": 1,
+    "100kg": 1,
+    "30 kg": 3,
+    "300 kg": 1,
+    "300kg": 4,
+    "500 kg": 1,
+    "75 g": 1,
+    "800kg": 2
+   },
+   "total_samples": 14
+  },
+  "size_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "45 cm x 61.5 cm": 1,
+    "480mm-600mm, cao 14cm": 1,
+    "480mm-600mm, cao 14cm, đường kính chân đế 9,3 cm": 1,
+    "510mm - 680mm, cao 14cm": 1,
+    "510mm - 680mm, cao 14cm, đường kính chân đế 9,3 cm": 1,
+    "55 cm x 61,5 cm": 1,
+    "68 x 65 x 110 cm": 1,
+    "Dài từ 40-60 cm, Ngang từ 38-60 cm, Cao từ 8-10 cm": 1,
+    "Dài từ 51-68 cm, Ngang từ 45-63 cm, Cao từ 11-13 cm": 1,
+    "Dài từ 55-77 cm, ngang từ 55-77 cm, cao 16 cm": 2,
+    "Rộng 26.5 cm - Cao 51.2 cm - Sâu 35 cm (bao gồm chân chống rung)": 1,
+    "Rộng 26.5 cm - Cao 71.2 cm - Sâu 35 cm (bao gồm chân chống rung)": 1,
+    "Rộng 29 cm - Cao 71.2 cm - Sâu 54 cm (bao gồm chân chống rung)": 1
+   },
+   "total_samples": 14
+  }
+ },
  "344": {
   "airbag_location_tskt_master": {
    "contributors": [
