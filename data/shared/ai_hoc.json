@@ -329,6 +329,169 @@
    "total_samples": 34
   }
  },
+ "8579": {
+  "body_material_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Cốc 1: nhựa SAN, Cốc 2: nhựa PP, Cốc 3: nhựa PP": 2,
+    "Nhựa PP": 2,
+    "Nhựa SAN": 1
+   },
+   "total_samples": 5
+  },
+  "brand_of_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Hà Lan": 1,
+    "Việt Nam": 4
+   },
+   "total_samples": 5
+  },
+  "deep_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Sâu 12 cm": 1,
+    "Sâu 13 cm": 1,
+    "Sâu 13.5 cm": 1,
+    "Sâu 13.7 cm": 1,
+    "Sâu 13.75 cm": 1
+   },
+   "total_samples": 5
+  },
+  "function_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Dễ dàng theo dõi hiệu quả & tình trạng thông quả bộ vỏ trong suốt và than đo màu|Loại bỏ trầm tích, rỉ sét và các loại h": 1,
+    "Hấp thụ canxi, magie, làm mềm nước|Hấp thụ mùi vị, chất hữu cơ, thuốc trừ sâu, kim loại nặng, Clo dư trong nước|Loại bỏ ": 2,
+    "Loại bỏ các chất bẩn, rỉ sét có kích thước > 5 micron|Ngăn chặn bùn đất, tạp chất lơ lửng, loại bỏ mùi Clo và hỗn hợp cá": 1,
+    "Ngăn chặn bẩn, bùn đất, rỉ sét, các tạp chất thô và kim loại nặng có kích thước ≥ 5 micron": 1
+   },
+   "total_samples": 5
+  },
+  "high_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Cao 29.7 cm": 1,
+    "Cao 35 cm": 4
+   },
+   "total_samples": 5
+  },
+  "horizontal_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Ngang 11.8 cm": 1,
+    "Ngang 12 cm": 1,
+    "Ngang 12.5 cm": 1,
+    "Ngang 36.4 cm": 1,
+    "Ngang 37 cm": 1
+   },
+   "total_samples": 5
+  },
+  "inner_material_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Lõi 1: Sợi nhựa PP, Lõi 2: Than hoạt tính dạng hạt, Lõi 3: Hạt cation": 1,
+    "Lõi 1: Sợi nhựa PP, Lõi 2: Than hoạt tính gáo dừa, Lõi 3: Hạt ion": 1,
+    "Sợi nhựa PP": 3
+   },
+   "total_samples": 5
+  },
+  "machine_weight_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Khối lượng 0.6 kg": 1,
+    "Khối lượng 1.5 kg": 1,
+    "Khối lượng 2 kg": 1,
+    "Khối lượng 5 kg": 1,
+    "Khối lượng 5.8 kg": 1
+   },
+   "total_samples": 5
+  },
+  "made_in_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Trung Quốc": 1,
+    "Việt Nam": 4
+   },
+   "total_samples": 5
+  },
+  "number_of_liters_of_filtered_water_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "4500L": 1,
+    "Khoảng 18.000 lít": 2,
+    "Lõi 1: khoảng 18.000 lít, Lõi 2 & 3: khoảng 27.000 lít": 1,
+    "Lõi 1: khoảng 18.000 lít, Lõi 2: khoảng 27.000 lít, Lõi 3: khoảng 6.000 lít": 1
+   },
+   "total_samples": 5
+  },
+  "quantity_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "1 cốc": 3,
+    "Bộ 3 cốc": 2
+   },
+   "total_samples": 5
+  },
+  "release_date_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "2019": 1,
+    "2020": 2,
+    "2021": 2
+   },
+   "total_samples": 5
+  },
+  "replacement_time_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "3 - 6 tháng": 2,
+    "6 tháng": 1,
+    "Lõi 1: 3 - 6 tháng, Lõi 2 & 3: 6 - 9 tháng": 1,
+    "Lõi 1: 3 - 6 tháng, Lõi 2: 6 - 9 tháng, Lõi 3: 1 - 3 tháng": 1
+   },
+   "total_samples": 5
+  }
+ },
  "9100": {
   "brand_of_tskt_master": {
    "contributors": [
