@@ -1,111 +1,497 @@
 {
- "chon": [],
- "chua_map": [],
+ "chon": [
+  {
+   "CHỌN": true,
+   "GHI CHÚ": "",
+   "MÃ NH": "9678",
+   "NGUỒN CATE": "CATEGORYID",
+   "SỐ SKU": 17,
+   "TAB TSKT / CẤU HÌNH": "cấu hình — 23 cột",
+   "TÊN NGÀNH HÀNG": "Lọc nước không điện"
+  }
+ ],
+ "chua_map": [
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "40422",
+   "prop_name": "Chính sách lắp đặt",
+   "so_dong": 17,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Lắp đặt miễn phí"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "41078",
+   "prop_name": "Phần điện",
+   "so_dong": 11,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không sử dụng điện"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "41079",
+   "prop_name": "Bình áp",
+   "so_dong": 11,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "41080",
+   "prop_name": "Lõi RO",
+   "so_dong": 11,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "41081",
+   "prop_name": "Hệ thống nóng lạnh",
+   "so_dong": 11,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "41082",
+   "prop_name": "Buồng điện phân",
+   "so_dong": 11,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "11659",
+   "prop_name": "Loại máy",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Máy lọc nước UF"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "11661",
+   "prop_name": "Dung tích bình chứa",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không có"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "11663",
+   "prop_name": "Kháng khuẩn",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Ion bạc"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "11665",
+   "prop_name": "Thương hiệu",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Đức"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "11666",
+   "prop_name": "Nơi sản xuất",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Hàn Quốc"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "12199",
+   "prop_name": "Hệ thống bơm và van điều tiết",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Hãng không công bố"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "13107",
+   "prop_name": "Tiện ích",
+   "so_dong": 4,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Hệ thống cút nối nhanh dễ dàng thay lõi"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "13165",
+   "prop_name": "Công nghệ lọc",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "UF"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "13766",
+   "prop_name": "Số lõi lọc",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "4 lõi"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "19600",
+   "prop_name": "Năm ra mắt",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "2023"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "20788",
+   "prop_name": "Kiểu lắp đặt",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Lắp âm"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "21276",
+   "prop_name": "Công suất tiêu thụ điện trung bình khoảng",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "25058",
+   "prop_name": "Tiện ích",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "25479",
+   "prop_name": "Lõi lọc thô",
+   "so_dong": 4,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Lõi 1: Sediment (Sx Hàn Quốc)"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "25480",
+   "prop_name": "Lõi chức năng",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Lõi 4: Lõi ion đá bạc khoáng (Sx Hàn Quốc)"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "25481",
+   "prop_name": "Tỷ lệ lọc - thải",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không có"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "25483",
+   "prop_name": "Nơi sản xuất máy bơm",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Hãng không công bố"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "25783",
+   "prop_name": "Hệ thống làm lạnh",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "26600",
+   "prop_name": "Loại máy",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "26837",
+   "prop_name": "Nhiệt độ nước nóng",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "26838",
+   "prop_name": "Nhiệt độ nước lạnh",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "26856",
+   "prop_name": "Ngang",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "29"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "26857",
+   "prop_name": "Cao",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "37.6"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "26858",
+   "prop_name": "Sâu",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "9"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "27000",
+   "prop_name": "Khối lượng",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "2.8"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "27258",
+   "prop_name": "Lõi RO/Nano/UF",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "UF sản xuất Hàn Quốc"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "28319",
+   "prop_name": "Bộ tiền lọc",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "28320",
+   "prop_name": "Lõi lọc tinh",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "28321",
+   "prop_name": "Tuổi thọ lõi lọc tinh",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "28323",
+   "prop_name": "Số điện cực",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "28324",
+   "prop_name": "Tuổi thọ điện cực",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "28325",
+   "prop_name": "Phương pháp điện phân",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "28327",
+   "prop_name": "Độ pH",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "28328",
+   "prop_name": "Chỉ số Hydrogen",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "28329",
+   "prop_name": "Chỉ số chống oxy hóa ORP",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "28330",
+   "prop_name": "Số loại nước",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "28331",
+   "prop_name": "Áp lực nước yêu cầu",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "0.1 - 0.4 MPa"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "28332",
+   "prop_name": "Chế độ vệ sinh điện cực",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "28975",
+   "prop_name": "Sản phẩm mua kèm",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Cốc lọc nước"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "34900",
+   "prop_name": "Nhiệt độ nước nóng thực tế",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "34901",
+   "prop_name": "Nhiệt độ nước lạnh thực tế",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "34903",
+   "prop_name": "Số lõi lọc",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "3 - 5 lõi"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "34952",
+   "prop_name": "Lưu ý nhiệt độ thực tế",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "35823",
+   "prop_name": "Ngôn ngữ",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không có"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "36018",
+   "prop_name": "pH thực tế",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "36019",
+   "prop_name": "Lưu ý độ pH thực tế",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "9678",
+   "goi_y_ma": "",
+   "prop_id": "36335",
+   "prop_name": "Công suất lọc",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "120"
+  }
+ ],
  "dx_dang_ap": 0,
  "goc_cms": {},
  "log": [
-  [
-   "1114169000104",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1114169000103",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1114172000050",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1114559000023",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1114899000004",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1114172000106",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1114172000105",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1114172000065",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1114172000064",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1114172000067",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1114172000062",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1114172000061",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1114559000026",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1114559000025",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1114559000024",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1114172000066",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1114172000107",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
   [
    "1114169000102",
    "",
@@ -113,16 +499,71 @@
    "Không có dòng nào trong DATA SP"
   ]
  ],
- "luc": "2026-10-07 17:13:44",
- "nganh": {},
+ "luc": "2026-10-07 17:14:40",
+ "nganh": {
+  "9678": {
+   "attr": [
+    "body_material_tskt_master",
+    "brand_of_tskt_master",
+    "deep_tskt_master",
+    "filter_lifespan_tskt_master",
+    "filtration_capacity_tskt_master",
+    "function_tskt_master",
+    "high_tskt_master",
+    "horizontal_tskt_master",
+    "machine_weight_tskt_master",
+    "made_in_tskt_master",
+    "number_of_filter_cores_tskt_master",
+    "number_of_filter_stages_tskt_master",
+    "operating_temperature_tskt_master",
+    "output_power_tskt_master",
+    "product_type_tskt_master",
+    "release_date_tskt_master",
+    "size_weight_tskt_master",
+    "technology_tskt_master",
+    "utilities_tskt_master",
+    "volume_tskt_master",
+    "water_flow_rate_tskt_master",
+    "water_spray_mode_tskt_master",
+    "working_pressure_tskt_master"
+   ],
+   "ten": {
+    "body_material_tskt_master": "Chất liệu thân vỏ",
+    "brand_of_tskt_master": "Thương hiệu của",
+    "deep_tskt_master": "Sâu",
+    "filter_lifespan_tskt_master": "Thời hạn sử dụng bộ lọc",
+    "filtration_capacity_tskt_master": "Công suất lọc",
+    "function_tskt_master": "Chức năng",
+    "high_tskt_master": "Cao",
+    "horizontal_tskt_master": "Ngang",
+    "machine_weight_tskt_master": "Khối lượng máy",
+    "made_in_tskt_master": "Sản xuất tại",
+    "number_of_filter_cores_tskt_master": "Số lõi lọc",
+    "number_of_filter_stages_tskt_master": "Số cấp lọc",
+    "operating_temperature_tskt_master": "Nhiệt độ hoạt động",
+    "output_power_tskt_master": "Công suất đầu ra",
+    "product_type_tskt_master": "Loại sản phẩm",
+    "release_date_tskt_master": "Thời gian ra mắt",
+    "size_weight_tskt_master": "Kích thước Khối lượng",
+    "technology_tskt_master": "Công nghệ",
+    "utilities_tskt_master": "Tiện ích",
+    "volume_tskt_master": "Thể tích",
+    "water_flow_rate_tskt_master": "Lưu lượng nước",
+    "water_spray_mode_tskt_master": "Chế độ phun nước",
+    "working_pressure_tskt_master": "Áp suất làm việc"
+   },
+   "ten_nh": "Lọc nước không điện",
+   "title": "TSKT 9678 Lọc nước không điện"
+  }
+ },
  "o_theo_ten": [],
  "tom_tat": {
   "filter_khong_khop": 0,
-  "khong_data": 18,
+  "khong_data": 1,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 0,
-  "so_o": 0,
-  "so_sku": 0
+  "so_nganh": 1,
+  "so_o": 357,
+  "so_sku": 17
  }
 }
