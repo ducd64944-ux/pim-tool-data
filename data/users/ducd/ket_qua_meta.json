@@ -1,127 +1,152 @@
 {
- "chon": [],
- "chua_map": [],
+ "chon": [
+  {
+   "CHỌN": true,
+   "GHI CHÚ": "",
+   "MÃ NH": "4946",
+   "NGUỒN CATE": "CATEGORYID",
+   "SỐ SKU": 18,
+   "TAB TSKT / CẤU HÌNH": "cấu hình — 3 cột",
+   "TÊN NGÀNH HÀNG": "Khay đá - ly làm đá"
+  }
+ ],
+ "chua_map": [
+  {
+   "cate": "4946",
+   "goi_y_ma": "body_material_tskt_master",
+   "prop_id": "12710",
+   "prop_name": "Chất liệu",
+   "so_dong": 6,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Nhựa"
+  },
+  {
+   "cate": "4946",
+   "goi_y_ma": "",
+   "prop_id": "14708",
+   "prop_name": "Dung tích",
+   "so_dong": 7,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Đang cập nhật"
+  },
+  {
+   "cate": "4946",
+   "goi_y_ma": "",
+   "prop_id": "14728",
+   "prop_name": "Chất liệu dây",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Dây nhựa"
+  },
+  {
+   "cate": "4946",
+   "goi_y_ma": "body_material_tskt_master",
+   "prop_id": "12710",
+   "prop_name": "Chất liệu",
+   "so_dong": 1,
+   "trang_thai": "Đã map theo TÊN (nên thêm vào MAPPING TSKT)",
+   "vi_du": "Inox"
+  },
+  {
+   "cate": "4946",
+   "goi_y_ma": "",
+   "prop_id": "13547",
+   "prop_name": "Loại",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Ly đơn"
+  },
+  {
+   "cate": "4946",
+   "goi_y_ma": "product_type_tskt_master",
+   "prop_id": "19098",
+   "prop_name": "Loại sản phẩm",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Khay làm đá"
+  },
+  {
+   "cate": "4946",
+   "goi_y_ma": "body_material_tskt_master",
+   "prop_id": "19099",
+   "prop_name": "Chất liệu",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Nhựa"
+  },
+  {
+   "cate": "4946",
+   "goi_y_ma": "mass_tskt_master",
+   "prop_id": "32681",
+   "prop_name": "Khối lượng",
+   "so_dong": 8,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "4946",
+   "goi_y_ma": "",
+   "prop_id": "32688",
+   "prop_name": "Nơi sản xuất",
+   "so_dong": 8,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "4946",
+   "goi_y_ma": "",
+   "prop_id": "18485",
+   "prop_name": "Tên sản phẩm",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Có đường"
+  },
+  {
+   "cate": "4946",
+   "goi_y_ma": "",
+   "prop_id": "35840",
+   "prop_name": "Dung tích",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Đang câp nhật"
+  },
+  {
+   "cate": "4946",
+   "goi_y_ma": "body_material_tskt_master",
+   "prop_id": "32680",
+   "prop_name": "Chất liệu",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  }
+ ],
  "dx_dang_ap": 0,
  "goc_cms": {},
- "log": [
-  [
-   "8936040500571",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1034164000013",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1034164000014",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1032999000322",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1034164000001",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "8936040503213",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "8936040500595",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1032999001083",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1032999000890",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1032999000733",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1034164000007",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1034164000010",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1034164000039",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1034164000038",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1034164000037",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1032999000321",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "8935214710051",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "8936046203971",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ]
- ],
- "luc": "2026-10-07 14:30:56",
- "nganh": {},
+ "log": [],
+ "luc": "2026-10-07 14:31:20",
+ "nganh": {
+  "4946": {
+   "attr": [
+    "body_material_tskt_master",
+    "product_type_tskt_master",
+    "quantity_tskt_master"
+   ],
+   "ten": {
+    "body_material_tskt_master": "Chất liệu thân vỏ",
+    "product_type_tskt_master": "Loại sản phẩm",
+    "quantity_tskt_master": "Số lượng"
+   },
+   "ten_nh": "Khay đá - ly làm đá",
+   "title": "TSKT 4946 Khay đá - ly làm đá"
+  }
+ },
  "tom_tat": {
   "filter_khong_khop": 0,
-  "khong_data": 18,
-  "map_theo_ten": 0,
+  "khong_data": 0,
+  "map_theo_ten": 1,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 0,
-  "so_o": 0,
-  "so_sku": 0
+  "so_nganh": 1,
+  "so_o": 51,
+  "so_sku": 18
  }
 }
