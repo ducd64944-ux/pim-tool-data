@@ -1,71 +1,127 @@
 {
- "chon": [
-  {
-   "CHỌN": true,
-   "GHI CHÚ": "",
-   "MÃ NH": "9158",
-   "NGUỒN CATE": "CATEGORYID",
-   "SỐ SKU": 10,
-   "TAB TSKT / CẤU HÌNH": "cấu hình — 12 cột",
-   "TÊN NGÀNH HÀNG": "Két sắt"
-  }
- ],
- "chua_map": [
-  {
-   "cate": "9158",
-   "goi_y_ma": "",
-   "prop_id": "26101",
-   "prop_name": "Khả năng chống nước, chống lửa",
-   "so_dong": 10,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Chống cháy, chống thấm"
-  }
- ],
+ "chon": [],
+ "chua_map": [],
  "dx_dang_ap": 0,
  "goc_cms": {},
- "log": [],
- "luc": "2026-10-07 14:23:35",
- "nganh": {
-  "9158": {
-   "attr": [
-    "body_material_tskt_master",
-    "brand_of_tskt_master",
-    "capacity_tskt_master",
-    "fire_resistance_tskt_master",
-    "locking_system_tskt_master",
-    "lock_system_battery_tskt_master",
-    "place_of_production_tskt_master",
-    "product_line_tskt_master",
-    "size_weight_tskt_master",
-    "style_tskt_master",
-    "utilities_tskt_master",
-    "water_resistance_tskt_master"
-   ],
-   "ten": {
-    "body_material_tskt_master": "Chất liệu thân vỏ",
-    "brand_of_tskt_master": "Thương hiệu của",
-    "capacity_tskt_master": "Dung lượng",
-    "fire_resistance_tskt_master": "Khả năng chống cháy",
-    "lock_system_battery_tskt_master": "Pin dùng cho hệ thống khoá",
-    "locking_system_tskt_master": "Hệ thống khoá",
-    "place_of_production_tskt_master": "Nơi sản xuất",
-    "product_line_tskt_master": "Dòng sản phẩm",
-    "size_weight_tskt_master": "Kích thước Khối lượng",
-    "style_tskt_master": "Kiểu dáng",
-    "utilities_tskt_master": "Tiện ích",
-    "water_resistance_tskt_master": "Khả năng chống thấm"
-   },
-   "ten_nh": "Két sắt",
-   "title": "TSKT 9158 Két sắt"
-  }
- },
+ "log": [
+  [
+   "8936040500571",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1034164000013",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1034164000014",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1032999000322",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1034164000001",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "8936040503213",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "8936040500595",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1032999001083",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1032999000890",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1032999000733",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1034164000007",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1034164000010",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1034164000039",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1034164000038",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1034164000037",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1032999000321",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "8935214710051",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "8936046203971",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ]
+ ],
+ "luc": "2026-10-07 14:30:56",
+ "nganh": {},
  "tom_tat": {
   "filter_khong_khop": 0,
-  "khong_data": 0,
+  "khong_data": 18,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 1,
-  "so_o": 120,
-  "so_sku": 10
+  "so_nganh": 0,
+  "so_o": 0,
+  "so_sku": 0
  }
 }
