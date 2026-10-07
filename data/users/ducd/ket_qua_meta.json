@@ -1,208 +1,38 @@
 {
- "chon": [
-  {
-   "CHỌN": true,
-   "GHI CHÚ": "",
-   "MÃ NH": "11560",
-   "NGUỒN CATE": "CATEGORYID",
-   "SỐ SKU": 4,
-   "TAB TSKT / CẤU HÌNH": "cấu hình — 17 cột",
-   "TÊN NGÀNH HÀNG": "Máy bào"
-  }
- ],
- "chua_map": [
-  {
-   "cate": "11560",
-   "goi_y_ma": "",
-   "prop_id": "26261",
-   "prop_name": "Loại máy",
-   "so_dong": 1,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Máy mài gỗ"
-  },
-  {
-   "cate": "11560",
-   "goi_y_ma": "",
-   "prop_id": "26262",
-   "prop_name": "Công suất",
-   "so_dong": 1,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "550W"
-  },
-  {
-   "cate": "11560",
-   "goi_y_ma": "",
-   "prop_id": "26263",
-   "prop_name": "Loại mô tơ",
-   "so_dong": 1,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Động cơ chổi than"
-  },
-  {
-   "cate": "11560",
-   "goi_y_ma": "",
-   "prop_id": "26264",
-   "prop_name": "Tốc độ không tải tối đa",
-   "so_dong": 1,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "16000 vòng/phút"
-  },
-  {
-   "cate": "11560",
-   "goi_y_ma": "",
-   "prop_id": "26265",
-   "prop_name": "Đường kính đĩa",
-   "so_dong": 1,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "11560",
-   "goi_y_ma": "",
-   "prop_id": "26268",
-   "prop_name": "Năm ra mắt",
-   "so_dong": 1,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "2020"
-  },
-  {
-   "cate": "11560",
-   "goi_y_ma": "",
-   "prop_id": "26269",
-   "prop_name": "Nơi sản xuất",
-   "so_dong": 1,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Trung Quốc"
-  },
-  {
-   "cate": "11560",
-   "goi_y_ma": "",
-   "prop_id": "27507",
-   "prop_name": "Dài",
-   "so_dong": 1,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "30.9"
-  },
-  {
-   "cate": "11560",
-   "goi_y_ma": "",
-   "prop_id": "27508",
-   "prop_name": "Rộng",
-   "so_dong": 1,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "16.4"
-  },
-  {
-   "cate": "11560",
-   "goi_y_ma": "",
-   "prop_id": "27509",
-   "prop_name": "Cao",
-   "so_dong": 1,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "16.4"
-  },
-  {
-   "cate": "11560",
-   "goi_y_ma": "",
-   "prop_id": "27510",
-   "prop_name": "Nặng",
-   "so_dong": 1,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "2.6"
-  },
-  {
-   "cate": "11560",
-   "goi_y_ma": "",
-   "prop_id": "28258",
-   "prop_name": "Lõi động cơ",
-   "so_dong": 1,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Lõi nhôm"
-  },
-  {
-   "cate": "11560",
-   "goi_y_ma": "",
-   "prop_id": "32479",
-   "prop_name": "Đường kính ống kẹp tương thích",
-   "so_dong": 1,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "11560",
-   "goi_y_ma": "",
-   "prop_id": "32481",
-   "prop_name": "Ren trục bánh mài",
-   "so_dong": 1,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "11560",
-   "goi_y_ma": "",
-   "prop_id": "32524",
-   "prop_name": "Phụ kiện kèm theo",
-   "so_dong": 1,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không có phụ kiện"
-  }
- ],
+ "chon": [],
+ "chua_map": [],
  "dx_dang_ap": 0,
  "goc_cms": {},
- "log": [],
- "luc": "2026-10-07 21:47:35",
- "nganh": {
-  "11560": {
-   "attr": [
-    "brand_of_tskt_master",
-    "engine_core_tskt_master",
-    "high_tskt_master",
-    "included_accessories_tskt_master",
-    "long_cord_tskt_master",
-    "long_tskt_master",
-    "machine_weight_tskt_master",
-    "made_in_tskt_master",
-    "motor_type_tskt_master",
-    "no_load_speed_tskt_master",
-    "output_power_tskt_master",
-    "planing_depth_tskt_master",
-    "planing_width_tskt_master",
-    "release_date_tskt_master",
-    "type_of_machine_tskt_master",
-    "utilities_tskt_master",
-    "wide_tskt_master"
-   ],
-   "ten": {
-    "brand_of_tskt_master": "Thương hiệu của",
-    "engine_core_tskt_master": "Lõi động cơ",
-    "high_tskt_master": "Cao",
-    "included_accessories_tskt_master": "Phụ kiện đi kèm",
-    "long_cord_tskt_master": "Dài dây",
-    "long_tskt_master": "Dài",
-    "machine_weight_tskt_master": "Khối lượng máy",
-    "made_in_tskt_master": "Sản xuất tại",
-    "motor_type_tskt_master": "Loại động cơ",
-    "no_load_speed_tskt_master": "Tốc độ không tải",
-    "output_power_tskt_master": "Công suất đầu ra",
-    "planing_depth_tskt_master": "Độ sâu đường bào",
-    "planing_width_tskt_master": "Bề rộng đường bào",
-    "release_date_tskt_master": "Thời gian ra mắt",
-    "type_of_machine_tskt_master": "Loại máy",
-    "utilities_tskt_master": "Tiện ích",
-    "wide_tskt_master": "Rộng"
-   },
-   "ten_nh": "Máy bào",
-   "title": "TSKT 11560 Máy bào"
-  }
- },
+ "log": [
+  [
+   "9923387000091",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000745",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000744",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ]
+ ],
+ "luc": "2026-10-07 21:57:12",
+ "nganh": {},
  "o_theo_ten": [],
  "tom_tat": {
   "filter_khong_khop": 0,
-  "khong_data": 0,
+  "khong_data": 3,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 1,
-  "so_o": 61,
-  "so_sku": 4
+  "so_nganh": 0,
+  "so_o": 0,
+  "so_sku": 0
  }
 }
