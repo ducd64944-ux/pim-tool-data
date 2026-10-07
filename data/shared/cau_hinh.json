@@ -1577,6 +1577,31 @@
    "year_of_manufacture_tskt_master": "Năm sản xuất"
   }
  },
+ "7899": {
+  "cot": [
+   "brand_of_tskt_master",
+   "capacity_tskt_master",
+   "function_tskt_master",
+   "made_in_tskt_master",
+   "material_tskt_master",
+   "output_power_tskt_master",
+   "product_dimensions_tskt_master",
+   "quantity_tskt_master",
+   "release_date_tskt_master"
+  ],
+  "ten": "Hộp hâm cơm",
+  "ten_cot": {
+   "brand_of_tskt_master": "Thương hiệu của",
+   "capacity_tskt_master": "Dung lượng",
+   "function_tskt_master": "Chức năng",
+   "made_in_tskt_master": "Sản xuất tại",
+   "material_tskt_master": "Chất liệu",
+   "output_power_tskt_master": "Công suất đầu ra",
+   "product_dimensions_tskt_master": "Kích thước sản phẩm",
+   "quantity_tskt_master": "Số lượng",
+   "release_date_tskt_master": "Thời gian ra mắt"
+  }
+ },
  "8579": {
   "cot": [
    "body_material_tskt_master",
