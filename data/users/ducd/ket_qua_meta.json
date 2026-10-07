@@ -1,231 +1,128 @@
 {
- "chon": [
-  {
-   "CHỌN": true,
-   "GHI CHÚ": "",
-   "MÃ NH": "1986",
-   "NGUỒN CATE": "CATEGORYID",
-   "SỐ SKU": 140,
-   "TAB TSKT / CẤU HÌNH": "cấu hình — 22 cột",
-   "TÊN NGÀNH HÀNG": "Lẩu điện"
-  }
- ],
- "chua_map": [
-  {
-   "cate": "1986",
-   "goi_y_ma": "",
-   "prop_id": "9155",
-   "prop_name": "Kích thước - Khối lượng",
-   "so_dong": 17,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Đường kính lòng nồi 26 cm, cao 6.5 cm"
-  },
-  {
-   "cate": "1986",
-   "goi_y_ma": "",
-   "prop_id": "6735",
-   "prop_name": "Thương hiệu của",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Việt Nam"
-  },
-  {
-   "cate": "1986",
-   "goi_y_ma": "",
-   "prop_id": "6900",
-   "prop_name": "Dung tích",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Nhỏ hơn 1.8 lít"
-  },
-  {
-   "cate": "1986",
-   "goi_y_ma": "",
-   "prop_id": "9109",
-   "prop_name": "Dung tích",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "1.5 lít"
-  },
-  {
-   "cate": "1986",
-   "goi_y_ma": "",
-   "prop_id": "9110",
-   "prop_name": "Công suất",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "600W"
-  },
-  {
-   "cate": "1986",
-   "goi_y_ma": "",
-   "prop_id": "9112",
-   "prop_name": "Tiện ích",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Đèn hoạt động"
-  },
-  {
-   "cate": "1986",
-   "goi_y_ma": "",
-   "prop_id": "9113",
-   "prop_name": "Chế độ an toàn",
-   "so_dong": 1,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Tự ngắt khi nước sôi và khi cạn nước"
-  },
-  {
-   "cate": "1986",
-   "goi_y_ma": "",
-   "prop_id": "9114",
-   "prop_name": "Khối lượng",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "1.25 kg"
-  },
-  {
-   "cate": "1986",
-   "goi_y_ma": "",
-   "prop_id": "9115",
-   "prop_name": "Ruột bình",
-   "so_dong": 1,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Inox"
-  },
-  {
-   "cate": "1986",
-   "goi_y_ma": "",
-   "prop_id": "19860",
-   "prop_name": "Đế tiếp điện",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Âm/dương"
-  },
-  {
-   "cate": "1986",
-   "goi_y_ma": "",
-   "prop_id": "19866",
-   "prop_name": "Chất liệu ruột bình",
-   "so_dong": 1,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Inox cao cấp 304"
-  },
-  {
-   "cate": "1986",
-   "goi_y_ma": "",
-   "prop_id": "19872",
-   "prop_name": "Chất liệu vỏ bình",
-   "so_dong": 1,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Nhựa ABS"
-  },
-  {
-   "cate": "1986",
-   "goi_y_ma": "",
-   "prop_id": "24811",
-   "prop_name": "Năm ra mắt",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "2020"
-  }
- ],
+ "chon": [],
+ "chua_map": [],
  "dx_dang_ap": 0,
  "goc_cms": {},
  "log": [
   [
-   "4844151000398",
+   "1114169000104",
    "",
    "",
    "Không có dòng nào trong DATA SP"
   ],
   [
-   "4844151000331",
+   "1114169000103",
    "",
    "",
    "Không có dòng nào trong DATA SP"
   ],
   [
-   "4844151000049",
-   "1986",
-   "control_panel_filter_master",
-   "FILTER: giá trị CMS \"Đang cập nhật\" chưa có option trong DATA PIM — để trống"
+   "1114172000050",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "4844151000214",
-   "1986",
-   "product_type_filter_master",
-   "FILTER: giá trị CMS \"Nồi lẩu hấp đa năng\" chưa có option trong DATA PIM — để trống"
+   "1114559000023",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "4844151000290",
-   "1986",
-   "capacity_filter_master",
-   "FILTER: giá trị CMS \"Đang cập nhật\" chưa có option trong DATA PIM — để trống"
+   "1114899000004",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1114172000106",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1114172000105",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1114172000065",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1114172000064",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1114172000067",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1114172000062",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1114172000061",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1114559000026",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1114559000025",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1114559000024",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1114172000066",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1114172000107",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1114169000102",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ]
  ],
- "luc": "2026-10-07 16:24:56",
- "nganh": {
-  "1986": {
-   "attr": [
-    "capacity_filter_master",
-    "control_panel_filter_master",
-    "made_in_filter_master",
-    "product_type_filter_master",
-    "utilities_filter_master",
-    "adjust_the_temperature_tskt_master",
-    "brand_of_tskt_master",
-    "capacity_tskt_master",
-    "deep_tskt_master",
-    "diameter_tskt_master",
-    "function_tskt_master",
-    "high_tskt_master",
-    "horizontal_tskt_master",
-    "inner_pot_tskt_master",
-    "lid_tskt_master",
-    "long_cord_tskt_master",
-    "made_in_tskt_master",
-    "mass_tskt_master",
-    "pot_casing_tskt_master",
-    "power_tskt_master",
-    "size_weight_tskt_master",
-    "utilities_tskt_master"
-   ],
-   "ten": {
-    "adjust_the_temperature_tskt_master": "Điều chỉnh nhiệt",
-    "brand_of_tskt_master": "Thương hiệu của",
-    "capacity_filter_master": "Dung lượng dung tích",
-    "capacity_tskt_master": "Dung lượng",
-    "control_panel_filter_master": "Bảng điều khiển",
-    "deep_tskt_master": "Sâu",
-    "diameter_tskt_master": "Đường kính",
-    "function_tskt_master": "Chức năng",
-    "high_tskt_master": "Cao",
-    "horizontal_tskt_master": "Ngang",
-    "inner_pot_tskt_master": "Lòng nồi",
-    "lid_tskt_master": "Nắp đậy",
-    "long_cord_tskt_master": "Dài dây",
-    "made_in_filter_master": "Sản xuất tại",
-    "made_in_tskt_master": "Sản xuất tại",
-    "mass_tskt_master": "Khối lượng",
-    "pot_casing_tskt_master": "Vỏ nồi",
-    "power_tskt_master": "Công suất",
-    "product_type_filter_master": "Loại sản phẩm",
-    "size_weight_tskt_master": "Kích thước Khối lượng",
-    "utilities_filter_master": "Tiện ích",
-    "utilities_tskt_master": "Tiện ích"
-   },
-   "ten_nh": "Lẩu điện",
-   "title": "TSKT 1986 Lẩu điện"
-  }
- },
+ "luc": "2026-10-07 17:13:44",
+ "nganh": {},
  "o_theo_ten": [],
  "tom_tat": {
-  "filter_khong_khop": 3,
-  "khong_data": 2,
+  "filter_khong_khop": 0,
+  "khong_data": 18,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 1,
-  "so_o": 2507,
-  "so_sku": 140
+  "so_nganh": 0,
+  "so_o": 0,
+  "so_sku": 0
  }
 }
