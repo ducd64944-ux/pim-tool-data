@@ -479,5 +479,18 @@
   "Thêm đơn vị": 0,
   "Tách xin data": 0,
   "Workspace": "ducd"
+ },
+ {
+  "Biến đổi": 0,
+  "Cảnh báo": "• 23 ô KHÁC spec PIM (sẽ ghi đè) | • 2 ô kích thước/khối lượng chưa có đơn vị | • 4 dòng không có trong file PIM | • 1 SKU KHÔNG có thông số nào (sẽ xuất dòng trống)",
+  "File": "PIM_TSKT 5005 Khung treo Tivi_MODEL_20261007_1555.xlsx",
+  "Không/Đang cập nhật": 95,
+  "Lúc": "2026-10-07 15:55:33",
+  "Người xuất": "ducd",
+  "Số dòng": 25,
+  "Sửa tay": 0,
+  "Thêm đơn vị": 0,
+  "Tách xin data": 1,
+  "Workspace": "ducd"
  }
 ]
