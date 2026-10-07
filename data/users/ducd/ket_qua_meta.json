@@ -1,105 +1,37 @@
 {
- "chon": [
-  {
-   "CHỌN": true,
-   "GHI CHÚ": "",
-   "MÃ NH": "344",
-   "NGUỒN CATE": "CATEGORYID",
-   "SỐ SKU": 100,
-   "TAB TSKT / CẤU HÌNH": "cấu hình — 29 cột",
-   "TÊN NGÀNH HÀNG": "Ghế Massage"
-  }
- ],
- "chua_map": [
-  {
-   "cate": "344",
-   "goi_y_ma": "control_panel_tskt_master",
-   "prop_id": "35580",
-   "prop_name": "Bảng điều khiển",
-   "so_dong": 96,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Cảm ứng"
-  }
- ],
+ "chon": [],
+ "chua_map": [],
  "dx_dang_ap": 0,
  "goc_cms": {},
- "log": [],
- "luc": "2026-10-07 10:54:31",
- "nganh": {
-  "344": {
-   "attr": [
-    "airbag_location_tskt_master",
-    "body_material_tskt_master",
-    "brand_of_tskt_master",
-    "control_panel_tskt_master",
-    "function_tskt_master",
-    "high_tskt_master",
-    "horizontal_tskt_master",
-    "long_tskt_master",
-    "machine_weight_tskt_master",
-    "made_in_tskt_master",
-    "main_accessory_height_tskt_master",
-    "main_accessory_length_tskt_master",
-    "main_accessory_width_tskt_master",
-    "massage_roller_tskt_master",
-    "massage_shaft_tskt_master",
-    "massage_techniques_tskt_master",
-    "maximum_height_tskt_master",
-    "maximum_load_tskt_master",
-    "output_power_tskt_master",
-    "programme_tskt_master",
-    "reclined_height_tskt_master",
-    "reclined_length_tskt_master",
-    "reclined_size_tskt_master",
-    "reclined_width_tskt_master",
-    "size_tskt_master",
-    "upright_size_tskt_master",
-    "usage_time_tskt_master",
-    "utilities_tskt_master",
-    "year_of_manufacture_tskt_master"
-   ],
-   "ten": {
-    "airbag_location_tskt_master": "Vị trí túi khí",
-    "body_material_tskt_master": "Chất liệu thân vỏ",
-    "brand_of_tskt_master": "Thương hiệu của",
-    "control_panel_tskt_master": "Bảng điều khiển",
-    "function_tskt_master": "Chức năng",
-    "high_tskt_master": "Cao",
-    "horizontal_tskt_master": "Ngang",
-    "long_tskt_master": "Dài",
-    "machine_weight_tskt_master": "Khối lượng máy",
-    "made_in_tskt_master": "Sản xuất tại",
-    "main_accessory_height_tskt_master": "Cao phụ kiện chính",
-    "main_accessory_length_tskt_master": "Dài phụ kiện chính",
-    "main_accessory_width_tskt_master": "Ngang phụ kiện chính",
-    "massage_roller_tskt_master": "Con lăn massage",
-    "massage_shaft_tskt_master": "Trục massage",
-    "massage_techniques_tskt_master": "Phương pháp massage",
-    "maximum_height_tskt_master": "Cao tối đa",
-    "maximum_load_tskt_master": "Tải trọng tối đa",
-    "output_power_tskt_master": "Công suất đầu ra",
-    "programme_tskt_master": "Chương trình",
-    "reclined_height_tskt_master": "Cao (ngả ghế)",
-    "reclined_length_tskt_master": "Dài (ngả ghế)",
-    "reclined_size_tskt_master": "Kích thước khi ngả ghế",
-    "reclined_width_tskt_master": "Ngang (ngả ghế)",
-    "size_tskt_master": "Kích thước",
-    "upright_size_tskt_master": "Kích thước khi đứng ghế",
-    "usage_time_tskt_master": "Thời gian sử dụng",
-    "utilities_tskt_master": "Tiện ích",
-    "year_of_manufacture_tskt_master": "Năm sản xuất"
-   },
-   "ten_nh": "Ghế Massage",
-   "title": "TSKT 344 Ghế Massage"
-  }
- },
+ "log": [
+  [
+   "2400102300011",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2400102300012",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3842811000191",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ]
+ ],
+ "luc": "2026-10-07 11:11:52",
+ "nganh": {},
  "tom_tat": {
   "filter_khong_khop": 0,
-  "khong_data": 0,
+  "khong_data": 3,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 1,
-  "so_o": 2255,
-  "so_sku": 100
+  "so_nganh": 0,
+  "so_o": 0,
+  "so_sku": 0
  }
 }
