@@ -506,5 +506,19 @@
   "Thêm đơn vị": 0,
   "Tách xin data": 0,
   "Workspace": "ducd"
+ },
+ {
+  "Biến đổi": 68,
+  "Chặn ô theo tên": 0,
+  "Cảnh báo": "• 48 ô KHÁC spec PIM (sẽ ghi đè) | • 24 ô tool để trống trong khi PIM đang có | • 5 dòng không có trong file PIM",
+  "File": "PIM_TSKT 9678 Lọc nước không điện_MODEL_20261007_1721.xlsx",
+  "Không/Đang cập nhật": 39,
+  "Lúc": "2026-10-07 17:21:33",
+  "Người xuất": "ducd",
+  "Số dòng": 17,
+  "Sửa tay": 0,
+  "Thêm đơn vị": 0,
+  "Tách xin data": 0,
+  "Workspace": "ducd"
  }
 ]
