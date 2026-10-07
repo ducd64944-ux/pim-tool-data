@@ -1,49 +1,59 @@
 {
- "chon": [],
+ "chon": [
+  {
+   "CHỌN": true,
+   "GHI CHÚ": "",
+   "MÃ NH": "5227",
+   "NGUỒN CATE": "CATEGORYID",
+   "SỐ SKU": 5,
+   "TAB TSKT / CẤU HÌNH": "cấu hình — 11 cột",
+   "TÊN NGÀNH HÀNG": "Đồ dùng cho bé"
+  }
+ ],
  "chua_map": [],
  "dx_dang_ap": 0,
  "goc_cms": {},
- "log": [
-  [
-   "1032999001557",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1032999001555",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033242000064",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1032999001554",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1032999001556",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ]
- ],
- "luc": "2026-10-07 10:07:12",
- "nganh": {},
+ "log": [],
+ "luc": "2026-10-07 10:07:43",
+ "nganh": {
+  "5227": {
+   "attr": [
+    "brand_of_tskt_master",
+    "function_tskt_master",
+    "long_tskt_master",
+    "made_in_tskt_master",
+    "mass_tskt_master",
+    "material_tskt_master",
+    "product_type_tskt_master",
+    "recommended_age_tskt_master",
+    "thick_tskt_master",
+    "utilities_tskt_master",
+    "wide_tskt_master"
+   ],
+   "ten": {
+    "brand_of_tskt_master": "Thương hiệu của",
+    "function_tskt_master": "Chức năng",
+    "long_tskt_master": "Dài",
+    "made_in_tskt_master": "Sản xuất tại",
+    "mass_tskt_master": "Khối lượng",
+    "material_tskt_master": "Chất liệu",
+    "product_type_tskt_master": "Loại sản phẩm",
+    "recommended_age_tskt_master": "Độ tuổi khuyến nghị",
+    "thick_tskt_master": "Dày",
+    "utilities_tskt_master": "Tiện ích",
+    "wide_tskt_master": "Rộng"
+   },
+   "ten_nh": "Đồ dùng cho bé",
+   "title": "TSKT 5227 Đồ dùng cho bé"
+  }
+ },
  "tom_tat": {
   "filter_khong_khop": 0,
-  "khong_data": 5,
+  "khong_data": 0,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 0,
-  "so_o": 0,
-  "so_sku": 0
+  "so_nganh": 1,
+  "so_o": 47,
+  "so_sku": 5
  }
 }
