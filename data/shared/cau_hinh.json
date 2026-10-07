@@ -40,6 +40,37 @@
    "year_of_manufacture_tskt_master": "Năm sản xuất"
   }
  },
+ "14479": {
+  "cot": [
+   "age_of_use_tskt_master",
+   "appropriate_height_tskt_master",
+   "chair_frame_material_tskt_master",
+   "cushion_material_carpet_tskt_master",
+   "function_tskt_master",
+   "maximum_load_tskt_master",
+   "place_of_production_tskt_master",
+   "product_type_tskt_master",
+   "safety_features_tskt_master",
+   "safety_standards_tskt_master",
+   "target_users_tskt_master",
+   "utilities_tskt_master"
+  ],
+  "ten": "Ghế chỉnh dáng ngồi",
+  "ten_cot": {
+   "age_of_use_tskt_master": "Độ tuổi sử dụng",
+   "appropriate_height_tskt_master": "Chiều cao phù hợp",
+   "chair_frame_material_tskt_master": "Chất liệu khung xương ghế",
+   "cushion_material_carpet_tskt_master": "Chất liệu đệm, thảm lót",
+   "function_tskt_master": "Chức năng",
+   "maximum_load_tskt_master": "Tải trọng tối đa",
+   "place_of_production_tskt_master": "Nơi sản xuất",
+   "product_type_tskt_master": "Loại sản phẩm",
+   "safety_features_tskt_master": "Tính năng an toàn",
+   "safety_standards_tskt_master": "Tiêu chuẩn an toàn",
+   "target_users_tskt_master": "Đối tượng sử dụng",
+   "utilities_tskt_master": "Tiện ích"
+  }
+ },
  "166": {
   "cot": [
    "cabinet_style_filter_master",
