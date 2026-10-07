@@ -421,6 +421,584 @@
    "total_samples": 6
   }
  },
+ "344": {
+  "airbag_location_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Bàn chân|Bắp chân|Cánh tay|Eo|Vai": 1,
+    "Bàn chân|Bắp chân|Cánh tay|Hông|Vai": 2,
+    "Bàn chân|Bắp chân|Cánh tay|Vai": 8,
+    "Bàn chân|Bắp chân|Cánh tay|Đầu|Vai": 1,
+    "Bàn chân|Bắp chân|Cổ|Đầu|Lưng|Mông|Tay": 1,
+    "Bàn chân|Bắp chân|Hông|Tay|Vai": 14,
+    "Bàn chân|Bắp chân|Hông|Vai": 5,
+    "Bàn chân|Bắp chân|Lưng eo|Tay|Vai": 4,
+    "Bàn chân|Bắp chân|Lưng|Tay|Vai": 2,
+    "Bàn chân|Bắp chân|Mông|Tay|Vai": 4,
+    "Bàn chân|Bắp chân|Tay|Vai": 17,
+    "Bàn chân|Bắp chân|Vai": 1,
+    "Bàn chân|Bắp chân|Đùi|Hông|Tay|Vai": 3,
+    "Bàn chân|Bắp chân|Đùi|Tay|Vai": 2,
+    "Bàn chân|Bắp chân|Đầu|Mông|Tay": 1,
+    "Bàn tay|Bắp chân|Mông": 2,
+    "Bắp chân|Cánh tay|Hông|Vai": 6,
+    "Bắp chân|Tay|Vai": 2,
+    "Bắp chân|Đùi|Tay|Vai": 2,
+    "Bắp chân|Đầu|Mông|Tay|Vai": 2
+   },
+   "total_samples": 99
+  },
+  "body_material_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Bông cotton|Da microfiber PU|Đệm bọt biển|Gỗ thịt|Lông vũ|Thép sơn tĩnh điện": 1,
+    "Cao su|Da PU mềm|Không|Nhựa|Thép": 1,
+    "Cao su|Da PU|Sắt|Thép": 1,
+    "Chất liệu da EPU mềm, chịu mài mòn, chống mồ hôi, chống nước|Nệm|Nhựa ABS": 3,
+    "Da PU": 14,
+    "Da PU 3 lớp cao cấp": 2,
+    "Da PU|Hợp kim|Nhựa ABS": 12,
+    "Da PU|Nhựa ABS": 1,
+    "Da PU|Nhựa ABS|Sắt|Thép": 4,
+    "Da PU|Nhựa ABS|Thép": 8,
+    "Da PU|Nhựa ABS|Thép không gỉ": 2,
+    "Da PU|Nhựa Plastic|Thép không gỉ": 3,
+    "Da PU|Nhựa|Thép sơn tĩnh điện": 5,
+    "Da PU|Thép": 6,
+    "Da PU|Thép không gỉ": 7,
+    "Da PU|Thép sơn tĩnh điện": 8,
+    "Da Simili cao cấp": 10,
+    "Da microfiber PU": 1,
+    "Da microfiber PU|Nhựa ABS|Thép": 5,
+    "Da microfiber PU|Nhựa ABS|Thép không gỉ": 1
+   },
+   "total_samples": 100
+  },
+  "brand_of_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Hàn Quốc": 21,
+    "Việt Nam": 70
+   },
+   "total_samples": 91
+  },
+  "control_panel_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Màn hình LCD cảm ứng": 8,
+    "Màn hình LCD cảm ứng|Phím/ Nút điều khiển nhanh": 1,
+    "Màn hình cảm ứng": 2,
+    "Màn hình cảm ứng|Màn hình LCD|Nút cơ trên khung sườn": 1,
+    "Màn hình cảm ứng|Nút cơ trên khung sườn": 1,
+    "Nút cơ trên khung sườn": 3,
+    "Nút cơ trên khung sườn|Remote điều khiển": 1,
+    "Remote điều khiển": 10,
+    "Remote điều khiển tích hợp phím bấm và màn hình hiển thị": 2,
+    "Điều khiển bằng tiếng Anh|Điều khiển bằng tiếng Nhật|Remote điều khiển": 1,
+    "Điều khiển bằng tiếng Anh|Điều khiển bằng tiếng Việt|Màn hình LCD cảm ứng": 3,
+    "Điều khiển bằng tiếng Anh|Điều khiển bằng tiếng Việt|Màn hình cảm ứng": 2,
+    "Điều khiển bằng tiếng Anh|Điều khiển bằng tiếng Việt|Remote điều khiển tích hợp phím bấm và màn hình hiển thị": 6,
+    "Điều khiển bằng tiếng Việt|Màn hình 10.1 inch|Màn hình LCD cảm ứng|Phím/ Nút điều khiển nhanh": 1,
+    "Điều khiển bằng tiếng Việt|Màn hình LCD cảm ứng": 20,
+    "Điều khiển bằng tiếng Việt|Màn hình LCD cảm ứng|Phím/ Nút điều khiển nhanh": 4,
+    "Điều khiển bằng tiếng Việt|Màn hình cảm ứng": 4,
+    "Điều khiển bằng tiếng Việt|Phím/ Nút điều khiển nhanh|Remote điều khiển": 11,
+    "Điều khiển bằng tiếng Việt|Remote điều khiển": 10,
+    "Điều khiển và màn hình LCD": 2
+   },
+   "total_samples": 100
+  },
+  "function_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Chiropractic - Nắn chỉnh cột sống|Massage bàn chân|Massage bằng con lăn 4D|Massage bằng túi khí|Massage không trọng lực|": 1,
+    "Chiropractic - Nắn chỉnh cột sống|Massage bằng con lăn 4D|Massage bằng túi khí|Massage chân Guasha|Massage kép Poongsan-": 2,
+    "Massage bàn chân|Massage bằng con lăn 2D|Massage bằng túi khí|Massage không trọng lực|Massage nhiệt": 2,
+    "Massage bàn chân|Massage bằng con lăn 2D|Massage bằng túi khí|Massage đầu gối|Massage không trọng lực|Massage nhiệt": 1,
+    "Massage bàn chân|Massage bằng con lăn 3D|Massage bằng túi khí|Massage không trọng lực|Massage nhiệt": 12,
+    "Massage bàn chân|Massage bằng con lăn 3D|Massage bằng túi khí|Massage đầu gối|Massage không trọng lực|Massage nhiệt": 1,
+    "Massage bàn chân|Massage bằng con lăn 4D|Massage bằng túi khí|Massage không trọng lực|Massage lòng bàn tay|Massage nhiệt": 1,
+    "Massage bàn chân|Massage bằng con lăn 4D|Massage bằng túi khí|Massage không trọng lực|Massage nhiệt": 5,
+    "Massage bàn chân|Massage bằng con lăn 4D|Massage bằng túi khí|Massage đầu gối|Massage không trọng lực|Massage nhiệt": 1,
+    "Massage bàn chân|Massage bằng con lăn|Massage bằng túi khí|Massage không trọng lực|Massage nhiệt": 2,
+    "Massage bàn chân|Massage bằng túi khí|Massage không trọng lực|Massage nhiệt": 3,
+    "Massage bằng con lăn 2D|Massage bằng túi khí|Massage không trọng lực|Massage nhiệt": 4,
+    "Massage bằng con lăn 2D|Massage không trọng lực": 1,
+    "Massage bằng con lăn 3D|Massage bằng túi khí|Massage không trọng lực|Massage nhiệt": 28,
+    "Massage bằng con lăn 3D|Massage bằng túi khí|Massage đá nóng|Massage không trọng lực": 1,
+    "Massage bằng con lăn 4D|Massage bằng túi khí|Massage không trọng lực|Massage nhiệt": 9,
+    "Massage bằng con lăn 4D|Massage không trọng lực|Massage nhiệt": 4,
+    "Massage bằng con lăn 5D|Massage bằng túi khí|Massage không trọng lực|Massage nhiệt|Massage thái dương": 1,
+    "Massage bằng con lăn|Massage bằng túi khí|Massage không trọng lực|Massage nhiệt": 5,
+    "Massage bằng túi khí|Massage không trọng lực|Massage nhiệt": 7
+   },
+   "total_samples": 100
+  },
+  "high_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Cao 103 cm": 4,
+    "Cao 104 cm": 3,
+    "Cao 105 cm": 6,
+    "Cao 106 cm": 6,
+    "Cao 106.5 cm": 2,
+    "Cao 108 cm": 4,
+    "Cao 110 cm": 6,
+    "Cao 112 cm": 3,
+    "Cao 113 cm": 7,
+    "Cao 114 cm": 7,
+    "Cao 115 cm": 3,
+    "Cao 116 cm": 2,
+    "Cao 116.5 cm": 2,
+    "Cao 117 cm": 4,
+    "Cao 118 cm": 5,
+    "Cao 119 cm": 2,
+    "Cao 122 cm": 3,
+    "Cao 124 cm": 2,
+    "Cao 125 cm": 3,
+    "Cao 88 cm": 4
+   },
+   "total_samples": 95
+  },
+  "horizontal_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Ngang 62 cm": 1,
+    "Ngang 65 cm": 2,
+    "Ngang 68 cm": 1,
+    "Ngang 70 cm": 4,
+    "Ngang 70.2 cm": 1,
+    "Ngang 70.4 cm": 1,
+    "Ngang 73 cm": 5,
+    "Ngang 74 cm": 11,
+    "Ngang 74.5 cm": 3,
+    "Ngang 75 cm": 20,
+    "Ngang 76 cm": 7,
+    "Ngang 77 cm": 7,
+    "Ngang 78 cm": 3,
+    "Ngang 78.4 cm": 1,
+    "Ngang 79.6 cm": 1,
+    "Ngang 80 cm": 5,
+    "Ngang 81 cm": 3,
+    "Ngang 81.5 cm": 3,
+    "Ngang 83 cm": 5,
+    "Ngang 90 cm": 1
+   },
+   "total_samples": 95
+  },
+  "long_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Dài 112 cm": 3,
+    "Dài 115 cm": 2,
+    "Dài 127 cm": 2,
+    "Dài 135 cm": 6,
+    "Dài 136 cm": 3,
+    "Dài 139 cm": 2,
+    "Dài 140 cm": 8,
+    "Dài 140.5 cm": 2,
+    "Dài 144 cm": 2,
+    "Dài 145 cm": 7,
+    "Dài 146 cm": 6,
+    "Dài 148 cm": 6,
+    "Dài 149 cm": 2,
+    "Dài 150 cm": 8,
+    "Dài 151 cm": 3,
+    "Dài 152 cm": 3,
+    "Dài 152.5 cm": 2,
+    "Dài 153 cm": 2,
+    "Dài 155 cm": 5,
+    "Dài 156 cm": 2
+   },
+   "total_samples": 95
+  },
+  "machine_weight_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "105 kg": 2,
+    "112 kg": 5,
+    "120 kg": 5,
+    "54 kg": 3,
+    "55 kg": 5,
+    "56 kg": 6,
+    "58 kg": 3,
+    "60 kg": 5,
+    "61 kg": 3,
+    "65 kg": 2,
+    "68 kg": 4,
+    "71 kg": 2,
+    "75 kg": 2,
+    "80 kg": 2,
+    "82 kg": 3,
+    "84 kg": 2,
+    "85 kg": 7,
+    "87 kg": 2,
+    "92 kg": 3,
+    "97 kg": 2
+   },
+   "total_samples": 97
+  },
+  "made_in_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Công ty TNHH đầu tư XKN Thanh Tuấn - Địa chỉ: 45 đường số 5, P17, Gò Vấp, TP.HCM": 1,
+    "Nhật Bản": 1,
+    "Trung Quốc": 98
+   },
+   "total_samples": 100
+  },
+  "massage_roller_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Bi 2D": 1,
+    "Bi lăn bàn chân|Bi lăn cố định": 1,
+    "Bi robot di chuyển": 2,
+    "Con lăn 3D bọc silicon mềm mại": 1,
+    "Con lăn 4D Plus bọc silicon cao cấp": 1,
+    "Con lăn massage 2D": 16,
+    "Con lăn massage 3D": 46,
+    "Con lăn massage 4D": 28,
+    "Con lăn massage 5D": 1
+   },
+   "total_samples": 97
+  },
+  "massage_shaft_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Khung Li-Flex": 1,
+    "Massage điểm cố định": 13,
+    "Massage điểm cố định|Trục S": 1,
+    "Trục L": 2,
+    "Trục L massage điểm cố định|Trục S": 3,
+    "Trục L|Trục S": 55,
+    "Trục S": 1,
+    "Trục SL": 24
+   },
+   "total_samples": 100
+  },
+  "massage_techniques_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Bóp|Đấm|Day ấn|Day ấn kết hợp|Nhào|Vỗ": 5,
+    "Bấm huyệt|Day miết|Nhào|Vỗ|Xoa bóp|Xoa bóp & vỗ nhẹ": 5,
+    "Bấm huyệt|Đấm|Gõ nhẹ|Nhào|Vỗ|Xoa bóp": 1,
+    "Bấm huyệt|Đấm|Kết hợp|Lăn|Vỗ|Xoa bóp": 5,
+    "Bấm huyệt|Đấm|Đấm và nhào|Đấm và vỗ|Nhào|Vỗ": 2,
+    "Đấm|Day ấn huyệt Shiatsu|Miết|Nhào|Nhào và vỗ kết hợp|Rung|Vỗ": 2,
+    "Đấm|Day ấn huyệt Shiatsu|Miết|Nhào|Nhào và vỗ kết hợp|Vỗ": 2,
+    "Đấm|Khai thác|Massage kiểu Nhật|Nhấn|Nhào|Nhào và vỗ kết hợp": 5,
+    "Đấm|Massage Shiatsu|Massage Tuina|Nhào|Nhào & Gõ|Vỗ": 2,
+    "Đấm|Massage Shiatsu|Vỗ|Xoa bóp|Xoa bóp & vỗ nhẹ": 2,
+    "Đấm|Miết|Vỗ|Xoa bóp": 2,
+    "Đẩy|Lăn|Nhào": 2,
+    "Ấn huyệt ở chân|Gõ nhẹ|Massage Shiatsu|Táp|Vỗ|Xoa bóp": 2,
+    "Ấn huyệt ở chân|Gõ nhẹ|Táp|Vỗ|Xoa bóp": 3,
+    "Ấn|Bóp|Đấm|Đấm và vỗ|Day|Miết": 2,
+    "Ấn|Bấm huyệt|Gõ nhẹ|Lăn|Nhào|Nhào & Gõ": 2,
+    "Ấn|Bấm huyệt|Đấm|Massage Shiatsu|Nhào|Xoa bóp": 7,
+    "Ấn|Day|Gõ nhẹ|Nhào|Nhào & Gõ": 8,
+    "Ấn|Gõ nhẹ|Nhào|Nhào & Gõ|Vỗ": 2,
+    "Ấn|Nhào|Xoa bóp": 4
+   },
+   "total_samples": 100
+  },
+  "maximum_height_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "160 cm": 1,
+    "170 cm": 5,
+    "175 cm": 17,
+    "180 cm": 17,
+    "185 cm": 10,
+    "190 cm": 2
+   },
+   "total_samples": 52
+  },
+  "maximum_load_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "100 kg": 17,
+    "120 kg": 16,
+    "130 kg": 9,
+    "145 kg": 1,
+    "150 Kg": 10,
+    "155 kg": 1,
+    "180 Kg": 6,
+    "200 kg": 7,
+    "220 kg": 1,
+    "65 kg": 1,
+    "70 Kg": 1,
+    "78 kg": 1,
+    "85 kg": 1,
+    "90 kg": 27,
+    "95 kg": 1
+   },
+   "total_samples": 100
+  },
+  "output_power_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "100W": 7,
+    "110W": 3,
+    "120W": 20,
+    "130W": 4,
+    "140W": 5,
+    "150W": 14,
+    "160W": 5,
+    "170W": 1,
+    "180W": 5,
+    "200W": 7,
+    "220W": 1,
+    "230W": 3,
+    "240W": 1,
+    "300W": 1,
+    "58W": 1,
+    "70W": 4,
+    "75W": 1,
+    "80W": 3,
+    "90W": 11,
+    "96W": 2
+   },
+   "total_samples": 100
+  },
+  "programme_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "15 chương trình tự động": 2,
+    "18 chương trình tự động": 2,
+    "20 chương trình tự động": 2,
+    "24 chương trình tự động": 2,
+    "Bluetooth|Công sở|Dịu nhẹ|Giải trí|Giảm đau|Giàu năng lượng|Kéo giãn cơ ít vận động|Khoan khoái|Lưng dưới|Massage chân|M": 1,
+    "Chăm sóc cột sống|Chế độ ban đêm|Chế độ buổi sáng|Chế độ chậm|Chế độ học tập|Chế độ nhanh|Chế độ vận động|Giảm đau|Kéo g": 2,
+    "Chăm sóc cột sống|Chế độ nhanh|Định hình hông|Giảm đau|Hồi phục thể thao|Kéo giãn|Massage bằng túi khí|Massage cổ và vai": 2,
+    "Chăm sóc lưng|Chăm sóc người già|Chuyên gia massage|Giảm căng thẳng ít vận động|Giảm đau vai gáy|Kéo giãn cơ ít vận động": 1,
+    "Chế độ chậm|Chế độ nhanh|Kéo giãn cơ ít vận động|Lưng và hông|Massage cổ vai|Massage phục hồi|Massage thư giãn|Ru ngủ|Th": 8,
+    "Chế độ ngủ|Massage cho nam giới|Massage cho nữ giới|Massage cổ vai|Massage hông|Massage thư giãn": 2,
+    "Chế độ nhanh|Cổ vai gáy|Kéo giãn|Lưng eo|Massage phục hồi|Massage thoải mái|Massage thư giãn|Toàn thân": 2,
+    "Chế độ êm ái|Massage thư giãn|Ru ngủ|Thể thao|Xoa bóp nhẹ": 2,
+    "Cải thiện não|Chăm sóc cột sống|Chăm sóc cổ vai|Chăm sóc cơ xương khớp|Chăm sóc lưng|Chế độ nhanh|Chế độ văn phòng|Giải ": 2,
+    "Dịu nhẹ|Đung đưa|Giàu năng lượng|Kéo giãn cơ ít vận động|Lưng dưới|Massage cổ vai|Massage phục hồi|Massage thư giãn|Yoga": 2,
+    "Không trọng lực|Mạnh mẽ|Massage nhào|Massage thư giãn|Massage Tuina|Ru ngủ": 2,
+    "Lưng và hông|Massage lưng|Massage thư giãn|Ru ngủ": 3,
+    "Lưng và mông|Massage cổ vai|Massage phục hồi|Massage thư giãn|Nhẹ nhàng|Thoải mái": 2,
+    "Massage chuyên sâu|Massage kiểu Hoa|Massage phục hồi|Massage Thái Lan|Massage thư giãn|Ru ngủ": 2,
+    "Đấm bóp kết hợp|Massage chuyên sâu|Massage kiểu Nhật|Massage thư giãn": 2,
+    "Ấn|Giảm đau|Massage cổ vai|Massage nhào|Massage phục hồi|Massage thắt lưng|Massage thư giãn|Ru ngủ|Tuần hoàn máu|VIP": 2
+   },
+   "total_samples": 96
+  },
+  "reclined_height_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Cao 100 cm": 3,
+    "Cao 101 cm": 2,
+    "Cao 102 cm": 5,
+    "Cao 116 cm": 3,
+    "Cao 66 cm": 4,
+    "Cao 81 cm": 2,
+    "Cao 83 cm": 6,
+    "Cao 84 cm": 3,
+    "Cao 85 cm": 5,
+    "Cao 86 cm": 3,
+    "Cao 87 cm": 3,
+    "Cao 88 cm": 5,
+    "Cao 89 cm": 2,
+    "Cao 90 cm": 4,
+    "Cao 92 cm": 6,
+    "Cao 93 cm": 3,
+    "Cao 94 cm": 3,
+    "Cao 95 cm": 5,
+    "Cao 96 cm": 5,
+    "Cao 97 cm": 2
+   },
+   "total_samples": 97
+  },
+  "reclined_length_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Dài 155 cm": 4,
+    "Dài 160 cm": 2,
+    "Dài 161 cm": 5,
+    "Dài 163 cm": 3,
+    "Dài 167 cm": 3,
+    "Dài 168 cm": 5,
+    "Dài 169.5 cm": 1,
+    "Dài 170 cm": 6,
+    "Dài 171 cm": 3,
+    "Dài 172 cm": 7,
+    "Dài 175 cm": 7,
+    "Dài 176 cm": 3,
+    "Dài 177 cm": 2,
+    "Dài 178 cm": 5,
+    "Dài 179 cm": 2,
+    "Dài 180 cm": 8,
+    "Dài 182 cm": 3,
+    "Dài 185 cm": 2,
+    "Dài 208 cm": 2,
+    "Dài 75 cm": 2
+   },
+   "total_samples": 97
+  },
+  "reclined_width_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Ngang 62 cm": 1,
+    "Ngang 65 cm": 2,
+    "Ngang 68 cm": 1,
+    "Ngang 70 cm": 4,
+    "Ngang 70.2 cm": 1,
+    "Ngang 70.4 cm": 1,
+    "Ngang 73 cm": 5,
+    "Ngang 74 cm": 10,
+    "Ngang 74.5 cm": 3,
+    "Ngang 75 cm": 20,
+    "Ngang 76 cm": 8,
+    "Ngang 77 cm": 6,
+    "Ngang 78 cm": 3,
+    "Ngang 79.6 cm": 1,
+    "Ngang 80 cm": 6,
+    "Ngang 81 cm": 3,
+    "Ngang 81.5 cm": 3,
+    "Ngang 83 cm": 5,
+    "Ngang 84 cm": 1,
+    "Ngang 90 cm": 1
+   },
+   "total_samples": 97
+  },
+  "upright_size_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Cao 102 cm - Ngang 72 cm - Dài 165 cm - Nặng 70 kg": 1,
+    "Cao 126 cm - Rộng 87 cm - Sâu 170 cm - Nặng 146.3 kg": 1,
+    "Ngang: 79.5cm - Dọc: 166cm - Cao: 124cm - Nặng: 119.5kg": 1
+   },
+   "total_samples": 3
+  },
+  "usage_time_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "15 phút": 2,
+    "20 phút": 13,
+    "30 phút": 73,
+    "35 phút": 2,
+    "40 phút": 2,
+    "45 phút": 7,
+    "60 phút": 1
+   },
+   "total_samples": 100
+  },
+  "utilities_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Chế độ kiểm tra sức khỏe|Công nghệ tiết kiệm không gian|Điều khiển qua giọng nói|Giọng nói tiếng Việt|Nghe nhạc qua Blue": 1,
+    "Có cổng sạc USB|Có kết nối Bluetooth|Có nhiệt ở vùng lưng|Đèn led|Điều khiển qua giọng nói|Nghe nhạc qua Bluetooth": 2,
+    "Có cổng sạc USB|Có kết nối Bluetooth|Có nhiệt ở vùng lưng|Đèn led|Điều khiển qua giọng nói|Đo nhịp tim, nồng độ oxy tron": 2,
+    "Có kết nối Bluetooth|Có nhiệt ở vùng lưng|Điều khiển qua giọng nói|Nghe nhạc qua Bluetooth": 2,
+    "Có kết nối Bluetooth|Điều khiển qua giọng nói|Scan Body (chế độ tự phát hiện cơ thể)": 3,
+    "Có kết nối Bluetooth|Điều khiển qua giọng nói|Đo nhịp tim và nồng độ oxy trong máu": 2,
+    "Cảm ứng lùi tường|Có bánh xe di chuyển|Có cổng sạc USB|Có nhiệt ở vùng lưng và chân|Đèn led|Điều khiển qua giọng nói|Hea": 2,
+    "Cảm ứng lùi tường|Nghe nhạc qua Bluetooth": 5,
+    "Cảm ứng lùi tường|Nghe nhạc qua Bluetooth|Scan Body (chế độ tự phát hiện cơ thể)": 2,
+    "Cảm ứng lùi tường|Điều khiển qua giọng nói|Giọng nói tiếng Việt|Nghe nhạc qua Bluetooth": 2,
+    "Khe cắm USB|Nghe nhạc qua Bluetooth": 3,
+    "Nghe nhạc qua Bluetooth": 9,
+    "Nghe nhạc qua Bluetooth|Scan Body (chế độ tự phát hiện cơ thể)": 4,
+    "Điều khiển qua giọng nói|Giọng nói tiếng Anh|Giọng nói tiếng Việt|Nghe nhạc qua Bluetooth|Scan Body (chế độ tự phát hiện": 2,
+    "Điều khiển qua giọng nói|Giọng nói tiếng Việt|Khe cắm USB|Nghe nhạc qua Bluetooth|Scan Body (chế độ tự phát hiện cơ thể)": 6,
+    "Điều khiển qua giọng nói|Giọng nói tiếng Việt|Nghe nhạc qua Bluetooth": 7,
+    "Điều khiển qua giọng nói|Giọng nói tiếng Việt|Nghe nhạc qua Bluetooth|Scan Body (chế độ tự phát hiện cơ thể)": 5,
+    "Điều khiển qua giọng nói|Khe cắm USB|Nghe nhạc qua Bluetooth|Scan Body (chế độ tự phát hiện cơ thể)": 4,
+    "Điều khiển qua giọng nói|Nghe nhạc qua Bluetooth|Scan Body (chế độ tự phát hiện cơ thể)": 2,
+    "Điện áp hoạt động an toàn 24V|Điều chỉnh tốc độ và thao tác massage|Nghe nhạc qua Bluetooth|Rung massage trên đệm ghế": 2
+   },
+   "total_samples": 100
+  },
+  "year_of_manufacture_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "2019": 3,
+    "2021": 11,
+    "2022": 55,
+    "2023": 13,
+    "2024": 1,
+    "2025": 16,
+    "2026": 1
+   },
+   "total_samples": 100
+  }
+ },
  "4932": {
   "brand_of_tskt_master": {
    "contributors": [
