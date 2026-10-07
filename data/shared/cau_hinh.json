@@ -1602,6 +1602,25 @@
    "release_date_tskt_master": "Thời gian ra mắt"
   }
  },
+ "8558": {
+  "cot": [
+   "product_type_filter_master",
+   "function_tskt_master",
+   "handle_material_tskt_master",
+   "made_in_tskt_master",
+   "material_tskt_master",
+   "product_type_tskt_master"
+  ],
+  "ten": "Kéo",
+  "ten_cot": {
+   "function_tskt_master": "Chức năng",
+   "handle_material_tskt_master": "Chất liệu tay cầm",
+   "made_in_tskt_master": "Sản xuất tại",
+   "material_tskt_master": "Chất liệu",
+   "product_type_filter_master": "Loại sản phẩm",
+   "product_type_tskt_master": "Loại sản phẩm"
+  }
+ },
  "8579": {
   "cot": [
    "body_material_tskt_master",
