@@ -1,1525 +1,480 @@
 {
- "chon": [],
- "chua_map": [],
+ "chon": [
+  {
+   "CHỌN": true,
+   "GHI CHÚ": "",
+   "MÃ NH": "4929",
+   "NGUỒN CATE": "CATEGORYID",
+   "SỐ SKU": 251,
+   "TAB TSKT / CẤU HÌNH": "cấu hình — 12 cột",
+   "TÊN NGÀNH HÀNG": "Hộp đựng thực phẩm"
+  }
+ ],
+ "chua_map": [
+  {
+   "cate": "4929",
+   "goi_y_ma": "material_tskt_master",
+   "prop_id": "11962",
+   "prop_name": "Chất liệu",
+   "so_dong": 8,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Thủy tinh"
+  },
+  {
+   "cate": "4929",
+   "goi_y_ma": "",
+   "prop_id": "11963",
+   "prop_name": "Hình dạng",
+   "so_dong": 8,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Khác"
+  },
+  {
+   "cate": "4929",
+   "goi_y_ma": "",
+   "prop_id": "11964",
+   "prop_name": "Sử dụng trong lò vi sóng",
+   "so_dong": 8,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Có"
+  },
+  {
+   "cate": "4929",
+   "goi_y_ma": "",
+   "prop_id": "12020",
+   "prop_name": "Loại",
+   "so_dong": 8,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Hộp đựng thực phẩm"
+  },
+  {
+   "cate": "4929",
+   "goi_y_ma": "",
+   "prop_id": "13329",
+   "prop_name": "Chất liệu (Label)",
+   "so_dong": 8,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Thủy tinh"
+  },
+  {
+   "cate": "4929",
+   "goi_y_ma": "capacity_tskt_master",
+   "prop_id": "13330",
+   "prop_name": "Dung tích",
+   "so_dong": 8,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "800ml"
+  },
+  {
+   "cate": "4929",
+   "goi_y_ma": "",
+   "prop_id": "43498",
+   "prop_name": "Map cùng dòng",
+   "so_dong": 66,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "420 ml"
+  },
+  {
+   "cate": "4929",
+   "goi_y_ma": "material_tskt_master",
+   "prop_id": "13769",
+   "prop_name": "Chất liệu",
+   "so_dong": 5,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Thuỷ tinh"
+  },
+  {
+   "cate": "4929",
+   "goi_y_ma": "capacity_tskt_master",
+   "prop_id": "15482",
+   "prop_name": "Dung tích",
+   "so_dong": 5,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "100 ml"
+  },
+  {
+   "cate": "4929",
+   "goi_y_ma": "utilities_tskt_master",
+   "prop_id": "15505",
+   "prop_name": "Tiện ích",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Dùng được ngăn mát tủ lạnh"
+  },
+  {
+   "cate": "4929",
+   "goi_y_ma": "product_type_tskt_master",
+   "prop_id": "21365",
+   "prop_name": "Loại sản phẩm",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Hũ đựng gia vị"
+  },
+  {
+   "cate": "4929",
+   "goi_y_ma": "",
+   "prop_id": "23894",
+   "prop_name": "Số lượng",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Hũ đơn"
+  },
+  {
+   "cate": "4929",
+   "goi_y_ma": "capacity_tskt_master",
+   "prop_id": "24199",
+   "prop_name": "Dung tích",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Dưới 300 ml"
+  },
+  {
+   "cate": "4929",
+   "goi_y_ma": "capacity_tskt_master",
+   "prop_id": "27798",
+   "prop_name": "Dung tích",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "100 ml"
+  },
+  {
+   "cate": "4929",
+   "goi_y_ma": "temperature_resistance_level_tskt",
+   "prop_id": "28840",
+   "prop_name": "Khả năng chịu nhiệt",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "0 - 50 °C"
+  },
+  {
+   "cate": "4929",
+   "goi_y_ma": "capacity_tskt_master",
+   "prop_id": "39938",
+   "prop_name": "Dung tích",
+   "so_dong": 6,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "750 ml"
+  },
+  {
+   "cate": "4929",
+   "goi_y_ma": "utilities_tskt_master",
+   "prop_id": "39939",
+   "prop_name": "Tiện ích",
+   "so_dong": 14,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  }
+ ],
  "dx_dang_ap": 0,
  "goc_cms": {},
  "log": [
   [
-   "1034699000023",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000073",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1032999000314",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000074",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1034699000021",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000891",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000890",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1034699000019",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1032999000315",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000892",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1032999000318",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1034699000016",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1032999000292",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1034699000022",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1032999000290",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1034699000017",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1034699000024",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1034699000020",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1034699000018",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1032999000319",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1032999000320",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1032999000291",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9052415000013",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1032999000317",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000889",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000617",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000075",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1032999000289",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000887",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000942",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000940",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000941",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000944",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000943",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000932",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000898",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000922",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000782",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000767",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000905",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000910",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000855",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000852",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000851",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000830",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000731",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000707",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000535",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000499",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000503",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000501",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000500",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000498",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000485",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000486",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000920",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000376",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000306",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000289",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000256",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000255",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000254",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000936",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000939",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000937",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000826",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000841",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000853",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000733",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000507",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000708",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000706",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000907",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000906",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000908",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000919",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000600",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000912",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "8801775586179",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "8801775586209",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "8801775586162",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "8801775586247",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000139",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000135",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000884",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000840",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000375",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000812",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000814",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000824",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000252",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000930",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000309",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000298",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000800",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000799",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000806",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000796",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000788",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000769",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000790",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000758",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000292",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000253",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000817",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000816",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000599",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033239000277",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000512",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000311",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000275",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000504",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000534",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000471",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000497",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000810",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000935",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000491",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000490",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000489",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000502",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000894",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000904",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000791",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000310",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000313",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000312",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000307",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000304",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000299",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000293",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000938",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000258",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000807",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000829",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000833",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000832",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000888",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000839",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000795",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000487",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000710",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000776",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000777",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000793",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000732",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000835",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000804",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000730",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000834",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000837",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000823",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000821",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000819",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000820",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000801",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000774",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000818",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000808",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000756",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000798",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000768",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000257",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000792",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000802",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033239000279",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033239000278",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000805",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000797",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000794",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000916",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000781",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000771",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000770",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000803",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000308",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000772",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000787",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000784",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000780",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000779",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000773",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000536",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000914",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000838",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000844",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000893",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000827",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000831",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000843",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000859",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000858",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000857",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000845",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000850",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000809",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000510",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000488",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000822",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000789",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000903",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000295",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000229",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000138",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000136",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000856",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000813",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000811",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000815",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000077",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "8936063290367",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "8801775586230",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "8801775586223",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
+   "8801775586216",
+   "4929",
+   "body_material_filter_master",
+   "FILTER: giá trị CMS \"Thủy tinh\" chưa có option trong DATA PIM — để trống"
   ],
   [
    "8801775586216",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
+   "4929",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Chống đổ nước\" chưa có option trong DATA PIM — để trống"
   ],
   [
-   "8801775586193",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
+   "8801775586216",
+   "4929",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Dùng được lò nướng, lò vi sóng\" chưa có option trong DATA PIM — để trống"
   ],
   [
-   "1032999000336",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
+   "8801775586179",
+   "4929",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Nắp có khóa\" chưa có option trong DATA PIM — để trống"
   ],
   [
-   "1032999000316",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
+   "1032999000289",
+   "4929",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Có van xả hơi\" chưa có option trong DATA PIM — để trống"
   ],
   [
-   "2727122819700",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "2727122819800",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000389",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000836",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000934",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000933",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000931",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000926",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1032999000337",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "8801775586186",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000087",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033240000911",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
+   "1032999000289",
+   "4929",
+   "launch_year_filter_master",
+   "FILTER: giá trị CMS \"Đang cập nhật\" chưa có option trong DATA PIM — để trống"
   ],
   [
    "1033240000137",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
+   "4929",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Dùng được máy rửa chén\" chưa có option trong DATA PIM — để trống"
   ],
   [
-   "1033240000886",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
+   "1033240000275",
+   "4929",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Không\" chưa có option trong DATA PIM — để trống"
   ],
   [
-   "1033240000140",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
+   "1033240000471",
+   "4929",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Kháng khuẩn\" chưa có option trong DATA PIM — để trống"
   ],
   [
-   "1033240000228",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
+   "1033240000488",
+   "4929",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Có ron cao su chống tràn\" chưa có option trong DATA PIM — để trống"
   ],
   [
-   "1033240000141",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
+   "1033240000617",
+   "4929",
+   "product_type_filter_master",
+   "FILTER: giá trị CMS \"Đang cập nhật\" chưa có option trong DATA PIM — để trống"
   ],
   [
-   "1033240000302",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
+   "1033240000617",
+   "4929",
+   "capacity_filter_master",
+   "FILTER: giá trị CMS \"Đang cập nhật\" chưa có option trong DATA PIM — để trống"
   ],
   [
-   "1033240000303",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
+   "1033240000788",
+   "4929",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Dùng được trong ngăn mát tủ lạnh\" chưa có option trong DATA PIM — để trống"
   ],
   [
-   "1033240000387",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
+   "1033240000788",
+   "4929",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Kín khí tuyệt đối\" chưa có option trong DATA PIM — để trống"
   ],
   [
-   "1033240000388",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
+   "1033240000784",
+   "4929",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"4 khóa an toàn giúp hộp kín khí\" chưa có option trong DATA PIM — để trống"
   ],
   [
-   "1033240000921",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
+   "1033240000815",
+   "4929",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Có chức năng cài đặt ngày tháng lưu trữ thực phẩm\" chưa có option trong DATA PIM — để trống"
   ],
   [
-   "1033240000917",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
+   "1033240000815",
+   "4929",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Không hấp thụ mùi và màu từ thực phẩm\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033240000815",
+   "4929",
+   "launch_year_filter_master",
+   "FILTER: giá trị CMS \"2022\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033240000771",
+   "4929",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Có vạch chia mức\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033240000801",
+   "4929",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Kèm theo muỗng, nĩa\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033240000805",
+   "4929",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Có lỗ thoát khí\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033240000779",
+   "4929",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Dùng được lò nướng\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033240000819",
+   "4929",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Công nghệ Ag+ kháng khuẩn, chống nấm mốc\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033240000884",
+   "4929",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Có viền silicone\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033240000903",
+   "4929",
+   "body_material_filter_master",
+   "FILTER: giá trị CMS \"Đang cập nhật\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033240000908",
+   "4929",
+   "product_type_filter_master",
+   "FILTER: giá trị CMS \"Hộp đựng thực phẩm\" chưa có option trong DATA PIM — để trống"
   ],
   [
    "1033240000754",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
+   "4929",
+   "product_type_filter_master",
+   "FILTER: giá trị CMS \"Bình đựng gia vị\" chưa có option trong DATA PIM — để trống"
   ],
   [
-   "1033240000918",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
+   "1033240000754",
+   "4929",
+   "launch_year_filter_master",
+   "FILTER: giá trị CMS \"2016\" chưa có option trong DATA PIM — để trống"
   ],
   [
-   "1033240000913",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
+   "1033240000916",
+   "4929",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Dùng được máy rửa chén dưới 80°C\" chưa có option trong DATA PIM — để trống"
   ],
   [
-   "1033240000909",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
+   "1033240000917",
+   "4929",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Dùng được lò nướng (không đậy nắp)\" chưa có option trong DATA PIM — để trống"
   ],
   [
-   "1033240000915",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
+   "1033240000926",
+   "4929",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Thiết kế mô-đun giúp dễ dàng sắp xếp\" chưa có option trong DATA PIM — để trống"
   ],
   [
-   "1033240000901",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
+   "1033240000926",
+   "4929",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Thiết kế nắp ẩn\" chưa có option trong DATA PIM — để trống"
   ],
   [
    "1033240000927",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
+   "4929",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Kèm khuôn chia 8 ngăn\" chưa có option trong DATA PIM — để trống"
   ],
   [
    "1033240000929",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
+   "4929",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Kèm khay chia ngăn\" chưa có option trong DATA PIM — để trống"
   ],
   [
-   "1033240000900",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
+   "1034699000016",
+   "4929",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Chất liệu Silicon bền bỉ\" chưa có option trong DATA PIM — để trống"
   ],
   [
-   "1033240000301",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
+   "1034699000016",
+   "4929",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Dùng cho tủ đông\" chưa có option trong DATA PIM — để trống"
   ],
   [
-   "1033240000300",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
+   "1034699000019",
+   "4929",
+   "body_material_filter_master",
+   "FILTER: giá trị CMS \"Chất liệu bên ngoài: Nylon, lớp lót: PE\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1034699000019",
+   "4929",
+   "product_type_filter_master",
+   "FILTER: giá trị CMS \"Túi đựng cơm\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1034699000019",
+   "4929",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Lớp ngoài là nylon chống thấm nước, có khả năng chống bám bẩn\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1034699000019",
+   "4929",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Lớp trong bằng PE an toàn và có khả năng cách nhiệt\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1034699000019",
+   "4929",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Thiết kế dây rút tiện lợi\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1034699000019",
+   "4929",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Thiết kế tối giản và hiện đại, màu sắc hợp thời trang\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1034699000019",
+   "4929",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Túi rộng rãi, với dung tích lớn và quai xách chắc chắn, có thể đựng được nhiều đồ\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "1033240000940",
+   "4929",
+   "body_material_filter_master",
+   "FILTER: giá trị CMS \"Nhựa PP, Silicone\" chưa có option trong DATA PIM — để trống"
   ]
  ],
- "luc": "2026-10-07 13:24:32",
- "nganh": {},
+ "luc": "2026-10-07 13:25:14",
+ "nganh": {
+  "4929": {
+   "attr": [
+    "body_material_filter_master",
+    "capacity_filter_master",
+    "launch_year_filter_master",
+    "product_type_filter_master",
+    "utilities_filter_master",
+    "capacity_tskt_master",
+    "material_tskt_master",
+    "product_type_tskt_master",
+    "release_date_tskt_master",
+    "style_tskt_master",
+    "temperature_resistance_level_tskt_master",
+    "utilities_tskt_master"
+   ],
+   "ten": {
+    "body_material_filter_master": "Chất liệu thân vỏ",
+    "capacity_filter_master": "Dung lượng dung tích",
+    "capacity_tskt_master": "Dung lượng",
+    "launch_year_filter_master": "Năm ra mắt",
+    "material_tskt_master": "Chất liệu",
+    "product_type_filter_master": "Loại sản phẩm",
+    "product_type_tskt_master": "Loại sản phẩm",
+    "release_date_tskt_master": "Thời gian ra mắt",
+    "style_tskt_master": "Kiểu dáng",
+    "temperature_resistance_level_tskt_master": "Mức nhiệt chịu được",
+    "utilities_filter_master": "Tiện ích",
+    "utilities_tskt_master": "Tiện ích"
+   },
+   "ten_nh": "Hộp đựng thực phẩm",
+   "title": "TSKT 4929 Hộp đựng thực phẩm"
+  }
+ },
  "tom_tat": {
-  "filter_khong_khop": 0,
-  "khong_data": 251,
+  "filter_khong_khop": 44,
+  "khong_data": 0,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 0,
-  "so_o": 0,
-  "so_sku": 0
+  "so_nganh": 1,
+  "so_o": 2457,
+  "so_sku": 251
  }
 }
