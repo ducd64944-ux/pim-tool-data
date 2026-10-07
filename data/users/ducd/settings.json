@@ -1,5 +1,5 @@
 {
- "cai_dat_ver": 2,
+ "cai_dat_ver": 3,
  "chon_nganh": {
   "2202": true
  },
@@ -90,6 +90,15 @@
   "1986\tdeep_tskt_master\tbd": [
    {
     "a": "Sâu",
+    "b": "cm",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "pham_vi": "tat_ca"
+   }
+  ],
+  "1986\tdiameter_tskt_master\tbd": [
+   {
+    "a": "Đường kính lòng nồi",
     "b": "cm",
     "he_so": "",
     "kieu": "ca_hai",
@@ -770,8 +779,8 @@
    }
   ]
  },
- "luc_luu": "2026-10-07 16:08:40",
- "map_ten": "tham_chieu",
+ "duyet_ten": [],
+ "luc_luu": "2026-10-07 16:09:39",
  "nguoi_luu": "ducd",
  "rong": {
   "-": [
