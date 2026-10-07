@@ -1035,6 +1035,27 @@
    "woofer_size_tskt_master": "Kích thước loa Woofer"
   }
  },
+ "2182": {
+  "cot": [
+   "brand_of_tskt_master",
+   "made_in_tskt_master",
+   "material_tskt_master",
+   "product_type_tskt_master",
+   "release_date_tskt_master",
+   "size_weight_tskt_master",
+   "year_of_manufacture_tskt_master"
+  ],
+  "ten": "Giá đỡ dàn nóng",
+  "ten_cot": {
+   "brand_of_tskt_master": "Thương hiệu của",
+   "made_in_tskt_master": "Sản xuất tại",
+   "material_tskt_master": "Chất liệu",
+   "product_type_tskt_master": "Loại sản phẩm",
+   "release_date_tskt_master": "Thời gian ra mắt",
+   "size_weight_tskt_master": "Kích thước Khối lượng",
+   "year_of_manufacture_tskt_master": "Năm sản xuất"
+  }
+ },
  "2202": {
   "cot": [
    "main_load_filter_master",
