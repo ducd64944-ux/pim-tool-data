@@ -1185,6 +1185,35 @@
    "utilities_tskt_master": "Tiện ích"
   }
  },
+ "5227": {
+  "cot": [
+   "brand_of_tskt_master",
+   "function_tskt_master",
+   "long_tskt_master",
+   "made_in_tskt_master",
+   "mass_tskt_master",
+   "material_tskt_master",
+   "product_type_tskt_master",
+   "recommended_age_tskt_master",
+   "thick_tskt_master",
+   "utilities_tskt_master",
+   "wide_tskt_master"
+  ],
+  "ten": "Đồ dùng cho bé",
+  "ten_cot": {
+   "brand_of_tskt_master": "Thương hiệu của",
+   "function_tskt_master": "Chức năng",
+   "long_tskt_master": "Dài",
+   "made_in_tskt_master": "Sản xuất tại",
+   "mass_tskt_master": "Khối lượng",
+   "material_tskt_master": "Chất liệu",
+   "product_type_tskt_master": "Loại sản phẩm",
+   "recommended_age_tskt_master": "Độ tuổi khuyến nghị",
+   "thick_tskt_master": "Dày",
+   "utilities_tskt_master": "Tiện ích",
+   "wide_tskt_master": "Rộng"
+  }
+ },
  "5475": {
   "cot": [
    "control_panel_filter_master",
