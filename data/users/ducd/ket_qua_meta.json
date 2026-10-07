@@ -1,55 +1,379 @@
 {
- "chon": [
-  {
-   "CHỌN": true,
-   "GHI CHÚ": "",
-   "MÃ NH": "7899",
-   "NGUỒN CATE": "CATEGORYID",
-   "SỐ SKU": 10,
-   "TAB TSKT / CẤU HÌNH": "cấu hình — 9 cột",
-   "TÊN NGÀNH HÀNG": "Hộp hâm cơm"
-  }
- ],
+ "chon": [],
  "chua_map": [],
  "dx_dang_ap": 0,
  "goc_cms": {},
- "log": [],
- "luc": "2026-10-07 14:08:24",
- "nganh": {
-  "7899": {
-   "attr": [
-    "brand_of_tskt_master",
-    "capacity_tskt_master",
-    "function_tskt_master",
-    "made_in_tskt_master",
-    "material_tskt_master",
-    "output_power_tskt_master",
-    "product_dimensions_tskt_master",
-    "quantity_tskt_master",
-    "release_date_tskt_master"
-   ],
-   "ten": {
-    "brand_of_tskt_master": "Thương hiệu của",
-    "capacity_tskt_master": "Dung lượng",
-    "function_tskt_master": "Chức năng",
-    "made_in_tskt_master": "Sản xuất tại",
-    "material_tskt_master": "Chất liệu",
-    "output_power_tskt_master": "Công suất đầu ra",
-    "product_dimensions_tskt_master": "Kích thước sản phẩm",
-    "quantity_tskt_master": "Số lượng",
-    "release_date_tskt_master": "Thời gian ra mắt"
-   },
-   "ten_nh": "Hộp hâm cơm",
-   "title": "TSKT 7899 Hộp hâm cơm"
-  }
- },
+ "log": [
+  [
+   "9923381000521",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923381000438",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923381000502",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923381000442",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923381000525",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923381000488",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1033241000363",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923381000714",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923381000712",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1033241000362",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923189000066",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923189000214",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1033241000241",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1033241000239",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1033241000515",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1033241000540",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1033241000568",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1033241000496",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1033241000474",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1033241000238",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1033241000593",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923381000463",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1033241000514",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923381000690",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1033241000584",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1033241000582",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1033339000017",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923381000064",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1033339000014",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1033339000015",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923381000591",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1033339000016",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923381000063",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1033241000237",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1033241000171",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1033241000240",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1033339000013",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923381000061",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1033241000592",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1033241000170",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1033241000569",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1033241000581",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1033241000580",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1033241000594",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1033339000018",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1033241000168",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1033241000169",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1033241000242",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1033241000361",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1033241000583",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1033241000542",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1033241000475",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1033241000541",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923381000713",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923381000691",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923189000213",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923381000447",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1033241000543",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1033241000495",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1033241000497",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ]
+ ],
+ "luc": "2026-10-07 14:13:26",
+ "nganh": {},
  "tom_tat": {
   "filter_khong_khop": 0,
-  "khong_data": 0,
+  "khong_data": 60,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 1,
-  "so_o": 89,
-  "so_sku": 10
+  "so_nganh": 0,
+  "so_o": 0,
+  "so_sku": 0
  }
 }
