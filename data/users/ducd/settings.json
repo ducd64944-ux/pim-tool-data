@@ -105,6 +105,7 @@
     "pham_vi": "tat_ca"
    }
   ],
+  "12458\tmachine_weight_tskt_master": "kg",
   "12458\twide_tskt_master\tbd": [
    {
     "a": "Rộng",
@@ -930,16 +931,6 @@
   {
    "d": {
     "dv": {
-     "9678\thorizontal_tskt_master\tbd": null
-    }
-   },
-   "luc": "2026-10-07 17:19:02",
-   "nhan": "Biến đổi hàng loạt 1 cột: Thêm cả TRƯỚC và SAU",
-   "so": 1
-  },
-  {
-   "d": {
-    "dv": {
      "9678\tmachine_weight_tskt_master\tbd": null
     }
    },
@@ -1076,9 +1067,19 @@
    "luc": "2026-10-07 22:00:27",
    "nhan": "Áp đơn vị hàng loạt",
    "so": 1
+  },
+  {
+   "d": {
+    "dv": {
+     "12458\tmachine_weight_tskt_master": null
+    }
+   },
+   "luc": "2026-10-07 22:00:38",
+   "nhan": "Áp đơn vị hàng loạt",
+   "so": 1
   }
  ],
- "luc_luu": "2026-10-07 22:00:27",
+ "luc_luu": "2026-10-07 22:00:38",
  "nguoi_luu": "ducd",
  "rong": {
   "-": [
