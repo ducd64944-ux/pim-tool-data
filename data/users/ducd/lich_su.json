@@ -388,5 +388,18 @@
   "Thêm đơn vị": 0,
   "Tách xin data": 0,
   "Workspace": "ducd"
+ },
+ {
+  "Biến đổi": 0,
+  "Cảnh báo": "• 6 ô KHÁC spec PIM (sẽ ghi đè) | • 14 ô tool để trống trong khi PIM đang có | • 234 dòng không có trong file PIM | • 702 ô giá trị CMS bị MẤT khi map (xem 🧾 Đối soát) | • 7 model_code lặp ở nhiều dòng file MODEL (PIM sẽ lấy dòng sau cùng — kiểm tra IMPORT có thiếu variant_code không)",
+  "File": "PIM_TSKT 4929 Hộp đựng thực phẩm_MODEL_20261007_1403.xlsx",
+  "Không/Đang cập nhật": 73,
+  "Lúc": "2026-10-07 14:03:39",
+  "Người xuất": "ducd",
+  "Số dòng": 251,
+  "Sửa tay": 0,
+  "Thêm đơn vị": 0,
+  "Tách xin data": 0,
+  "Workspace": "ducd"
  }
 ]
