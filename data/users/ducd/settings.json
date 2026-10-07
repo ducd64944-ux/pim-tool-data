@@ -135,7 +135,7 @@
   "1986\tmass_tskt_master\tbd": [
    {
     "a": "Nặng",
-    "b": "cm",
+    "b": "kg",
     "he_so": "",
     "kieu": "ca_hai",
     "pham_vi": "tat_ca"
@@ -789,8 +789,27 @@
   ]
  },
  "duyet_ten": [],
- "hoan_tac": [],
- "luc_luu": "2026-10-07 16:24:56",
+ "hoan_tac": [
+  {
+   "d": {
+    "dv": {
+     "1986\tmass_tskt_master\tbd": [
+      {
+       "a": "Nặng",
+       "b": "cm",
+       "he_so": "",
+       "kieu": "ca_hai",
+       "pham_vi": "tat_ca"
+      }
+     ]
+    }
+   },
+   "luc": "2026-10-07 16:52:45",
+   "nhan": "Sửa biến đổi hàng loạt cột mass_tskt_master",
+   "so": 1
+  }
+ ],
+ "luc_luu": "2026-10-07 16:52:45",
  "nguoi_luu": "ducd",
  "rong": {
   "-": [
