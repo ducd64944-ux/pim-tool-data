@@ -323,5 +323,18 @@
   "Thêm đơn vị": 0,
   "Tách xin data": 0,
   "Workspace": "ducd"
+ },
+ {
+  "Biến đổi": 672,
+  "Cảnh báo": "• 290 ô KHÁC spec PIM (sẽ ghi đè) | • 97 ô tool để trống trong khi PIM đang có | • 2 dòng không có trong file PIM",
+  "File": "PIM_TSKT 344 Ghế Massage_MODEL_20261007_1103.xlsx",
+  "Không/Đang cập nhật": 44,
+  "Lúc": "2026-10-07 11:03:42",
+  "Người xuất": "ducd",
+  "Số dòng": 100,
+  "Sửa tay": 0,
+  "Thêm đơn vị": 0,
+  "Tách xin data": 0,
+  "Workspace": "ducd"
  }
 ]
