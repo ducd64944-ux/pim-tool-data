@@ -1,4 +1,49 @@
 {
+ "10138": {
+  "cot": [
+   "maximum_flow_rate_filter_master",
+   "output_power_filter_master",
+   "product_type_filter_master",
+   "brand_of_tskt_master",
+   "diameter_tskt_master",
+   "function_tskt_master",
+   "high_tskt_master",
+   "long_tskt_master",
+   "machine_weight_tskt_master",
+   "made_in_tskt_master",
+   "maximum_flow_rate_tskt_master",
+   "output_power_tskt_master",
+   "product_type_tskt_master",
+   "pushing_water_tskt_master",
+   "size_weight_tskt_master",
+   "suction_depth_tskt_master",
+   "utilities_tskt_master",
+   "water_and_dust_resistant_tskt_master",
+   "wide_tskt_master"
+  ],
+  "ten": "Máy bơm nước",
+  "ten_cot": {
+   "brand_of_tskt_master": "Thương hiệu của",
+   "diameter_tskt_master": "Đường kính",
+   "function_tskt_master": "Chức năng",
+   "high_tskt_master": "Cao",
+   "long_tskt_master": "Dài",
+   "machine_weight_tskt_master": "Khối lượng máy",
+   "made_in_tskt_master": "Sản xuất tại",
+   "maximum_flow_rate_filter_master": "Lưu lượng tối đa",
+   "maximum_flow_rate_tskt_master": "Lưu lượng tối đa",
+   "output_power_filter_master": "Công suất đầu ra",
+   "output_power_tskt_master": "Công suất đầu ra",
+   "product_type_filter_master": "Loại sản phẩm",
+   "product_type_tskt_master": "Loại sản phẩm",
+   "pushing_water_tskt_master": "Đẩy nước",
+   "size_weight_tskt_master": "Kích thước Khối lượng",
+   "suction_depth_tskt_master": "Chiều sâu hút",
+   "utilities_tskt_master": "Tiện ích",
+   "water_and_dust_resistant_tskt_master": "Chuẩn chống nước, bụi",
+   "wide_tskt_master": "Rộng"
+  }
+ },
  "11518": {
   "cot": [
    "brand_of_tskt_master",
