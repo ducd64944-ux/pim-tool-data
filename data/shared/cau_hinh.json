@@ -646,6 +646,57 @@
    "vertical_tskt_master": "Dọc"
   }
  },
+ "1986": {
+  "cot": [
+   "capacity_filter_master",
+   "control_panel_filter_master",
+   "made_in_filter_master",
+   "product_type_filter_master",
+   "utilities_filter_master",
+   "adjust_the_temperature_tskt_master",
+   "brand_of_tskt_master",
+   "capacity_tskt_master",
+   "deep_tskt_master",
+   "diameter_tskt_master",
+   "function_tskt_master",
+   "high_tskt_master",
+   "horizontal_tskt_master",
+   "inner_pot_tskt_master",
+   "lid_tskt_master",
+   "long_cord_tskt_master",
+   "made_in_tskt_master",
+   "mass_tskt_master",
+   "pot_casing_tskt_master",
+   "power_tskt_master",
+   "size_weight_tskt_master",
+   "utilities_tskt_master"
+  ],
+  "ten": "Lẩu điện",
+  "ten_cot": {
+   "adjust_the_temperature_tskt_master": "Điều chỉnh nhiệt",
+   "brand_of_tskt_master": "Thương hiệu của",
+   "capacity_filter_master": "Dung lượng dung tích",
+   "capacity_tskt_master": "Dung lượng",
+   "control_panel_filter_master": "Bảng điều khiển",
+   "deep_tskt_master": "Sâu",
+   "diameter_tskt_master": "Đường kính",
+   "function_tskt_master": "Chức năng",
+   "high_tskt_master": "Cao",
+   "horizontal_tskt_master": "Ngang",
+   "inner_pot_tskt_master": "Lòng nồi",
+   "lid_tskt_master": "Nắp đậy",
+   "long_cord_tskt_master": "Dài dây",
+   "made_in_filter_master": "Sản xuất tại",
+   "made_in_tskt_master": "Sản xuất tại",
+   "mass_tskt_master": "Khối lượng",
+   "pot_casing_tskt_master": "Vỏ nồi",
+   "power_tskt_master": "Công suất",
+   "product_type_filter_master": "Loại sản phẩm",
+   "size_weight_tskt_master": "Kích thước Khối lượng",
+   "utilities_filter_master": "Tiện ích",
+   "utilities_tskt_master": "Tiện ích"
+  }
+ },
  "1988": {
   "cot": [
    "brand_of_filter_master",
