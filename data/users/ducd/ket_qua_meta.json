@@ -1,35 +1,115 @@
 {
  "chon": [
   {
-   "CHỌN": false,
-   "GHI CHÚ": "Chưa có tab TSKT lẫn cấu hình — thêm 1 trong 2",
+   "CHỌN": true,
+   "GHI CHÚ": "",
    "MÃ NH": "9538",
    "NGUỒN CATE": "CATEGORYID",
    "SỐ SKU": 3,
-   "TAB TSKT / CẤU HÌNH": "",
-   "TÊN NGÀNH HÀNG": ""
+   "TAB TSKT / CẤU HÌNH": "cấu hình — 7 cột",
+   "TÊN NGÀNH HÀNG": "Giá đỡ dàn nóng"
   }
  ],
- "chua_map": [],
+ "chua_map": [
+  {
+   "cate": "9538",
+   "goi_y_ma": "",
+   "prop_id": "26678",
+   "prop_name": "Công suất máy phù hợp",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "1 HP -  3 HP ~ 9000 BTU - 27000 BTU"
+  },
+  {
+   "cate": "9538",
+   "goi_y_ma": "product_type_tskt_master",
+   "prop_id": "48518",
+   "prop_name": "Loại sản phẩm",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Eke"
+  },
+  {
+   "cate": "9538",
+   "goi_y_ma": "material_tskt_master",
+   "prop_id": "48519",
+   "prop_name": "Chất liệu",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Thép"
+  },
+  {
+   "cate": "9538",
+   "goi_y_ma": "brand_of_tskt_master",
+   "prop_id": "48521",
+   "prop_name": "Thương hiệu của",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Việt Nam"
+  },
+  {
+   "cate": "9538",
+   "goi_y_ma": "made_in_tskt_master",
+   "prop_id": "48522",
+   "prop_name": "Sản xuất tại",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Việt Nam"
+  },
+  {
+   "cate": "9538",
+   "goi_y_ma": "year_of_manufacture_tskt_master",
+   "prop_id": "48523",
+   "prop_name": "Năm ra mắt",
+   "so_dong": 2,
+   "trang_thai": "Đã map theo TÊN (nên thêm vào MAPPING TSKT)",
+   "vi_du": "2026"
+  },
+  {
+   "cate": "9538",
+   "goi_y_ma": "size_weight_tskt_master",
+   "prop_id": "48520",
+   "prop_name": "Kích thước - Khối lượng",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Cao: 40 cm - Ngang: 45 cm - Dày: 3.5 cm - Nặng: 1.8 kg (cặp)"
+  }
+ ],
  "dx_dang_ap": 0,
  "goc_cms": {},
- "log": [
-  [
-   "",
-   "9538",
-   "",
-   "Không có tab TSKT lẫn cấu hình — bỏ qua"
-  ]
- ],
- "luc": "2026-10-07 11:15:24",
- "nganh": {},
+ "log": [],
+ "luc": "2026-10-07 11:26:26",
+ "nganh": {
+  "9538": {
+   "attr": [
+    "brand_of_tskt_master",
+    "made_in_tskt_master",
+    "material_tskt_master",
+    "product_type_tskt_master",
+    "release_date_tskt_master",
+    "size_weight_tskt_master",
+    "year_of_manufacture_tskt_master"
+   ],
+   "ten": {
+    "brand_of_tskt_master": "Thương hiệu của",
+    "made_in_tskt_master": "Sản xuất tại",
+    "material_tskt_master": "Chất liệu",
+    "product_type_tskt_master": "Loại sản phẩm",
+    "release_date_tskt_master": "Thời gian ra mắt",
+    "size_weight_tskt_master": "Kích thước Khối lượng",
+    "year_of_manufacture_tskt_master": "Năm sản xuất"
+   },
+   "ten_nh": "Giá đỡ dàn nóng",
+   "title": "TSKT 9538 Giá đỡ dàn nóng"
+  }
+ },
  "tom_tat": {
   "filter_khong_khop": 0,
-  "khong_data": 3,
-  "map_theo_ten": 0,
+  "khong_data": 0,
+  "map_theo_ten": 2,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 0,
-  "so_o": 0,
-  "so_sku": 0
+  "so_nganh": 1,
+  "so_o": 14,
+  "so_sku": 3
  }
 }
