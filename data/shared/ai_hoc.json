@@ -540,6 +540,426 @@
    "total_samples": 6
   }
  },
+ "1986": {
+  "adjust_the_temperature_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Cảm ứng": 9,
+    "Núm xoay": 54,
+    "Núm xoay|Từ 0 - 250 độ C": 3,
+    "Nút bấm điện tử": 1,
+    "Nút gạt": 27,
+    "Nút gạt, 2 mức nhiệt 300W và 600W": 2,
+    "Nút gạt|Nút nhấn": 1,
+    "Nút gạt|Tối đa 230 độ C": 2,
+    "Nút gạt|Từ 0 - 220 độ C": 2,
+    "Nút nhấn": 3,
+    "Nút vặn": 8
+   },
+   "total_samples": 112
+  },
+  "brand_of_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Cộng hòa Séc": 5,
+    "Hàn Quốc": 23,
+    "Malaysia": 1,
+    "Nhật Bản": 7,
+    "Pháp": 1,
+    "Singapore": 3,
+    "Trung Quốc": 16,
+    "Việt Nam": 78,
+    "Đức": 6
+   },
+   "total_samples": 140
+  },
+  "capacity_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "0.8 lít": 2,
+    "1.2 lít": 4,
+    "1.3 lít": 1,
+    "1.5 lít": 15,
+    "1.6 lít": 5,
+    "10 lít": 2,
+    "12 lít": 2,
+    "15 lít": 2,
+    "17 lít": 1,
+    "2 lít": 5,
+    "2.5 lít": 3,
+    "2.8 lít": 2,
+    "3 lít": 7,
+    "3.5 lít": 10,
+    "3.7 lít": 1,
+    "4 lít": 16,
+    "4.5 lít": 8,
+    "5 lít": 13,
+    "6 lít": 5,
+    "9.3 lít": 1
+   },
+   "total_samples": 111
+  },
+  "deep_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Sâu 15 cm": 2,
+    "Sâu 18.5 cm": 4,
+    "Sâu 19 cm": 3,
+    "Sâu 19.5 cm": 2,
+    "Sâu 20 cm": 3,
+    "Sâu 21 cm": 2,
+    "Sâu 25.3 cm": 2,
+    "Sâu 25.5 cm": 2,
+    "Sâu 27 cm": 3,
+    "Sâu 29 cm": 4,
+    "Sâu 30 cm": 3,
+    "Sâu 30.5 cm": 2,
+    "Sâu 31 cm": 2,
+    "Sâu 32 cm": 2,
+    "Sâu 32.3 cm": 2,
+    "Sâu 32.6 cm": 3,
+    "Sâu 33 cm": 11,
+    "Sâu 33.5 cm": 3,
+    "Sâu 33.9 cm": 2,
+    "Sâu 36.5 cm": 2
+   },
+   "total_samples": 108
+  },
+  "diameter_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Đường kính lòng nồi 16 cm": 3,
+    "Đường kính lòng nồi 17 cm": 2,
+    "Đường kính lòng nồi 18 cm": 4,
+    "Đường kính lòng nồi 19 cm": 3,
+    "Đường kính lòng nồi 19.18 cm": 1,
+    "Đường kính lòng nồi 20 cm": 3,
+    "Đường kính lòng nồi 23 cm": 2,
+    "Đường kính lòng nồi 25 cm": 4,
+    "Đường kính lòng nồi 26 cm": 4,
+    "Đường kính lòng nồi 26.5 cm": 2,
+    "Đường kính lòng nồi 27 cm": 2,
+    "Đường kính lòng nồi 28 cm": 10,
+    "Đường kính lòng nồi 29 cm": 2,
+    "Đường kính lòng nồi 29.2 cm": 2,
+    "Đường kính lòng nồi 29.5 cm": 4,
+    "Đường kính lòng nồi 30 cm": 4,
+    "Đường kính lòng nồi 30.2 cm": 3,
+    "Đường kính lòng nồi 32 cm": 3,
+    "Đường kính lòng nồi 33.5 cm": 3,
+    "Đường kính lòng nồi Dài 33 cm, rộng 25 cm": 2
+   },
+   "total_samples": 81
+  },
+  "function_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Hấp": 4,
+    "Hấp, nấu lẩu, nấu cháo, xào": 3,
+    "Hấp|Lẩu, hầm, súp": 2,
+    "Hầm, hấp, chiên, nấu lẩu, nấu cháo": 1,
+    "Lẩu, hấp, nấu, chiên, xào, luộc": 6,
+    "Lẩu, hầm, súp": 2,
+    "Nấu lẩu, chiên xào": 21,
+    "Nấu lẩu, chiên xào, hấp,...": 20,
+    "Nấu lẩu, chiên xào, nướng": 9,
+    "Nấu lẩu, chiên xào, nướng, làm bánh": 2,
+    "Nấu lẩu, chiên xào, nướng|Nấu lẩu, nướng": 2,
+    "Nấu lẩu, hấp": 8,
+    "Nấu lẩu, hấp, hầm, chiên xào,...": 3,
+    "Nấu lẩu, luộc, hầm, chiên xào": 9,
+    "Nấu lẩu, mì, hấp, súp, đun nước, cháo,...": 2,
+    "Nấu lẩu, nướng": 3,
+    "Nấu lẩu, nấu canh, chiên xào,...": 2,
+    "Nấu lẩu, nấu mì, nấu cháo": 1,
+    "Nấu lẩu, nấu mì, nấu cháo, hấp trứng,...": 9,
+    "Nấu ăn đa năng, nấu lẩu, mì, giữ ấm, làm nóng thức ăn": 2
+   },
+   "total_samples": 125
+  },
+  "high_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Cao 14 cm": 4,
+    "Cao 14.2 cm": 2,
+    "Cao 16 cm": 3,
+    "Cao 17 cm": 5,
+    "Cao 18.8 cm": 3,
+    "Cao 19 cm": 5,
+    "Cao 19.2 cm": 2,
+    "Cao 19.8 cm": 2,
+    "Cao 20 cm": 10,
+    "Cao 20.2 cm": 5,
+    "Cao 21 cm": 5,
+    "Cao 21.5 cm": 4,
+    "Cao 22 cm": 3,
+    "Cao 22.5 cm": 2,
+    "Cao 23.5 cm": 3,
+    "Cao 25 cm": 3,
+    "Cao 25.5 cm": 3,
+    "Cao 28 cm": 4,
+    "Cao 35 cm": 3,
+    "Cao 39 cm": 2
+   },
+   "total_samples": 110
+  },
+  "horizontal_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Ngang 18 cm": 2,
+    "Ngang 19 cm": 2,
+    "Ngang 21 cm": 5,
+    "Ngang 22 cm": 2,
+    "Ngang 22.4 cm": 2,
+    "Ngang 30 cm": 2,
+    "Ngang 30.5 cm": 2,
+    "Ngang 33 cm": 13,
+    "Ngang 34 cm": 7,
+    "Ngang 35 cm": 4,
+    "Ngang 35.3 cm": 2,
+    "Ngang 35.6 cm": 2,
+    "Ngang 36 cm": 3,
+    "Ngang 37 cm": 2,
+    "Ngang 37.4 cm": 3,
+    "Ngang 37.5 cm": 2,
+    "Ngang 37.8 cm": 3,
+    "Ngang 38 cm": 3,
+    "Ngang 41.5 cm": 2,
+    "Ngang 42 cm": 2
+   },
+   "total_samples": 110
+  },
+  "inner_pot_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Ceramic chống dính": 2,
+    "Hợp kim nhôm phủ chống dính Teflon": 4,
+    "Hợp kim nhôm phủ chống dính vân đá maifan": 2,
+    "Hợp kim nhôm phủ lớp chống dính": 7,
+    "Hợp kim nhôm phủ men chống dính Ceramic": 6,
+    "Hợp kim nhôm tráng men chống dính": 42,
+    "Inox 201 phủ chống dính Teflon": 3,
+    "Inox 201 phủ sơn chống dính": 1,
+    "Inox 304": 14,
+    "Inox phủ chống dính": 1,
+    "Lòng nồi inox, chảo nướng chống dính Whitford (USA)": 2,
+    "Nhôm phun sơn chống dính": 4,
+    "Nhôm phủ chống dính": 2,
+    "Nhôm phủ chống dính Teflon": 3,
+    "Thép không gỉ": 4,
+    "Thép không gỉ 304 phủ chống dính": 2,
+    "Thép không gỉ phủ chống dính": 3,
+    "Thép không gỉ phủ chống dính Ceramic": 2,
+    "Thép không gỉ phủ chống dính Teflon": 3,
+    "Thép phủ chống dính ceramic": 2
+   },
+   "total_samples": 126
+  },
+  "lid_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Kính": 8,
+    "Kính cường lực": 34,
+    "Nhôm": 2,
+    "Nhựa": 3,
+    "Nhựa PC": 5,
+    "Nhựa PP": 5,
+    "Nhựa PP, PC": 1,
+    "Nhựa chịu nhiệt - PET": 2,
+    "Thép SUS304": 1,
+    "Thép không gỉ": 2,
+    "Thép không gỉ SS304": 1,
+    "Thủy tinh": 62
+   },
+   "total_samples": 126
+  },
+  "long_cord_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "100 cm": 13,
+    "101 cm": 2,
+    "108 cm": 3,
+    "110 cm": 3,
+    "120 cm": 14,
+    "121 cm": 4,
+    "124 cm": 2,
+    "131 cm": 2,
+    "145 cm": 2,
+    "50 cm": 2,
+    "80 cm": 5,
+    "82 cm": 3,
+    "85 cm": 4,
+    "88 cm": 2,
+    "90 cm": 4,
+    "92 cm": 3,
+    "93 cm": 4,
+    "94 cm": 2,
+    "95 cm": 2,
+    "98 cm": 2
+   },
+   "total_samples": 103
+  },
+  "made_in_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Indonesia": 2,
+    "Thái Lan": 3,
+    "Trung Quốc": 132,
+    "Việt Nam": 3
+   },
+   "total_samples": 140
+  },
+  "mass_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Nặng 0.9 kg": 2,
+    "Nặng 1 kg": 5,
+    "Nặng 1.1 kg": 4,
+    "Nặng 1.2 kg": 4,
+    "Nặng 1.9 kg": 2,
+    "Nặng 1.95 kg": 2,
+    "Nặng 1.97 kg": 2,
+    "Nặng 2 kg": 3,
+    "Nặng 2.2 kg": 5,
+    "Nặng 2.25 kg": 4,
+    "Nặng 2.3 kg": 2,
+    "Nặng 2.35 kg": 3,
+    "Nặng 2.4 kg": 6,
+    "Nặng 2.5 kg": 7,
+    "Nặng 2.6 kg": 3,
+    "Nặng 2.7 kg": 3,
+    "Nặng 3 kg": 4,
+    "Nặng 3.2 kg": 5,
+    "Nặng 3.5 kg": 6,
+    "Nặng 3.75 kg": 3
+   },
+   "total_samples": 124
+  },
+  "pot_casing_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Hợp kim nhôm": 2,
+    "Inox": 10,
+    "Nhôm": 1,
+    "Nhôm sơn tĩnh điện": 7,
+    "Nhựa": 18,
+    "Nhựa ABS": 4,
+    "Nhựa Bakelite, PP": 1,
+    "Nhựa PC": 3,
+    "Nhựa PP": 50,
+    "Nhựa PP, PC": 1,
+    "Nhựa chịu nhiệt": 2,
+    "Nhựa chịu nhiệt - PET": 1,
+    "Thép cán nguội": 1,
+    "Thép không gì 304, PP": 1,
+    "Thép không gỉ": 4,
+    "Thép sơn tĩnh điện": 29,
+    "Titanium": 1,
+    "Tôn sơn tĩnh điện": 3
+   },
+   "total_samples": 139
+  },
+  "power_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "1000W": 8,
+    "1200 - 1400W": 1,
+    "1200W": 12,
+    "1300W": 46,
+    "1350W": 1,
+    "1360W": 4,
+    "1400W": 3,
+    "1500W": 10,
+    "1600W": 8,
+    "1800W": 2,
+    "1900W": 1,
+    "2000W": 4,
+    "2200W": 1,
+    "500W": 3,
+    "600W": 20,
+    "700W": 6,
+    "720W": 1,
+    "800W": 3,
+    "850W": 1,
+    "900W": 1
+   },
+   "total_samples": 137
+  },
+  "utilities_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "2 ngăn chứa tiện lợi|Có tay cầm chống nóng|Dây điện tháo rời": 2,
+    "2 ngăn chứa tiện lợi|Có tay cầm chống nóng|Dây điện tháo rời|Tự ngắt khi quá nhiệt": 2,
+    "Có khay hấp trứng|Có tay cầm chống nóng|Dây điện tháo rời": 2,
+    "Có khay nướng|Có khuôn làm bánh|Có tay cầm chống nóng|Dây điện tháo rời|Lẩu và nướng kết hợp": 2,
+    "Có khay nướng|Có tay cầm chống nóng|Lẩu và nướng kết hợp|Tự ngắt khi quá nhiệt": 2,
+    "Có tay cầm chống nóng": 23,
+    "Có tay cầm chống nóng|Có xửng hấp": 12,
+    "Có tay cầm chống nóng|Có xửng hấp|Dây điện tháo rời": 3,
+    "Có tay cầm chống nóng|Có xửng hấp|Dây điện tháo rời|Tự ngắt khi nước cạn|Vỏ 3 lớp cách nhiệt chống bỏng": 2,
+    "Có tay cầm chống nóng|Có xửng hấp|Hẹn giờ nấu xong": 1,
+    "Có tay cầm chống nóng|Dây điện tháo rời": 1,
+    "Có tay cầm chống nóng|Dây điện tháo rời|Tự ngắt khi nước cạn|Tự ngắt khi quá nhiệt": 2,
+    "Có tay cầm chống nóng|Dây điện tháo rời|Tự ngắt khi quá nhiệt": 4,
+    "Có tay cầm chống nóng|Giữ ấm|Tự ngắt khi quá nhiệt": 1,
+    "Có tay cầm chống nóng|Tự ngắt khi nước cạn": 2,
+    "Có tay cầm chống nóng|Tự ngắt khi quá nhiệt": 5,
+    "Có xửng hấp|Dây điện tháo rời|Dễ vệ sinh|Tự ngắt khi quá nhiệt": 2,
+    "Có xửng hấp|Nấu lẩu": 2,
+    "Có đèn báo|Có thể gắp gọn|Dây điện tháo rời|Tự ngắt khi nước cạn|Tự ngắt khi quá nhiệt": 2,
+    "Dễ vệ sinh": 2
+   },
+   "total_samples": 124
+  }
+ },
  "2825": {
   "compatibility_tskt_master": {
    "contributors": [
