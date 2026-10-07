@@ -1255,6 +1255,47 @@
    "utilities_tskt_master": "Tiện ích"
   }
  },
+ "2342": {
+  "cot": [
+   "battery_capacity_tskt_master",
+   "brand_of_tskt_master",
+   "charging_specifications_tskt_master",
+   "function_tskt_master",
+   "heat_mode_tskt_master",
+   "high_tskt_master",
+   "horizontal_tskt_master",
+   "included_accessories_tskt_master",
+   "input_voltage_tskt_master",
+   "long_cord_tskt_master",
+   "machine_weight_tskt_master",
+   "made_in_tskt_master",
+   "output_power_tskt_master",
+   "product_type_tskt_master",
+   "usage_time_tskt_master",
+   "utilities_tskt_master",
+   "wide_tskt_master"
+  ],
+  "ten": "Máy tạo kiểu tóc",
+  "ten_cot": {
+   "battery_capacity_tskt_master": "Dung lượng pin",
+   "brand_of_tskt_master": "Thương hiệu của",
+   "charging_specifications_tskt_master": "Thông số sạc",
+   "function_tskt_master": "Chức năng",
+   "heat_mode_tskt_master": "Chế độ nhiệt",
+   "high_tskt_master": "Cao",
+   "horizontal_tskt_master": "Ngang",
+   "included_accessories_tskt_master": "Phụ kiện đi kèm",
+   "input_voltage_tskt_master": "Điện áp đầu vào",
+   "long_cord_tskt_master": "Dài dây",
+   "machine_weight_tskt_master": "Khối lượng máy",
+   "made_in_tskt_master": "Sản xuất tại",
+   "output_power_tskt_master": "Công suất đầu ra",
+   "product_type_tskt_master": "Loại sản phẩm",
+   "usage_time_tskt_master": "Thời gian sử dụng",
+   "utilities_tskt_master": "Tiện ích",
+   "wide_tskt_master": "Rộng"
+  }
+ },
  "2825": {
   "cot": [
    "compatibility_tskt_master",
