@@ -436,6 +436,15 @@
     "pham_vi": "tat_ca"
    }
   ],
+  "8579\tmachine_weight_tskt_master\tbd": [
+   {
+    "a": "Khối lượng",
+    "b": "cm",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "pham_vi": "tat_ca"
+   }
+  ],
   "9100\tdeep_tskt_master\tbd": [
    {
     "a": "Sâu",
@@ -554,7 +563,7 @@
    }
   ]
  },
- "luc_luu": "2026-10-07 10:00:23",
+ "luc_luu": "2026-10-07 10:00:50",
  "map_ten": "tham_chieu",
  "nguoi_luu": "ducd",
  "rong": {
