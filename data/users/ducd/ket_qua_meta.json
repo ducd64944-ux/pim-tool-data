@@ -1,49 +1,122 @@
 {
- "chon": [],
- "chua_map": [],
+ "chon": [
+  {
+   "CHỌN": true,
+   "GHI CHÚ": "",
+   "MÃ NH": "8579",
+   "NGUỒN CATE": "CATEGORYID",
+   "SỐ SKU": 5,
+   "TAB TSKT / CẤU HÌNH": "cấu hình — 15 cột",
+   "TÊN NGÀNH HÀNG": "Cốc lọc nước đầu nguồn"
+  }
+ ],
+ "chua_map": [
+  {
+   "cate": "8579",
+   "goi_y_ma": "",
+   "prop_id": "40425",
+   "prop_name": "Chính sách lắp đặt",
+   "so_dong": 5,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Lắp đặt miễn phí"
+  },
+  {
+   "cate": "8579",
+   "goi_y_ma": "",
+   "prop_id": "41078",
+   "prop_name": "Phần điện",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "12"
+  },
+  {
+   "cate": "8579",
+   "goi_y_ma": "",
+   "prop_id": "41079",
+   "prop_name": "Bình áp",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "12"
+  },
+  {
+   "cate": "8579",
+   "goi_y_ma": "",
+   "prop_id": "41080",
+   "prop_name": "Lõi RO",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không bảo hành"
+  },
+  {
+   "cate": "8579",
+   "goi_y_ma": "",
+   "prop_id": "41081",
+   "prop_name": "Hệ thống nóng lạnh",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "8579",
+   "goi_y_ma": "",
+   "prop_id": "41082",
+   "prop_name": "Buồng điện phân",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  }
+ ],
  "dx_dang_ap": 0,
  "goc_cms": {},
- "log": [
-  [
-   "1114172000076",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1114172000077",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1114172000019",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1114172000014",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1114172000015",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ]
- ],
- "luc": "2026-10-07 09:56:04",
- "nganh": {},
+ "log": [],
+ "luc": "2026-10-07 09:56:39",
+ "nganh": {
+  "8579": {
+   "attr": [
+    "body_material_tskt_master",
+    "brand_of_tskt_master",
+    "deep_tskt_master",
+    "function_tskt_master",
+    "high_tskt_master",
+    "horizontal_tskt_master",
+    "inner_material_tskt_master",
+    "machine_weight_tskt_master",
+    "made_in_tskt_master",
+    "number_of_liters_of_filtered_water_tskt_master",
+    "quantity_tskt_master",
+    "release_date_tskt_master",
+    "replacement_time_tskt_master",
+    "size_weight_tskt_master",
+    "year_of_manufacture_tskt_master"
+   ],
+   "ten": {
+    "body_material_tskt_master": "Chất liệu thân vỏ",
+    "brand_of_tskt_master": "Thương hiệu của",
+    "deep_tskt_master": "Sâu",
+    "function_tskt_master": "Chức năng",
+    "high_tskt_master": "Cao",
+    "horizontal_tskt_master": "Ngang",
+    "inner_material_tskt_master": "Chất liệu ruột",
+    "machine_weight_tskt_master": "Khối lượng máy",
+    "made_in_tskt_master": "Sản xuất tại",
+    "number_of_liters_of_filtered_water_tskt_master": "Số lít nước lọc",
+    "quantity_tskt_master": "Số lượng",
+    "release_date_tskt_master": "Thời gian ra mắt",
+    "replacement_time_tskt_master": "Thời gian thay thế",
+    "size_weight_tskt_master": "Kích thước Khối lượng",
+    "year_of_manufacture_tskt_master": "Năm sản xuất"
+   },
+   "ten_nh": "Cốc lọc nước đầu nguồn",
+   "title": "TSKT 8579 Cốc lọc nước đầu nguồn"
+  }
+ },
  "tom_tat": {
   "filter_khong_khop": 0,
-  "khong_data": 5,
+  "khong_data": 0,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 0,
-  "so_o": 0,
-  "so_sku": 0
+  "so_nganh": 1,
+  "so_o": 65,
+  "so_sku": 5
  }
 }
