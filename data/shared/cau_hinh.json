@@ -1514,6 +1514,35 @@
    "vesa_tskt_master": "Vesa"
   }
  },
+ "5105": {
+  "cot": [
+   "cartridge_type_filter_master",
+   "functional_filter_cartridge_filter_master",
+   "brand_of_tskt_master",
+   "compatibility_tskt_master",
+   "filter_core_material_tskt_master",
+   "filter_order_tskt_master",
+   "function_tskt_master",
+   "made_in_tskt_master",
+   "minimum_filtration_size_tskt_master",
+   "product_type_tskt_master",
+   "replacement_time_tskt_master"
+  ],
+  "ten": "Lõi máy lọc nước",
+  "ten_cot": {
+   "brand_of_tskt_master": "Thương hiệu của",
+   "cartridge_type_filter_master": "Loại lõi lọc (dùng cho filter)",
+   "compatibility_tskt_master": "Tương thích",
+   "filter_core_material_tskt_master": "Vật liệu, cấu tạo lõi lọc",
+   "filter_order_tskt_master": "Thứ tự lõi lọc",
+   "function_tskt_master": "Chức năng",
+   "functional_filter_cartridge_filter_master": "Lõi chức năng",
+   "made_in_tskt_master": "Sản xuất tại",
+   "minimum_filtration_size_tskt_master": "Kích thước lọc nhỏ nhất",
+   "product_type_tskt_master": "Loại sản phẩm",
+   "replacement_time_tskt_master": "Thời gian thay thế"
+  }
+ },
  "5205": {
   "cot": [
    "capacity_filter_master",
