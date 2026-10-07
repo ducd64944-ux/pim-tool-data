@@ -1358,6 +1358,57 @@
    "year_of_manufacture_tskt_master": "Năm sản xuất"
   }
  },
+ "9100": {
+  "cot": [
+   "brand_of_tskt_master",
+   "capacity_tskt_master",
+   "control_panel_tskt_master",
+   "deep_tskt_master",
+   "display_screen_tskt_master",
+   "function_tskt_master",
+   "high_tskt_master",
+   "horizontal_tskt_master",
+   "inner_material_tskt_master",
+   "long_cord_tskt_master",
+   "machine_weight_tskt_master",
+   "made_in_tskt_master",
+   "massage_roller_tskt_master",
+   "operating_temperature_tskt_master",
+   "output_power_tskt_master",
+   "power_source_tskt_master",
+   "release_date_tskt_master",
+   "safety_features_tskt_master",
+   "size_weight_tskt_master",
+   "technology_tskt_master",
+   "usage_time_tskt_master",
+   "utilities_tskt_master"
+  ],
+  "ten": "Bồn ngâm chân",
+  "ten_cot": {
+   "brand_of_tskt_master": "Thương hiệu của",
+   "capacity_tskt_master": "Dung lượng",
+   "control_panel_tskt_master": "Bảng điều khiển",
+   "deep_tskt_master": "Sâu",
+   "display_screen_tskt_master": "Màn hình hiển thị",
+   "function_tskt_master": "Chức năng",
+   "high_tskt_master": "Cao",
+   "horizontal_tskt_master": "Ngang",
+   "inner_material_tskt_master": "Chất liệu ruột",
+   "long_cord_tskt_master": "Dài dây",
+   "machine_weight_tskt_master": "Khối lượng máy",
+   "made_in_tskt_master": "Sản xuất tại",
+   "massage_roller_tskt_master": "Con lăn massage",
+   "operating_temperature_tskt_master": "Nhiệt độ hoạt động",
+   "output_power_tskt_master": "Công suất đầu ra",
+   "power_source_tskt_master": "Nguồn điện",
+   "release_date_tskt_master": "Thời gian ra mắt",
+   "safety_features_tskt_master": "Tính năng an toàn",
+   "size_weight_tskt_master": "Kích thước Khối lượng",
+   "technology_tskt_master": "Công nghệ",
+   "usage_time_tskt_master": "Thời gian sử dụng",
+   "utilities_tskt_master": "Tiện ích"
+  }
+ },
  "9218": {
   "cot": [
    "body_material_tskt_master",
