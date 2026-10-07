@@ -1189,6 +1189,160 @@
    "total_samples": 100
   }
  },
+ "4929": {
+  "capacity_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "1 lít": 8,
+    "1.05 lít": 3,
+    "1.2 lít": 4,
+    "1000 ml": 4,
+    "1040 ml": 7,
+    "2500 ml": 7,
+    "370 ml": 5,
+    "400 ml": 7,
+    "500 - 1000 - 2000 ml": 8,
+    "500 ml": 7,
+    "600 ml": 7,
+    "620 ml": 3,
+    "630 ml": 5,
+    "630 ml, 700 ml": 3,
+    "640 ml": 7,
+    "650 ml": 8,
+    "800 ml": 7,
+    "850 ml": 3,
+    "930 ml": 4,
+    "950 ml": 10
+   },
+   "total_samples": 233
+  },
+  "material_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Chất liệu bên ngoài: Nylon, lớp lót: PE": 6,
+    "Nhựa": 122,
+    "Nhựa PP, Silicone": 5,
+    "Sứ": 4,
+    "Thép không gỉ": 1,
+    "Thủy tinh": 110
+   },
+   "total_samples": 248
+  },
+  "product_type_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Bình đựng gia vị": 1,
+    "Bộ hộp": 61,
+    "Hũ đựng gia vị": 1,
+    "Hộp khay nhựa trữ đông": 8,
+    "Hộp đơn": 141,
+    "Hộp đựng cơm": 17,
+    "Hộp đựng thực phẩm": 14,
+    "Túi đựng cơm": 6
+   },
+   "total_samples": 249
+  },
+  "release_date_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "2016": 1,
+    "2020": 2,
+    "2022": 55,
+    "2023": 8,
+    "2024": 8,
+    "2025": 15,
+    "2026": 14
+   },
+   "total_samples": 103
+  },
+  "style_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Hình trụ": 3,
+    "Hũ tròn": 1,
+    "Hộp chữ nhật": 135,
+    "Hộp chữ nhật, Hộp vuông": 3,
+    "Hộp oval": 1,
+    "Hộp tròn": 59,
+    "Hộp vuông": 42,
+    "Túi xách có quai": 6
+   },
+   "total_samples": 250
+  },
+  "temperature_resistance_level_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "(-10) - 120°C": 1,
+    "(-20) - 140°C": 10,
+    "-10 - 100°C": 4,
+    "-20 - 100°C": 3,
+    "-20 - 110°C": 15,
+    "-20 - 120°C": 78,
+    "-20 - 400°C": 7,
+    "-20 - 560°C": 10,
+    "-30 - 140°C": 14,
+    "-40 - 520°C": 3,
+    "0 - 100°C": 7,
+    "20 - 560°C": 1,
+    "Chịu nhiệt tối đa 110°C": 5,
+    "Chịu nhiệt tối đa 120°C": 3,
+    "Chịu nhiệt tối đa 400°C": 26,
+    "Chịu nhiệt tối đa 560°C": 12,
+    "Chịu nhiệt tối đa 70°C": 4,
+    "Chịu nhiệt tối đa 75°C": 2,
+    "Dưới 80°C": 4,
+    "Thân: -20 - 100°C, Nắp: -20 - 90°C": 6
+   },
+   "total_samples": 217
+  },
+  "utilities_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "4 khóa an toàn giúp hộp kín khí|Chống đổ nước|Có ron cao su chống tràn|Có van xả hơi|Dùng được lò vi sóng|Dùng được máy ": 7,
+    "4 khóa an toàn giúp hộp kín khí|Chống đổ nước|Có viền silicone|Dùng được lò nướng|Dùng được lò vi sóng|Dùng được máy rửa": 3,
+    "4 khóa an toàn giúp hộp kín khí|Có viền silicone|Dùng được lò nướng (không đậy nắp)|Dùng được máy rửa chén dưới 80°C|Kèm": 3,
+    "4 khóa an toàn giúp hộp kín khí|Dùng được lò vi sóng": 5,
+    "Chất liệu Silicon bền bỉ|Dùng cho tủ đông|Dùng được lò vi sóng|Dùng được máy rửa chén": 3,
+    "Chống đổ nước|Có van xả hơi|Dùng được lò vi sóng": 12,
+    "Chống đổ nước|Dùng được lò vi sóng": 34,
+    "Chống đổ nước|Dùng được lò vi sóng|Dùng được máy rửa chén": 8,
+    "Có chức năng cài đặt ngày tháng lưu trữ thực phẩm|Dùng được lò vi sóng|Dùng được máy rửa chén|Dùng được trong ngăn mát t": 4,
+    "Có ron cao su chống tràn|Dùng được lò nướng|Dùng được lò vi sóng|Dùng được máy rửa chén|Nắp có khóa": 5,
+    "Có ron cao su chống tràn|Dùng được lò vi sóng|Dùng được máy rửa chén|Nắp có khóa": 3,
+    "Công nghệ Ag+ kháng khuẩn, chống nấm mốc|Không hấp thụ mùi và màu từ thực phẩm": 5,
+    "Dùng cho tủ đông|Dùng được lò vi sóng|Dùng được máy rửa chén": 5,
+    "Dùng được lò nướng, lò vi sóng|Dùng được máy rửa chén": 6,
+    "Dùng được lò vi sóng": 27,
+    "Dùng được lò vi sóng|Dùng được máy rửa chén": 19,
+    "Dùng được lò vi sóng|Dùng được máy rửa chén|Kháng khuẩn": 12,
+    "Dùng được lò vi sóng|Dùng được máy rửa chén|Nắp có khóa": 7,
+    "Dùng được lò vi sóng|Kháng khuẩn": 5,
+    "Lớp ngoài là nylon chống thấm nước, có khả năng chống bám bẩn|Lớp trong bằng PE an toàn và có khả năng cách nhiệt|Thiết ": 6
+   },
+   "total_samples": 243
+  }
+ },
  "4932": {
   "brand_of_tskt_master": {
    "contributors": [
