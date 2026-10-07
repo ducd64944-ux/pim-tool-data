@@ -1653,6 +1653,100 @@
    "total_samples": 10
   }
  },
+ "8558": {
+  "function_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Cạo vẩy cá|Cắt rau|Cắt xương": 11,
+    "Cạo vẩy cá|Cắt rau|Cắt xương|Gọt vỏ rau củ|Mở nắp chai, lon|Tách vỏ hạt": 1,
+    "Cạo vẩy cá|Cắt rau|Cắt xương|Mở nắp chai, lon|Tách vỏ hạt": 6,
+    "Cạo vẩy cá|Cắt rau|Cắt xương|Tách vỏ hạt": 4,
+    "Cạo vẩy cá|Cắt rau|Mở nắp chai, lon": 1,
+    "Cạo vẩy cá|Cắt rau|Tách vỏ hạt": 2,
+    "Cắt cành": 4,
+    "Cắt cành|Cắt rau|Cắt xương": 1,
+    "Cắt hàng rào": 2,
+    "Cắt rau": 6,
+    "Cắt rau|Cắt xương": 4,
+    "Cắt rau|Cắt xương|Mở nắp chai, lon|Tách vỏ hạt": 1,
+    "Cắt rau|Cắt xương|Tách vỏ hạt": 1,
+    "Cắt sắt": 7,
+    "Cắt tôn": 5,
+    "Cắt xương": 2,
+    "Cắt ống nước": 2
+   },
+   "total_samples": 60
+  },
+  "handle_material_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Hợp kim kẽm bọc nhựa PVC": 1,
+    "Hợp kim nhôm": 1,
+    "Nhựa": 13,
+    "Nhựa ABS": 9,
+    "Nhựa PP": 7,
+    "Nhựa PP + TPR": 14,
+    "Nhựa PVC": 8,
+    "Nhựa cứng": 2,
+    "Nhựa kết hợp silicone": 1,
+    "Silicone": 2,
+    "Ống thép và nhựa PVC": 2
+   },
+   "total_samples": 60
+  },
+  "made_in_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Thái Lan": 9,
+    "Trung Quốc": 51
+   },
+   "total_samples": 60
+  },
+  "material_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Thép": 11,
+    "Thép Cr-Mo": 3,
+    "Thép SK5": 1,
+    "Thép không gỉ": 14,
+    "Thép không gỉ 2Cr13": 27,
+    "Thép không gỉ 3Cr13": 4
+   },
+   "total_samples": 60
+  },
+  "product_type_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Kéo cắt cành": 4,
+    "Kéo cắt hàng rào": 2,
+    "Kéo cắt rau hành": 6,
+    "Kéo cắt rau hành|Kéo cắt xương": 13,
+    "Kéo cắt rau hành|Kéo cắt xương|Kéo nhà bếp đa năng": 11,
+    "Kéo cắt rau hành|Kéo nhà bếp đa năng": 3,
+    "Kéo cắt sắt": 7,
+    "Kéo cắt tôn": 5,
+    "Kéo cắt xương": 2,
+    "Kéo cắt ống nước": 2,
+    "Kéo nhà bếp đa năng": 5
+   },
+   "total_samples": 60
+  }
+ },
  "8579": {
   "body_material_tskt_master": {
    "contributors": [
