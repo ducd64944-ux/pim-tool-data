@@ -13,16 +13,16 @@
  "chua_map": [
   {
    "cate": "1986",
-   "goi_y_ma": "size_weight_tskt_master",
+   "goi_y_ma": "",
    "prop_id": "9155",
    "prop_name": "Kích thước - Khối lượng",
    "so_dong": 17,
-   "trang_thai": "Đã map theo TÊN (nên thêm vào MAPPING TSKT)",
+   "trang_thai": "CHƯA MAP — bỏ qua",
    "vi_du": "Đường kính lòng nồi 26 cm, cao 6.5 cm"
   },
   {
    "cate": "1986",
-   "goi_y_ma": "brand_of_tskt_master",
+   "goi_y_ma": "",
    "prop_id": "6735",
    "prop_name": "Thương hiệu của",
    "so_dong": 2,
@@ -31,7 +31,7 @@
   },
   {
    "cate": "1986",
-   "goi_y_ma": "capacity_tskt_master",
+   "goi_y_ma": "",
    "prop_id": "6900",
    "prop_name": "Dung tích",
    "so_dong": 2,
@@ -40,7 +40,7 @@
   },
   {
    "cate": "1986",
-   "goi_y_ma": "capacity_tskt_master",
+   "goi_y_ma": "",
    "prop_id": "9109",
    "prop_name": "Dung tích",
    "so_dong": 2,
@@ -49,7 +49,7 @@
   },
   {
    "cate": "1986",
-   "goi_y_ma": "power_tskt_master",
+   "goi_y_ma": "",
    "prop_id": "9110",
    "prop_name": "Công suất",
    "so_dong": 2,
@@ -58,7 +58,7 @@
   },
   {
    "cate": "1986",
-   "goi_y_ma": "utilities_tskt_master",
+   "goi_y_ma": "",
    "prop_id": "9112",
    "prop_name": "Tiện ích",
    "so_dong": 2,
@@ -76,7 +76,7 @@
   },
   {
    "cate": "1986",
-   "goi_y_ma": "mass_tskt_master",
+   "goi_y_ma": "",
    "prop_id": "9114",
    "prop_name": "Khối lượng",
    "so_dong": 2,
@@ -163,7 +163,7 @@
    "FILTER: giá trị CMS \"Đang cập nhật\" chưa có option trong DATA PIM — để trống"
   ]
  ],
- "luc": "2026-10-07 16:06:10",
+ "luc": "2026-10-07 16:24:56",
  "nganh": {
   "1986": {
    "attr": [
@@ -218,13 +218,14 @@
    "title": "TSKT 1986 Lẩu điện"
   }
  },
+ "o_theo_ten": [],
  "tom_tat": {
   "filter_khong_khop": 3,
   "khong_data": 2,
-  "map_theo_ten": 17,
+  "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
   "so_nganh": 1,
-  "so_o": 2524,
+  "so_o": 2507,
   "so_sku": 140
  }
 }
