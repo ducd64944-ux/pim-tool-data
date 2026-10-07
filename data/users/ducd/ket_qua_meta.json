@@ -1,59 +1,181 @@
 {
- "chon": [
-  {
-   "CHỌN": true,
-   "GHI CHÚ": "",
-   "MÃ NH": "9239",
-   "NGUỒN CATE": "CATEGORYID",
-   "SỐ SKU": 26,
-   "TAB TSKT / CẤU HÌNH": "cấu hình — 11 cột",
-   "TÊN NGÀNH HÀNG": "Khay - kệ đựng đồ"
-  }
- ],
+ "chon": [],
  "chua_map": [],
  "dx_dang_ap": 0,
  "goc_cms": {},
- "log": [],
- "luc": "2026-10-07 15:39:23",
- "nganh": {
-  "9239": {
-   "attr": [
-    "brand_of_tskt_master",
-    "deep_tskt_master",
-    "handle_material_tskt_master",
-    "high_tskt_master",
-    "horizontal_tskt_master",
-    "made_in_tskt_master",
-    "mass_tskt_master",
-    "material_tskt_master",
-    "product_type_tskt_master",
-    "size_weight_tskt_master",
-    "utilities_tskt_master"
-   ],
-   "ten": {
-    "brand_of_tskt_master": "Thương hiệu của",
-    "deep_tskt_master": "Sâu",
-    "handle_material_tskt_master": "Chất liệu tay cầm",
-    "high_tskt_master": "Cao",
-    "horizontal_tskt_master": "Ngang",
-    "made_in_tskt_master": "Sản xuất tại",
-    "mass_tskt_master": "Khối lượng",
-    "material_tskt_master": "Chất liệu",
-    "product_type_tskt_master": "Loại sản phẩm",
-    "size_weight_tskt_master": "Kích thước Khối lượng",
-    "utilities_tskt_master": "Tiện ích"
-   },
-   "ten_nh": "Khay - kệ đựng đồ",
-   "title": "TSKT 9239 Khay - kệ đựng đồ"
-  }
- },
+ "log": [
+  [
+   "3041071000066",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3041071000068",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3041071000067",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1394324000002",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1394324000007",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1394324000006",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1394324000003",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1394324000005",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1394324000001",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1394324000017",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "0160073000038",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "0164324000007",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "0160073000298",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "0164324000004",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "0164324000008",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "0164324000009",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "0160073000111",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "0160073000112",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "0164324000006",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "0160073000110",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "0164324000003",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "0160073000039",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "0160073000113",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "0160073000132",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "0160073000043",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "0160073000042",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "0160073000040",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ]
+ ],
+ "luc": "2026-10-07 15:49:08",
+ "nganh": {},
  "tom_tat": {
   "filter_khong_khop": 0,
-  "khong_data": 0,
+  "khong_data": 27,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 1,
-  "so_o": 248,
-  "so_sku": 26
+  "so_nganh": 0,
+  "so_o": 0,
+  "so_sku": 0
  }
 }
