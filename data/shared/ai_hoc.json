@@ -328,5 +328,333 @@
    },
    "total_samples": 34
   }
+ },
+ "9100": {
+  "brand_of_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Anh": 4,
+    "Bỉ": 2,
+    "Hà Lan": 1,
+    "Hàn Quốc": 2,
+    "Trung Quốc": 2,
+    "Việt Nam": 1
+   },
+   "total_samples": 12
+  },
+  "capacity_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "0.3 lít": 1,
+    "7 lít": 1,
+    "7.3 lít": 3,
+    "7.5 lít": 1,
+    "8 lít": 2,
+    "8.3 lít": 1,
+    "9 lít": 2
+   },
+   "total_samples": 11
+  },
+  "control_panel_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Cảm ứng": 2,
+    "Nút nhấn": 9,
+    "Remote điều khiển từ xa, Nút nhấn": 1
+   },
+   "total_samples": 12
+  },
+  "deep_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Sâu 28 cm": 1,
+    "Sâu 37 cm": 1,
+    "Sâu 38 cm": 2,
+    "Sâu 39 cm": 2,
+    "Sâu 40.35 cm": 2,
+    "Sâu 41 cm": 1,
+    "Sâu 43 cm": 1,
+    "Sâu 43.5 cm": 1,
+    "Sâu 48.6 cm": 1
+   },
+   "total_samples": 12
+  },
+  "display_screen_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "LED": 8
+   },
+   "total_samples": 8
+  },
+  "function_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Giảm nhức mỏi|Massage con lăn|Massge bấm huyệt|Thư giãn chân": 1,
+    "Giảm nhức mỏi|Massage con lăn|Phun hơi nước nóng siêu âm|Thư giãn chân": 1,
+    "Massage con lăn|Massage nhiệt|Massage sục khí": 3,
+    "Massage con lăn|Phun hơi nước nóng siêu âm": 1,
+    "Đèn hồng ngoại|Liệu pháp từ trường|Massage con lăn|Massage rung|Massage sục khí|Massge bấm huyệt": 1,
+    "Đèn hồng ngoại|Massage con lăn|Massage rung|Massage sục khí": 2,
+    "Đèn hồng ngoại|Massage con lăn|Massage rung|Massage sục khí|Massge bấm huyệt": 1,
+    "Đèn hồng ngoại|Massage con lăn|Massage sục khí": 2
+   },
+   "total_samples": 12
+  },
+  "high_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Cao 10.5 cm": 1,
+    "Cao 11.5 - 23.5 cm": 1,
+    "Cao 12.5 cm - 28 cm": 1,
+    "Cao 13 - 24.4 cm": 1,
+    "Cao 15.6 - 31 cm": 1,
+    "Cao 16.3 - 32.25 cm": 1,
+    "Cao 22.5 cm": 2,
+    "Cao 23.3 cm": 1,
+    "Cao 23.5 cm": 1,
+    "Cao 27.5 cm": 1,
+    "Cao 34 cm": 1
+   },
+   "total_samples": 12
+  },
+  "horizontal_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Ngang 31 cm": 1,
+    "Ngang 34.5 cm": 1,
+    "Ngang 35 cm": 1,
+    "Ngang 36 cm": 1,
+    "Ngang 36.5 cm": 1,
+    "Ngang 37.4 cm": 1,
+    "Ngang 37.5 cm": 1,
+    "Ngang 38 cm": 1,
+    "Ngang 38.35 cm": 1,
+    "Ngang 38.8 cm": 1,
+    "Ngang 40 cm": 1,
+    "Ngang 41 cm": 1
+   },
+   "total_samples": 12
+  },
+  "inner_material_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Nhựa ABS": 1,
+    "Nhựa ABS, Cao su": 1,
+    "Nhựa ABS, Nhựa dẻo TPE": 2,
+    "Nhựa PP": 4,
+    "Nhựa cao cấp": 3,
+    "Nhựa, Silicon cao cấp": 1
+   },
+   "total_samples": 12
+  },
+  "long_cord_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "120 cm": 1,
+    "142 cm": 1,
+    "150 cm": 1,
+    "158 cm": 1,
+    "160 cm": 1,
+    "164 cm": 1,
+    "165 cm": 1,
+    "168 cm": 1,
+    "220 cm": 1,
+    "225 cm": 2
+   },
+   "total_samples": 11
+  },
+  "machine_weight_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Nặng 1.5 kg": 1,
+    "Nặng 1.8 kg": 1,
+    "Nặng 2.3 kg": 1,
+    "Nặng 2.5 kg": 1,
+    "Nặng 2.66 kg": 1,
+    "Nặng 2.77 kg": 1,
+    "Nặng 3.1 kg": 1,
+    "Nặng 3.5 kg": 1,
+    "Nặng 3.7 kg": 1,
+    "Nặng 3.77 kg": 1,
+    "Nặng 4.2 kg": 1,
+    "Nặng 5 kg": 1
+   },
+   "total_samples": 12
+  },
+  "made_in_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Hà Lan": 2,
+    "Trung Quốc": 9
+   },
+   "total_samples": 11
+  },
+  "massage_roller_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "2 con lăn": 2,
+    "4 con lăn": 6,
+    "6 con lăn": 4
+   },
+   "total_samples": 12
+  },
+  "operating_temperature_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "35˚C đến 48˚C": 5,
+    "35˚C đến 50˚C": 1,
+    "38˚C đến 42˚C": 1,
+    "40℃, 42℃ và 44℃": 2,
+    "42˚C": 1,
+    "50°C": 1
+   },
+   "total_samples": 11
+  },
+  "output_power_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "200W": 1,
+    "300W": 1,
+    "390W": 2,
+    "400W": 1,
+    "450W": 2,
+    "500W": 2,
+    "750W": 1,
+    "800W": 2
+   },
+   "total_samples": 12
+  },
+  "power_source_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "220 - 240V|Điện trực tiếp": 2,
+    "Điện trực tiếp": 10
+   },
+   "total_samples": 12
+  },
+  "release_date_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "2018": 1,
+    "2020": 1,
+    "2021": 1,
+    "2022": 1,
+    "2024": 2,
+    "2025": 3
+   },
+   "total_samples": 9
+  },
+  "safety_features_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Adapter công tắc chống rò rỉ điện tự ngắt|Máy sẽ tự động tắt khi hoạt động 30 phút để giảm bớt sự khó chịu do massage qu": 1,
+    "Bảo vệ quá nhiệt|Tách nước và nhiệt": 1,
+    "Tự ngắt khi nhiệt độ nước vượt quá 52℃": 2,
+    "Tự ngắt khi nhiệt độ nước vượt quá 55℃": 1,
+    "Vách ngăn hạn chế bắn nước ra xung quanh": 2,
+    "Đế cao su chống trượt|Tự động tắt|Vách ngăn hạn chế bắn nước ra xung quanh": 2,
+    "Đế cao su chống trượt|Vách ngăn hạn chế bắn nước ra xung quanh": 2
+   },
+   "total_samples": 11
+  },
+  "technology_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Bộ gia nhiệt PTC  - tự ngắt khi quá nhiệt|Tuần hoàn nước": 1,
+    "Công nghệ cảm biến thông minh NTC|Công nghệ gia nhiệt thông minh DPS|Công nghệ thủy lực sục khí": 2
+   },
+   "total_samples": 3
+  },
+  "usage_time_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "10 - 60 phút": 1,
+    "20 - 30 phút": 2,
+    "20 - 60 phút": 2,
+    "30 phút": 3,
+    "30 phút/lần": 1,
+    "45 phút": 2
+   },
+   "total_samples": 11
+  },
+  "utilities_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Chân đế trống trượt|Có hộp đựng thảo dược|Đèn báo chế độ|Đèn báo nhiệt độ nước|Thanh lọc cặn|Thiết kế gấp gọn": 2,
+    "Có bấm huyệt Shiatsu|Có hộp đựng thảo dược|Có quai xách|Đế cao su chống trượt|Đèn LED báo hoạt động": 1,
+    "Có quai xách|Có thể sử dụng kết hợp với thảo mộc, dược liệu|Hẹn giờ|Massage với bong bóng|Thiết kế gấp gọn": 1,
+    "Có quai xách|Có thể sử dụng kết hợp với thảo mộc, dược liệu|Đèn cảnh báo mức nước|Nút nhấn chọn nhiệt độ thích hợp, tự đ": 1,
+    "Có quai xách|Hẹn giờ|Vạch báo mức nước": 1,
+    "Có quai xách|Vạch báo mức nước": 1,
+    "Hẹn giờ": 2,
+    "Hẹn giờ|Khoang chứa tinh dầu|Vạch báo mức nước": 1,
+    "Khoang chứa tinh dầu|Vạch báo mức nước": 1,
+    "Đèn cảnh báo mức nước|Hẹn giờ": 1
+   },
+   "total_samples": 12
+  }
  }
 }
