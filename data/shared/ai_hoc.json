@@ -1806,9 +1806,9 @@
    ],
    "last_updated": "2026-10-07",
    "top_values": {
-    "Việt Nam": 2
+    "Việt Nam": 4
    },
-   "total_samples": 2
+   "total_samples": 4
   },
   "made_in_tskt_master": {
    "contributors": [
@@ -1816,9 +1816,9 @@
    ],
    "last_updated": "2026-10-07",
    "top_values": {
-    "Việt Nam": 2
+    "Việt Nam": 4
    },
-   "total_samples": 2
+   "total_samples": 4
   },
   "material_tskt_master": {
    "contributors": [
@@ -1826,9 +1826,9 @@
    ],
    "last_updated": "2026-10-07",
    "top_values": {
-    "Thép": 2
+    "Thép": 4
    },
-   "total_samples": 2
+   "total_samples": 4
   },
   "product_type_tskt_master": {
    "contributors": [
@@ -1836,9 +1836,9 @@
    ],
    "last_updated": "2026-10-07",
    "top_values": {
-    "Eke": 2
+    "Eke": 4
    },
-   "total_samples": 2
+   "total_samples": 4
   },
   "release_date_tskt_master": {
    "contributors": [
@@ -1846,10 +1846,10 @@
    ],
    "last_updated": "2026-10-07",
    "top_values": {
-    "2024": 1,
-    "2026": 1
+    "2024": 2,
+    "2026": 2
    },
-   "total_samples": 2
+   "total_samples": 4
   },
   "size_weight_tskt_master": {
    "contributors": [
@@ -1857,10 +1857,10 @@
    ],
    "last_updated": "2026-10-07",
    "top_values": {
-    "Cao: 33 cm - Ngang: 40 cm - Nặng: 1.6 kg/cặp": 1,
-    "Cao: 40 cm - Ngang: 45 cm - Dày: 3.5 cm - Nặng: 1.8 kg (cặp)": 1
+    "Cao: 33 cm - Ngang: 40 cm - Nặng: 1.6 kg/cặp": 2,
+    "Cao: 40 cm - Ngang: 45 cm - Dày: 3.5 cm - Nặng: 1.8 kg (cặp)": 2
    },
-   "total_samples": 2
+   "total_samples": 4
   },
   "year_of_manufacture_tskt_master": {
    "contributors": [
@@ -1868,10 +1868,10 @@
    ],
    "last_updated": "2026-10-07",
    "top_values": {
-    "2024": 1,
-    "2026": 1
+    "2024": 2,
+    "2026": 2
    },
-   "total_samples": 2
+   "total_samples": 4
   }
  }
 }
