@@ -123,6 +123,15 @@
     "pham_vi": "tat_ca"
    }
   ],
+  "1986\tlong_cord_tskt_master\tbd": [
+   {
+    "a": "",
+    "b": "cm",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "pham_vi": "tat_ca"
+   }
+  ],
   "1986\tmass_tskt_master\tbd": [
    {
     "a": "Nặng",
@@ -780,7 +789,7 @@
   ]
  },
  "duyet_ten": [],
- "luc_luu": "2026-10-07 16:09:39",
+ "luc_luu": "2026-10-07 16:09:57",
  "nguoi_luu": "ducd",
  "rong": {
   "-": [
