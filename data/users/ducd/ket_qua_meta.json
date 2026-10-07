@@ -1,51 +1,163 @@
 {
- "chon": [
-  {
-   "CHỌN": true,
-   "GHI CHÚ": "",
-   "MÃ NH": "4932",
-   "NGUỒN CATE": "CATEGORYID",
-   "SỐ SKU": 3,
-   "TAB TSKT / CẤU HÌNH": "cấu hình — 7 cột",
-   "TÊN NGÀNH HÀNG": "Đồ dùng khác"
-  }
- ],
+ "chon": [],
  "chua_map": [],
  "dx_dang_ap": 0,
  "goc_cms": {},
- "log": [],
- "luc": "2026-10-07 10:20:48",
- "nganh": {
-  "4932": {
-   "attr": [
-    "brand_of_tskt_master",
-    "color_tskt_master",
-    "made_in_tskt_master",
-    "material_tskt_master",
-    "product_type_tskt_master",
-    "size_weight_tskt_master",
-    "utilities_tskt_master"
-   ],
-   "ten": {
-    "brand_of_tskt_master": "Thương hiệu của",
-    "color_tskt_master": "Màu sắc",
-    "made_in_tskt_master": "Sản xuất tại",
-    "material_tskt_master": "Chất liệu",
-    "product_type_tskt_master": "Loại sản phẩm",
-    "size_weight_tskt_master": "Kích thước Khối lượng",
-    "utilities_tskt_master": "Tiện ích"
-   },
-   "ten_nh": "Đồ dùng khác",
-   "title": "TSKT 4932 Đồ dùng khác"
-  }
- },
+ "log": [
+  [
+   "9923382000008",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923381000172",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923381000472",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923381000572",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923381000633",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923381000464",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923381000215",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923381000174",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923381000559",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923381000171",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923381000177",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923381000175",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923381000173",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923381000411",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923381000663",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923382000041",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923381000262",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923381000176",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923387000086",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923381000306",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923381000261",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923381000170",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923382000017",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923382000009",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ]
+ ],
+ "luc": "2026-10-07 10:27:07",
+ "nganh": {},
  "tom_tat": {
   "filter_khong_khop": 0,
-  "khong_data": 0,
+  "khong_data": 24,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 1,
-  "so_o": 21,
-  "so_sku": 3
+  "so_nganh": 0,
+  "so_o": 0,
+  "so_sku": 0
  }
 }
