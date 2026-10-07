@@ -280,6 +280,15 @@
     "pham_vi": "tat_ca"
    }
   ],
+  "344\tmachine_weight_tskt_master\tbd": [
+   {
+    "a": "",
+    "b": "kg",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "pham_vi": "tat_ca"
+   }
+  ],
   "344\treclined_height_tskt_master\tbd": [
    {
     "a": "Cao",
@@ -653,7 +662,7 @@
    }
   ]
  },
- "luc_luu": "2026-10-07 11:00:14",
+ "luc_luu": "2026-10-07 11:01:31",
  "map_ten": "tham_chieu",
  "nguoi_luu": "ducd",
  "rong": {
