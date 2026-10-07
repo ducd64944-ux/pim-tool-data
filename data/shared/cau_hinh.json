@@ -1332,6 +1332,19 @@
    "utilities_tskt_master": "Tiện ích"
   }
  },
+ "4946": {
+  "cot": [
+   "body_material_tskt_master",
+   "product_type_tskt_master",
+   "quantity_tskt_master"
+  ],
+  "ten": "Khay đá - ly làm đá",
+  "ten_cot": {
+   "body_material_tskt_master": "Chất liệu thân vỏ",
+   "product_type_tskt_master": "Loại sản phẩm",
+   "quantity_tskt_master": "Số lượng"
+  }
+ },
  "5205": {
   "cot": [
    "capacity_filter_master",
