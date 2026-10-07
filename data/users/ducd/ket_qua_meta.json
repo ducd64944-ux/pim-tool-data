@@ -1,101 +1,31 @@
 {
- "chon": [],
- "chua_map": [],
+ "chon": [
+  {
+   "CHỌN": true,
+   "GHI CHÚ": "",
+   "MÃ NH": "2825",
+   "NGUỒN CATE": "CATEGORYID",
+   "SỐ SKU": 15,
+   "TAB TSKT / CẤU HÌNH": "cấu hình — 4 cột",
+   "TÊN NGÀNH HÀNG": "Giá đỡ máy giặt, máy lọc nước, chân loa"
+  }
+ ],
+ "chua_map": [
+  {
+   "cate": "2825",
+   "goi_y_ma": "",
+   "prop_id": "39759",
+   "prop_name": "Map máy giặt theo kích thước",
+   "so_dong": 14,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Kích thước 51-68 cm"
+  }
+ ],
  "dx_dang_ap": 0,
  "goc_cms": {},
  "log": [
   [
-   "0160073000308",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "0160073000295",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1394324000019",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1394324000016",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1394324000015",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1394324000014",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "0164324000010",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "0160073000358",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "0160073000355",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "0160073000359",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
    "1394324000010",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "0164324000002",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "0160073000002",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "0160073000354",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "0160073000003",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "0164324000001",
    "",
    "",
    "Không có dòng nào trong DATA SP"
@@ -107,15 +37,32 @@
    "Không có dòng nào trong DATA SP"
   ]
  ],
- "luc": "2026-10-07 11:52:23",
- "nganh": {},
+ "luc": "2026-10-07 11:53:05",
+ "nganh": {
+  "2825": {
+   "attr": [
+    "compatibility_tskt_master",
+    "made_in_tskt_master",
+    "maximum_load_tskt_master",
+    "size_tskt_master"
+   ],
+   "ten": {
+    "compatibility_tskt_master": "Tương thích",
+    "made_in_tskt_master": "Sản xuất tại",
+    "maximum_load_tskt_master": "Tải trọng tối đa",
+    "size_tskt_master": "Kích thước"
+   },
+   "ten_nh": "Giá đỡ máy giặt, máy lọc nước, chân loa",
+   "title": "TSKT 2825 Giá đỡ máy giặt, máy lọc nước, chân loa"
+  }
+ },
  "tom_tat": {
   "filter_khong_khop": 0,
-  "khong_data": 17,
+  "khong_data": 2,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 0,
-  "so_o": 0,
-  "so_sku": 0
+  "so_nganh": 1,
+  "so_o": 58,
+  "so_sku": 15
  }
 }
