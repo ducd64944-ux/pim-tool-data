@@ -1358,6 +1358,43 @@
    "year_of_manufacture_tskt_master": "Năm sản xuất"
   }
  },
+ "8579": {
+  "cot": [
+   "body_material_tskt_master",
+   "brand_of_tskt_master",
+   "deep_tskt_master",
+   "function_tskt_master",
+   "high_tskt_master",
+   "horizontal_tskt_master",
+   "inner_material_tskt_master",
+   "machine_weight_tskt_master",
+   "made_in_tskt_master",
+   "number_of_liters_of_filtered_water_tskt_master",
+   "quantity_tskt_master",
+   "release_date_tskt_master",
+   "replacement_time_tskt_master",
+   "size_weight_tskt_master",
+   "year_of_manufacture_tskt_master"
+  ],
+  "ten": "Cốc lọc nước đầu nguồn",
+  "ten_cot": {
+   "body_material_tskt_master": "Chất liệu thân vỏ",
+   "brand_of_tskt_master": "Thương hiệu của",
+   "deep_tskt_master": "Sâu",
+   "function_tskt_master": "Chức năng",
+   "high_tskt_master": "Cao",
+   "horizontal_tskt_master": "Ngang",
+   "inner_material_tskt_master": "Chất liệu ruột",
+   "machine_weight_tskt_master": "Khối lượng máy",
+   "made_in_tskt_master": "Sản xuất tại",
+   "number_of_liters_of_filtered_water_tskt_master": "Số lít nước lọc",
+   "quantity_tskt_master": "Số lượng",
+   "release_date_tskt_master": "Thời gian ra mắt",
+   "replacement_time_tskt_master": "Thời gian thay thế",
+   "size_weight_tskt_master": "Kích thước Khối lượng",
+   "year_of_manufacture_tskt_master": "Năm sản xuất"
+  }
+ },
  "9100": {
   "cot": [
    "brand_of_tskt_master",
