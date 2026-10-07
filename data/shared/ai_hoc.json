@@ -329,6 +329,127 @@
    "total_samples": 34
   }
  },
+ "5227": {
+  "brand_of_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Hàn Quốc": 4
+   },
+   "total_samples": 4
+  },
+  "function_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Dùng cho bé tập ăn": 4
+   },
+   "total_samples": 4
+  },
+  "long_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Dài 18.5 cm": 1,
+    "Dài 24.2 cm": 2,
+    "Dài Muỗng lớn: 14.3 cm, Muỗng nhỏ: 13.7 cm": 2
+   },
+   "total_samples": 5
+  },
+  "made_in_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Trung Quốc": 4
+   },
+   "total_samples": 4
+  },
+  "mass_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Nặng 88 g": 2,
+    "Nặng Muỗng lớn: 19g, Muỗng nhỏ: 18g": 2
+   },
+   "total_samples": 4
+  },
+  "material_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Inox": 1,
+    "PPSU + Silicone": 2,
+    "Silicone platinum": 2
+   },
+   "total_samples": 5
+  },
+  "product_type_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Bộ 4 muỗng cơm": 1,
+    "Bộ thìa ăn dặm": 2,
+    "Yếm ăn dặm": 2
+   },
+   "total_samples": 5
+  },
+  "recommended_age_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "4 - 6 tháng tuổi": 2,
+    "Từ 6 tháng tuổi": 2
+   },
+   "total_samples": 4
+  },
+  "thick_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Dày Muỗng lớn: 2.8 cm, Muỗng nhỏ: 2.4 cm": 2
+   },
+   "total_samples": 2
+  },
+  "utilities_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Dễ dàng gấp gọn|Dễ dàng vệ sinh|Điều chỉnh linh hoạt và siêu nhẹ|Thiết kế khóa nút tiện lợi": 2,
+    "Đầu muỗng mềm bằng silicone|Tay cầm chống trượt": 2
+   },
+   "total_samples": 4
+  },
+  "wide_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Rộng 33.2 cm": 2
+   },
+   "total_samples": 2
+  }
+ },
  "8579": {
   "body_material_tskt_master": {
    "contributors": [
