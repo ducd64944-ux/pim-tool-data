@@ -635,6 +635,119 @@
    "total_samples": 7
   }
  },
+ "12458": {
+  "airflow_at_0_bar_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "30": 1,
+    "40": 1
+   },
+   "total_samples": 2
+  },
+  "brand_of_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Trung Quốc": 3
+   },
+   "total_samples": 3
+  },
+  "high_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Cao 19.5 cm": 1,
+    "Cao 20 cm": 1,
+    "Cao 24 cm": 1
+   },
+   "total_samples": 3
+  },
+  "long_pipe_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "28 cm": 1,
+    "77 cm": 2
+   },
+   "total_samples": 3
+  },
+  "long_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Dài 24 cm": 1,
+    "Dài 31 cm": 1,
+    "Dài 35 cm": 1
+   },
+   "total_samples": 3
+  },
+  "machine_weight_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "1.3 kg": 1,
+    "1.35 kg": 1,
+    "2.25 kg": 1
+   },
+   "total_samples": 3
+  },
+  "made_in_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Trung Quốc": 3
+   },
+   "total_samples": 3
+  },
+  "pressure_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "100 psi": 2,
+    "80 psi": 1
+   },
+   "total_samples": 3
+  },
+  "utilities_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Có đèn LED chiếu sáng": 2
+   },
+   "total_samples": 2
+  },
+  "wide_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Rộng 13.5 cm": 1,
+    "Rộng 14.5 cm": 1,
+    "Rộng 15 cm": 1
+   },
+   "total_samples": 3
+  }
+ },
  "13238": {
   "brand_of_tskt_master": {
    "contributors": [
