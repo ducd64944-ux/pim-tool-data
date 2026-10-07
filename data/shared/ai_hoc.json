@@ -2359,6 +2359,163 @@
    "total_samples": 12
   }
  },
+ "9158": {
+  "body_material_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Thép": 2,
+    "Thép dày 2 lớp": 8
+   },
+   "total_samples": 10
+  },
+  "brand_of_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Mỹ": 10
+   },
+   "total_samples": 10
+  },
+  "capacity_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "14.1 lít": 1,
+    "14.4 lít": 1,
+    "20 lít": 1,
+    "20.8 lít": 1,
+    "25.4 lít": 1,
+    "29.1 lít": 1,
+    "32.2 lít": 2,
+    "35 lít": 2
+   },
+   "total_samples": 10
+  },
+  "fire_resistance_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Chống lửa 1010°C trong 2 giờ liên tục": 1,
+    "Chống lửa 843°C trong tối đa 0.5 giờ liên tục": 1,
+    "Chống lửa 927°C trong 1 giờ liên tục": 2,
+    "Không có chống cháy": 6
+   },
+   "total_samples": 10
+  },
+  "lock_system_battery_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Pin AA": 9
+   },
+   "total_samples": 9
+  },
+  "locking_system_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Khoá cơ": 1,
+    "Khoá số điện tử kết hợp chìa khoá": 1,
+    "Khóa số điện tử": 8
+   },
+   "total_samples": 10
+  },
+  "place_of_production_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Trung Quốc": 5,
+    "Việt Nam": 1
+   },
+   "total_samples": 6
+  },
+  "product_line_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "2019": 5,
+    "2020": 1
+   },
+   "total_samples": 6
+  },
+  "size_weight_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Cao 18.8 cm - Rộng 44 cm - Sâu 35.5 cm - Nặng 10 kg": 1,
+    "Cao 20.5 cm - Rộng 49.5 cm - Sâu 39 cm - Nặng 15.2 kg": 1,
+    "Cao 20.5 cm x Rộng 49.5 cm x Sâu 40 cm - Nặng 14.1 kg": 1,
+    "Cao 25 cm - Rộng 35 cm - Sâu 25 cm - Nặng 9.4 kg": 1,
+    "Cao 25 cm - Rộng 35 cm - Sâu 26 cm - Nặng 9.9 kg": 1,
+    "Cao 25.8 cm - Rộng 43.2 cm - Sâu 36 cm - Nặng 12.3 kg": 1,
+    "Cao 39 cm - Rộng 29.7 cm - Sâu 32.5 cm - Nặng 20 kg": 1,
+    "Cao 45 cm - Rộng 37 cm - Sâu 49.5 cm - Nặng 51.2 kg": 1,
+    "Cao 48.7 cm - Rộng 42.8 cm - Sâu 43.6 cm - Nặng 67 kg": 1,
+    "Cao 49 cm - Rộng 42.8 cm - Sâu 44 cm - Nặng 67 kg": 1
+   },
+   "total_samples": 10
+  },
+  "style_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Két cá nhân": 6,
+    "Két sắt chống cháy, chống nước": 2,
+    "Két văn phòng": 2
+   },
+   "total_samples": 10
+  },
+  "utilities_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Chuông cảnh báo|Khay chứa có thể tháo rời": 1,
+    "Cố định két sắt vào tường hoặc tủ bằng ốc vít giúp chống trộm": 1,
+    "Cố định két sắt vào tường hoặc tủ bằng ốc vít giúp chống trộm|Có thể ghi đè lên mã số cũ": 2,
+    "Cố định két sắt vào tường hoặc tủ bằng ốc vít giúp chống trộm|Có thể ghi đè lên mã số cũ|Màn hình led hiển thị": 1,
+    "Cố định két sắt vào tường hoặc tủ bằng ốc vít giúp chống trộm|Khay chứa có thể tháo rời": 1,
+    "Cố định két sắt vào tường hoặc tủ bằng ốc vít giúp chống trộm|Khay chứa có thể tháo rời|Nút reset mật khẩu khi quên": 1,
+    "Cố định két sắt vào tường hoặc tủ bằng ốc vít giúp chống trộm|Nút reset mật khẩu khi quên": 1,
+    "Khay chứa có thể tháo rời": 2
+   },
+   "total_samples": 10
+  },
+  "water_resistance_tskt_master": {
+   "contributors": [
+    "ducd"
+   ],
+   "last_updated": "2026-10-07",
+   "top_values": {
+    "Chống thấm nước trong 8 giờ ngay cả khi bị ngập sâu dưới nước": 3,
+    "Có chống thấm": 1,
+    "Không có chống thấm": 6
+   },
+   "total_samples": 10
+  }
+ },
  "9538": {
   "brand_of_tskt_master": {
    "contributors": [
