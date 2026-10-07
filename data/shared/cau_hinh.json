@@ -1736,6 +1736,37 @@
    "utilities_tskt_master": "Tiện ích"
   }
  },
+ "9158": {
+  "cot": [
+   "body_material_tskt_master",
+   "brand_of_tskt_master",
+   "capacity_tskt_master",
+   "fire_resistance_tskt_master",
+   "locking_system_tskt_master",
+   "lock_system_battery_tskt_master",
+   "place_of_production_tskt_master",
+   "product_line_tskt_master",
+   "size_weight_tskt_master",
+   "style_tskt_master",
+   "utilities_tskt_master",
+   "water_resistance_tskt_master"
+  ],
+  "ten": "Két sắt",
+  "ten_cot": {
+   "body_material_tskt_master": "Chất liệu thân vỏ",
+   "brand_of_tskt_master": "Thương hiệu của",
+   "capacity_tskt_master": "Dung lượng",
+   "fire_resistance_tskt_master": "Khả năng chống cháy",
+   "lock_system_battery_tskt_master": "Pin dùng cho hệ thống khoá",
+   "locking_system_tskt_master": "Hệ thống khoá",
+   "place_of_production_tskt_master": "Nơi sản xuất",
+   "product_line_tskt_master": "Dòng sản phẩm",
+   "size_weight_tskt_master": "Kích thước Khối lượng",
+   "style_tskt_master": "Kiểu dáng",
+   "utilities_tskt_master": "Tiện ích",
+   "water_resistance_tskt_master": "Khả năng chống thấm"
+  }
+ },
  "9218": {
   "cot": [
    "body_material_tskt_master",
