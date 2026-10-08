@@ -1,50 +1,106 @@
 {
- "chon": [],
- "chua_map": [],
+ "chon": [
+  {
+   "CHỌN": true,
+   "GHI CHÚ": "",
+   "MÃ NH": "5205",
+   "NGUỒN CATE": "CATEGORYID",
+   "SỐ SKU": 5,
+   "TAB TSKT / CẤU HÌNH": "cấu hình — 18 cột",
+   "TÊN NGÀNH HÀNG": "Bình, ly giữ nhiệt"
+  }
+ ],
+ "chua_map": [
+  {
+   "cate": "5205",
+   "goi_y_ma": "",
+   "prop_id": "34498",
+   "prop_name": "Thời gian giữ nóng",
+   "so_dong": 5,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Giữ nóng, lạnh 8 - 10h"
+  },
+  {
+   "cate": "5205",
+   "goi_y_ma": "",
+   "prop_id": "34500",
+   "prop_name": "Thời gian giữ lạnh",
+   "so_dong": 5,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  }
+ ],
  "dx_dang_ap": 0,
  "goc_cms": {},
  "log": [
   [
    "1033187000802",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Có ống hút và nắp đậy ống hút\" chưa có option trong DATA PIM — để trống"
   ],
   [
-   "1033187000804",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033187000803",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033187000801",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033187000805",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
+   "1033187000802",
+   "5205",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Sơn tĩnh điện, chống trơn trượt khi cầm nắm\" chưa có option trong DATA PIM — để trống"
   ]
  ],
- "luc": "2026-10-08 17:07:40",
- "nganh": {},
+ "luc": "2026-10-08 17:11:11",
+ "nganh": {
+  "5205": {
+   "attr": [
+    "capacity_filter_master",
+    "inner_material_filter_master",
+    "product_type_filter_master",
+    "utilities_filter_master",
+    "base_diameter_tskt_master",
+    "body_material_tskt_master",
+    "brand_of_tskt_master",
+    "capacity_tskt_master",
+    "high_tskt_master",
+    "holding_time_tskt_master",
+    "inner_material_tskt_master",
+    "lid_diameter_tskt_master",
+    "machine_weight_tskt_master",
+    "made_in_tskt_master",
+    "product_type_tskt_master",
+    "release_date_tskt_master",
+    "size_weight_tskt_master",
+    "utilities_tskt_master"
+   ],
+   "ten": {
+    "base_diameter_tskt_master": "Đường kính đáy",
+    "body_material_tskt_master": "Chất liệu thân vỏ",
+    "brand_of_tskt_master": "Thương hiệu của",
+    "capacity_filter_master": "Dung lượng dung tích",
+    "capacity_tskt_master": "Dung lượng",
+    "high_tskt_master": "Cao",
+    "holding_time_tskt_master": "Thời gian giữ",
+    "inner_material_filter_master": "Chất liệu ruột",
+    "inner_material_tskt_master": "Chất liệu ruột",
+    "lid_diameter_tskt_master": "Đường kính nắp",
+    "machine_weight_tskt_master": "Khối lượng máy",
+    "made_in_tskt_master": "Sản xuất tại",
+    "product_type_filter_master": "Loại sản phẩm",
+    "product_type_tskt_master": "Loại sản phẩm",
+    "release_date_tskt_master": "Thời gian ra mắt",
+    "size_weight_tskt_master": "Kích thước Khối lượng",
+    "utilities_filter_master": "Tiện ích",
+    "utilities_tskt_master": "Tiện ích"
+   },
+   "ten_nh": "Bình, ly giữ nhiệt",
+   "title": "TSKT 5205 Bình, ly giữ nhiệt"
+  }
+ },
  "o_theo_ten": [],
  "tom_tat": {
-  "filter_khong_khop": 0,
-  "khong_data": 5,
+  "filter_khong_khop": 2,
+  "khong_data": 0,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 0,
-  "so_o": 0,
-  "so_sku": 0
+  "so_nganh": 1,
+  "so_o": 85,
+  "so_sku": 5
  }
 }
