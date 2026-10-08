@@ -1,386 +1,86 @@
 {
- "chon": [
-  {
-   "CHỌN": true,
-   "GHI CHÚ": "",
-   "MÃ NH": "2062",
-   "NGUỒN CATE": "CATEGORYID",
-   "SỐ SKU": 226,
-   "TAB TSKT / CẤU HÌNH": "cấu hình — 29 cột",
-   "TÊN NGÀNH HÀNG": "Máy ép trái cây"
-  },
-  {
-   "CHỌN": true,
-   "GHI CHÚ": "",
-   "MÃ NH": "11418",
-   "NGUỒN CATE": "CATEGORYID",
-   "SỐ SKU": 2,
-   "TAB TSKT / CẤU HÌNH": "cấu hình — 17 cột",
-   "TÊN NGÀNH HÀNG": "Máy đo nhiệt độ"
-  }
- ],
- "chua_map": [
-  {
-   "cate": "2062",
-   "goi_y_ma": "",
-   "prop_id": "41358",
-   "prop_name": "Tốc độ ép",
-   "so_dong": 185,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "2062",
-   "goi_y_ma": "",
-   "prop_id": "6671",
-   "prop_name": "Số lượng cối",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "3 cối"
-  },
-  {
-   "cate": "2062",
-   "goi_y_ma": "",
-   "prop_id": "6672",
-   "prop_name": "Chất liệu cối xay chính",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Nhựa"
-  },
-  {
-   "cate": "2062",
-   "goi_y_ma": "",
-   "prop_id": "6676",
-   "prop_name": "Chất liệu lưỡi dao",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Thép không gỉ"
-  },
-  {
-   "cate": "2062",
-   "goi_y_ma": "",
-   "prop_id": "6678",
-   "prop_name": "Nút chỉnh tốc độ",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Nút xoay"
-  },
-  {
-   "cate": "2062",
-   "goi_y_ma": "",
-   "prop_id": "6680",
-   "prop_name": "Thương hiệu của",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Singapore"
-  },
-  {
-   "cate": "2062",
-   "goi_y_ma": "",
-   "prop_id": "6681",
-   "prop_name": "Sản xuất tại",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Trung Quốc"
-  },
-  {
-   "cate": "2062",
-   "goi_y_ma": "",
-   "prop_id": "9026",
-   "prop_name": "Loại máy xay",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Máy xay đa năng"
-  },
-  {
-   "cate": "2062",
-   "goi_y_ma": "",
-   "prop_id": "9027",
-   "prop_name": "Chức năng",
-   "so_dong": 6,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Ép trái cây"
-  },
-  {
-   "cate": "2062",
-   "goi_y_ma": "",
-   "prop_id": "9028",
-   "prop_name": "Công suất",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "250W"
-  },
-  {
-   "cate": "2062",
-   "goi_y_ma": "",
-   "prop_id": "9030",
-   "prop_name": "Tốc độ xay",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "2 tốc độ, 1 chế độ nhồi để trộn nguyên liệu"
-  },
-  {
-   "cate": "2062",
-   "goi_y_ma": "",
-   "prop_id": "9032",
-   "prop_name": "Tiện ích",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Có ly đựng bảo quản sinh tố"
-  },
-  {
-   "cate": "2062",
-   "goi_y_ma": "",
-   "prop_id": "9033",
-   "prop_name": "Tính năng an toàn",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Chân đế chống trượt"
-  }
- ],
+ "chon": [],
+ "chua_map": [],
  "dx_dang_ap": 0,
  "goc_cms": {},
  "log": [
   [
-   "2719122015700",
-   "2062",
-   "function_filter_master",
-   "FILTER: giá trị CMS \"Ép trái cây, rau củ\" chưa có option trong DATA PIM — để trống"
+   "4842053001069",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "2719122015700",
-   "2062",
-   "launch_year_filter_master",
-   "FILTER: giá trị CMS \"Hãng không công bố\" chưa có option trong DATA PIM — để trống"
+   "4842053001421",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "2719018001600",
-   "2062",
-   "launch_year_filter_master",
-   "FILTER: giá trị CMS \"2013\" chưa có option trong DATA PIM — để trống"
+   "1093251000274",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "2719122015900",
-   "2062",
-   "launch_year_filter_master",
-   "FILTER: giá trị CMS \"2014\" chưa có option trong DATA PIM — để trống"
+   "4842053001153",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "2719122015800",
-   "2062",
-   "launch_year_filter_master",
-   "FILTER: giá trị CMS \"2016\" chưa có option trong DATA PIM — để trống"
+   "4842053001070",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "2727122815400",
-   "2062",
-   "launch_year_filter_master",
-   "FILTER: giá trị CMS \"2015\" chưa có option trong DATA PIM — để trống"
+   "4842053001157",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "2727122877000",
-   "2062",
-   "launch_year_filter_master",
-   "FILTER: giá trị CMS \"2018\" chưa có option trong DATA PIM — để trống"
+   "4842053000995",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "2727122879400",
-   "2062",
-   "function_filter_master",
-   "FILTER: giá trị CMS \"Nghiền trái cây làm mứt\" chưa có option trong DATA PIM — để trống"
+   "4842053001113",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "4840968000050",
-   "2062",
-   "launch_year_filter_master",
-   "FILTER: giá trị CMS \"2021\" chưa có option trong DATA PIM — để trống"
+   "4842053000998",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "4840968000051",
-   "2062",
-   "launch_year_filter_master",
-   "FILTER: giá trị CMS \"2019\" chưa có option trong DATA PIM — để trống"
+   "4842053000069",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "4840968000158",
-   "2062",
-   "output_power_filter_master",
-   "FILTER: giá trị CMS \"Đang cập nhật\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4840968000107",
-   "2062",
-   "function_filter_master",
-   "FILTER: giá trị CMS \"Ép trái cây, rau củ, hạt ngũ cốc\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4844154000120",
-   "2062",
-   "function_filter_master",
-   "FILTER: giá trị CMS \"Ép đa năng, Làm salad\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4844154000120",
-   "2062",
-   "function_filter_master",
-   "FILTER: giá trị CMS \"Sữa hạt\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4844154000134",
-   "2062",
-   "speed_adjustment_knob_filter_master",
-   "FILTER: giá trị CMS \"Nút gạt\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4844154000152",
-   "2062",
-   "launch_year_filter_master",
-   "FILTER: giá trị CMS \"2022\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4844154000192",
-   "2062",
-   "function_filter_master",
-   "FILTER: giá trị CMS \"Ép các loại quả có hạt phải tách hạt\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4846000000088",
-   "2062",
-   "speed_adjustment_knob_filter_master",
-   "FILTER: giá trị CMS \"Nút vặn\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4846000000097",
-   "2062",
-   "function_filter_master",
-   "FILTER: giá trị CMS \"Hạt mềm\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4844154000444",
-   "2062",
-   "safety_features_filter_master",
-   "FILTER: giá trị CMS \"Không có\" chưa có option trong DATA PIM — để trống"
+   "4842053001002",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ]
  ],
- "luc": "2026-10-08 11:21:37",
- "nganh": {
-  "11418": {
-   "attr": [
-    "application_tskt_master",
-    "brand_of_tskt_master",
-    "distance_ratio_tskt_master",
-    "emissivity_tskt_master",
-    "error_tskt_master",
-    "high_tskt_master",
-    "laser_class_tskt_master",
-    "laser_diode_tskt_master",
-    "made_in_tskt_master",
-    "mass_tskt_master",
-    "power_source_tskt_master",
-    "surface_temperature_range_tskt_master",
-    "thick_tskt_master",
-    "type_of_machine_tskt_master",
-    "usage_time_tskt_master",
-    "wide_tskt_master",
-    "year_of_manufacture_tskt_master"
-   ],
-   "ten": {
-    "application_tskt_master": "Ứng dụng",
-    "brand_of_tskt_master": "Thương hiệu của",
-    "distance_ratio_tskt_master": "Tỷ lệ khoảng cách",
-    "emissivity_tskt_master": "Hệ số phát xạ",
-    "error_tskt_master": "Sai số",
-    "high_tskt_master": "Cao",
-    "laser_class_tskt_master": "Cấp độ laser",
-    "laser_diode_tskt_master": "Đi-ốt laser",
-    "made_in_tskt_master": "Sản xuất tại",
-    "mass_tskt_master": "Khối lượng",
-    "power_source_tskt_master": "Nguồn điện",
-    "surface_temperature_range_tskt_master": "Dải nhiệt bề mặt đo được",
-    "thick_tskt_master": "Dày",
-    "type_of_machine_tskt_master": "Loại máy",
-    "usage_time_tskt_master": "Thời gian sử dụng",
-    "wide_tskt_master": "Rộng",
-    "year_of_manufacture_tskt_master": "Năm sản xuất"
-   },
-   "ten_nh": "Máy đo nhiệt độ",
-   "title": "TSKT 11418 Máy đo nhiệt độ"
-  },
-  "2062": {
-   "attr": [
-    "function_filter_master",
-    "launch_year_filter_master",
-    "output_power_filter_master",
-    "product_type_filter_master",
-    "safety_features_filter_master",
-    "speed_adjustment_knob_filter_master",
-    "utilities_filter_master",
-    "accessory_materials_tskt_master",
-    "blender_tskt_master",
-    "brand_of_tskt_master",
-    "capacity_tskt_master",
-    "control_panel_tskt_master",
-    "deep_tskt_master",
-    "function_tskt_master",
-    "grain_grinder_tskt_master",
-    "grinding_speed_tskt_master",
-    "high_tskt_master",
-    "horizontal_tskt_master",
-    "long_cord_tskt_master",
-    "made_in_tskt_master",
-    "material_feed_pipe_tskt_master",
-    "output_power_tskt_master",
-    "press_tskt_master",
-    "product_type_tskt_master",
-    "quantity_tskt_master",
-    "release_date_tskt_master",
-    "safety_features_tskt_master",
-    "size_tskt_master",
-    "utilities_tskt_master"
-   ],
-   "ten": {
-    "accessory_materials_tskt_master": "Chất liệu phụ kiện",
-    "blender_tskt_master": "Cốc xay",
-    "brand_of_tskt_master": "Thương hiệu của",
-    "capacity_tskt_master": "Dung lượng",
-    "control_panel_tskt_master": "Bảng điều khiển",
-    "deep_tskt_master": "Sâu",
-    "function_filter_master": "Chức năng",
-    "function_tskt_master": "Chức năng",
-    "grain_grinder_tskt_master": "Cối xay hạt",
-    "grinding_speed_tskt_master": "Tốc độ xay",
-    "high_tskt_master": "Cao",
-    "horizontal_tskt_master": "Ngang",
-    "launch_year_filter_master": "Năm ra mắt",
-    "long_cord_tskt_master": "Dài dây",
-    "made_in_tskt_master": "Sản xuất tại",
-    "material_feed_pipe_tskt_master": "Ống tiếp nguyên liệu",
-    "output_power_filter_master": "Công suất đầu ra",
-    "output_power_tskt_master": "Công suất đầu ra",
-    "press_tskt_master": "Cối ép",
-    "product_type_filter_master": "Loại sản phẩm",
-    "product_type_tskt_master": "Loại sản phẩm",
-    "quantity_tskt_master": "Số lượng",
-    "release_date_tskt_master": "Thời gian ra mắt",
-    "safety_features_filter_master": "Tính năng an toàn",
-    "safety_features_tskt_master": "Tính năng an toàn",
-    "size_tskt_master": "Kích thước",
-    "speed_adjustment_knob_filter_master": "Nút chỉnh tốc độ",
-    "utilities_filter_master": "Tiện ích",
-    "utilities_tskt_master": "Tiện ích"
-   },
-   "ten_nh": "Máy ép trái cây",
-   "title": "TSKT 2062 Máy ép trái cây"
-  }
- },
+ "luc": "2026-10-08 11:31:27",
+ "nganh": {},
  "o_theo_ten": [],
  "tom_tat": {
-  "filter_khong_khop": 20,
-  "khong_data": 0,
+  "filter_khong_khop": 0,
+  "khong_data": 11,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 2,
-  "so_o": 5379,
-  "so_sku": 228
+  "so_nganh": 0,
+  "so_o": 0,
+  "so_sku": 0
  }
 }
