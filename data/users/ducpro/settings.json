@@ -20,6 +20,15 @@
     "pham_vi": "tat_ca"
    }
   ],
+  "10218\tmachine_weight_tskt_master\tbd": [
+   {
+    "a": "Nặng",
+    "b": "kg",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "pham_vi": "tat_ca"
+   }
+  ],
   "11418\thigh_tskt_master\tbd": [
    {
     "a": "Cao",
@@ -431,6 +440,15 @@
     "pham_vi": "tat_ca"
    }
   ],
+  "6552\tmachine_weight_tskt_master\tbd": [
+   {
+    "a": "Nặng",
+    "b": "kg",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "pham_vi": "tat_ca"
+   }
+  ],
   "8621\tdeep_tskt_master\tbd": [
    {
     "a": "Sâu",
@@ -674,16 +692,6 @@
   {
    "d": {
     "dv": {
-     "9055\tdeep_tskt_master\tbd": null
-    }
-   },
-   "luc": "2026-10-08 14:48:25",
-   "nhan": "Biến đổi hàng loạt 1 cột: Thêm cả TRƯỚC và SAU",
-   "so": 1
-  },
-  {
-   "d": {
-    "dv": {
      "9055\thigh_tskt_master\tbd": null
     }
    },
@@ -821,9 +829,20 @@
    "luc": "2026-10-08 15:36:41",
    "nhan": "Biến đổi hàng loạt 1 cột: Thêm cả TRƯỚC và SAU",
    "so": 1
+  },
+  {
+   "d": {
+    "dv": {
+     "10218\tmachine_weight_tskt_master\tbd": null,
+     "6552\tmachine_weight_tskt_master\tbd": null
+    }
+   },
+   "luc": "2026-10-08 15:37:07",
+   "nhan": "Biến đổi hàng loạt 2 cột: Thêm cả TRƯỚC và SAU",
+   "so": 2
   }
  ],
- "luc_luu": "2026-10-08 15:36:41",
+ "luc_luu": "2026-10-08 15:37:07",
  "nguoi_luu": "ducpro",
  "rong": {},
  "sua": {
