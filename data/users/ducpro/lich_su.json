@@ -1,0 +1,16 @@
+[
+ {
+  "Biến đổi": 475,
+  "Chặn ô theo tên": 0,
+  "Cảnh báo": "• 450 ô KHÁC spec PIM (sẽ ghi đè) | • 6 ô tool để trống trong khi PIM đang có | • 14 dòng không có trong file PIM | • 357 ô giá trị CMS bị MẤT khi map (xem 🧾 Đối soát) | • 13 model_code lặp ở nhiều dòng file MODEL (PIM sẽ lấy dòng sau cùng — kiểm tra IMPORT có thiếu variant_code không)",
+  "File": "PIM_TSKT 5554 Máy cạo râu_MODEL_20261008_0829.xlsx, PIM_TSKT 13938 Máy cắt lông xù quần_MODEL_20261008_0829.xlsx",
+  "Không/Đang cập nhật": 0,
+  "Lúc": "2026-10-08 08:29:59",
+  "Người xuất": "ducpro",
+  "Số dòng": 120,
+  "Sửa tay": 1,
+  "Thêm đơn vị": 0,
+  "Tách xin data": 0,
+  "Workspace": "ducpro"
+ }
+]
