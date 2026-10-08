@@ -3,15 +3,6 @@
   {
    "CHỌN": true,
    "GHI CHÚ": "",
-   "MÃ NH": "5554",
-   "NGUỒN CATE": "CATEGORYID",
-   "SỐ SKU": 117,
-   "TAB TSKT / CẤU HÌNH": "cấu hình — 22 cột",
-   "TÊN NGÀNH HÀNG": "Máy cạo râu"
-  },
-  {
-   "CHỌN": true,
-   "GHI CHÚ": "",
    "MÃ NH": "9179",
    "NGUỒN CATE": "CATEGORYID",
    "SỐ SKU": 55,
@@ -26,15 +17,6 @@
    "SỐ SKU": 11,
    "TAB TSKT / CẤU HÌNH": "cấu hình — 17 cột",
    "TÊN NGÀNH HÀNG": "Máy Chà Nhám"
-  },
-  {
-   "CHỌN": true,
-   "GHI CHÚ": "",
-   "MÃ NH": "13938",
-   "NGUỒN CATE": "CATEGORYID",
-   "SỐ SKU": 3,
-   "TAB TSKT / CẤU HÌNH": "cấu hình — 18 cột",
-   "TÊN NGÀNH HÀNG": "Máy cắt lông xù quần áo"
   }
  ],
  "chua_map": [
@@ -367,259 +349,727 @@
  "goc_cms": {},
  "log": [
   [
-   "4842053000947",
-   "5554",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Có nắp đậy tiện bảo quản\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4840967000067",
-   "5554",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Đầu cạo xoay theo 5 hướng giúp cạo sạch sẽ\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4840967000065",
-   "5554",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Đầu cạo xoay theo 3 hướng giúp cạo sạch sẽ\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
    "4842053000254",
-   "5554",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Chổi vệ sinh\" chưa có option trong DATA PIM — để trống"
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "4842053000254",
-   "5554",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Cơ chế lưỡi dao tự mài duy trì độ sắc bén\" chưa có option trong DATA PIM — để trống"
+   "4845000000076",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "4842053000254",
-   "5554",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Đầu cạo xoay độc lập ôm theo đường cong khuôn mặt\" chưa có option trong DATA PIM — để trống"
+   "4845000000199",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4842053001007",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4842053001296",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000069",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000073",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000194",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4842053001295",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
    "4840967000079",
-   "5554",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Đèn LED hiển thị\" chưa có option trong DATA PIM — để trống"
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "4842053001161",
-   "5554",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Không\" chưa có option trong DATA PIM — để trống"
+   "4842053001293",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "1515433000001",
-   "5554",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Lưỡi dao kép dạng vòng khí, có thể tháo rời bằng nam châm\" chưa có option trong DATA PIM — để trống"
+   "4845000000075",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "1515433000001",
-   "5554",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Tốc độ 11.000 vòng/phút\" chưa có option trong DATA PIM — để trống"
+   "4842053001297",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "4845000000093",
-   "5554",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Lưỡi dao phụ\" chưa có option trong DATA PIM — để trống"
+   "4840967000078",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "4845000000123",
-   "5554",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Đầu tỉa tóc mai và ria mép\" chưa có option trong DATA PIM — để trống"
+   "4842053000947",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "4845000000123",
-   "5554",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Tự ngắt khi sạc đầy\" chưa có option trong DATA PIM — để trống"
+   "4842053001311",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "4845000000124",
-   "5554",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Cảm biến thông minh\" chưa có option trong DATA PIM — để trống"
+   "4840967000067",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "4845000000124",
-   "5554",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Động cơ tuyến tính\" chưa có option trong DATA PIM — để trống"
+   "4842053001298",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "4845000000106",
-   "5554",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Đầu cạo độc lập, xoay 360° linh hoạt\" chưa có option trong DATA PIM — để trống"
+   "4842053001299",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "4845000000107",
-   "5554",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Đèn báo trạng thái pin\" chưa có option trong DATA PIM — để trống"
+   "4842053000946",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "4845000000145",
-   "5554",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Đầu cạo cấu tạo hút nam châm chắc chắn\" chưa có option trong DATA PIM — để trống"
+   "4842053001294",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "4845000000145",
-   "5554",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Tùy chỉnh theo đường nét khuôn mặt\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4845000000145",
-   "5554",
-   "razor_blade_filter_master",
-   "FILTER: giá trị CMS \"Hãng không công bố\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4845000000146",
-   "5554",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Nhỏ gọn tiện mang theo\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4845000000147",
-   "5554",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Thiết kế đầu cạo ẩn gọn gàng\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4845000000148",
-   "5554",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Lưới cạo bảo vệ vùng da tiếp xúc\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "1515433000004",
-   "5554",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Công nghệ cạo xoay\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "1515433000013",
-   "5554",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Khóa du lịch thông minh\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "1515433000013",
-   "5554",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Massage đầu\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "1515433000013",
-   "5554",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Rửa mặt\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "1515433000013",
-   "5554",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Tỉa lông mũi\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4845000000324",
-   "5554",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Cảm ứng bật/tắt máy\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4845000000326",
-   "5554",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Đầu cạo nổi 4D linh hoạt\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4845000000326",
-   "5554",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Tháo rời dễ dàng, vệ sinh tiện lợi\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "1515433000022",
-   "5554",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Pin siêu bền\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "1515433000042",
-   "5554",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Đầu cạo nổi 3D linh hoạt, ôm sát khuôn mặt\" chưa có option trong DATA PIM — để trống"
+   "4845000000077",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
    "4845000000388",
-   "5554",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Lưỡi dao PowerCut cạo sạch râu\" chưa có option trong DATA PIM — để trống"
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "4845000000378",
-   "5554",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Có hộp vệ sinh\" chưa có option trong DATA PIM — để trống"
+   "4845000000390",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "4845000000382",
-   "5554",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Đèn LED báo tình trạng pin khi sạc\" chưa có option trong DATA PIM — để trống"
+   "4845000000389",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
    "4845000000410",
-   "5554",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Tự động ngắt khi quá tải\" chưa có option trong DATA PIM — để trống"
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000414",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000413",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000415",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
    "4845000000412",
-   "5554",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Có âm báo thông minh\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4845000000412",
-   "5554",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Đầu cạo cảm biến thông minh, tự nhận diện kích hoạt\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4845000000412",
-   "5554",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Động cơ kép, motor nam châm vĩnh cửu Neodymium-Iron-Boron\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4845000000412",
-   "5554",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Lưỡi dao cong vòng cung 360°\" chưa có option trong DATA PIM — để trống"
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
    "4845000000417",
-   "5554",
-   "razor_blade_filter_master",
-   "FILTER: giá trị CMS \"52 lưỡi cạo\" chưa có option trong DATA PIM — để trống"
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000418",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000416",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000411",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000419",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515433000019",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000420",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515433000039",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515433000015",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515433000035",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515433000012",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515433000005",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515433000017",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515433000030",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515433000014",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515433000011",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515433000027",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515433000029",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515433000020",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515433000004",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515433000023",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515433000006",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515433000003",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515433000033",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515433000028",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515433000002",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515433000034",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515433000016",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515433000037",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515433000018",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515433000024",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515433000026",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515433000009",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515433000008",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515433000010",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515433000032",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515433000038",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515433000036",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515433000001",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515433000007",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000471",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000382",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000378",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000324",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000326",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000093",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000123",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000108",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000149",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000147",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000106",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000082",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4842053001344",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4842053001112",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000152",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000109",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000094",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000376",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515433000042",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4842053001161",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515433000013",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4842053001343",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4840967000131",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515433000041",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4840967000065",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515433000022",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515433000021",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515433000031",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000124",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000145",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000154",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000278",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4842053000274",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000092",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000068",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000151",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000107",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515433000043",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515433000040",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000279",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000153",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000083",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000146",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000148",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000150",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000091",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1515433000025",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4842053001487",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4842053001486",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000367",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ]
  ],
- "luc": "2026-10-08 08:42:23",
+ "luc": "2026-10-08 08:43:07",
  "nganh": {
   "11519": {
    "attr": [
@@ -662,102 +1112,6 @@
    },
    "ten_nh": "Máy Chà Nhám",
    "title": "TSKT 11519 Máy Chà Nhám"
-  },
-  "13938": {
-   "attr": [
-    "utilities_filter_master",
-    "battery_capacity_tskt_master",
-    "battery_type_tskt_master",
-    "brand_of_tskt_master",
-    "deep_tskt_master",
-    "high_tskt_master",
-    "horizontal_tskt_master",
-    "machine_weight_tskt_master",
-    "made_in_tskt_master",
-    "material_tskt_master",
-    "noise_level_tskt_master",
-    "output_power_tskt_master",
-    "shaver_blade_tskt_master",
-    "size_weight_tskt_master",
-    "source_tskt_master",
-    "usage_time_tskt_master",
-    "utilities_tskt_master",
-    "voltage_tskt_master"
-   ],
-   "ten": {
-    "battery_capacity_tskt_master": "Dung lượng pin",
-    "battery_type_tskt_master": "Loại pin",
-    "brand_of_tskt_master": "Thương hiệu của",
-    "deep_tskt_master": "Sâu",
-    "high_tskt_master": "Cao",
-    "horizontal_tskt_master": "Ngang",
-    "machine_weight_tskt_master": "Khối lượng máy",
-    "made_in_tskt_master": "Sản xuất tại",
-    "material_tskt_master": "Chất liệu",
-    "noise_level_tskt_master": "Độ ồn",
-    "output_power_tskt_master": "Công suất đầu ra",
-    "shaver_blade_tskt_master": "Lưỡi sắt",
-    "size_weight_tskt_master": "Kích thước Khối lượng",
-    "source_tskt_master": "Nguồn",
-    "usage_time_tskt_master": "Thời gian sử dụng",
-    "utilities_filter_master": "Tiện ích",
-    "utilities_tskt_master": "Tiện ích",
-    "voltage_tskt_master": "Điện áp"
-   },
-   "ten_nh": "Máy cắt lông xù quần áo",
-   "title": "TSKT 13938 Máy cắt lông xù quần áo"
-  },
-  "5554": {
-   "attr": [
-    "razor_blade_filter_master",
-    "style_filter_master",
-    "utilities_filter_master",
-    "area_of_use_tskt_master",
-    "battery_type_tskt_master",
-    "blade_count_tskt_master",
-    "brand_of_tskt_master",
-    "charging_port_tskt_master",
-    "charging_time_tskt_master",
-    "high_tskt_master",
-    "horizontal_tskt_master",
-    "input_voltage_tskt_master",
-    "long_cord_tskt_master",
-    "machine_weight_tskt_master",
-    "made_in_tskt_master",
-    "material_tskt_master",
-    "shave_type_tskt_master",
-    "size_weight_tskt_master",
-    "usage_time_tskt_master",
-    "utilities_tskt_master",
-    "water_and_dust_resistant_tskt_master",
-    "wide_tskt_master"
-   ],
-   "ten": {
-    "area_of_use_tskt_master": "Vùng sử dụng",
-    "battery_type_tskt_master": "Loại pin",
-    "blade_count_tskt_master": "Số lưỡi cạo",
-    "brand_of_tskt_master": "Thương hiệu của",
-    "charging_port_tskt_master": "Cổng sạc",
-    "charging_time_tskt_master": "Thời gian sạc",
-    "high_tskt_master": "Cao",
-    "horizontal_tskt_master": "Ngang",
-    "input_voltage_tskt_master": "Điện áp đầu vào",
-    "long_cord_tskt_master": "Dài dây",
-    "machine_weight_tskt_master": "Khối lượng máy",
-    "made_in_tskt_master": "Sản xuất tại",
-    "material_tskt_master": "Chất liệu",
-    "razor_blade_filter_master": "Lưỡi cạo",
-    "shave_type_tskt_master": "Kiểu cạo",
-    "size_weight_tskt_master": "Kích thước Khối lượng",
-    "style_filter_master": "Phong cách",
-    "usage_time_tskt_master": "Thời gian sử dụng",
-    "utilities_filter_master": "Tiện ích",
-    "utilities_tskt_master": "Tiện ích",
-    "water_and_dust_resistant_tskt_master": "Chuẩn chống nước, bụi",
-    "wide_tskt_master": "Rộng"
-   },
-   "ten_nh": "Máy cạo râu",
-   "title": "TSKT 5554 Máy cạo râu"
   },
   "9179": {
    "attr": [
@@ -824,12 +1178,12 @@
  },
  "o_theo_ten": [],
  "tom_tat": {
-  "filter_khong_khop": 42,
-  "khong_data": 0,
+  "filter_khong_khop": 0,
+  "khong_data": 120,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 4,
-  "so_o": 3753,
-  "so_sku": 186
+  "so_nganh": 2,
+  "so_o": 1335,
+  "so_sku": 66
  }
 }
