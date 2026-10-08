@@ -184,6 +184,15 @@
    }
   ],
   "9179\tmachine_weight_tskt_master": "kg",
+  "9179\tmain_accessory_length_tskt_master\tbd": [
+   {
+    "a": "Dài",
+    "b": "cm",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "pham_vi": "tat_ca"
+   }
+  ],
   "9179\twide_accessories_tskt_master\tbd": [
    {
     "a": "Rộng",
@@ -214,17 +223,6 @@
  },
  "duyet_ten": [],
  "hoan_tac": [
-  {
-   "d": {
-    "dv": {
-     "13938\thorizontal_tskt_master\tbd": null,
-     "5554\thorizontal_tskt_master\tbd": null
-    }
-   },
-   "luc": "2026-10-08 08:20:12",
-   "nhan": "Biến đổi hàng loạt 2 cột: Thêm cả TRƯỚC và SAU",
-   "so": 2
-  },
   {
    "d": {
     "dv": {
@@ -418,9 +416,19 @@
    "luc": "2026-10-08 09:35:54",
    "nhan": "Biến đổi hàng loạt 1 cột: Thêm cả TRƯỚC và SAU",
    "so": 1
+  },
+  {
+   "d": {
+    "dv": {
+     "9179\tmain_accessory_length_tskt_master\tbd": null
+    }
+   },
+   "luc": "2026-10-08 09:36:32",
+   "nhan": "Biến đổi hàng loạt 1 cột: Thêm cả TRƯỚC và SAU",
+   "so": 1
   }
  ],
- "luc_luu": "2026-10-08 09:35:54",
+ "luc_luu": "2026-10-08 09:36:32",
  "nguoi_luu": "ducpro",
  "rong": {},
  "sua": {
