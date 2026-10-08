@@ -1,287 +1,1340 @@
 {
- "chon": [
-  {
-   "CHỌN": true,
-   "GHI CHÚ": "",
-   "MÃ NH": "8968",
-   "NGUỒN CATE": "CATEGORYID",
-   "SỐ SKU": 12,
-   "TAB TSKT / CẤU HÌNH": "cấu hình — 17 cột",
-   "TÊN NGÀNH HÀNG": "Máy khí dung"
-  },
-  {
-   "CHỌN": true,
-   "GHI CHÚ": "",
-   "MÃ NH": "8621",
-   "NGUỒN CATE": "CATEGORYID",
-   "SỐ SKU": 9,
-   "TAB TSKT / CẤU HÌNH": "cấu hình — 22 cột",
-   "TÊN NGÀNH HÀNG": "Máy hút sữa"
-  }
- ],
- "chua_map": [
-  {
-   "cate": "8621",
-   "goi_y_ma": "",
-   "prop_id": "25678",
-   "prop_name": "Loại sản phẩm",
-   "so_dong": 9,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Máy hút sữa bằng điện"
-  },
-  {
-   "cate": "8621",
-   "goi_y_ma": "",
-   "prop_id": "36433",
-   "prop_name": "Nguồn năng lượng",
-   "so_dong": 3,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Dùng pin"
-  },
-  {
-   "cate": "8621",
-   "goi_y_ma": "",
-   "prop_id": "36434",
-   "prop_name": "Khối lượng",
-   "so_dong": 3,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Dưới 0.5 kg"
-  },
-  {
-   "cate": "8621",
-   "goi_y_ma": "",
-   "prop_id": "39202",
-   "prop_name": "Thương hiệu",
-   "so_dong": 3,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Anh"
-  },
-  {
-   "cate": "8621",
-   "goi_y_ma": "",
-   "prop_id": "39318",
-   "prop_name": "Chất liệu bình sữa",
-   "so_dong": 3,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Nhựa PP"
-  },
-  {
-   "cate": "8621",
-   "goi_y_ma": "",
-   "prop_id": "39319",
-   "prop_name": "Nguồn",
-   "so_dong": 3,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Cắm điện, Pin AA"
-  },
-  {
-   "cate": "8621",
-   "goi_y_ma": "",
-   "prop_id": "39719",
-   "prop_name": "Dung tích bình sữa",
-   "so_dong": 3,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "125 ml"
-  },
-  {
-   "cate": "8621",
-   "goi_y_ma": "",
-   "prop_id": "24025",
-   "prop_name": "Kích thước - Khối lượng",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Dài 16.8 cm - Rộng 10 cm - Cao 5.3 cm - Trọng lượng : 0.31 kg"
-  },
-  {
-   "cate": "8621",
-   "goi_y_ma": "",
-   "prop_id": "36430",
-   "prop_name": "Loại sản phẩm",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Máy hút sữa điện đôi"
-  },
-  {
-   "cate": "8621",
-   "goi_y_ma": "",
-   "prop_id": "36431",
-   "prop_name": "Chất liệu máy",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Nhựa PP"
-  },
-  {
-   "cate": "8621",
-   "goi_y_ma": "",
-   "prop_id": "36432",
-   "prop_name": "Dung tích bình sữa",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Từ 110 - 125 ml"
-  },
-  {
-   "cate": "8621",
-   "goi_y_ma": "",
-   "prop_id": "39720",
-   "prop_name": "Chế độ massage",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Có massage"
-  },
-  {
-   "cate": "8621",
-   "goi_y_ma": "",
-   "prop_id": "39721",
-   "prop_name": "Cấp độ hút",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "16 cấp độ hút"
-  },
-  {
-   "cate": "8621",
-   "goi_y_ma": "",
-   "prop_id": "42398",
-   "prop_name": "Dung tích, số lượng bình sữa",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "1 bình sữa - 180 ml"
-  },
-  {
-   "cate": "8968",
-   "goi_y_ma": "",
-   "prop_id": "28200",
-   "prop_name": "Dung tích bình chứa thuốc tối đa",
-   "so_dong": 6,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "8"
-  },
-  {
-   "cate": "8968",
-   "goi_y_ma": "",
-   "prop_id": "28201",
-   "prop_name": "Dung tích bình chứa thuốc tối thiểu",
-   "so_dong": 6,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "2"
-  },
-  {
-   "cate": "8968",
-   "goi_y_ma": "",
-   "prop_id": "25149",
-   "prop_name": "Kích thước - Khối lượng",
-   "so_dong": 6,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Ngang 16 cm - Cao 15.5 cm - Sâu 8.44 cm"
-  }
- ],
+ "chon": [],
+ "chua_map": [],
  "dx_dang_ap": 0,
  "goc_cms": {},
- "log": [],
- "luc": "2026-10-08 11:53:02",
- "nganh": {
-  "8621": {
-   "attr": [
-    "accessory_materials_tskt_master",
-    "body_material_tskt_master",
-    "brand_of_tskt_master",
-    "capacity_tskt_master",
-    "deep_tskt_master",
-    "high_tskt_master",
-    "horizontal_tskt_master",
-    "machine_material_tskt_master",
-    "machine_weight_tskt_master",
-    "made_in_tskt_master",
-    "milk_bottle_material_tskt_master",
-    "nipple_material_tskt_master",
-    "output_power_tskt_master",
-    "power_source_tskt_master",
-    "product_type_tskt_master",
-    "release_date_tskt_master",
-    "size_weight_tskt_master",
-    "suction_mechanism_tskt_master",
-    "suction_mode_tskt_master",
-    "suction_pressure_tskt_master",
-    "suction_technology_tskt_master",
-    "utilities_tskt_master"
-   ],
-   "ten": {
-    "accessory_materials_tskt_master": "Chất liệu phụ kiện",
-    "body_material_tskt_master": "Chất liệu thân vỏ",
-    "brand_of_tskt_master": "Thương hiệu của",
-    "capacity_tskt_master": "Dung lượng",
-    "deep_tskt_master": "Sâu",
-    "high_tskt_master": "Cao",
-    "horizontal_tskt_master": "Ngang",
-    "machine_material_tskt_master": "Chất liệu máy",
-    "machine_weight_tskt_master": "Khối lượng máy",
-    "made_in_tskt_master": "Sản xuất tại",
-    "milk_bottle_material_tskt_master": "Chất liệu bình sữa",
-    "nipple_material_tskt_master": "Chất liệu núm ti",
-    "output_power_tskt_master": "Công suất đầu ra",
-    "power_source_tskt_master": "Nguồn điện",
-    "product_type_tskt_master": "Loại sản phẩm",
-    "release_date_tskt_master": "Thời gian ra mắt",
-    "size_weight_tskt_master": "Kích thước Khối lượng",
-    "suction_mechanism_tskt_master": "Cơ chế hút",
-    "suction_mode_tskt_master": "Chế độ hút",
-    "suction_pressure_tskt_master": "Áp lực hút",
-    "suction_technology_tskt_master": "Công nghệ hút",
-    "utilities_tskt_master": "Tiện ích"
-   },
-   "ten_nh": "Máy hút sữa",
-   "title": "TSKT 8621 Máy hút sữa"
-  },
-  "8968": {
-   "attr": [
-    "accessory_compatibility_tskt_master",
-    "air_spray_speed_tskt_master",
-    "battery_capacity_tskt_master",
-    "brand_of_tskt_master",
-    "capacity_tskt_master",
-    "deep_tskt_master",
-    "high_tskt_master",
-    "horizontal_tskt_master",
-    "launch_year_tskt_master",
-    "mass_tskt_master",
-    "maximum_solution_tank_capacity_tskt_master",
-    "mist_particle_size_tskt_master",
-    "mode_tskt_master",
-    "noise_level_tskt_master",
-    "place_of_production_tskt_master",
-    "power_source_tskt_master",
-    "size_weight_tskt_master"
-   ],
-   "ten": {
-    "accessory_compatibility_tskt_master": "Tương thích phụ kiện",
-    "air_spray_speed_tskt_master": "Tốc độ phun khí",
-    "battery_capacity_tskt_master": "Dung lượng pin",
-    "brand_of_tskt_master": "Thương hiệu của",
-    "capacity_tskt_master": "Dung lượng",
-    "deep_tskt_master": "Sâu",
-    "high_tskt_master": "Cao",
-    "horizontal_tskt_master": "Ngang",
-    "launch_year_tskt_master": "Năm ra mắt",
-    "mass_tskt_master": "Khối lượng",
-    "maximum_solution_tank_capacity_tskt_master": "Bình chứa thuốc tối đa",
-    "mist_particle_size_tskt_master": "Kích thước hạt sương",
-    "mode_tskt_master": "Chế độ",
-    "noise_level_tskt_master": "Độ ồn",
-    "place_of_production_tskt_master": "Nơi sản xuất",
-    "power_source_tskt_master": "Nguồn điện",
-    "size_weight_tskt_master": "Kích thước Khối lượng"
-   },
-   "ten_nh": "Máy khí dung",
-   "title": "TSKT 8968 Máy khí dung"
-  }
- },
+ "log": [
+  [
+   "3053384000008",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3053384000005",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000594",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000176",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000554",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000555",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3053384000038",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000178",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000305",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000539",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000247",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000502",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000550",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000423",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000500",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000565",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000588",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000586",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000614",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000615",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000587",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000559",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000286",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000563",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000564",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000570",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000572",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000562",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000538",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000590",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000593",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000676",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000543",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000545",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000546",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000291",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000396",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000453",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000589",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000499",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000612",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000613",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000616",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000567",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000421",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000617",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000461",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000558",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000475",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000560",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000483",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000290",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000479",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3053384000009",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000571",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000260",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3053384000011",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3053384000036",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000254",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000266",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000498",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000585",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000185",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000289",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000553",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000415",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000549",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000569",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000476",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000477",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000478",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000482",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000308",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000389",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000419",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000400",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000416",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000497",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000501",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000504",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000505",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000566",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000568",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000556",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000561",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000540",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000541",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000552",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000592",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000544",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000547",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000591",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000503",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000414",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000542",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000557",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000253",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000424",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000548",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000551",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000452",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000573",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000422",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000420",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000480",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000428",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000265",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000162",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000252",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000279",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3053384000007",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3053384000037",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000749",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923381000683",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923381000722",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000748",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000319",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000283",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000262",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000274",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000249",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000258",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000191",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000184",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000282",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000255",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000259",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000189",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000264",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000273",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000188",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000179",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000172",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000173",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000175",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3053384000014",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000246",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000699",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000655",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000677",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923381000212",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000338",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000180",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000704",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000186",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000696",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000693",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000659",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000401",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000288",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3053384000001",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000654",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000292",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000383",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000320",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000293",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000324",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000418",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000174",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000272",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000691",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000183",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000322",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000193",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000192",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000261",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000250",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000199",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000697",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000727",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000741",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923189000272",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923189000268",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923189000267",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000690",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000325",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000181",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000195",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000694",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000198",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000651",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000182",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000382",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000275",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000294",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923189000266",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000705",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000280",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000278",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000692",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000326",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000256",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923189000260",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923189000261",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000653",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000657",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3053384000041",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3053384000031",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000327",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000323",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000321",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000171",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000177",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3053384000004",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3053384000003",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3053384000010",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923189000265",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923189000263",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923189000264",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923189000262",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000656",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000365",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000343",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923381000211",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000652",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000658",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000344",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000734",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000707",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "9923384000732",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ]
+ ],
+ "luc": "2026-10-08 12:24:47",
+ "nganh": {},
  "o_theo_ten": [],
  "tom_tat": {
   "filter_khong_khop": 0,
-  "khong_data": 0,
+  "khong_data": 220,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 2,
-  "so_o": 286,
-  "so_sku": 21
+  "so_nganh": 0,
+  "so_o": 0,
+  "so_sku": 0
  }
 }
