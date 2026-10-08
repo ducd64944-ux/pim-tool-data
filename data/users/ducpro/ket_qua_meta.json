@@ -1,146 +1,287 @@
 {
- "chon": [],
- "chua_map": [],
+ "chon": [
+  {
+   "CHỌN": true,
+   "GHI CHÚ": "",
+   "MÃ NH": "8968",
+   "NGUỒN CATE": "CATEGORYID",
+   "SỐ SKU": 12,
+   "TAB TSKT / CẤU HÌNH": "cấu hình — 17 cột",
+   "TÊN NGÀNH HÀNG": "Máy khí dung"
+  },
+  {
+   "CHỌN": true,
+   "GHI CHÚ": "",
+   "MÃ NH": "8621",
+   "NGUỒN CATE": "CATEGORYID",
+   "SỐ SKU": 9,
+   "TAB TSKT / CẤU HÌNH": "cấu hình — 22 cột",
+   "TÊN NGÀNH HÀNG": "Máy hút sữa"
+  }
+ ],
+ "chua_map": [
+  {
+   "cate": "8621",
+   "goi_y_ma": "",
+   "prop_id": "25678",
+   "prop_name": "Loại sản phẩm",
+   "so_dong": 9,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Máy hút sữa bằng điện"
+  },
+  {
+   "cate": "8621",
+   "goi_y_ma": "",
+   "prop_id": "36433",
+   "prop_name": "Nguồn năng lượng",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Dùng pin"
+  },
+  {
+   "cate": "8621",
+   "goi_y_ma": "",
+   "prop_id": "36434",
+   "prop_name": "Khối lượng",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Dưới 0.5 kg"
+  },
+  {
+   "cate": "8621",
+   "goi_y_ma": "",
+   "prop_id": "39202",
+   "prop_name": "Thương hiệu",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Anh"
+  },
+  {
+   "cate": "8621",
+   "goi_y_ma": "",
+   "prop_id": "39318",
+   "prop_name": "Chất liệu bình sữa",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Nhựa PP"
+  },
+  {
+   "cate": "8621",
+   "goi_y_ma": "",
+   "prop_id": "39319",
+   "prop_name": "Nguồn",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Cắm điện, Pin AA"
+  },
+  {
+   "cate": "8621",
+   "goi_y_ma": "",
+   "prop_id": "39719",
+   "prop_name": "Dung tích bình sữa",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "125 ml"
+  },
+  {
+   "cate": "8621",
+   "goi_y_ma": "",
+   "prop_id": "24025",
+   "prop_name": "Kích thước - Khối lượng",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Dài 16.8 cm - Rộng 10 cm - Cao 5.3 cm - Trọng lượng : 0.31 kg"
+  },
+  {
+   "cate": "8621",
+   "goi_y_ma": "",
+   "prop_id": "36430",
+   "prop_name": "Loại sản phẩm",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Máy hút sữa điện đôi"
+  },
+  {
+   "cate": "8621",
+   "goi_y_ma": "",
+   "prop_id": "36431",
+   "prop_name": "Chất liệu máy",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Nhựa PP"
+  },
+  {
+   "cate": "8621",
+   "goi_y_ma": "",
+   "prop_id": "36432",
+   "prop_name": "Dung tích bình sữa",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Từ 110 - 125 ml"
+  },
+  {
+   "cate": "8621",
+   "goi_y_ma": "",
+   "prop_id": "39720",
+   "prop_name": "Chế độ massage",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Có massage"
+  },
+  {
+   "cate": "8621",
+   "goi_y_ma": "",
+   "prop_id": "39721",
+   "prop_name": "Cấp độ hút",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "16 cấp độ hút"
+  },
+  {
+   "cate": "8621",
+   "goi_y_ma": "",
+   "prop_id": "42398",
+   "prop_name": "Dung tích, số lượng bình sữa",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "1 bình sữa - 180 ml"
+  },
+  {
+   "cate": "8968",
+   "goi_y_ma": "",
+   "prop_id": "28200",
+   "prop_name": "Dung tích bình chứa thuốc tối đa",
+   "so_dong": 6,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "8"
+  },
+  {
+   "cate": "8968",
+   "goi_y_ma": "",
+   "prop_id": "28201",
+   "prop_name": "Dung tích bình chứa thuốc tối thiểu",
+   "so_dong": 6,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "2"
+  },
+  {
+   "cate": "8968",
+   "goi_y_ma": "",
+   "prop_id": "25149",
+   "prop_name": "Kích thước - Khối lượng",
+   "so_dong": 6,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Ngang 16 cm - Cao 15.5 cm - Sâu 8.44 cm"
+  }
+ ],
  "dx_dang_ap": 0,
  "goc_cms": {},
- "log": [
-  [
-   "4842053001017",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001067",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001068",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001066",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001340",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001341",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001156",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001155",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001018",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001072",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4845000000060",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4845000000061",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001073",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001071",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001129",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001128",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001127",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001126",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001125",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001124",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001158",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ]
- ],
- "luc": "2026-10-08 11:52:15",
- "nganh": {},
+ "log": [],
+ "luc": "2026-10-08 11:52:47",
+ "nganh": {
+  "8621": {
+   "attr": [
+    "accessory_materials_tskt_master",
+    "body_material_tskt_master",
+    "brand_of_tskt_master",
+    "capacity_tskt_master",
+    "deep_tskt_master",
+    "high_tskt_master",
+    "horizontal_tskt_master",
+    "machine_material_tskt_master",
+    "machine_weight_tskt_master",
+    "made_in_tskt_master",
+    "milk_bottle_material_tskt_master",
+    "nipple_material_tskt_master",
+    "output_power_tskt_master",
+    "power_source_tskt_master",
+    "product_type_tskt_master",
+    "release_date_tskt_master",
+    "size_weight_tskt_master",
+    "suction_mechanism_tskt_master",
+    "suction_mode_tskt_master",
+    "suction_pressure_tskt_master",
+    "suction_technology_tskt_master",
+    "utilities_tskt_master"
+   ],
+   "ten": {
+    "accessory_materials_tskt_master": "Chất liệu phụ kiện",
+    "body_material_tskt_master": "Chất liệu thân vỏ",
+    "brand_of_tskt_master": "Thương hiệu của",
+    "capacity_tskt_master": "Dung lượng",
+    "deep_tskt_master": "Sâu",
+    "high_tskt_master": "Cao",
+    "horizontal_tskt_master": "Ngang",
+    "machine_material_tskt_master": "Chất liệu máy",
+    "machine_weight_tskt_master": "Khối lượng máy",
+    "made_in_tskt_master": "Sản xuất tại",
+    "milk_bottle_material_tskt_master": "Chất liệu bình sữa",
+    "nipple_material_tskt_master": "Chất liệu núm ti",
+    "output_power_tskt_master": "Công suất đầu ra",
+    "power_source_tskt_master": "Nguồn điện",
+    "product_type_tskt_master": "Loại sản phẩm",
+    "release_date_tskt_master": "Thời gian ra mắt",
+    "size_weight_tskt_master": "Kích thước Khối lượng",
+    "suction_mechanism_tskt_master": "Cơ chế hút",
+    "suction_mode_tskt_master": "Chế độ hút",
+    "suction_pressure_tskt_master": "Áp lực hút",
+    "suction_technology_tskt_master": "Công nghệ hút",
+    "utilities_tskt_master": "Tiện ích"
+   },
+   "ten_nh": "Máy hút sữa",
+   "title": "TSKT 8621 Máy hút sữa"
+  },
+  "8968": {
+   "attr": [
+    "accessory_compatibility_tskt_master",
+    "air_spray_speed_tskt_master",
+    "battery_capacity_tskt_master",
+    "brand_of_tskt_master",
+    "capacity_tskt_master",
+    "deep_tskt_master",
+    "high_tskt_master",
+    "horizontal_tskt_master",
+    "launch_year_tskt_master",
+    "mass_tskt_master",
+    "maximum_solution_tank_capacity_tskt_master",
+    "mist_particle_size_tskt_master",
+    "mode_tskt_master",
+    "noise_level_tskt_master",
+    "place_of_production_tskt_master",
+    "power_source_tskt_master",
+    "size_weight_tskt_master"
+   ],
+   "ten": {
+    "accessory_compatibility_tskt_master": "Tương thích phụ kiện",
+    "air_spray_speed_tskt_master": "Tốc độ phun khí",
+    "battery_capacity_tskt_master": "Dung lượng pin",
+    "brand_of_tskt_master": "Thương hiệu của",
+    "capacity_tskt_master": "Dung lượng",
+    "deep_tskt_master": "Sâu",
+    "high_tskt_master": "Cao",
+    "horizontal_tskt_master": "Ngang",
+    "launch_year_tskt_master": "Năm ra mắt",
+    "mass_tskt_master": "Khối lượng",
+    "maximum_solution_tank_capacity_tskt_master": "Bình chứa thuốc tối đa",
+    "mist_particle_size_tskt_master": "Kích thước hạt sương",
+    "mode_tskt_master": "Chế độ",
+    "noise_level_tskt_master": "Độ ồn",
+    "place_of_production_tskt_master": "Nơi sản xuất",
+    "power_source_tskt_master": "Nguồn điện",
+    "size_weight_tskt_master": "Kích thước Khối lượng"
+   },
+   "ten_nh": "Máy khí dung",
+   "title": "TSKT 8968 Máy khí dung"
+  }
+ },
  "o_theo_ten": [],
  "tom_tat": {
   "filter_khong_khop": 0,
-  "khong_data": 21,
+  "khong_data": 0,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 0,
-  "so_o": 0,
-  "so_sku": 0
+  "so_nganh": 2,
+  "so_o": 286,
+  "so_sku": 21
  }
 }
