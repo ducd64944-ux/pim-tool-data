@@ -236,5 +236,19 @@
   "Thêm đơn vị": 0,
   "Tách xin data": 0,
   "Workspace": "ducpro"
+ },
+ {
+  "Biến đổi": 8,
+  "Chặn ô theo tên": 0,
+  "Cảnh báo": "• 2 SKU thiếu category_code | • 2 dòng không có trong file PIM | • 2 ô giá trị CMS bị MẤT khi map (xem 🧾 Đối soát)",
+  "File": "PIM_TSKT 7858 Bàn chải điện_MODEL_20261008_1725.xlsx",
+  "Không/Đang cập nhật": 0,
+  "Lúc": "2026-10-08 17:25:46",
+  "Người xuất": "ducpro",
+  "Số dòng": 2,
+  "Sửa tay": 0,
+  "Thêm đơn vị": 0,
+  "Tách xin data": 0,
+  "Workspace": "ducpro"
  }
 ]
