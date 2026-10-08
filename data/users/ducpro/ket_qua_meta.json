@@ -150,20 +150,8 @@
   [
    "2719122015700",
    "2062",
-   "speed_adjustment_knob_filter_master",
-   "FILTER: giá trị CMS \"Nút xoay\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "2719122015700",
-   "2062",
    "launch_year_filter_master",
    "FILTER: giá trị CMS \"Hãng không công bố\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "2719018001600",
-   "2062",
-   "speed_adjustment_knob_filter_master",
-   "FILTER: giá trị CMS \"Nút nhấn\" chưa có option trong DATA PIM — để trống"
   ],
   [
    "2719018001600",
@@ -212,12 +200,6 @@
    "2062",
    "launch_year_filter_master",
    "FILTER: giá trị CMS \"2019\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4840968000159",
-   "2062",
-   "speed_adjustment_knob_filter_master",
-   "FILTER: giá trị CMS \"Cảm ứng\" chưa có option trong DATA PIM — để trống"
   ],
   [
    "4840968000158",
@@ -280,7 +262,7 @@
    "FILTER: giá trị CMS \"Không có\" chưa có option trong DATA PIM — để trống"
   ]
  ],
- "luc": "2026-10-08 11:19:07",
+ "luc": "2026-10-08 11:21:37",
  "nganh": {
   "11418": {
    "attr": [
@@ -393,12 +375,12 @@
  },
  "o_theo_ten": [],
  "tom_tat": {
-  "filter_khong_khop": 23,
+  "filter_khong_khop": 20,
   "khong_data": 0,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
   "so_nganh": 2,
-  "so_o": 5168,
+  "so_o": 5379,
   "so_sku": 228
  }
 }
