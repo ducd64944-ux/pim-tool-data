@@ -166,5 +166,19 @@
   "Thêm đơn vị": 12,
   "Tách xin data": 0,
   "Workspace": "ducpro"
+ },
+ {
+  "Biến đổi": 70,
+  "Chặn ô theo tên": 0,
+  "Cảnh báo": "• 30 ô KHÁC spec PIM (sẽ ghi đè) | • 6 ô tool để trống trong khi PIM đang có | • 13 dòng không có trong file PIM | • 11 ô giá trị CMS bị MẤT khi map (xem 🧾 Đối soát) | • 4 model_code lặp ở nhiều dòng file MODEL (PIM sẽ lấy dòng sau cùng — kiểm tra IMPORT có thiếu variant_code không)",
+  "File": "PIM_TSKT 6552 Tủ trữ rượu vang_MODEL_20261008_1538.xlsx, PIM_TSKT 10218 Xe thăng bằng trẻ em_MODEL_20261008_1538.xlsx",
+  "Không/Đang cập nhật": 0,
+  "Lúc": "2026-10-08 15:38:49",
+  "Người xuất": "ducpro",
+  "Số dòng": 19,
+  "Sửa tay": 0,
+  "Thêm đơn vị": 0,
+  "Tách xin data": 0,
+  "Workspace": "ducpro"
  }
 ]
