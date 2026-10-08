@@ -1,743 +1,224 @@
 {
- "chon": [
-  {
-   "CHỌN": true,
-   "GHI CHÚ": "",
-   "MÃ NH": "2428",
-   "NGUỒN CATE": "CATEGORYID",
-   "SỐ SKU": 178,
-   "TAB TSKT / CẤU HÌNH": "cấu hình — 29 cột",
-   "TÊN NGÀNH HÀNG": "Quạt sưởi"
-  },
-  {
-   "CHỌN": true,
-   "GHI CHÚ": "",
-   "MÃ NH": "2529",
-   "NGUỒN CATE": "CATEGORYID",
-   "SỐ SKU": 6,
-   "TAB TSKT / CẤU HÌNH": "cấu hình — 14 cột",
-   "TÊN NGÀNH HÀNG": "Thùng rác"
-  }
- ],
- "chua_map": [
-  {
-   "cate": "2428",
-   "goi_y_ma": "",
-   "prop_id": "6772",
-   "prop_name": "Sản xuất tại",
-   "so_dong": 44,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Trung Quốc"
-  },
-  {
-   "cate": "2428",
-   "goi_y_ma": "",
-   "prop_id": "7519",
-   "prop_name": "Thương hiệu của",
-   "so_dong": 44,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Việt Nam"
-  },
-  {
-   "cate": "2428",
-   "goi_y_ma": "",
-   "prop_id": "7941",
-   "prop_name": "Kích thước",
-   "so_dong": 40,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "51 x 37 x 37 cm"
-  },
-  {
-   "cate": "2428",
-   "goi_y_ma": "",
-   "prop_id": "7942",
-   "prop_name": "Khối lượng",
-   "so_dong": 36,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "3.8 kg"
-  },
-  {
-   "cate": "2428",
-   "goi_y_ma": "",
-   "prop_id": "8990",
-   "prop_name": "Kích thước, khối lượng",
-   "so_dong": 95,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Ngang 37 cm - Cao 51 cm - Sâu 37 cm - Đường kính lồng quạt 35 cm"
-  },
-  {
-   "cate": "2428",
-   "goi_y_ma": "",
-   "prop_id": "34182",
-   "prop_name": "Phạm vi sưởi ấm",
-   "so_dong": 88,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Từ 10 - 20m²"
-  },
-  {
-   "cate": "2428",
-   "goi_y_ma": "",
-   "prop_id": "8619",
-   "prop_name": "Chức năng",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Sưởi ấm bằng đèn halogen"
-  },
-  {
-   "cate": "2428",
-   "goi_y_ma": "",
-   "prop_id": "8620",
-   "prop_name": "Số bóng đèn sưởi ấm",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "2 bóng"
-  },
-  {
-   "cate": "2428",
-   "goi_y_ma": "",
-   "prop_id": "8621",
-   "prop_name": "Công suất",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "400 - 800W"
-  },
-  {
-   "cate": "2428",
-   "goi_y_ma": "",
-   "prop_id": "8622",
-   "prop_name": "Kích thước",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Rộng 34.5 cm - Cao 36 cm - Sâu 16.5 cm - Nặng 3.1 kg"
-  },
-  {
-   "cate": "2428",
-   "goi_y_ma": "",
-   "prop_id": "8623",
-   "prop_name": "Thương hiệu",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Việt Nam"
-  },
-  {
-   "cate": "2428",
-   "goi_y_ma": "",
-   "prop_id": "8624",
-   "prop_name": "Sản xuất tại",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Trung Quốc"
-  },
-  {
-   "cate": "2428",
-   "goi_y_ma": "",
-   "prop_id": "9419",
-   "prop_name": "Tiện ích",
-   "so_dong": 4,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Chức năng đảo chiều"
-  },
-  {
-   "cate": "2428",
-   "goi_y_ma": "",
-   "prop_id": "18493",
-   "prop_name": "Phạm vi sưởi ấm",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "10 - 15m²"
-  },
-  {
-   "cate": "2428",
-   "goi_y_ma": "",
-   "prop_id": "27726",
-   "prop_name": "Năm ra mắt",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "2020"
-  },
-  {
-   "cate": "2428",
-   "goi_y_ma": "",
-   "prop_id": "27728",
-   "prop_name": "Cao",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "36"
-  },
-  {
-   "cate": "2428",
-   "goi_y_ma": "",
-   "prop_id": "27729",
-   "prop_name": "Ngang",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "34.5"
-  },
-  {
-   "cate": "2428",
-   "goi_y_ma": "",
-   "prop_id": "27730",
-   "prop_name": "Sâu",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "16.5"
-  },
-  {
-   "cate": "2428",
-   "goi_y_ma": "",
-   "prop_id": "27731",
-   "prop_name": "Khối lượng",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "1.7"
-  },
-  {
-   "cate": "2428",
-   "goi_y_ma": "",
-   "prop_id": "34187",
-   "prop_name": "Phạm vi sưởi ấm",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Từ 10 - 15m²"
-  }
- ],
+ "chon": [],
+ "chua_map": [],
  "dx_dang_ap": 0,
  "goc_cms": {},
  "log": [
   [
-   "2727122809100",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Quạt xoay trái phải\" chưa có option trong DATA PIM — để trống"
+   "4842053001466",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "2727122839200",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Bánh xe dễ di chuyển\" chưa có option trong DATA PIM — để trống"
+   "4842053001464",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "2727122839300",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Có giá phơi hong khô đồ\" chưa có option trong DATA PIM — để trống"
+   "4842053001459",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "2727122872000",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Chân đế tháo rời hoặc gập lại\" chưa có option trong DATA PIM — để trống"
+   "4842053001458",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "2727122875300",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Chế độ ECO tiết kiệm điện\" chưa có option trong DATA PIM — để trống"
+   "4842053001469",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "2727122875300",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Có quạt tản nhiệt\" chưa có option trong DATA PIM — để trống"
+   "4842053001457",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "4843799000178",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Quay đảo chiều\" chưa có option trong DATA PIM — để trống"
+   "4842053001468",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "4843799000178",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Sử dụng bóng Quartz phát ra tia hồng ngoại\" chưa có option trong DATA PIM — để trống"
+   "4842053001467",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "4843799000006",
-   "2428",
-   "product_type_filter_master",
-   "FILTER: giá trị CMS \"Máy sưởi hồng ngoại\" chưa có option trong DATA PIM — để trống"
+   "4842053001465",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "4843799000006",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Có tay cầm thuận tiện khi di chuyển\" chưa có option trong DATA PIM — để trống"
+   "4842053001463",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "4843799000013",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Chế độ phun sương tạo độ ẩm\" chưa có option trong DATA PIM — để trống"
+   "4842053001462",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "4843799000025",
-   "2428",
-   "product_type_filter_master",
-   "FILTER: giá trị CMS \"Quạt sưởi đèn carbon\" chưa có option trong DATA PIM — để trống"
+   "4842053001461",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "4843799000192",
-   "2428",
-   "product_type_filter_master",
-   "FILTER: giá trị CMS \"Máy sưởi dầu\" chưa có option trong DATA PIM — để trống"
+   "4842053001470",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "4843799000192",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Có khay đựng sáp thơm, tinh dầu\" chưa có option trong DATA PIM — để trống"
+   "4842053001460",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "4843799000192",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Không cần thay hoặc thêm dầu trong quá trình sử dụng\" chưa có option trong DATA PIM — để trống"
+   "4842053001456",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "4843799000247",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Sưởi ấm mùa đông làm mát mùa hè\" chưa có option trong DATA PIM — để trống"
+   "4842053001471",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "4843799000248",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Chế độ Eco tiết kiệm điện năng (máy tự động điều chỉnh công suất sưởi ấm tùy theo nhiệt độ phòng)\" chưa có option trong DATA PIM — để trống"
+   "4844743000092",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "4843799000248",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Công nghệ cảm biến nhiệt chuyển động thông minh\" chưa có option trong DATA PIM — để trống"
+   "4844743000054",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "4843799000249",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Công nghệ sưởi PTC - Ceramic không phát sáng, không làm khô da, không đốt cháy không khí\" chưa có option trong DATA PIM — để trống"
+   "4842053001404",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "4843799000252",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Làm ấm không gian nhanh chóng 2-3 giây\" chưa có option trong DATA PIM — để trống"
+   "4842053001403",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "4843799000254",
-   "2428",
-   "product_type_filter_master",
-   "FILTER: giá trị CMS \"Máy sưởi gốm\" chưa có option trong DATA PIM — để trống"
+   "4842053001406",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "4844743000001",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Cảm biến chuyển động nhận biết có người trong phòng\" chưa có option trong DATA PIM — để trống"
+   "4842053001407",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "4844743000001",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Có chế độ quạt gió\" chưa có option trong DATA PIM — để trống"
+   "4844743000037",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "4844743000001",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Tích hợp bộ lọc chống bụi\" chưa có option trong DATA PIM — để trống"
+   "4842053001405",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "4844743000005",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Dao động ngang trong góc 80°\" chưa có option trong DATA PIM — để trống"
+   "4844743000083",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "4844743000005",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Mô phỏng ánh sáng nổi\" chưa có option trong DATA PIM — để trống"
+   "4844743000089",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "4844743000005",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Tự động tắt khi nhiệt độ môi trường xung quanh đạt 35°C\" chưa có option trong DATA PIM — để trống"
+   "4844743000046",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "4844743000005",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Tự động tắt sau khi sưởi ấm liên tục trong 12h\" chưa có option trong DATA PIM — để trống"
+   "4844743000052",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "4844743000021",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Sưởi ấm nhanh, chỉ sử dụng cho phòng diện tích nhỏ và nên để kín\" chưa có option trong DATA PIM — để trống"
+   "4844743000087",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "4844743000022",
-   "2428",
-   "product_type_filter_master",
-   "FILTER: giá trị CMS \"Máy sưởi đèn halogen\" chưa có option trong DATA PIM — để trống"
+   "1801211445200",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "4844743000029",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Điều chỉnh được góc tản nhiệt cao thấp 30°\" chưa có option trong DATA PIM — để trống"
+   "4844743000036",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "4844743000029",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Quay đầu 90°\" chưa có option trong DATA PIM — để trống"
+   "4842053001402",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "4844743000030",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Cài đặt nhiệt độ tự động\" chưa có option trong DATA PIM — để trống"
+   "4844743000038",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "4844743000030",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Đảo gió\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4844743000032",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Đèn Night light\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4844743000035",
-   "2428",
-   "product_type_filter_master",
-   "FILTER: giá trị CMS \"Máy sưởi để bàn\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4844743000035",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Chống thấm nước IPX4\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4844743000035",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Công nghệ sưởi ấm đối lưu không đốt cháy oxy, không chói mắt và không làm khô da\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4844743000035",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Làm ấm không gian nhanh chóng\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4844743000042",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Công nghệ sưởi không phát sáng, không làm khô da\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4844743000042",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Quay bán kính rộng giúp phân bố nhiệt đều khắp phòng\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4844743000042",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Tiết kiệm điện năng\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4844743000041",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Chế độ tạo độ ẩm\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4844743000041",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Độ ồn thấp\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4844743000056",
-   "2428",
-   "product_type_filter_master",
-   "FILTER: giá trị CMS \"Quạt sưởi treo\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4844743000047",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Có tính năng ghi nhớ\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4844743000057",
-   "2428",
-   "product_type_filter_master",
-   "FILTER: giá trị CMS \"Máy sưởi đối lưu\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4844743000057",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Dễ dàng di chuyển\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4844743000059",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Cảm biến NTC\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4844743000059",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Điều khiển giọng nói\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4844743000059",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Hiệu ứng lửa cháy tạo không gian ấm cúng\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4844743000061",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Tích hợp chế độ phun sương tạo ẩm\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "0162791000270",
-   "2428",
-   "product_type_filter_master",
-   "FILTER: giá trị CMS \"Quạt sưởi để bàn\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "0162791000271",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Điều chỉnh nghiêng lên, xuống thủ công 20 độ\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "0162791000271",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Làm nóng nhanh 3 giây\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "0162791000271",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Xoay trái, phải tự động 160 độ\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4844743000073",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Công nghệ nhiệt gốm, không gây khô da, không đốt cháy oxi\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4844743000073",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Tự động bật/tắt khi đủ nhiệt độ\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4844743000074",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Công nghệ sưởi Ceramic\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4844743000075",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Công nghệ gia nhiệt bằng điện trở nhiệt\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4844743000075",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Không đốt cháy oxy, không gây khó thở, không gây khô da\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4844743000076",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Chế độ tự động quay bán kính rộng\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4844743000078",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Có lưới lọc không khí\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4844743000078",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Làm khô không khí (mùa ẩm)\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "0162791000273",
-   "2428",
-   "product_type_filter_master",
-   "FILTER: giá trị CMS \"Máy sưởi mini\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "0162791000273",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Có thể tách thành 2 thiết bị riêng với chế độ sưởi độc lập\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "0162791000273",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Thời gian sạc 2.5 giờ, sử dụng lên đến 6 giờ\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "0162791000274",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Thời gian sạc 3.5 giờ, sử dụng lên đến 6 giờ\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4844743000091",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Chế độ tiết kiệm năng lượng\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "4844743000091",
-   "2428",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Công nghệ gốm, làm nóng nhanh\" chưa có option trong DATA PIM — để trống"
+   "4844743000055",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ]
  ],
- "luc": "2026-10-08 14:57:04",
- "nganh": {
-  "2428": {
-   "attr": [
-    "output_power_filter_master",
-    "power_filter_master",
-    "product_type_filter_master",
-    "type_of_fan_filter_master",
-    "utilities_filter_master",
-    "body_material_tskt_master",
-    "brand_of_tskt_master",
-    "control_panel_tskt_master",
-    "customize_the_temperature_tskt_master",
-    "deep_tskt_master",
-    "diameter_tskt_master",
-    "fan_cage_diameter_tskt_master",
-    "high_tskt_master",
-    "horizontal_tskt_master",
-    "long_cord_tskt_master",
-    "machine_weight_tskt_master",
-    "made_in_tskt_master",
-    "noise_level_tskt_master",
-    "output_power_tskt_master",
-    "power_tskt_master",
-    "product_type_tskt_master",
-    "release_date_tskt_master",
-    "safety_features_tskt_master",
-    "scope_of_use_tskt_master",
-    "size_weight_tskt_master",
-    "technology_tskt_master",
-    "timer_tskt_master",
-    "utilities_tskt_master",
-    "voltage_tskt_master"
-   ],
-   "ten": {
-    "body_material_tskt_master": "Chất liệu thân vỏ",
-    "brand_of_tskt_master": "Thương hiệu của",
-    "control_panel_tskt_master": "Bảng điều khiển",
-    "customize_the_temperature_tskt_master": "Tùy chỉnh nhiệt độ",
-    "deep_tskt_master": "Sâu",
-    "diameter_tskt_master": "Đường kính",
-    "fan_cage_diameter_tskt_master": "Đường kính lồng quạt",
-    "high_tskt_master": "Cao",
-    "horizontal_tskt_master": "Ngang",
-    "long_cord_tskt_master": "Dài dây",
-    "machine_weight_tskt_master": "Khối lượng máy",
-    "made_in_tskt_master": "Sản xuất tại",
-    "noise_level_tskt_master": "Độ ồn",
-    "output_power_filter_master": "Công suất đầu ra",
-    "output_power_tskt_master": "Công suất đầu ra",
-    "power_filter_master": "Công suất",
-    "power_tskt_master": "Công suất",
-    "product_type_filter_master": "Loại sản phẩm",
-    "product_type_tskt_master": "Loại sản phẩm",
-    "release_date_tskt_master": "Thời gian ra mắt",
-    "safety_features_tskt_master": "Tính năng an toàn",
-    "scope_of_use_tskt_master": "Phạm vi sử dụng",
-    "size_weight_tskt_master": "Kích thước Khối lượng",
-    "technology_tskt_master": "Công nghệ",
-    "timer_tskt_master": "Hẹn giờ",
-    "type_of_fan_filter_master": "Loại quạt",
-    "utilities_filter_master": "Tiện ích",
-    "utilities_tskt_master": "Tiện ích",
-    "voltage_tskt_master": "Điện áp"
-   },
-   "ten_nh": "Quạt sưởi",
-   "title": "TSKT 2428 Quạt sưởi"
-  },
-  "2529": {
-   "attr": [
-    "battery_opening_cycles_tskt_master",
-    "brand_of_tskt_master",
-    "capacity_tskt_master",
-    "charging_and_usage_time_tskt_master",
-    "charging_port_tskt_master",
-    "lid_opening_speed_tskt_master",
-    "lid_opening_type_tskt_master",
-    "made_in_tskt_master",
-    "material_tskt_master",
-    "number_of_compartments_tskt_master",
-    "power_source_tskt_master",
-    "product_type_tskt_master",
-    "size_weight_tskt_master",
-    "utilities_tskt_master"
-   ],
-   "ten": {
-    "battery_opening_cycles_tskt_master": "Số lần đóng/mở pin",
-    "brand_of_tskt_master": "Thương hiệu của",
-    "capacity_tskt_master": "Dung lượng",
-    "charging_and_usage_time_tskt_master": "Thời gian sạc - sử dụng",
-    "charging_port_tskt_master": "Cổng sạc",
-    "lid_opening_speed_tskt_master": "Tốc độ mở nắp",
-    "lid_opening_type_tskt_master": "Kiểu mở nắp",
-    "made_in_tskt_master": "Sản xuất tại",
-    "material_tskt_master": "Chất liệu",
-    "number_of_compartments_tskt_master": "Số ngăn",
-    "power_source_tskt_master": "Nguồn điện",
-    "product_type_tskt_master": "Loại sản phẩm",
-    "size_weight_tskt_master": "Kích thước Khối lượng",
-    "utilities_tskt_master": "Tiện ích"
-   },
-   "ten_nh": "Thùng rác",
-   "title": "TSKT 2529 Thùng rác"
-  }
- },
+ "luc": "2026-10-08 15:09:17",
+ "nganh": {},
  "o_theo_ten": [],
  "tom_tat": {
-  "filter_khong_khop": 70,
-  "khong_data": 0,
+  "filter_khong_khop": 0,
+  "khong_data": 34,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 2,
-  "so_o": 2728,
-  "so_sku": 184
+  "so_nganh": 0,
+  "so_o": 0,
+  "so_sku": 0
  }
 }
