@@ -1,64 +1,50 @@
 {
- "chon": [
-  {
-   "CHỌN": true,
-   "GHI CHÚ": "",
-   "MÃ NH": "14198",
-   "NGUỒN CATE": "CATEGORYID",
-   "SỐ SKU": 19,
-   "TAB TSKT / CẤU HÌNH": "cấu hình — 13 cột",
-   "TÊN NGÀNH HÀNG": "Bồn nước"
-  }
- ],
+ "chon": [],
  "chua_map": [],
  "dx_dang_ap": 0,
  "goc_cms": {},
- "log": [],
- "luc": "2026-10-08 17:03:14",
- "nganh": {
-  "14198": {
-   "attr": [
-    "body_material_filter_master",
-    "capacity_filter_master",
-    "form_filter_master",
-    "brand_of_tskt_master",
-    "diameter_tskt_master",
-    "made_in_tskt_master",
-    "material_tskt_master",
-    "number_of_classes_tskt_master",
-    "product_type_tskt_master",
-    "size_weight_tskt_master",
-    "temperature_tskt_master",
-    "utilities_tskt_master",
-    "water_storage_capacity_tskt_master"
-   ],
-   "ten": {
-    "body_material_filter_master": "Chất liệu thân vỏ",
-    "brand_of_tskt_master": "Thương hiệu của",
-    "capacity_filter_master": "Dung lượng dung tích",
-    "diameter_tskt_master": "Đường kính",
-    "form_filter_master": "Kiểu dáng",
-    "made_in_tskt_master": "Sản xuất tại",
-    "material_tskt_master": "Chất liệu",
-    "number_of_classes_tskt_master": "Số lớp",
-    "product_type_tskt_master": "Loại sản phẩm",
-    "size_weight_tskt_master": "Kích thước Khối lượng",
-    "temperature_tskt_master": "Nhiệt độ",
-    "utilities_tskt_master": "Tiện ích",
-    "water_storage_capacity_tskt_master": "Dung tích chứa nước"
-   },
-   "ten_nh": "Bồn nước",
-   "title": "TSKT 14198 Bồn nước"
-  }
- },
+ "log": [
+  [
+   "1033187000802",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1033187000804",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1033187000803",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1033187000801",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1033187000805",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ]
+ ],
+ "luc": "2026-10-08 17:06:55",
+ "nganh": {},
  "o_theo_ten": [],
  "tom_tat": {
   "filter_khong_khop": 0,
-  "khong_data": 0,
+  "khong_data": 5,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 1,
-  "so_o": 247,
-  "so_sku": 19
+  "so_nganh": 0,
+  "so_o": 0,
+  "so_sku": 0
  }
 }
