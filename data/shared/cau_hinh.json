@@ -399,6 +399,53 @@
    "size_weight_tskt_master": "Kích thước Khối lượng"
   }
  },
+ "13538": {
+  "cot": [
+   "inner_material_filter_master",
+   "utilities_filter_master",
+   "control_panel_tskt_master",
+   "deep_tskt_master",
+   "drying_time_tskt_master",
+   "electricity_consumption_tskt_master",
+   "engine_tskt_master",
+   "high_tskt_master",
+   "horizontal_tskt_master",
+   "inner_material_tskt_master",
+   "machine_weight_tskt_master",
+   "made_in_tskt_master",
+   "main_load_tskt_master",
+   "maximum_temperature_tskt_master",
+   "number_of_users_tskt_master",
+   "product_line_tskt_master",
+   "product_type_tskt_master",
+   "quantity_tskt_master",
+   "size_weight_tskt_master",
+   "utilities_tskt_master"
+  ],
+  "ten": "Tủ sấy quần áo",
+  "ten_cot": {
+   "control_panel_tskt_master": "Bảng điều khiển",
+   "deep_tskt_master": "Sâu",
+   "drying_time_tskt_master": "Thời gian sấy",
+   "electricity_consumption_tskt_master": "Điện năng tiêu thụ",
+   "engine_tskt_master": "Động cơ",
+   "high_tskt_master": "Cao",
+   "horizontal_tskt_master": "Ngang",
+   "inner_material_filter_master": "Chất liệu ruột",
+   "inner_material_tskt_master": "Chất liệu ruột",
+   "machine_weight_tskt_master": "Khối lượng máy",
+   "made_in_tskt_master": "Sản xuất tại",
+   "main_load_tskt_master": "Khối lượng tải chính",
+   "maximum_temperature_tskt_master": "Nhiệt độ tối đa",
+   "number_of_users_tskt_master": "Số người sử dụng",
+   "product_line_tskt_master": "Dòng sản phẩm",
+   "product_type_tskt_master": "Loại sản phẩm",
+   "quantity_tskt_master": "Số lượng",
+   "size_weight_tskt_master": "Kích thước Khối lượng",
+   "utilities_filter_master": "Tiện ích",
+   "utilities_tskt_master": "Tiện ích"
+  }
+ },
  "13938": {
   "cot": [
    "utilities_filter_master",
