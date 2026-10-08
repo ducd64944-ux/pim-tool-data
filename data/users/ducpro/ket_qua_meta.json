@@ -12,6 +12,24 @@
   {
    "CHỌN": true,
    "GHI CHÚ": "",
+   "MÃ NH": "9179",
+   "NGUỒN CATE": "CATEGORYID",
+   "SỐ SKU": 55,
+   "TAB TSKT / CẤU HÌNH": "cấu hình — 27 cột",
+   "TÊN NGÀNH HÀNG": "Máy chạy bộ"
+  },
+  {
+   "CHỌN": true,
+   "GHI CHÚ": "",
+   "MÃ NH": "11519",
+   "NGUỒN CATE": "CATEGORYID",
+   "SỐ SKU": 11,
+   "TAB TSKT / CẤU HÌNH": "cấu hình — 17 cột",
+   "TÊN NGÀNH HÀNG": "Máy Chà Nhám"
+  },
+  {
+   "CHỌN": true,
+   "GHI CHÚ": "",
    "MÃ NH": "13938",
    "NGUỒN CATE": "CATEGORYID",
    "SỐ SKU": 3,
@@ -19,406 +37,335 @@
    "TÊN NGÀNH HÀNG": "Máy cắt lông xù quần áo"
   }
  ],
- "chua_map": [],
+ "chua_map": [
+  {
+   "cate": "11519",
+   "goi_y_ma": "",
+   "prop_id": "26261",
+   "prop_name": "Loại máy",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Máy chà nhám"
+  },
+  {
+   "cate": "11519",
+   "goi_y_ma": "",
+   "prop_id": "26262",
+   "prop_name": "Công suất",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "220W"
+  },
+  {
+   "cate": "11519",
+   "goi_y_ma": "",
+   "prop_id": "26263",
+   "prop_name": "Loại mô tơ",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Động cơ chổi than"
+  },
+  {
+   "cate": "11519",
+   "goi_y_ma": "",
+   "prop_id": "26264",
+   "prop_name": "Tốc độ không tải tối đa",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "14000 vòng/phút"
+  },
+  {
+   "cate": "11519",
+   "goi_y_ma": "",
+   "prop_id": "26268",
+   "prop_name": "Năm ra mắt",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "2021"
+  },
+  {
+   "cate": "11519",
+   "goi_y_ma": "",
+   "prop_id": "26269",
+   "prop_name": "Nơi sản xuất",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Trung Quốc"
+  },
+  {
+   "cate": "11519",
+   "goi_y_ma": "",
+   "prop_id": "27507",
+   "prop_name": "Dài",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "18"
+  },
+  {
+   "cate": "11519",
+   "goi_y_ma": "",
+   "prop_id": "27508",
+   "prop_name": "Rộng",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "12"
+  },
+  {
+   "cate": "11519",
+   "goi_y_ma": "",
+   "prop_id": "27509",
+   "prop_name": "Cao",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "20"
+  },
+  {
+   "cate": "11519",
+   "goi_y_ma": "",
+   "prop_id": "27510",
+   "prop_name": "Nặng",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "1.2"
+  },
+  {
+   "cate": "11519",
+   "goi_y_ma": "",
+   "prop_id": "28258",
+   "prop_name": "Lõi động cơ",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "11519",
+   "goi_y_ma": "",
+   "prop_id": "32479",
+   "prop_name": "Đường kính ống kẹp tương thích",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "11519",
+   "goi_y_ma": "",
+   "prop_id": "32481",
+   "prop_name": "Ren trục bánh mài",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "11519",
+   "goi_y_ma": "",
+   "prop_id": "32524",
+   "prop_name": "Phụ kiện kèm theo",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không có phụ kiện"
+  },
+  {
+   "cate": "11519",
+   "goi_y_ma": "",
+   "prop_id": "26265",
+   "prop_name": "Đường kính đĩa",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "11519",
+   "goi_y_ma": "",
+   "prop_id": "26266",
+   "prop_name": "Tiện ích",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Chức năng đánh bóng"
+  },
+  {
+   "cate": "9179",
+   "goi_y_ma": "",
+   "prop_id": "40640",
+   "prop_name": "Công suất",
+   "so_dong": 39,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Từ 1 - 3 HP"
+  },
+  {
+   "cate": "9179",
+   "goi_y_ma": "",
+   "prop_id": "25967",
+   "prop_name": "Kích thước sản phẩm",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Dài 140.5 cm - Ngang 58 cm - Cao 11.8 cm - Nặng 26.5 kg"
+  },
+  {
+   "cate": "9179",
+   "goi_y_ma": "",
+   "prop_id": "25968",
+   "prop_name": "Kích thước thảm",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Dài 110 cm  - Ngang 42 cm"
+  },
+  {
+   "cate": "9179",
+   "goi_y_ma": "",
+   "prop_id": "13546",
+   "prop_name": "Dung tích",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Từ 500 ml - 1 lít"
+  },
+  {
+   "cate": "9179",
+   "goi_y_ma": "",
+   "prop_id": "13798",
+   "prop_name": "Tiện ích",
+   "so_dong": 6,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Chân đế chống trượt"
+  },
+  {
+   "cate": "9179",
+   "goi_y_ma": "",
+   "prop_id": "15462",
+   "prop_name": "Dung tích",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "900 ml"
+  },
+  {
+   "cate": "9179",
+   "goi_y_ma": "",
+   "prop_id": "16633",
+   "prop_name": "Loại sản phẩm",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Bình giữ nhiệt"
+  },
+  {
+   "cate": "9179",
+   "goi_y_ma": "",
+   "prop_id": "16634",
+   "prop_name": "Thời gian giữ nhiệt",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Giữ lạnh đến 18h (dưới 11°C)"
+  },
+  {
+   "cate": "9179",
+   "goi_y_ma": "",
+   "prop_id": "19398",
+   "prop_name": "Chất liệu ruột",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Inox"
+  },
+  {
+   "cate": "9179",
+   "goi_y_ma": "",
+   "prop_id": "19402",
+   "prop_name": "Khối lượng",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "0.27"
+  },
+  {
+   "cate": "9179",
+   "goi_y_ma": "",
+   "prop_id": "19403",
+   "prop_name": "Nơi sản xuất",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Trung Quốc"
+  },
+  {
+   "cate": "9179",
+   "goi_y_ma": "",
+   "prop_id": "20704",
+   "prop_name": "Chất liệu vỏ",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Thép không gỉ SUS304"
+  },
+  {
+   "cate": "9179",
+   "goi_y_ma": "",
+   "prop_id": "20705",
+   "prop_name": "Chất liệu ruột",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Thép không gỉ 304 phủ sứ"
+  },
+  {
+   "cate": "9179",
+   "goi_y_ma": "",
+   "prop_id": "32543",
+   "prop_name": "Đường kính đáy",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "11"
+  },
+  {
+   "cate": "9179",
+   "goi_y_ma": "",
+   "prop_id": "32544",
+   "prop_name": "Đường kính nắp",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "11"
+  },
+  {
+   "cate": "9179",
+   "goi_y_ma": "",
+   "prop_id": "32545",
+   "prop_name": "Cao",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "24"
+  },
+  {
+   "cate": "9179",
+   "goi_y_ma": "",
+   "prop_id": "32546",
+   "prop_name": "Thương hiệu của",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Hàn Quốc"
+  },
+  {
+   "cate": "9179",
+   "goi_y_ma": "",
+   "prop_id": "34498",
+   "prop_name": "Thời gian giữ nóng",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "-"
+  },
+  {
+   "cate": "9179",
+   "goi_y_ma": "",
+   "prop_id": "34500",
+   "prop_name": "Thời gian giữ lạnh",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Giữ lạnh 18h"
+  },
+  {
+   "cate": "9179",
+   "goi_y_ma": "",
+   "prop_id": "42479",
+   "prop_name": "Năm ra mắt",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "2025"
+  }
+ ],
  "dx_dang_ap": 0,
  "goc_cms": {},
  "log": [
-  [
-   "9923384000412",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000468",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000444",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000313",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000393",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000445",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000737",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000739",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000738",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000379",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000377",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1413194000077",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1413194000057",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1413194000056",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1413194000055",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1413194000054",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1413194000015",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1413194000022",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1413194000021",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1413194000018",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1413194000005",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1413194000004",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1413194000167",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923194000007",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923194000014",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1413194000153",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1413194000133",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1413194000152",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1413194000132",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1413194000166",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1413194000126",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1413194000130",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1413194000007",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1413194000131",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1413194000128",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1413194000129",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1413194000143",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1413194000127",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1413194000142",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923194000013",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1413194000162",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1413194000058",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1313194000002",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1313194000003",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1313194000004",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1413194000044",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1413194000047",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923194000006",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1413194000041",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1413194000046",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923194000005",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1413194000035",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1413194000048",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1313194000006",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1313194000001",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1313194000005",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1413194000030",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1413194000025",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1413194000028",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1413194000017",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1413194000024",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1413194000075",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1413194000034",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1413194000023",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1413194000052",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1413194000053",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
   [
    "4842053000947",
    "5554",
@@ -672,8 +619,50 @@
    "FILTER: giá trị CMS \"52 lưỡi cạo\" chưa có option trong DATA PIM — để trống"
   ]
  ],
- "luc": "2026-10-08 08:38:00",
+ "luc": "2026-10-08 08:41:52",
  "nganh": {
+  "11519": {
+   "attr": [
+    "brand_of_tskt_master",
+    "high_tskt_master",
+    "long_cord_tskt_master",
+    "long_tskt_master",
+    "machine_weight_tskt_master",
+    "made_in_tskt_master",
+    "maximum_idle_speed_tskt_master",
+    "motor_type_tskt_master",
+    "output_power_tskt_master",
+    "rated_voltage_tskt_master",
+    "sanding_base_size_tskt_master",
+    "sandpaper_size_tskt_master",
+    "source_tskt_master",
+    "type_of_machine_tskt_master",
+    "utilities_tskt_master",
+    "wide_tskt_master",
+    "year_of_manufacture_tskt_master"
+   ],
+   "ten": {
+    "brand_of_tskt_master": "Thương hiệu của",
+    "high_tskt_master": "Cao",
+    "long_cord_tskt_master": "Dài dây",
+    "long_tskt_master": "Dài",
+    "machine_weight_tskt_master": "Khối lượng máy",
+    "made_in_tskt_master": "Sản xuất tại",
+    "maximum_idle_speed_tskt_master": "Tốc độ không tải tối đa",
+    "motor_type_tskt_master": "Loại động cơ",
+    "output_power_tskt_master": "Công suất đầu ra",
+    "rated_voltage_tskt_master": "Điện áp định mức",
+    "sanding_base_size_tskt_master": "Kích thước đế nhám",
+    "sandpaper_size_tskt_master": "Kích thước giấy nhám",
+    "source_tskt_master": "Nguồn",
+    "type_of_machine_tskt_master": "Loại máy",
+    "utilities_tskt_master": "Tiện ích",
+    "wide_tskt_master": "Rộng",
+    "year_of_manufacture_tskt_master": "Năm sản xuất"
+   },
+   "ten_nh": "Máy Chà Nhám",
+   "title": "TSKT 11519 Máy Chà Nhám"
+  },
   "13938": {
    "attr": [
     "utilities_filter_master",
@@ -769,16 +758,78 @@
    },
    "ten_nh": "Máy cạo râu",
    "title": "TSKT 5554 Máy cạo râu"
+  },
+  "9179": {
+   "attr": [
+    "output_power_filter_master",
+    "the_engine_is_running_filter_master",
+    "utilities_filter_master",
+    "accessory_materials_tskt_master",
+    "body_material_tskt_master",
+    "brand_of_tskt_master",
+    "control_panel_tskt_master",
+    "high_tskt_master",
+    "long_foldable_tskt_master",
+    "long_tskt_master",
+    "machine_weight_tskt_master",
+    "made_in_tskt_master",
+    "main_accessory_length_tskt_master",
+    "maximum_load_tskt_master",
+    "maximum_slope_tskt_master",
+    "output_power_tskt_master",
+    "programme_tskt_master",
+    "shock_absorber_system_tskt_master",
+    "speed_tskt_master",
+    "tall_foldable_tskt_master",
+    "the_engine_is_running_tskt_master",
+    "type_of_machine_tskt_master",
+    "utilities_tskt_master",
+    "wide_accessories_tskt_master",
+    "wide_foldable_tskt_master",
+    "wide_tskt_master",
+    "year_of_manufacture_tskt_master"
+   ],
+   "ten": {
+    "accessory_materials_tskt_master": "Chất liệu phụ kiện",
+    "body_material_tskt_master": "Chất liệu thân vỏ",
+    "brand_of_tskt_master": "Thương hiệu của",
+    "control_panel_tskt_master": "Bảng điều khiển",
+    "high_tskt_master": "Cao",
+    "long_foldable_tskt_master": "Dài gấp gọn",
+    "long_tskt_master": "Dài",
+    "machine_weight_tskt_master": "Khối lượng máy",
+    "made_in_tskt_master": "Sản xuất tại",
+    "main_accessory_length_tskt_master": "Dài phụ kiện chính",
+    "maximum_load_tskt_master": "Tải trọng tối đa",
+    "maximum_slope_tskt_master": "Độ nghiêng dốc tối đa",
+    "output_power_filter_master": "Công suất đầu ra",
+    "output_power_tskt_master": "Công suất đầu ra",
+    "programme_tskt_master": "Chương trình",
+    "shock_absorber_system_tskt_master": "Hệ thống giảm chấn",
+    "speed_tskt_master": "Vận tốc",
+    "tall_foldable_tskt_master": "Cao gấp gọn",
+    "the_engine_is_running_filter_master": "Động cơ hoạt động",
+    "the_engine_is_running_tskt_master": "Động cơ hoạt động",
+    "type_of_machine_tskt_master": "Loại máy",
+    "utilities_filter_master": "Tiện ích",
+    "utilities_tskt_master": "Tiện ích",
+    "wide_accessories_tskt_master": "Rộng phụ kiện",
+    "wide_foldable_tskt_master": "Rộng gấp gọn",
+    "wide_tskt_master": "Rộng",
+    "year_of_manufacture_tskt_master": "Năm sản xuất"
+   },
+   "ten_nh": "Máy chạy bộ",
+   "title": "TSKT 9179 Máy chạy bộ"
   }
  },
  "o_theo_ten": [],
  "tom_tat": {
   "filter_khong_khop": 42,
-  "khong_data": 66,
+  "khong_data": 0,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 2,
-  "so_o": 2418,
-  "so_sku": 120
+  "so_nganh": 4,
+  "so_o": 3753,
+  "so_sku": 186
  }
 }
