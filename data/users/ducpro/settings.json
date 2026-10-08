@@ -530,6 +530,15 @@
     "pham_vi": "tat_ca"
    }
   ],
+  "7858\twide_tskt_master\tbd": [
+   {
+    "a": "Rộng",
+    "b": "cm",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "pham_vi": "tat_ca"
+   }
+  ],
   "8621\tdeep_tskt_master\tbd": [
    {
     "a": "Sâu",
@@ -773,16 +782,6 @@
   {
    "d": {
     "dv": {
-     "13538\tmain_load_tskt_master": null
-    }
-   },
-   "luc": "2026-10-08 15:19:20",
-   "nhan": "Áp đơn vị hàng loạt",
-   "so": 1
-  },
-  {
-   "d": {
-    "dv": {
      "13538\tdeep_tskt_master\tbd": null
     }
    },
@@ -922,9 +921,19 @@
    "luc": "2026-10-08 17:24:23",
    "nhan": "Biến đổi hàng loạt 1 cột: Thêm cả TRƯỚC và SAU",
    "so": 1
+  },
+  {
+   "d": {
+    "dv": {
+     "7858\twide_tskt_master\tbd": null
+    }
+   },
+   "luc": "2026-10-08 17:24:57",
+   "nhan": "Biến đổi hàng loạt 1 cột: Thêm cả TRƯỚC và SAU",
+   "so": 1
   }
  ],
- "luc_luu": "2026-10-08 17:24:23",
+ "luc_luu": "2026-10-08 17:24:57",
  "nguoi_luu": "ducpro",
  "rong": {},
  "sua": {
