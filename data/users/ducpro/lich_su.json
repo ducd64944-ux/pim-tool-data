@@ -12,5 +12,19 @@
   "Thêm đơn vị": 0,
   "Tách xin data": 0,
   "Workspace": "ducpro"
+ },
+ {
+  "Biến đổi": 337,
+  "Chặn ô theo tên": 0,
+  "Cảnh báo": "• 6 ô tool để trống trong khi PIM đang có | • 2 ô kích thước/khối lượng chưa có đơn vị | • 60 dòng không có trong file PIM | • 2 model_code lặp ở nhiều dòng file MODEL (PIM sẽ lấy dòng sau cùng — kiểm tra IMPORT có thiếu variant_code không)",
+  "File": "PIM_TSKT 11519 Máy Chà Nhám_MODEL_20261008_0954.xlsx, PIM_TSKT 9179 Máy chạy bộ_MODEL_20261008_0954.xlsx",
+  "Không/Đang cập nhật": 0,
+  "Lúc": "2026-10-08 09:54:07",
+  "Người xuất": "ducpro",
+  "Số dòng": 66,
+  "Sửa tay": 0,
+  "Thêm đơn vị": 52,
+  "Tách xin data": 0,
+  "Workspace": "ducpro"
  }
 ]
