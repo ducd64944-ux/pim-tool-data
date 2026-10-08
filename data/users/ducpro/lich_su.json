@@ -180,5 +180,19 @@
   "Thêm đơn vị": 0,
   "Tách xin data": 0,
   "Workspace": "ducpro"
+ },
+ {
+  "Biến đổi": 0,
+  "Chặn ô theo tên": 0,
+  "Cảnh báo": "• 6 SKU thiếu category_code | • 12 ô kích thước/khối lượng chưa có đơn vị | • 6 dòng không có trong file PIM | • 6 ô giá trị CMS bị MẤT khi map (xem 🧾 Đối soát)",
+  "File": "PIM_TSKT 2403 Chảo_MODEL_20261008_1549.xlsx",
+  "Không/Đang cập nhật": 0,
+  "Lúc": "2026-10-08 15:49:56",
+  "Người xuất": "ducpro",
+  "Số dòng": 6,
+  "Sửa tay": 0,
+  "Thêm đơn vị": 0,
+  "Tách xin data": 0,
+  "Workspace": "ducpro"
  }
 ]
