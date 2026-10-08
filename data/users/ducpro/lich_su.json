@@ -152,5 +152,19 @@
   "Thêm đơn vị": 0,
   "Tách xin data": 2,
   "Workspace": "ducpro"
+ },
+ {
+  "Biến đổi": 61,
+  "Chặn ô theo tên": 0,
+  "Cảnh báo": "• 30 ô KHÁC spec PIM (sẽ ghi đè) | • 10 dòng không có trong file PIM | • 3 ô giá trị CMS bị MẤT khi map (xem 🧾 Đối soát)",
+  "File": "PIM_TSKT 13538 Tủ sấy quần áo_MODEL_20261008_1521.xlsx",
+  "Không/Đang cập nhật": 0,
+  "Lúc": "2026-10-08 15:21:13",
+  "Người xuất": "ducpro",
+  "Số dòng": 16,
+  "Sửa tay": 0,
+  "Thêm đơn vị": 12,
+  "Tách xin data": 0,
+  "Workspace": "ducpro"
  }
 ]
