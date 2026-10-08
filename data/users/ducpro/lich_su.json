@@ -40,5 +40,19 @@
   "Thêm đơn vị": 0,
   "Tách xin data": 0,
   "Workspace": "ducpro"
+ },
+ {
+  "Biến đổi": 737,
+  "Chặn ô theo tên": 0,
+  "Cảnh báo": "• 579 ô KHÁC spec PIM (sẽ ghi đè) | • 43 ô tool để trống trong khi PIM đang có | • 11 dòng không có trong file PIM | • 564 ô giá trị CMS bị MẤT khi map (xem 🧾 Đối soát) | • 6 SKU KHÔNG có thông số nào (sẽ xuất dòng trống)",
+  "File": "PIM_TSKT 2062 Máy ép trái cây_MODEL_20261008_1101.xlsx, PIM_TSKT 2062 Máy ép trái cây_BIENTHE_20261008_1101.xlsx, PIM_TSKT 11418 Máy đo nhiệt độ_MODEL_20261008_1101.xlsx",
+  "Không/Đang cập nhật": 0,
+  "Lúc": "2026-10-08 11:01:10",
+  "Người xuất": "ducpro",
+  "Số dòng": 222,
+  "Sửa tay": 0,
+  "Thêm đơn vị": 0,
+  "Tách xin data": 6,
+  "Workspace": "ducpro"
  }
 ]
