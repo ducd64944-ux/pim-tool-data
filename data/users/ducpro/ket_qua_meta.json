@@ -1,126 +1,146 @@
 {
- "chon": [
-  {
-   "CHỌN": true,
-   "GHI CHÚ": "",
-   "MÃ NH": "7902",
-   "NGUỒN CATE": "CATEGORYID",
-   "SỐ SKU": 6,
-   "TAB TSKT / CẤU HÌNH": "cấu hình — 14 cột",
-   "TÊN NGÀNH HÀNG": "Máy hâm sữa"
-  },
-  {
-   "CHỌN": true,
-   "GHI CHÚ": "",
-   "MÃ NH": "7685",
-   "NGUỒN CATE": "CATEGORYID",
-   "SỐ SKU": 5,
-   "TAB TSKT / CẤU HÌNH": "cấu hình — 12 cột",
-   "TÊN NGÀNH HÀNG": "Máy hút chân không"
-  }
- ],
- "chua_map": [
-  {
-   "cate": "7902",
-   "goi_y_ma": "",
-   "prop_id": "39201",
-   "prop_name": "Thương hiệu",
-   "so_dong": 3,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Anh"
-  },
-  {
-   "cate": "7902",
-   "goi_y_ma": "",
-   "prop_id": "38582",
-   "prop_name": "Thuộc tính map",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Size nhỏ"
-  }
- ],
+ "chon": [],
+ "chua_map": [],
  "dx_dang_ap": 0,
  "goc_cms": {},
- "log": [],
- "luc": "2026-10-08 11:33:51",
- "nganh": {
-  "7685": {
-   "attr": [
-    "brand_of_tskt_master",
-    "control_panel_tskt_master",
-    "made_in_tskt_master",
-    "mass_tskt_master",
-    "material_tskt_master",
-    "max_suction_tskt_master",
-    "output_power_tskt_master",
-    "product_type_tskt_master",
-    "release_date_tskt_master",
-    "size_weight_tskt_master",
-    "suction_mode_tskt_master",
-    "utilities_tskt_master"
-   ],
-   "ten": {
-    "brand_of_tskt_master": "Thương hiệu của",
-    "control_panel_tskt_master": "Bảng điều khiển",
-    "made_in_tskt_master": "Sản xuất tại",
-    "mass_tskt_master": "Khối lượng",
-    "material_tskt_master": "Chất liệu",
-    "max_suction_tskt_master": "Lực hút tối đa",
-    "output_power_tskt_master": "Công suất đầu ra",
-    "product_type_tskt_master": "Loại sản phẩm",
-    "release_date_tskt_master": "Thời gian ra mắt",
-    "size_weight_tskt_master": "Kích thước Khối lượng",
-    "suction_mode_tskt_master": "Chế độ hút",
-    "utilities_tskt_master": "Tiện ích"
-   },
-   "ten_nh": "Máy hút chân không",
-   "title": "TSKT 7685 Máy hút chân không"
-  },
-  "7902": {
-   "attr": [
-    "control_panel_tskt_master",
-    "display_screen_tskt_master",
-    "function_tskt_master",
-    "launch_year_tskt_master",
-    "made_in_tskt_master",
-    "mass_tskt_master",
-    "material_tskt_master",
-    "output_power_tskt_master",
-    "product_dimensions_tskt_master",
-    "source_tskt_master",
-    "suitable_type_of_tank_tskt_master",
-    "utilities_tskt_master",
-    "warming_defrosting_time_tskt_master",
-    "warming_technology_tskt_master"
-   ],
-   "ten": {
-    "control_panel_tskt_master": "Bảng điều khiển",
-    "display_screen_tskt_master": "Màn hình hiển thị",
-    "function_tskt_master": "Chức năng",
-    "launch_year_tskt_master": "Năm ra mắt",
-    "made_in_tskt_master": "Sản xuất tại",
-    "mass_tskt_master": "Khối lượng",
-    "material_tskt_master": "Chất liệu",
-    "output_power_tskt_master": "Công suất đầu ra",
-    "product_dimensions_tskt_master": "Kích thước sản phẩm",
-    "source_tskt_master": "Nguồn",
-    "suitable_type_of_tank_tskt_master": "Loại bình phù hợp",
-    "utilities_tskt_master": "Tiện ích",
-    "warming_defrosting_time_tskt_master": "Thời gian hâm/rã đông",
-    "warming_technology_tskt_master": "Công nghệ hâm nóng"
-   },
-   "ten_nh": "Máy hâm sữa",
-   "title": "TSKT 7902 Máy hâm sữa"
-  }
- },
+ "log": [
+  [
+   "4842053001017",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4842053001067",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4842053001068",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4842053001066",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4842053001340",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4842053001341",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4842053001156",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4842053001155",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4842053001018",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4842053001072",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000060",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4845000000061",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4842053001073",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4842053001071",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4842053001129",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4842053001128",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4842053001127",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4842053001126",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4842053001125",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4842053001124",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4842053001158",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ]
+ ],
+ "luc": "2026-10-08 11:52:15",
+ "nganh": {},
  "o_theo_ten": [],
  "tom_tat": {
   "filter_khong_khop": 0,
-  "khong_data": 0,
+  "khong_data": 21,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 2,
-  "so_o": 134,
-  "so_sku": 11
+  "so_nganh": 0,
+  "so_o": 0,
+  "so_sku": 0
  }
 }
