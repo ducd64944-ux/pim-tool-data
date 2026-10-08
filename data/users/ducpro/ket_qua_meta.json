@@ -1,0 +1,51 @@
+{
+ "chon": [
+  {
+   "CHỌN": false,
+   "GHI CHÚ": "Chưa có tab TSKT lẫn cấu hình — thêm 1 trong 2",
+   "MÃ NH": "5554",
+   "NGUỒN CATE": "CATEGORYID",
+   "SỐ SKU": 117,
+   "TAB TSKT / CẤU HÌNH": "",
+   "TÊN NGÀNH HÀNG": ""
+  },
+  {
+   "CHỌN": false,
+   "GHI CHÚ": "Chưa có tab TSKT lẫn cấu hình — thêm 1 trong 2",
+   "MÃ NH": "13938",
+   "NGUỒN CATE": "CATEGORYID",
+   "SỐ SKU": 3,
+   "TAB TSKT / CẤU HÌNH": "",
+   "TÊN NGÀNH HÀNG": ""
+  }
+ ],
+ "chua_map": [],
+ "dx_dang_ap": 0,
+ "goc_cms": {},
+ "log": [
+  [
+   "",
+   "5554",
+   "",
+   "Không có tab TSKT lẫn cấu hình — bỏ qua"
+  ],
+  [
+   "",
+   "13938",
+   "",
+   "Không có tab TSKT lẫn cấu hình — bỏ qua"
+  ]
+ ],
+ "luc": "2026-10-08 08:11:37",
+ "nganh": {},
+ "o_theo_ten": [],
+ "tom_tat": {
+  "filter_khong_khop": 0,
+  "khong_data": 120,
+  "map_theo_ten": 0,
+  "o_sua_theo_quy_tac": 0,
+  "so_nganh": 0,
+  "so_o": 0,
+  "so_sku": 0
+ }
+}
