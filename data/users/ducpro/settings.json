@@ -295,6 +295,24 @@
     "pham_vi": "tat_ca"
    }
   ],
+  "8621\thigh_tskt_master\tbd": [
+   {
+    "a": "Cao",
+    "b": "cm",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "pham_vi": "tat_ca"
+   }
+  ],
+  "8968\thigh_tskt_master\tbd": [
+   {
+    "a": "Cao",
+    "b": "cm",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "pham_vi": "tat_ca"
+   }
+  ],
   "9179\thigh_tskt_master\tbd": [
    {
     "a": "Cao",
@@ -385,16 +403,6 @@
  },
  "duyet_ten": [],
  "hoan_tac": [
-  {
-   "d": {
-    "dv": {
-     "11458\thigh_tskt_master\tbd": null
-    }
-   },
-   "luc": "2026-10-08 10:20:13",
-   "nhan": "Biến đổi hàng loạt 1 cột: Thêm cả TRƯỚC và SAU",
-   "so": 1
-  },
   {
    "d": {
     "dv": {
@@ -535,9 +543,20 @@
    "luc": "2026-10-08 11:00:04",
    "nhan": "Biến đổi hàng loạt 1 cột: Thêm cả TRƯỚC và SAU",
    "so": 1
+  },
+  {
+   "d": {
+    "dv": {
+     "8621\thigh_tskt_master\tbd": null,
+     "8968\thigh_tskt_master\tbd": null
+    }
+   },
+   "luc": "2026-10-08 11:56:11",
+   "nhan": "Biến đổi hàng loạt 2 cột: Thêm cả TRƯỚC và SAU",
+   "so": 2
   }
  ],
- "luc_luu": "2026-10-08 11:53:02",
+ "luc_luu": "2026-10-08 11:56:11",
  "nguoi_luu": "ducpro",
  "rong": {},
  "sua": {
