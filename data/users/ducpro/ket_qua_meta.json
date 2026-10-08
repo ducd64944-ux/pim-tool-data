@@ -5,54 +5,18 @@
  "goc_cms": {},
  "log": [
   [
-   "1033263001111",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033263001112",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033263001113",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033263001114",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033265001198",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033263001115",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1033263001116",
+   "370604V21033265001198",
    "",
    "",
    "Không có dòng nào trong DATA SP"
   ]
  ],
- "luc": "2026-10-08 16:37:53",
+ "luc": "2026-10-08 16:39:01",
  "nganh": {},
  "o_theo_ten": [],
  "tom_tat": {
   "filter_khong_khop": 0,
-  "khong_data": 7,
+  "khong_data": 1,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
   "so_nganh": 0,
