@@ -44,6 +44,33 @@
    "wide_tskt_master": "Rộng"
   }
  },
+ "10218": {
+  "cot": [
+   "age_tskt_master",
+   "frame_material_tskt_master",
+   "high_tskt_master",
+   "long_tskt_master",
+   "machine_weight_tskt_master",
+   "payload_tskt_master",
+   "rim_material_tskt_master",
+   "saddle_material_tskt_master",
+   "tire_type_tskt_master",
+   "wide_tskt_master"
+  ],
+  "ten": "Xe thăng bằng trẻ em",
+  "ten_cot": {
+   "age_tskt_master": "Độ tuổi",
+   "frame_material_tskt_master": "Chất liệu khung viền",
+   "high_tskt_master": "Cao",
+   "long_tskt_master": "Dài",
+   "machine_weight_tskt_master": "Khối lượng máy",
+   "payload_tskt_master": "Trọng tải",
+   "rim_material_tskt_master": "Chất liệu vành",
+   "saddle_material_tskt_master": "Chất liệu yên",
+   "tire_type_tskt_master": "Loại lốp",
+   "wide_tskt_master": "Rộng"
+  }
+ },
  "10871": {
   "cot": [
    "brand_of_tskt_master",
@@ -2548,6 +2575,61 @@
    "utilities_tskt_master": "Tiện ích",
    "water_and_dust_resistant_tskt_master": "Chuẩn chống nước, bụi",
    "wide_tskt_master": "Rộng"
+  }
+ },
+ "6552": {
+  "cot": [
+   "made_in_filter_master",
+   "product_type_filter_master",
+   "utilities_filter_master",
+   "wine_capacity_filter_master",
+   "control_panel_tskt_master",
+   "cooling_technology_tskt_master",
+   "deep_tskt_master",
+   "door_material_tskt_master",
+   "electricity_consumption_tskt_master",
+   "gas_type_tskt_master",
+   "high_tskt_master",
+   "installation_type_tskt_master",
+   "lighting_tskt_master",
+   "machine_weight_tskt_master",
+   "made_in_tskt_master",
+   "maximum_capacity_tskt_master",
+   "noise_level_tskt_master",
+   "operating_temperature_tskt_master",
+   "product_type_tskt_master",
+   "quantity_tskt_master",
+   "refrigerator_tray_material_tskt_master",
+   "surface_material_tskt_master",
+   "utilities_tskt_master",
+   "wide_tskt_master"
+  ],
+  "ten": "Tủ trữ rượu vang",
+  "ten_cot": {
+   "control_panel_tskt_master": "Bảng điều khiển",
+   "cooling_technology_tskt_master": "Công nghệ làm lạnh",
+   "deep_tskt_master": "Sâu",
+   "door_material_tskt_master": "Chất liệu cửa",
+   "electricity_consumption_tskt_master": "Điện năng tiêu thụ",
+   "gas_type_tskt_master": "Loại Gas",
+   "high_tskt_master": "Cao",
+   "installation_type_tskt_master": "Kiểu lắp đặt",
+   "lighting_tskt_master": "Đèn chiếu sáng",
+   "machine_weight_tskt_master": "Khối lượng máy",
+   "made_in_filter_master": "Sản xuất tại",
+   "made_in_tskt_master": "Sản xuất tại",
+   "maximum_capacity_tskt_master": "Sức chứa tối đa",
+   "noise_level_tskt_master": "Độ ồn",
+   "operating_temperature_tskt_master": "Nhiệt độ hoạt động",
+   "product_type_filter_master": "Loại sản phẩm",
+   "product_type_tskt_master": "Loại sản phẩm",
+   "quantity_tskt_master": "Số lượng",
+   "refrigerator_tray_material_tskt_master": "Chất liệu khay ngăn lạnh",
+   "surface_material_tskt_master": "Chất liệu mặt",
+   "utilities_filter_master": "Tiện ích",
+   "utilities_tskt_master": "Tiện ích",
+   "wide_tskt_master": "Rộng",
+   "wine_capacity_filter_master": "Sức chứa"
   }
  },
  "7358": {
