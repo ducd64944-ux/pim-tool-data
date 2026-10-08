@@ -1,356 +1,755 @@
 {
- "chon": [],
- "chua_map": [],
+ "chon": [
+  {
+   "CHỌN": true,
+   "GHI CHÚ": "",
+   "MÃ NH": "11458",
+   "NGUỒN CATE": "CATEGORYID",
+   "SỐ SKU": 39,
+   "TAB TSKT / CẤU HÌNH": "cấu hình — 27 cột",
+   "TÊN NGÀNH HÀNG": "máy cưa máy cắt"
+  },
+  {
+   "CHỌN": true,
+   "GHI CHÚ": "",
+   "MÃ NH": "365",
+   "NGUỒN CATE": "CATEGORYID",
+   "SỐ SKU": 17,
+   "TAB TSKT / CẤU HÌNH": "cấu hình — 21 cột",
+   "TÊN NGÀNH HÀNG": "máy đo huyết áp"
+  }
+ ],
+ "chua_map": [
+  {
+   "cate": "11458",
+   "goi_y_ma": "",
+   "prop_id": "20476",
+   "prop_name": "Công suất",
+   "so_dong": 6,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "1300W"
+  },
+  {
+   "cate": "11458",
+   "goi_y_ma": "",
+   "prop_id": "20477",
+   "prop_name": "Tốc độ không tải tối đa",
+   "so_dong": 6,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "5000 vòng/ phút"
+  },
+  {
+   "cate": "11458",
+   "goi_y_ma": "",
+   "prop_id": "20478",
+   "prop_name": "Ren trục",
+   "so_dong": 6,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Hãng không công bố"
+  },
+  {
+   "cate": "11458",
+   "goi_y_ma": "",
+   "prop_id": "20479",
+   "prop_name": "Đường kính đá",
+   "so_dong": 6,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "11458",
+   "goi_y_ma": "",
+   "prop_id": "20480",
+   "prop_name": "Đường kính đĩa tối đa",
+   "so_dong": 6,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "185 mm"
+  },
+  {
+   "cate": "11458",
+   "goi_y_ma": "",
+   "prop_id": "20482",
+   "prop_name": "Năm ra mắt",
+   "so_dong": 6,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "2020"
+  },
+  {
+   "cate": "11458",
+   "goi_y_ma": "",
+   "prop_id": "20483",
+   "prop_name": "Sản xuất tại",
+   "so_dong": 6,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Trung Quốc"
+  },
+  {
+   "cate": "11458",
+   "goi_y_ma": "",
+   "prop_id": "22435",
+   "prop_name": "Loại máy",
+   "so_dong": 6,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Máy cắt gỗ"
+  },
+  {
+   "cate": "11458",
+   "goi_y_ma": "",
+   "prop_id": "26142",
+   "prop_name": "Góc cắt vát/cắt trái phải tối đa",
+   "so_dong": 6,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "11458",
+   "goi_y_ma": "",
+   "prop_id": "26143",
+   "prop_name": "Tiện ích",
+   "so_dong": 8,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Bộ phận điều chỉnh góc nghiêng"
+  },
+  {
+   "cate": "11458",
+   "goi_y_ma": "",
+   "prop_id": "27503",
+   "prop_name": "Dài",
+   "so_dong": 6,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "28.5"
+  },
+  {
+   "cate": "11458",
+   "goi_y_ma": "",
+   "prop_id": "27504",
+   "prop_name": "Ngang",
+   "so_dong": 5,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "24"
+  },
+  {
+   "cate": "11458",
+   "goi_y_ma": "",
+   "prop_id": "27505",
+   "prop_name": "Cao",
+   "so_dong": 6,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "17.5"
+  },
+  {
+   "cate": "11458",
+   "goi_y_ma": "",
+   "prop_id": "27506",
+   "prop_name": "Nặng",
+   "so_dong": 6,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "3.4"
+  },
+  {
+   "cate": "11458",
+   "goi_y_ma": "",
+   "prop_id": "28118",
+   "prop_name": "Thương hiệu của",
+   "so_dong": 6,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Trung Quốc"
+  },
+  {
+   "cate": "11458",
+   "goi_y_ma": "",
+   "prop_id": "32736",
+   "prop_name": "Độ dày đĩa (tối thiểu/tối đa)",
+   "so_dong": 6,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "11458",
+   "goi_y_ma": "",
+   "prop_id": "32737",
+   "prop_name": "Khả năng cắt",
+   "so_dong": 6,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "11458",
+   "goi_y_ma": "",
+   "prop_id": "32768",
+   "prop_name": "Kích thước bàn",
+   "so_dong": 6,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "11458",
+   "goi_y_ma": "",
+   "prop_id": "32769",
+   "prop_name": "Chiều cao vật liệu cắt tối đa (0°/45°)",
+   "so_dong": 6,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "11458",
+   "goi_y_ma": "",
+   "prop_id": "32770",
+   "prop_name": "Nhịp cắt/cưa",
+   "so_dong": 6,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "11458",
+   "goi_y_ma": "",
+   "prop_id": "32771",
+   "prop_name": "Năng suất cắt tối đa về bên phải",
+   "so_dong": 6,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "11458",
+   "goi_y_ma": "",
+   "prop_id": "33429",
+   "prop_name": "Khả năng cắt tối đa trên ống tròn (90°)",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "11458",
+   "goi_y_ma": "",
+   "prop_id": "33430",
+   "prop_name": "Khả năng cắt tối đa trên ống tròn (45°)",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "11458",
+   "goi_y_ma": "",
+   "prop_id": "33431",
+   "prop_name": "Khả năng cắt tối đa trên ống chữ nhật (90°)",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "11458",
+   "goi_y_ma": "",
+   "prop_id": "33432",
+   "prop_name": "Khả năng cắt tối đa trên ống vuông (90°)",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "11458",
+   "goi_y_ma": "",
+   "prop_id": "33434",
+   "prop_name": "Khả năng cắt tối đa trên ống tam giác (90°)",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "11458",
+   "goi_y_ma": "",
+   "prop_id": "33435",
+   "prop_name": "Khả năng cắt tối đa trên ống chữ nhật (45°)",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "11458",
+   "goi_y_ma": "",
+   "prop_id": "33436",
+   "prop_name": "Khả năng cắt tối đa trên ống vuông (45°)",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "11458",
+   "goi_y_ma": "",
+   "prop_id": "33437",
+   "prop_name": "Khả năng cắt tối đa trên ống tam giác (45°)",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "11458",
+   "goi_y_ma": "",
+   "prop_id": "36518",
+   "prop_name": "Nguồn",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Dùng điện"
+  },
+  {
+   "cate": "11458",
+   "goi_y_ma": "",
+   "prop_id": "36519",
+   "prop_name": "Điện áp pin",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "11458",
+   "goi_y_ma": "",
+   "prop_id": "39019",
+   "prop_name": "Hãng máy cắt",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Máy cắt Tolsen"
+  },
+  {
+   "cate": "11458",
+   "goi_y_ma": "",
+   "prop_id": "39020",
+   "prop_name": "Map pin",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Đang cập nhật"
+  },
+  {
+   "cate": "11458",
+   "goi_y_ma": "",
+   "prop_id": "39053",
+   "prop_name": "Hãng máy cưa",
+   "so_dong": 21,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Đang cập nhật"
+  },
+  {
+   "cate": "11458",
+   "goi_y_ma": "",
+   "prop_id": "39054",
+   "prop_name": "Map pin",
+   "so_dong": 21,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Đang cập nhật"
+  },
+  {
+   "cate": "11458",
+   "goi_y_ma": "",
+   "prop_id": "26087",
+   "prop_name": "Kiểu động cơ",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Mô tơ chổi than"
+  },
+  {
+   "cate": "11458",
+   "goi_y_ma": "",
+   "prop_id": "32506",
+   "prop_name": "Loại máy",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Máy cắt tỉa cây"
+  },
+  {
+   "cate": "11458",
+   "goi_y_ma": "",
+   "prop_id": "32507",
+   "prop_name": "Nguồn",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Dùng pin"
+  },
+  {
+   "cate": "11458",
+   "goi_y_ma": "",
+   "prop_id": "32508",
+   "prop_name": "Thông tin pin",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "21V"
+  },
+  {
+   "cate": "11458",
+   "goi_y_ma": "",
+   "prop_id": "32509",
+   "prop_name": "Loại pin",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Lithium"
+  },
+  {
+   "cate": "11458",
+   "goi_y_ma": "",
+   "prop_id": "32510",
+   "prop_name": "Đường kính cắt tối đa trong gỗ (nhánh cây)",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "3 cm"
+  },
+  {
+   "cate": "11458",
+   "goi_y_ma": "",
+   "prop_id": "32511",
+   "prop_name": "Số lần cắt/1 lần sạc",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Hãng không công bố"
+  },
+  {
+   "cate": "11458",
+   "goi_y_ma": "",
+   "prop_id": "32512",
+   "prop_name": "Phụ kiện",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "2 pin Lithium 2.0 Ah, 1 đế sạc 2.0A"
+  },
+  {
+   "cate": "11458",
+   "goi_y_ma": "",
+   "prop_id": "32513",
+   "prop_name": "Tiện ích",
+   "so_dong": 4,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Dùng pin"
+  },
+  {
+   "cate": "11458",
+   "goi_y_ma": "",
+   "prop_id": "32515",
+   "prop_name": "Dài",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "37.1"
+  },
+  {
+   "cate": "11458",
+   "goi_y_ma": "",
+   "prop_id": "32516",
+   "prop_name": "Rộng",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "26.2"
+  },
+  {
+   "cate": "11458",
+   "goi_y_ma": "",
+   "prop_id": "32517",
+   "prop_name": "Cao",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "10.7"
+  },
+  {
+   "cate": "11458",
+   "goi_y_ma": "",
+   "prop_id": "32518",
+   "prop_name": "Nặng",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "3.92"
+  },
+  {
+   "cate": "11458",
+   "goi_y_ma": "",
+   "prop_id": "32519",
+   "prop_name": "Thương hiệu của",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Trung Quốc"
+  },
+  {
+   "cate": "11458",
+   "goi_y_ma": "",
+   "prop_id": "32520",
+   "prop_name": "Sản xuất tại",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Trung Quốc"
+  },
+  {
+   "cate": "11458",
+   "goi_y_ma": "",
+   "prop_id": "32521",
+   "prop_name": "Năm sản xuất",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "2025"
+  },
+  {
+   "cate": "365",
+   "goi_y_ma": "",
+   "prop_id": "2069",
+   "prop_name": "Kích thước - Khối lượng",
+   "so_dong": 7,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Dài 13 cm - Rộng 11 cm - Cao 7 cm - 480 g"
+  },
+  {
+   "cate": "365",
+   "goi_y_ma": "",
+   "prop_id": "36331",
+   "prop_name": "Loại máy",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Máy đo bắp tay"
+  },
+  {
+   "cate": "365",
+   "goi_y_ma": "",
+   "prop_id": "38377",
+   "prop_name": "Chu vi đo",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "22 - 42cm"
+  },
+  {
+   "cate": "365",
+   "goi_y_ma": "",
+   "prop_id": "38386",
+   "prop_name": "Loại máy",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Máy đo bắp tay"
+  },
+  {
+   "cate": "365",
+   "goi_y_ma": "",
+   "prop_id": "38387",
+   "prop_name": "Công nghệ đo",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Công nghệ Gentle+ đo êm ái, công nghệ PAD phát hiện rối loạn nhịp trong lúc đo, công nghệ AFiBsens phát cảnh báo Rung nhĩ, công nghệ MAM đo nhiều lần lấy giá trị trung bình"
+  },
+  {
+   "cate": "365",
+   "goi_y_ma": "",
+   "prop_id": "38388",
+   "prop_name": "Bộ nhớ",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "99 kết quả đo (2 người dùng)"
+  },
+  {
+   "cate": "365",
+   "goi_y_ma": "",
+   "prop_id": "38389",
+   "prop_name": "Nhiệt độ hoạt động",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "10 - 40 độ C"
+  },
+  {
+   "cate": "365",
+   "goi_y_ma": "",
+   "prop_id": "38390",
+   "prop_name": "Chất liệu vỏ máy",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Hãng không công bố"
+  },
+  {
+   "cate": "365",
+   "goi_y_ma": "",
+   "prop_id": "38393",
+   "prop_name": "Áp suất đo",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Huyết áp tâm thu: 60 - 255mmHg; Huyết áp tâm trương: 40 - 200mmHg; Nhịp tim 40 – 199 nhịp/phút."
+  },
+  {
+   "cate": "365",
+   "goi_y_ma": "",
+   "prop_id": "38395",
+   "prop_name": "Độ chính xác",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Huyết áp ±3 mmHg / Nhịp tim: ± 5% kết quả đo trên màn hình"
+  },
+  {
+   "cate": "365",
+   "goi_y_ma": "",
+   "prop_id": "38398",
+   "prop_name": "Tiện ích",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Màn hình cỡ lớn có hiển thị ngày giờ; dấu cảnh báo đeo túi hơi lỗi, đo tự động; tự động tắt máy khi không sử dụng"
+  },
+  {
+   "cate": "365",
+   "goi_y_ma": "",
+   "prop_id": "38400",
+   "prop_name": "Tính năng nổi bật",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Cảnh báo rối loạn nhịp, cảnh báo Rung nhĩ và thang huyết áp cao theo WHO"
+  },
+  {
+   "cate": "365",
+   "goi_y_ma": "",
+   "prop_id": "38401",
+   "prop_name": "Nguồn",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "4 pin AA/Bộ nguồn DC"
+  },
+  {
+   "cate": "365",
+   "goi_y_ma": "",
+   "prop_id": "38402",
+   "prop_name": "Kích thước",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "157.5 x 105 x 61.5 mm"
+  },
+  {
+   "cate": "365",
+   "goi_y_ma": "",
+   "prop_id": "39438",
+   "prop_name": "Trọng lượng",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "415g (bao gồm pin)"
+  },
+  {
+   "cate": "365",
+   "goi_y_ma": "",
+   "prop_id": "39439",
+   "prop_name": "Sản phẩm bao gồm",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Máy đo, túi hơi size M-L (22-42cm), 4 cục pin AA, túi đựng máy, 01 sách hướng dẫn sử dụng"
+  }
+ ],
  "dx_dang_ap": 0,
  "goc_cms": {},
- "log": [
-  [
-   "9923384000609",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000443",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000577",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000608",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000576",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000574",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000575",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000410",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000607",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000527",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000528",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000526",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000464",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000387",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000392",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000398",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000449",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000441",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000610",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000611",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000579",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000413",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000529",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000442",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000578",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000487",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000667",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000666",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923189000270",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923189000269",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000746",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000661",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000376",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000342",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000340",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000215",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923381000077",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000367",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923381000078",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001056",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4845000000058",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4845000000059",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4845000000057",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001057",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001365",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4845000000056",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001058",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4845000000055",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4845000000036",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001118",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001014",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001117",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001116",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001115",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001120",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001119",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ]
- ],
- "luc": "2026-10-08 10:17:46",
- "nganh": {},
+ "log": [],
+ "luc": "2026-10-08 10:18:30",
+ "nganh": {
+  "11458": {
+   "attr": [
+    "arbor_diameter_tskt_master",
+    "battery_information_tskt_master",
+    "battery_type_tskt_master",
+    "brand_of_tskt_master",
+    "cutting_capacity_tskt_master",
+    "high_tskt_master",
+    "long_tskt_master",
+    "made_in_tskt_master",
+    "mass_tskt_master",
+    "maximum_cutting_angle_tskt_master",
+    "maximum_cutting_diameter_in_wood_tskt_master",
+    "maximum_cutting_height_tskt_master",
+    "maximum_right_cutting_capacity_tskt_master",
+    "motor_type_tskt_master",
+    "no_load_speed_tskt_master",
+    "number_of_cuts_per_charge_tskt_master",
+    "power_source_tskt_master",
+    "power_tskt_master",
+    "saw_blade_diameter_tskt_master",
+    "stroke_length_tskt_master",
+    "stroke_rate_tskt_master",
+    "table_size_tskt_master",
+    "type_of_machine_tskt_master",
+    "utilities_tskt_master",
+    "wide_tskt_master",
+    "wire_length_tskt_master",
+    "year_of_manufacture_tskt_master"
+   ],
+   "ten": {
+    "arbor_diameter_tskt_master": "Đường kính trục",
+    "battery_information_tskt_master": "Thông tin Pin",
+    "battery_type_tskt_master": "Loại pin",
+    "brand_of_tskt_master": "Thương hiệu của",
+    "cutting_capacity_tskt_master": "Khả năng cắt",
+    "high_tskt_master": "Cao",
+    "long_tskt_master": "Dài",
+    "made_in_tskt_master": "Sản xuất tại",
+    "mass_tskt_master": "Khối lượng",
+    "maximum_cutting_angle_tskt_master": "Góc cắt tối đa",
+    "maximum_cutting_diameter_in_wood_tskt_master": "Đường kính cắt tối đa trong gỗ (nhánh cây)",
+    "maximum_cutting_height_tskt_master": "Chiều cao vật liệu cắt tối đa",
+    "maximum_right_cutting_capacity_tskt_master": "Năng suất cắt tối đa về bên phải",
+    "motor_type_tskt_master": "Loại động cơ",
+    "no_load_speed_tskt_master": "Tốc độ không tải",
+    "number_of_cuts_per_charge_tskt_master": "Số lần cắt/1 lần sạc",
+    "power_source_tskt_master": "Nguồn điện",
+    "power_tskt_master": "Công suất",
+    "saw_blade_diameter_tskt_master": "Đường kính lưỡi cưa",
+    "stroke_length_tskt_master": "Độ xọc",
+    "stroke_rate_tskt_master": "Nhịp cưa",
+    "table_size_tskt_master": "Kích thước bàn",
+    "type_of_machine_tskt_master": "Loại máy",
+    "utilities_tskt_master": "Tiện ích",
+    "wide_tskt_master": "Rộng",
+    "wire_length_tskt_master": "Chiều dài dây",
+    "year_of_manufacture_tskt_master": "Năm sản xuất"
+   },
+   "ten_nh": "máy cưa máy cắt",
+   "title": "TSKT 11458 máy cưa máy cắt"
+  },
+  "365": {
+   "attr": [
+    "accuracy_tskt_master",
+    "body_material_tskt_master",
+    "brand_of_tskt_master",
+    "circumference_measurement_tskt_master",
+    "deep_tskt_master",
+    "function_tskt_master",
+    "high_tskt_master",
+    "horizontal_tskt_master",
+    "machine_weight_tskt_master",
+    "made_in_tskt_master",
+    "memory_tskt_master",
+    "operating_temperature_tskt_master",
+    "power_source_tskt_master",
+    "pressure_measurement_tskt_master",
+    "product_type_tskt_master",
+    "release_date_tskt_master",
+    "safety_features_tskt_master",
+    "size_weight_tskt_master",
+    "technology_standards_tskt_master",
+    "technology_tskt_master",
+    "utilities_tskt_master"
+   ],
+   "ten": {
+    "accuracy_tskt_master": "Độ chính xác",
+    "body_material_tskt_master": "Chất liệu thân vỏ",
+    "brand_of_tskt_master": "Thương hiệu của",
+    "circumference_measurement_tskt_master": "Chu vi đo",
+    "deep_tskt_master": "Sâu",
+    "function_tskt_master": "Chức năng",
+    "high_tskt_master": "Cao",
+    "horizontal_tskt_master": "Ngang",
+    "machine_weight_tskt_master": "Khối lượng máy",
+    "made_in_tskt_master": "Sản xuất tại",
+    "memory_tskt_master": "Bộ nhớ",
+    "operating_temperature_tskt_master": "Nhiệt độ hoạt động",
+    "power_source_tskt_master": "Nguồn điện",
+    "pressure_measurement_tskt_master": "Áp suất đo",
+    "product_type_tskt_master": "Loại sản phẩm",
+    "release_date_tskt_master": "Thời gian ra mắt",
+    "safety_features_tskt_master": "Tính năng an toàn",
+    "size_weight_tskt_master": "Kích thước Khối lượng",
+    "technology_standards_tskt_master": "Tiêu chuẩn công nghệ",
+    "technology_tskt_master": "Công nghệ",
+    "utilities_tskt_master": "Tiện ích"
+   },
+   "ten_nh": "máy đo huyết áp",
+   "title": "TSKT 365 máy đo huyết áp"
+  }
+ },
  "o_theo_ten": [],
  "tom_tat": {
   "filter_khong_khop": 0,
-  "khong_data": 56,
+  "khong_data": 0,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 0,
-  "so_o": 0,
-  "so_sku": 0
+  "so_nganh": 2,
+  "so_o": 1010,
+  "so_sku": 56
  }
 }
