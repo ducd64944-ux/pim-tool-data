@@ -208,5 +208,19 @@
   "Thêm đơn vị": 0,
   "Tách xin data": 0,
   "Workspace": "ducpro"
+ },
+ {
+  "Biến đổi": 0,
+  "Chặn ô theo tên": 0,
+  "Cảnh báo": "• 19 SKU thiếu model_code | • 19 SKU thiếu category_code | • 19 dòng không có trong file PIM",
+  "File": "PIM_TSKT 14198 Bồn nước_BIENTHE_20261008_1703.xlsx",
+  "Không/Đang cập nhật": 0,
+  "Lúc": "2026-10-08 17:03:37",
+  "Người xuất": "ducpro",
+  "Số dòng": 19,
+  "Sửa tay": 0,
+  "Thêm đơn vị": 0,
+  "Tách xin data": 0,
+  "Workspace": "ducpro"
  }
 ]
