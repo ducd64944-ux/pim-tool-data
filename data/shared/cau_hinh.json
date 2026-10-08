@@ -1869,6 +1869,39 @@
    "wide_tskt_master": "Rộng"
   }
  },
+ "2403": {
+  "cot": [
+   "body_material_filter_master",
+   "for_kitchen_use_filter_master",
+   "pan_diameter_filter_master",
+   "type_of_pan_filter_master",
+   "body_material_tskt_master",
+   "brand_of_tskt_master",
+   "diameter_tskt_master",
+   "machine_weight_tskt_master",
+   "made_in_tskt_master",
+   "surface_material_tskt_master",
+   "temperature_resistance_level_tskt_master",
+   "thick_tskt_master",
+   "used_for_kitchen_tskt_master"
+  ],
+  "ten": "Chảo",
+  "ten_cot": {
+   "body_material_filter_master": "Chất liệu thân vỏ",
+   "body_material_tskt_master": "Chất liệu thân vỏ",
+   "brand_of_tskt_master": "Thương hiệu của",
+   "diameter_tskt_master": "Đường kính",
+   "for_kitchen_use_filter_master": "Dùng cho bếp",
+   "machine_weight_tskt_master": "Khối lượng máy",
+   "made_in_tskt_master": "Sản xuất tại",
+   "pan_diameter_filter_master": "Đường kính chảo",
+   "surface_material_tskt_master": "Chất liệu mặt",
+   "temperature_resistance_level_tskt_master": "Mức nhiệt chịu được",
+   "thick_tskt_master": "Dày",
+   "type_of_pan_filter_master": "Loại chảo",
+   "used_for_kitchen_tskt_master": "Dùng cho bếp"
+  }
+ },
  "2428": {
   "cot": [
    "output_power_filter_master",
