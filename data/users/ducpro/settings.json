@@ -395,6 +395,15 @@
     "pham_vi": "tat_ca"
    }
   ],
+  "5205\tbase_diameter_tskt_master\tbd": [
+   {
+    "a": "Đường kính đáy",
+    "b": "cm",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "pham_vi": "tat_ca"
+   }
+  ],
   "5205\thigh_tskt_master\tbd": [
    {
     "a": "Cao",
@@ -737,16 +746,6 @@
   {
    "d": {
     "dv": {
-     "2428\thigh_tskt_master\tbd": null
-    }
-   },
-   "luc": "2026-10-08 14:58:16",
-   "nhan": "Biến đổi hàng loạt 1 cột: Thêm cả TRƯỚC và SAU",
-   "so": 1
-  },
-  {
-   "d": {
-    "dv": {
      "2428\thorizontal_tskt_master\tbd": null
     }
    },
@@ -886,9 +885,19 @@
    "luc": "2026-10-08 17:12:28",
    "nhan": "Biến đổi hàng loạt 1 cột: Thêm cả TRƯỚC và SAU",
    "so": 1
+  },
+  {
+   "d": {
+    "dv": {
+     "5205\tbase_diameter_tskt_master\tbd": null
+    }
+   },
+   "luc": "2026-10-08 17:13:06",
+   "nhan": "Biến đổi hàng loạt 1 cột: Thêm cả TRƯỚC và SAU",
+   "so": 1
   }
  ],
- "luc_luu": "2026-10-08 17:12:28",
+ "luc_luu": "2026-10-08 17:13:06",
  "nguoi_luu": "ducpro",
  "rong": {},
  "sua": {
