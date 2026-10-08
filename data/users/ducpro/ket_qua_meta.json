@@ -1,47 +1,33 @@
 {
- "chon": [
-  {
-   "CHỌN": true,
-   "GHI CHÚ": "",
-   "MÃ NH": "2403",
-   "NGUỒN CATE": "CATEGORYID",
-   "SỐ SKU": 6,
-   "TAB TSKT / CẤU HÌNH": "cấu hình — 13 cột",
-   "TÊN NGÀNH HÀNG": "Chảo"
-  }
- ],
- "chua_map": [
-  {
-   "cate": "2403",
-   "goi_y_ma": "",
-   "prop_id": "8779",
-   "prop_name": "Chống dính",
-   "so_dong": 6,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không chống dính"
-  },
-  {
-   "cate": "2403",
-   "goi_y_ma": "",
-   "prop_id": "43003",
-   "prop_name": "Chảo dùng được bếp từ map với bếp từ cùng hãng",
-   "so_dong": 6,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Đang cập nhật"
-  },
-  {
-   "cate": "2403",
-   "goi_y_ma": "",
-   "prop_id": "43098",
-   "prop_name": "Chảo map với bếp hồng ngoại cùng hãng",
-   "so_dong": 6,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Đang cập nhật"
-  }
- ],
+ "chon": [],
+ "chua_map": [],
  "dx_dang_ap": 0,
  "goc_cms": {},
  "log": [
+  [
+   "1033263001111",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1033263001112",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1033263001113",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1033263001114",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
   [
    "1033265001198",
    "",
@@ -49,57 +35,28 @@
    "Không có dòng nào trong DATA SP"
   ],
   [
-   "1033263001111",
-   "2403",
-   "for_kitchen_use_filter_master",
-   "FILTER: giá trị CMS \"Bếp ga\" chưa có option trong DATA PIM — để trống"
+   "1033263001115",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1033263001116",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ]
  ],
- "luc": "2026-10-08 15:49:18",
- "nganh": {
-  "2403": {
-   "attr": [
-    "body_material_filter_master",
-    "for_kitchen_use_filter_master",
-    "pan_diameter_filter_master",
-    "type_of_pan_filter_master",
-    "body_material_tskt_master",
-    "brand_of_tskt_master",
-    "diameter_tskt_master",
-    "machine_weight_tskt_master",
-    "made_in_tskt_master",
-    "surface_material_tskt_master",
-    "temperature_resistance_level_tskt_master",
-    "thick_tskt_master",
-    "used_for_kitchen_tskt_master"
-   ],
-   "ten": {
-    "body_material_filter_master": "Chất liệu thân vỏ",
-    "body_material_tskt_master": "Chất liệu thân vỏ",
-    "brand_of_tskt_master": "Thương hiệu của",
-    "diameter_tskt_master": "Đường kính",
-    "for_kitchen_use_filter_master": "Dùng cho bếp",
-    "machine_weight_tskt_master": "Khối lượng máy",
-    "made_in_tskt_master": "Sản xuất tại",
-    "pan_diameter_filter_master": "Đường kính chảo",
-    "surface_material_tskt_master": "Chất liệu mặt",
-    "temperature_resistance_level_tskt_master": "Mức nhiệt chịu được",
-    "thick_tskt_master": "Dày",
-    "type_of_pan_filter_master": "Loại chảo",
-    "used_for_kitchen_tskt_master": "Dùng cho bếp"
-   },
-   "ten_nh": "Chảo",
-   "title": "TSKT 2403 Chảo"
-  }
- },
+ "luc": "2026-10-08 16:37:31",
+ "nganh": {},
  "o_theo_ten": [],
  "tom_tat": {
-  "filter_khong_khop": 1,
-  "khong_data": 1,
+  "filter_khong_khop": 0,
+  "khong_data": 7,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 1,
-  "so_o": 78,
-  "so_sku": 6
+  "so_nganh": 0,
+  "so_o": 0,
+  "so_sku": 0
  }
 }
