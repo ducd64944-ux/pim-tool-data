@@ -2269,6 +2269,37 @@
    "voltage_tskt_master": "Điện áp"
   }
  },
+ "7685": {
+  "cot": [
+   "brand_of_tskt_master",
+   "control_panel_tskt_master",
+   "made_in_tskt_master",
+   "mass_tskt_master",
+   "material_tskt_master",
+   "max_suction_tskt_master",
+   "output_power_tskt_master",
+   "product_type_tskt_master",
+   "release_date_tskt_master",
+   "size_weight_tskt_master",
+   "suction_mode_tskt_master",
+   "utilities_tskt_master"
+  ],
+  "ten": "Máy hút chân không",
+  "ten_cot": {
+   "brand_of_tskt_master": "Thương hiệu của",
+   "control_panel_tskt_master": "Bảng điều khiển",
+   "made_in_tskt_master": "Sản xuất tại",
+   "mass_tskt_master": "Khối lượng",
+   "material_tskt_master": "Chất liệu",
+   "max_suction_tskt_master": "Lực hút tối đa",
+   "output_power_tskt_master": "Công suất đầu ra",
+   "product_type_tskt_master": "Loại sản phẩm",
+   "release_date_tskt_master": "Thời gian ra mắt",
+   "size_weight_tskt_master": "Kích thước Khối lượng",
+   "suction_mode_tskt_master": "Chế độ hút",
+   "utilities_tskt_master": "Tiện ích"
+  }
+ },
  "7858": {
   "cot": [
    "product_type_filter_master",
@@ -2357,6 +2388,41 @@
    "product_dimensions_tskt_master": "Kích thước sản phẩm",
    "quantity_tskt_master": "Số lượng",
    "release_date_tskt_master": "Thời gian ra mắt"
+  }
+ },
+ "7902": {
+  "cot": [
+   "control_panel_tskt_master",
+   "display_screen_tskt_master",
+   "function_tskt_master",
+   "launch_year_tskt_master",
+   "made_in_tskt_master",
+   "mass_tskt_master",
+   "material_tskt_master",
+   "output_power_tskt_master",
+   "product_dimensions_tskt_master",
+   "source_tskt_master",
+   "suitable_type_of_tank_tskt_master",
+   "utilities_tskt_master",
+   "warming_defrosting_time_tskt_master",
+   "warming_technology_tskt_master"
+  ],
+  "ten": "Máy hâm sữa",
+  "ten_cot": {
+   "control_panel_tskt_master": "Bảng điều khiển",
+   "display_screen_tskt_master": "Màn hình hiển thị",
+   "function_tskt_master": "Chức năng",
+   "launch_year_tskt_master": "Năm ra mắt",
+   "made_in_tskt_master": "Sản xuất tại",
+   "mass_tskt_master": "Khối lượng",
+   "material_tskt_master": "Chất liệu",
+   "output_power_tskt_master": "Công suất đầu ra",
+   "product_dimensions_tskt_master": "Kích thước sản phẩm",
+   "source_tskt_master": "Nguồn",
+   "suitable_type_of_tank_tskt_master": "Loại bình phù hợp",
+   "utilities_tskt_master": "Tiện ích",
+   "warming_defrosting_time_tskt_master": "Thời gian hâm/rã đông",
+   "warming_technology_tskt_master": "Công nghệ hâm nóng"
   }
  },
  "8558": {
