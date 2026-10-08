@@ -1,10 +1,41 @@
 {
  "cai_dat_ver": 3,
  "chon_nganh": {},
- "don_vi": {},
+ "don_vi": {
+  "13938\thigh_tskt_master\tbd": [
+   {
+    "a": "Cao",
+    "b": "cm",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "pham_vi": "tat_ca"
+   }
+  ],
+  "5554\thigh_tskt_master\tbd": [
+   {
+    "a": "Cao",
+    "b": "cm",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "pham_vi": "tat_ca"
+   }
+  ]
+ },
  "duyet_ten": [],
- "hoan_tac": [],
- "luc_luu": "2026-10-08 08:17:49",
+ "hoan_tac": [
+  {
+   "d": {
+    "dv": {
+     "13938\thigh_tskt_master\tbd": null,
+     "5554\thigh_tskt_master\tbd": null
+    }
+   },
+   "luc": "2026-10-08 08:19:41",
+   "nhan": "Biến đổi hàng loạt 2 cột: Thêm cả TRƯỚC và SAU",
+   "so": 2
+  }
+ ],
+ "luc_luu": "2026-10-08 08:19:41",
  "nguoi_luu": "ducpro",
  "rong": {},
  "sua": {}
