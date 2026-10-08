@@ -157,10 +157,22 @@
    "luc": "2026-10-08 08:23:23",
    "nhan": "Biến đổi hàng loạt 1 cột: Thêm cả TRƯỚC và SAU",
    "so": 1
+  },
+  {
+   "d": {
+    "sua": {
+     "13938\t4842053001486\tnoise_level_tskt_master": null
+    }
+   },
+   "luc": "2026-10-08 08:27:42",
+   "nhan": "Kiểm tra nhanh: sửa 1 ô",
+   "so": 1
   }
  ],
- "luc_luu": "2026-10-08 08:26:48",
+ "luc_luu": "2026-10-08 08:27:42",
  "nguoi_luu": "ducpro",
  "rong": {},
- "sua": {}
+ "sua": {
+  "13938\t4842053001486\tnoise_level_tskt_master": "75 dB"
+ }
 }
