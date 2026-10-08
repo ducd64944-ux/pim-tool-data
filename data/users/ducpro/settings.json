@@ -43,6 +43,15 @@
     "pham_vi": "tat_ca"
    }
   ],
+  "11519\twide_tskt_master\tbd": [
+   {
+    "a": "Rộng",
+    "b": "cm",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "pham_vi": "tat_ca"
+   }
+  ],
   "13938\tdeep_tskt_master\tbd": [
    {
     "a": "Sâu",
@@ -165,7 +174,34 @@
     "pham_vi": "tat_ca"
    }
   ],
-  "9179\tmachine_weight_tskt_master": "kg"
+  "9179\tmachine_weight_tskt_master": "kg",
+  "9179\twide_accessories_tskt_master\tbd": [
+   {
+    "a": "Rộng",
+    "b": "cm",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "pham_vi": "tat_ca"
+   }
+  ],
+  "9179\twide_foldable_tskt_master\tbd": [
+   {
+    "a": "Rộng",
+    "b": "cm",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "pham_vi": "tat_ca"
+   }
+  ],
+  "9179\twide_tskt_master\tbd": [
+   {
+    "a": "Rộng",
+    "b": "cm",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "pham_vi": "tat_ca"
+   }
+  ]
  },
  "duyet_ten": [],
  "hoan_tac": [
@@ -361,9 +397,22 @@
    "luc": "2026-10-08 09:33:26",
    "nhan": "Áp đơn vị hàng loạt",
    "so": 1
+  },
+  {
+   "d": {
+    "dv": {
+     "11519\twide_tskt_master\tbd": null,
+     "9179\twide_accessories_tskt_master\tbd": null,
+     "9179\twide_foldable_tskt_master\tbd": null,
+     "9179\twide_tskt_master\tbd": null
+    }
+   },
+   "luc": "2026-10-08 09:35:27",
+   "nhan": "Biến đổi hàng loạt 4 cột: Thêm cả TRƯỚC và SAU",
+   "so": 4
   }
  ],
- "luc_luu": "2026-10-08 09:33:26",
+ "luc_luu": "2026-10-08 09:35:27",
  "nguoi_luu": "ducpro",
  "rong": {},
  "sua": {
