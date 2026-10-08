@@ -1,6 +1,71 @@
 {
- "chon": [],
- "chua_map": [],
+ "chon": [
+  {
+   "CHỌN": true,
+   "GHI CHÚ": "",
+   "MÃ NH": "9055",
+   "NGUỒN CATE": "CATEGORYID",
+   "SỐ SKU": 77,
+   "TAB TSKT / CẤU HÌNH": "cấu hình — 32 cột",
+   "TÊN NGÀNH HÀNG": "Thiết bị chống giật, ổn áp"
+  }
+ ],
+ "chua_map": [
+  {
+   "cate": "9055",
+   "goi_y_ma": "",
+   "prop_id": "48518",
+   "prop_name": "Loại sản phẩm",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Cầu dao tự động (CB)"
+  },
+  {
+   "cate": "9055",
+   "goi_y_ma": "",
+   "prop_id": "48519",
+   "prop_name": "Chất liệu",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Nhựa"
+  },
+  {
+   "cate": "9055",
+   "goi_y_ma": "",
+   "prop_id": "48520",
+   "prop_name": "Kích thước - Khối lượng",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Cao: 10 cm - Ngang: 4.3 cm - Sâu: 5.5 cm - Nặng: 0.1 kg"
+  },
+  {
+   "cate": "9055",
+   "goi_y_ma": "",
+   "prop_id": "48521",
+   "prop_name": "Thương hiệu của",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Nhật Bản"
+  },
+  {
+   "cate": "9055",
+   "goi_y_ma": "",
+   "prop_id": "48522",
+   "prop_name": "Sản xuất tại",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Việt Nam"
+  },
+  {
+   "cate": "9055",
+   "goi_y_ma": "",
+   "prop_id": "48523",
+   "prop_name": "Năm ra mắt",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Hãng không công bố"
+  }
+ ],
  "dx_dang_ap": 0,
  "goc_cms": {},
  "log": [
@@ -71,478 +136,101 @@
    "Không có dòng nào trong DATA SP"
   ],
   [
-   "9924339000033",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9924339000034",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9924339000022",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9924339000026",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9924339000029",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9924339000023",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9924339000028",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9924339000031",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9924339000032",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9924339000024",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9924339000030",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9924339000021",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9924339000025",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9924339000027",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1214339000019",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1214339000020",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1214339000021",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1214339000011",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
+   "3842811000030",
+   "9055",
+   "output_power_filter_master",
+   "FILTER: giá trị CMS \"Không\" chưa có option trong DATA PIM — để trống"
   ],
   [
    "3842811000030",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1214339000007",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1214339000008",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1214339000009",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1214339000010",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1214339000033",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1214339000032",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1214339000031",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1214339000030",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1214339000029",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1214339000028",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1214339000027",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1214339000026",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1214339000025",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1214339000022",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1214339000024",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1214339000023",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1214339000018",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1214339000017",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1214339000016",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1214339000015",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1214339000014",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1214339000013",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1214339000012",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1214339000006",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1214339000005",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1214339000004",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1214339000003",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1214339000002",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1214339000001",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9924339000037",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9924339000035",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9924339000041",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9924339000040",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9924339000008",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9924339000007",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9924339000009",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9924339000047",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9924339000052",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9924339000053",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9924339000056",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9924339000036",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9924339000046",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9924339000050",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9924339000048",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9924339000038",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9924339000039",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9924339000001",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9924339000004",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9924339000057",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9924339000054",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9924339000055",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9924339000005",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9924339000006",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9924339000051",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9924339000003",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9924339000002",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9924339000049",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9924339000010",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
+   "9055",
+   "minimum_input_voltage_filter_master",
+   "FILTER: giá trị CMS \"Đang cập nhật\" chưa có option trong DATA PIM — để trống"
   ]
  ],
- "luc": "2026-10-08 14:43:53",
- "nganh": {},
+ "luc": "2026-10-08 14:44:46",
+ "nganh": {
+  "9055": {
+   "attr": [
+    "minimum_input_voltage_filter_master",
+    "output_power_filter_master",
+    "product_type_filter_master",
+    "ambient_operating_temperature_tskt_master",
+    "brand_of_tskt_master",
+    "deep_tskt_master",
+    "display_tskt_master",
+    "electrical_safety_class_tskt_master",
+    "engine_core_tskt_master",
+    "high_tskt_master",
+    "horizontal_tskt_master",
+    "input_cable_size_tskt_master",
+    "input_voltage_tskt_master",
+    "insulation_resistance_tskt_master",
+    "magnetic_core_material_tskt_master",
+    "mass_tskt_master",
+    "minimum_efficiency_tskt_master",
+    "noise_level_tskt_master",
+    "number_of_phases_tskt_master",
+    "operating_frequency_tskt_master",
+    "operating_humidity_tskt_master",
+    "output_power_tskt_master",
+    "output_voltage_tskt_master",
+    "overload_and_short_circuit_protection_tskt_master",
+    "place_of_production_tskt_master",
+    "product_line_tskt_master",
+    "product_type_tskt_master",
+    "response_time_tskt_master",
+    "size_weight_tskt_master",
+    "technology_tskt_master",
+    "the_engine_is_running_tskt_master",
+    "utilities_tskt_master"
+   ],
+   "ten": {
+    "ambient_operating_temperature_tskt_master": "Nhiệt độ môi trường đặt máy",
+    "brand_of_tskt_master": "Thương hiệu của",
+    "deep_tskt_master": "Sâu",
+    "display_tskt_master": "Hiển thị",
+    "electrical_safety_class_tskt_master": "An toàn dây điện/vỏ máy",
+    "engine_core_tskt_master": "Lõi động cơ",
+    "high_tskt_master": "Cao",
+    "horizontal_tskt_master": "Ngang",
+    "input_cable_size_tskt_master": "Kích thước dây đầu vào",
+    "input_voltage_tskt_master": "Điện áp đầu vào",
+    "insulation_resistance_tskt_master": "Điện trở cách điện",
+    "magnetic_core_material_tskt_master": "Chất liệu khung từ",
+    "mass_tskt_master": "Khối lượng",
+    "minimum_efficiency_tskt_master": "Hiệu suất tối thiểu",
+    "minimum_input_voltage_filter_master": "Điện áp đầu vào thấp nhất",
+    "noise_level_tskt_master": "Độ ồn",
+    "number_of_phases_tskt_master": "Số Pha",
+    "operating_frequency_tskt_master": "Tần số hoạt động",
+    "operating_humidity_tskt_master": "Độ ẩm hoạt động",
+    "output_power_filter_master": "Công suất đầu ra",
+    "output_power_tskt_master": "Công suất đầu ra",
+    "output_voltage_tskt_master": "Điện áp đầu ra",
+    "overload_and_short_circuit_protection_tskt_master": "Bảo vệ quá tải, ngắn mạch",
+    "place_of_production_tskt_master": "Nơi sản xuất",
+    "product_line_tskt_master": "Dòng sản phẩm",
+    "product_type_filter_master": "Loại sản phẩm",
+    "product_type_tskt_master": "Loại sản phẩm",
+    "response_time_tskt_master": "Thời gian đáp ứng",
+    "size_weight_tskt_master": "Kích thước Khối lượng",
+    "technology_tskt_master": "Công nghệ",
+    "the_engine_is_running_tskt_master": "Động cơ hoạt động",
+    "utilities_tskt_master": "Tiện ích"
+   },
+   "ten_nh": "Thiết bị chống giật, ổn áp",
+   "title": "TSKT 9055 Thiết bị chống giật, ổn áp"
+  }
+ },
  "o_theo_ten": [],
  "tom_tat": {
-  "filter_khong_khop": 0,
-  "khong_data": 88,
+  "filter_khong_khop": 2,
+  "khong_data": 11,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 0,
-  "so_o": 0,
-  "so_sku": 0
+  "so_nganh": 1,
+  "so_o": 2275,
+  "so_sku": 77
  }
 }
