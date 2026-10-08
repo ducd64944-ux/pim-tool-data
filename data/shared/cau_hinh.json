@@ -567,6 +567,39 @@
    "voltage_tskt_master": "Điện áp"
   }
  },
+ "14198": {
+  "cot": [
+   "body_material_filter_master",
+   "capacity_filter_master",
+   "form_filter_master",
+   "brand_of_tskt_master",
+   "diameter_tskt_master",
+   "made_in_tskt_master",
+   "material_tskt_master",
+   "number_of_classes_tskt_master",
+   "product_type_tskt_master",
+   "size_weight_tskt_master",
+   "temperature_tskt_master",
+   "utilities_tskt_master",
+   "water_storage_capacity_tskt_master"
+  ],
+  "ten": "Bồn nước",
+  "ten_cot": {
+   "body_material_filter_master": "Chất liệu thân vỏ",
+   "brand_of_tskt_master": "Thương hiệu của",
+   "capacity_filter_master": "Dung lượng dung tích",
+   "diameter_tskt_master": "Đường kính",
+   "form_filter_master": "Kiểu dáng",
+   "made_in_tskt_master": "Sản xuất tại",
+   "material_tskt_master": "Chất liệu",
+   "number_of_classes_tskt_master": "Số lớp",
+   "product_type_tskt_master": "Loại sản phẩm",
+   "size_weight_tskt_master": "Kích thước Khối lượng",
+   "temperature_tskt_master": "Nhiệt độ",
+   "utilities_tskt_master": "Tiện ích",
+   "water_storage_capacity_tskt_master": "Dung tích chứa nước"
+  }
+ },
  "14258": {
   "cot": [
    "backwash_cycle_tskt_master",
