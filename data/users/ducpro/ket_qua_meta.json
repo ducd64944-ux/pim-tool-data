@@ -1,115 +1,209 @@
 {
  "chon": [
   {
-   "CHỌN": false,
-   "GHI CHÚ": "Chưa có tab TSKT lẫn cấu hình — thêm 1 trong 2",
+   "CHỌN": true,
+   "GHI CHÚ": "",
    "MÃ NH": "13538",
    "NGUỒN CATE": "CATEGORYID",
    "SỐ SKU": 16,
-   "TAB TSKT / CẤU HÌNH": "",
-   "TÊN NGÀNH HÀNG": ""
+   "TAB TSKT / CẤU HÌNH": "cấu hình — 20 cột",
+   "TÊN NGÀNH HÀNG": "Tủ sấy quần áo"
   }
  ],
- "chua_map": [],
+ "chua_map": [
+  {
+   "cate": "13538",
+   "goi_y_ma": "",
+   "prop_id": "8440",
+   "prop_name": "Công suất tiêu thụ",
+   "so_dong": 9,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "1000W"
+  },
+  {
+   "cate": "13538",
+   "goi_y_ma": "",
+   "prop_id": "8441",
+   "prop_name": "Nhiệt độ sấy tối đa",
+   "so_dong": 9,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "65°C"
+  },
+  {
+   "cate": "13538",
+   "goi_y_ma": "",
+   "prop_id": "8442",
+   "prop_name": "Khối lượng sấy",
+   "so_dong": 9,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "12 Kg"
+  },
+  {
+   "cate": "13538",
+   "goi_y_ma": "",
+   "prop_id": "8447",
+   "prop_name": "Loại máy",
+   "so_dong": 9,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Sấy bằng đèn"
+  },
+  {
+   "cate": "13538",
+   "goi_y_ma": "",
+   "prop_id": "8640",
+   "prop_name": "Động cơ",
+   "so_dong": 9,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Quạt"
+  },
+  {
+   "cate": "13538",
+   "goi_y_ma": "",
+   "prop_id": "8641",
+   "prop_name": "Bảng điều khiển",
+   "so_dong": 9,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Đang cập nhật"
+  },
+  {
+   "cate": "13538",
+   "goi_y_ma": "",
+   "prop_id": "8643",
+   "prop_name": "Khối lượng máy",
+   "so_dong": 9,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "4.5 kg"
+  },
+  {
+   "cate": "13538",
+   "goi_y_ma": "",
+   "prop_id": "8644",
+   "prop_name": "Sản xuất tại",
+   "so_dong": 9,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Trung Quốc"
+  },
+  {
+   "cate": "13538",
+   "goi_y_ma": "",
+   "prop_id": "8645",
+   "prop_name": "Dòng sản phẩm",
+   "so_dong": 9,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "2015"
+  },
+  {
+   "cate": "13538",
+   "goi_y_ma": "",
+   "prop_id": "8647",
+   "prop_name": "Chất liệu lồng sấy",
+   "so_dong": 9,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Vải nhựa"
+  },
+  {
+   "cate": "13538",
+   "goi_y_ma": "",
+   "prop_id": "10399",
+   "prop_name": "Khối lượng sấy",
+   "so_dong": 9,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Trên 10 kg"
+  },
+  {
+   "cate": "13538",
+   "goi_y_ma": "",
+   "prop_id": "10400",
+   "prop_name": "Loại máy sấy",
+   "so_dong": 9,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Tủ sấy - Lồng sấy"
+  },
+  {
+   "cate": "13538",
+   "goi_y_ma": "",
+   "prop_id": "17637",
+   "prop_name": "Tiện ích",
+   "so_dong": 23,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không có"
+  },
+  {
+   "cate": "13538",
+   "goi_y_ma": "",
+   "prop_id": "26092",
+   "prop_name": "Label đại diện",
+   "so_dong": 9,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Đang cập nhật"
+  },
+  {
+   "cate": "13538",
+   "goi_y_ma": "",
+   "prop_id": "27303",
+   "prop_name": "Số người sử dụng",
+   "so_dong": 9,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Đang cập nhật"
+  },
+  {
+   "cate": "13538",
+   "goi_y_ma": "",
+   "prop_id": "41299",
+   "prop_name": "Loại máy sấy (tên trong trang NH)",
+   "so_dong": 9,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Tủ sấy quần áo"
+  },
+  {
+   "cate": "13538",
+   "goi_y_ma": "",
+   "prop_id": "45158",
+   "prop_name": "Loại máy",
+   "so_dong": 16,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Tủ sấy quần áo"
+  },
+  {
+   "cate": "13538",
+   "goi_y_ma": "",
+   "prop_id": "27325",
+   "prop_name": "Cao",
+   "so_dong": 7,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "150"
+  },
+  {
+   "cate": "13538",
+   "goi_y_ma": "",
+   "prop_id": "27326",
+   "prop_name": "Ngang",
+   "so_dong": 7,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "70"
+  },
+  {
+   "cate": "13538",
+   "goi_y_ma": "",
+   "prop_id": "27327",
+   "prop_name": "Sâu",
+   "so_dong": 7,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "50"
+  },
+  {
+   "cate": "13538",
+   "goi_y_ma": "",
+   "prop_id": "23466",
+   "prop_name": "Tiện ích",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  }
+ ],
  "dx_dang_ap": 0,
  "goc_cms": {},
  "log": [
-  [
-   "4842053001466",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001464",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001459",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001458",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001469",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001457",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001468",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001467",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001465",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001463",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001462",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001461",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001470",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001460",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001456",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001471",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
   [
    "4844743000092",
    "",
@@ -123,22 +217,83 @@
    "Không có dòng nào trong DATA SP"
   ],
   [
-   "",
+   "4844743000087",
    "13538",
-   "",
-   "Không có tab TSKT lẫn cấu hình — bỏ qua"
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Sấy tự động AI\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "4844743000087",
+   "13538",
+   "inner_material_filter_master",
+   "FILTER: giá trị CMS \"Vải tồng hợp terylene\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "4844743000089",
+   "13538",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Luồng khí nóng tuần hoàn 360°\" chưa có option trong DATA PIM — để trống"
   ]
  ],
- "luc": "2026-10-08 15:14:45",
- "nganh": {},
+ "luc": "2026-10-08 15:16:24",
+ "nganh": {
+  "13538": {
+   "attr": [
+    "inner_material_filter_master",
+    "utilities_filter_master",
+    "control_panel_tskt_master",
+    "deep_tskt_master",
+    "drying_time_tskt_master",
+    "electricity_consumption_tskt_master",
+    "engine_tskt_master",
+    "high_tskt_master",
+    "horizontal_tskt_master",
+    "inner_material_tskt_master",
+    "machine_weight_tskt_master",
+    "made_in_tskt_master",
+    "main_load_tskt_master",
+    "maximum_temperature_tskt_master",
+    "number_of_users_tskt_master",
+    "product_line_tskt_master",
+    "product_type_tskt_master",
+    "quantity_tskt_master",
+    "size_weight_tskt_master",
+    "utilities_tskt_master"
+   ],
+   "ten": {
+    "control_panel_tskt_master": "Bảng điều khiển",
+    "deep_tskt_master": "Sâu",
+    "drying_time_tskt_master": "Thời gian sấy",
+    "electricity_consumption_tskt_master": "Điện năng tiêu thụ",
+    "engine_tskt_master": "Động cơ",
+    "high_tskt_master": "Cao",
+    "horizontal_tskt_master": "Ngang",
+    "inner_material_filter_master": "Chất liệu ruột",
+    "inner_material_tskt_master": "Chất liệu ruột",
+    "machine_weight_tskt_master": "Khối lượng máy",
+    "made_in_tskt_master": "Sản xuất tại",
+    "main_load_tskt_master": "Khối lượng tải chính",
+    "maximum_temperature_tskt_master": "Nhiệt độ tối đa",
+    "number_of_users_tskt_master": "Số người sử dụng",
+    "product_line_tskt_master": "Dòng sản phẩm",
+    "product_type_tskt_master": "Loại sản phẩm",
+    "quantity_tskt_master": "Số lượng",
+    "size_weight_tskt_master": "Kích thước Khối lượng",
+    "utilities_filter_master": "Tiện ích",
+    "utilities_tskt_master": "Tiện ích"
+   },
+   "ten_nh": "Tủ sấy quần áo",
+   "title": "TSKT 13538 Tủ sấy quần áo"
+  }
+ },
  "o_theo_ten": [],
  "tom_tat": {
-  "filter_khong_khop": 0,
-  "khong_data": 34,
+  "filter_khong_khop": 3,
+  "khong_data": 2,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 0,
-  "so_o": 0,
-  "so_sku": 0
+  "so_nganh": 1,
+  "so_o": 303,
+  "so_sku": 16
  }
 }
