@@ -1,134 +1,605 @@
 {
- "chon": [],
- "chua_map": [],
+ "chon": [
+  {
+   "CHỌN": true,
+   "GHI CHÚ": "",
+   "MÃ NH": "10218",
+   "NGUỒN CATE": "CATEGORYID",
+   "SỐ SKU": 13,
+   "TAB TSKT / CẤU HÌNH": "cấu hình — 10 cột",
+   "TÊN NGÀNH HÀNG": "Xe thăng bằng trẻ em"
+  },
+  {
+   "CHỌN": true,
+   "GHI CHÚ": "",
+   "MÃ NH": "6552",
+   "NGUỒN CATE": "CATEGORYID",
+   "SỐ SKU": 6,
+   "TAB TSKT / CẤU HÌNH": "cấu hình — 24 cột",
+   "TÊN NGÀNH HÀNG": "Tủ trữ rượu vang"
+  }
+ ],
+ "chua_map": [
+  {
+   "cate": "10218",
+   "goi_y_ma": "",
+   "prop_id": "28209",
+   "prop_name": "Chất liệu sơn",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Sơn tĩnh điện"
+  },
+  {
+   "cate": "10218",
+   "goi_y_ma": "",
+   "prop_id": "28210",
+   "prop_name": "Tiện ích",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "10218",
+   "goi_y_ma": "",
+   "prop_id": "28212",
+   "prop_name": "Chiều cao khuyến nghị",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "80 - 100 cm"
+  },
+  {
+   "cate": "10218",
+   "goi_y_ma": "",
+   "prop_id": "28213",
+   "prop_name": "Độ tuổi khuyến nghị",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "2 - 4 tuổi"
+  },
+  {
+   "cate": "10218",
+   "goi_y_ma": "",
+   "prop_id": "28215",
+   "prop_name": "Tải trọng nguyên xe",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "30 kg"
+  },
+  {
+   "cate": "10218",
+   "goi_y_ma": "",
+   "prop_id": "28216",
+   "prop_name": "Tải trọng yên phụ",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "10218",
+   "goi_y_ma": "",
+   "prop_id": "28217",
+   "prop_name": "Thương hiệu",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Việt Nam"
+  },
+  {
+   "cate": "10218",
+   "goi_y_ma": "",
+   "prop_id": "28219",
+   "prop_name": "Hãng",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Vinbike"
+  },
+  {
+   "cate": "10218",
+   "goi_y_ma": "",
+   "prop_id": "28220",
+   "prop_name": "Chất liệu khung sườn",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Thép"
+  },
+  {
+   "cate": "10218",
+   "goi_y_ma": "",
+   "prop_id": "28221",
+   "prop_name": "Kích thước khung sườn",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "10218",
+   "goi_y_ma": "",
+   "prop_id": "28222",
+   "prop_name": "Loại phuộc",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Vinbike STL"
+  },
+  {
+   "cate": "10218",
+   "goi_y_ma": "",
+   "prop_id": "28223",
+   "prop_name": "Vị trí phuộc",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Trước"
+  },
+  {
+   "cate": "10218",
+   "goi_y_ma": "",
+   "prop_id": "28224",
+   "prop_name": "Hành trình phuộc",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Hãng không công bố"
+  },
+  {
+   "cate": "10218",
+   "goi_y_ma": "",
+   "prop_id": "28225",
+   "prop_name": "Chất liệu phuộc",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Hợp kim"
+  },
+  {
+   "cate": "10218",
+   "goi_y_ma": "",
+   "prop_id": "28226",
+   "prop_name": "Kích cỡ bánh xe",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "12 inch"
+  },
+  {
+   "cate": "10218",
+   "goi_y_ma": "",
+   "prop_id": "28227",
+   "prop_name": "Loại vành",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "SINGLE WALL, 16H"
+  },
+  {
+   "cate": "10218",
+   "goi_y_ma": "",
+   "prop_id": "28228",
+   "prop_name": "Độ cao vành",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "16 mm"
+  },
+  {
+   "cate": "10218",
+   "goi_y_ma": "",
+   "prop_id": "28229",
+   "prop_name": "Đùm",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Hợp kim"
+  },
+  {
+   "cate": "10218",
+   "goi_y_ma": "",
+   "prop_id": "28230",
+   "prop_name": "Căm",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "ED Spoke"
+  },
+  {
+   "cate": "10218",
+   "goi_y_ma": "",
+   "prop_id": "28231",
+   "prop_name": "Lốp xe",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "EAKIA 12*2.125"
+  },
+  {
+   "cate": "10218",
+   "goi_y_ma": "",
+   "prop_id": "28232",
+   "prop_name": "Tay đề",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "10218",
+   "goi_y_ma": "",
+   "prop_id": "28233",
+   "prop_name": "Chuyển dĩa",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "10218",
+   "goi_y_ma": "",
+   "prop_id": "28234",
+   "prop_name": "Bộ thắng",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Rear"
+  },
+  {
+   "cate": "10218",
+   "goi_y_ma": "",
+   "prop_id": "28235",
+   "prop_name": "Tay thắng",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "10218",
+   "goi_y_ma": "",
+   "prop_id": "28236",
+   "prop_name": "Loại phanh thắng",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Phanh vành (niềng)"
+  },
+  {
+   "cate": "10218",
+   "goi_y_ma": "",
+   "prop_id": "28237",
+   "prop_name": "Loại líp",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "10218",
+   "goi_y_ma": "",
+   "prop_id": "28238",
+   "prop_name": "Số lượng líp",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "10218",
+   "goi_y_ma": "",
+   "prop_id": "28239",
+   "prop_name": "Sên xe",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "10218",
+   "goi_y_ma": "",
+   "prop_id": "28240",
+   "prop_name": "Giò dĩa",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "10218",
+   "goi_y_ma": "",
+   "prop_id": "28241",
+   "prop_name": "Ghi đông",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Hợp kim"
+  },
+  {
+   "cate": "10218",
+   "goi_y_ma": "",
+   "prop_id": "28242",
+   "prop_name": "Hãng yên xe",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Vinbike"
+  },
+  {
+   "cate": "10218",
+   "goi_y_ma": "",
+   "prop_id": "28243",
+   "prop_name": "Loại cốt",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "27.2*300mm"
+  },
+  {
+   "cate": "10218",
+   "goi_y_ma": "",
+   "prop_id": "28244",
+   "prop_name": "Đường kính cốt",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "27.2 mm"
+  },
+  {
+   "cate": "10218",
+   "goi_y_ma": "",
+   "prop_id": "28245",
+   "prop_name": "Chất liệu cốt",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Hợp kim"
+  },
+  {
+   "cate": "10218",
+   "goi_y_ma": "",
+   "prop_id": "28247",
+   "prop_name": "Loại xe đạp",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Xe Đạp Trẻ Em"
+  },
+  {
+   "cate": "10218",
+   "goi_y_ma": "",
+   "prop_id": "28498",
+   "prop_name": "Model",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Youth Vivu"
+  },
+  {
+   "cate": "10218",
+   "goi_y_ma": "",
+   "prop_id": "28499",
+   "prop_name": "Ngang",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "76"
+  },
+  {
+   "cate": "10218",
+   "goi_y_ma": "",
+   "prop_id": "28500",
+   "prop_name": "Cao",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "41"
+  },
+  {
+   "cate": "10218",
+   "goi_y_ma": "",
+   "prop_id": "28501",
+   "prop_name": "Rộng",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "18"
+  },
+  {
+   "cate": "10218",
+   "goi_y_ma": "",
+   "prop_id": "28502",
+   "prop_name": "Nặng",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "4"
+  },
+  {
+   "cate": "10218",
+   "goi_y_ma": "",
+   "prop_id": "28739",
+   "prop_name": "Bảo hành bộ truyền động (giò dĩa, trục giữa, bộ líp, chuyển líp, tay đề)",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "6 tháng"
+  },
+  {
+   "cate": "10218",
+   "goi_y_ma": "",
+   "prop_id": "28740",
+   "prop_name": "Bảo hành phuộc giảm xóc (nếu có)",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "6 tháng"
+  },
+  {
+   "cate": "10218",
+   "goi_y_ma": "",
+   "prop_id": "30137",
+   "prop_name": "Loại van bơm",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Van Mỹ/Van Schrader"
+  },
+  {
+   "cate": "10218",
+   "goi_y_ma": "",
+   "prop_id": "30138",
+   "prop_name": "Loại tay đề",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "10218",
+   "goi_y_ma": "",
+   "prop_id": "30139",
+   "prop_name": "Số đĩa",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "10218",
+   "goi_y_ma": "",
+   "prop_id": "30142",
+   "prop_name": "Chất liệu Pô tăng/ Cổ xe",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Hợp kim"
+  },
+  {
+   "cate": "10218",
+   "goi_y_ma": "",
+   "prop_id": "30145",
+   "prop_name": "Chất liệu yên",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Da"
+  },
+  {
+   "cate": "10218",
+   "goi_y_ma": "",
+   "prop_id": "31687",
+   "prop_name": "Label sản phẩm",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  }
+ ],
  "dx_dang_ap": 0,
  "goc_cms": {},
  "log": [
   [
-   "4842053001478",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001477",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001481",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
+   "4842053001476",
+   "6552",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Đèn chiếu sáng khoang tủ\" chưa có option trong DATA PIM — để trống"
   ],
   [
    "4842053001479",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
+   "6552",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Có giá treo ly\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "4842053001479",
+   "6552",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Hệ thống làm lạnh 2 vùng độc lập\" chưa có option trong DATA PIM — để trống"
   ],
   [
    "4842053001480",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
+   "6552",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Hệ thống quạt tuần hoàn\" chưa có option trong DATA PIM — để trống"
   ],
   [
-   "4842053001476",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
+   "4842053001480",
+   "6552",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Khóa an toàn trẻ em\" chưa có option trong DATA PIM — để trống"
   ],
   [
-   "1314941000008",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
+   "4842053001480",
+   "6552",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Lọc mùi bằng than hoạt tính\" chưa có option trong DATA PIM — để trống"
   ],
   [
-   "1314741000324",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
+   "4842053001481",
+   "6552",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"4 khay bảo quản cigar chất liệu gỗ tuyết tùng Tây Ban Nha (sức chứa 350 điếu)\" chưa có option trong DATA PIM — để trống"
   ],
   [
-   "1314941000005",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1314941000007",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1314941000006",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1314941000011",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1314941000009",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1314941000010",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1314741000325",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1314941000004",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1314941000003",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1314941000001",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1314941000002",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
+   "4842053001481",
+   "6552",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Đồng hồ đo và kiểm soát độ ẩm\" chưa có option trong DATA PIM — để trống"
   ]
  ],
- "luc": "2026-10-08 15:34:15",
- "nganh": {},
+ "luc": "2026-10-08 15:34:53",
+ "nganh": {
+  "10218": {
+   "attr": [
+    "age_tskt_master",
+    "frame_material_tskt_master",
+    "high_tskt_master",
+    "long_tskt_master",
+    "machine_weight_tskt_master",
+    "payload_tskt_master",
+    "rim_material_tskt_master",
+    "saddle_material_tskt_master",
+    "tire_type_tskt_master",
+    "wide_tskt_master"
+   ],
+   "ten": {
+    "age_tskt_master": "Độ tuổi",
+    "frame_material_tskt_master": "Chất liệu khung viền",
+    "high_tskt_master": "Cao",
+    "long_tskt_master": "Dài",
+    "machine_weight_tskt_master": "Khối lượng máy",
+    "payload_tskt_master": "Trọng tải",
+    "rim_material_tskt_master": "Chất liệu vành",
+    "saddle_material_tskt_master": "Chất liệu yên",
+    "tire_type_tskt_master": "Loại lốp",
+    "wide_tskt_master": "Rộng"
+   },
+   "ten_nh": "Xe thăng bằng trẻ em",
+   "title": "TSKT 10218 Xe thăng bằng trẻ em"
+  },
+  "6552": {
+   "attr": [
+    "made_in_filter_master",
+    "product_type_filter_master",
+    "utilities_filter_master",
+    "wine_capacity_filter_master",
+    "control_panel_tskt_master",
+    "cooling_technology_tskt_master",
+    "deep_tskt_master",
+    "door_material_tskt_master",
+    "electricity_consumption_tskt_master",
+    "gas_type_tskt_master",
+    "high_tskt_master",
+    "installation_type_tskt_master",
+    "lighting_tskt_master",
+    "machine_weight_tskt_master",
+    "made_in_tskt_master",
+    "maximum_capacity_tskt_master",
+    "noise_level_tskt_master",
+    "operating_temperature_tskt_master",
+    "product_type_tskt_master",
+    "quantity_tskt_master",
+    "refrigerator_tray_material_tskt_master",
+    "surface_material_tskt_master",
+    "utilities_tskt_master",
+    "wide_tskt_master"
+   ],
+   "ten": {
+    "control_panel_tskt_master": "Bảng điều khiển",
+    "cooling_technology_tskt_master": "Công nghệ làm lạnh",
+    "deep_tskt_master": "Sâu",
+    "door_material_tskt_master": "Chất liệu cửa",
+    "electricity_consumption_tskt_master": "Điện năng tiêu thụ",
+    "gas_type_tskt_master": "Loại Gas",
+    "high_tskt_master": "Cao",
+    "installation_type_tskt_master": "Kiểu lắp đặt",
+    "lighting_tskt_master": "Đèn chiếu sáng",
+    "machine_weight_tskt_master": "Khối lượng máy",
+    "made_in_filter_master": "Sản xuất tại",
+    "made_in_tskt_master": "Sản xuất tại",
+    "maximum_capacity_tskt_master": "Sức chứa tối đa",
+    "noise_level_tskt_master": "Độ ồn",
+    "operating_temperature_tskt_master": "Nhiệt độ hoạt động",
+    "product_type_filter_master": "Loại sản phẩm",
+    "product_type_tskt_master": "Loại sản phẩm",
+    "quantity_tskt_master": "Số lượng",
+    "refrigerator_tray_material_tskt_master": "Chất liệu khay ngăn lạnh",
+    "surface_material_tskt_master": "Chất liệu mặt",
+    "utilities_filter_master": "Tiện ích",
+    "utilities_tskt_master": "Tiện ích",
+    "wide_tskt_master": "Rộng",
+    "wine_capacity_filter_master": "Sức chứa"
+   },
+   "ten_nh": "Tủ trữ rượu vang",
+   "title": "TSKT 6552 Tủ trữ rượu vang"
+  }
+ },
  "o_theo_ten": [],
  "tom_tat": {
-  "filter_khong_khop": 0,
-  "khong_data": 19,
+  "filter_khong_khop": 8,
+  "khong_data": 0,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 0,
-  "so_o": 0,
-  "so_sku": 0
+  "so_nganh": 2,
+  "so_o": 259,
+  "so_sku": 19
  }
 }
