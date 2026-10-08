@@ -56,6 +56,15 @@
     "pham_vi": "tat_ca"
    }
   ],
+  "5554\tmachine_weight_tskt_master\tbd": [
+   {
+    "a": "Khối lượng",
+    "b": "g",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "pham_vi": "tat_ca"
+   }
+  ],
   "5554\twide_tskt_master\tbd": [
    {
     "a": "Rộng",
@@ -119,9 +128,19 @@
    "luc": "2026-10-08 08:21:34",
    "nhan": "Biến đổi hàng loạt 1 cột: Thêm cả TRƯỚC và SAU",
    "so": 1
+  },
+  {
+   "d": {
+    "dv": {
+     "5554\tmachine_weight_tskt_master\tbd": null
+    }
+   },
+   "luc": "2026-10-08 08:22:51",
+   "nhan": "Biến đổi hàng loạt 1 cột: Thêm cả TRƯỚC và SAU",
+   "so": 1
   }
  ],
- "luc_luu": "2026-10-08 08:21:34",
+ "luc_luu": "2026-10-08 08:22:51",
  "nguoi_luu": "ducpro",
  "rong": {},
  "sua": {}
