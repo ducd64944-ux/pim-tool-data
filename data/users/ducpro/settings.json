@@ -2,6 +2,15 @@
  "cai_dat_ver": 3,
  "chon_nganh": {},
  "don_vi": {
+  "11519\thigh_tskt_master\tbd": [
+   {
+    "a": "Cao",
+    "b": "cm",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "pham_vi": "tat_ca"
+   }
+  ],
   "13938\tdeep_tskt_master\tbd": [
    {
     "a": "Sâu",
@@ -77,6 +86,15 @@
   "5554\twide_tskt_master\tbd": [
    {
     "a": "Rộng",
+    "b": "cm",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "pham_vi": "tat_ca"
+   }
+  ],
+  "9179\thigh_tskt_master\tbd": [
+   {
+    "a": "Cao",
     "b": "cm",
     "he_so": "",
     "kieu": "ca_hai",
@@ -167,9 +185,20 @@
    "luc": "2026-10-08 08:27:42",
    "nhan": "Kiểm tra nhanh: sửa 1 ô",
    "so": 1
+  },
+  {
+   "d": {
+    "dv": {
+     "11519\thigh_tskt_master\tbd": null,
+     "9179\thigh_tskt_master\tbd": null
+    }
+   },
+   "luc": "2026-10-08 09:20:01",
+   "nhan": "Biến đổi hàng loạt 2 cột: Thêm cả TRƯỚC và SAU",
+   "so": 2
   }
  ],
- "luc_luu": "2026-10-08 08:43:23",
+ "luc_luu": "2026-10-08 09:20:01",
  "nguoi_luu": "ducpro",
  "rong": {},
  "sua": {
