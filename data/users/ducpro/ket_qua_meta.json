@@ -1,5 +1,15 @@
 {
- "chon": [],
+ "chon": [
+  {
+   "CHỌN": false,
+   "GHI CHÚ": "Chưa có tab TSKT lẫn cấu hình — thêm 1 trong 2",
+   "MÃ NH": "13538",
+   "NGUỒN CATE": "CATEGORYID",
+   "SỐ SKU": 16,
+   "TAB TSKT / CẤU HÌNH": "",
+   "TÊN NGÀNH HÀNG": ""
+  }
+ ],
  "chua_map": [],
  "dx_dang_ap": 0,
  "goc_cms": {},
@@ -107,109 +117,19 @@
    "Không có dòng nào trong DATA SP"
   ],
   [
-   "4844743000054",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001404",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001403",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001406",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001407",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4844743000037",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001405",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4844743000083",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4844743000089",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4844743000046",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4844743000052",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4844743000087",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1801211445200",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4844743000036",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001402",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4844743000038",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
    "4844743000055",
    "",
    "",
    "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "",
+   "13538",
+   "",
+   "Không có tab TSKT lẫn cấu hình — bỏ qua"
   ]
  ],
- "luc": "2026-10-08 15:09:17",
+ "luc": "2026-10-08 15:10:32",
  "nganh": {},
  "o_theo_ten": [],
  "tom_tat": {
