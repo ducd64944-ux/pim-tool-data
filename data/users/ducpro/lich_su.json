@@ -96,5 +96,19 @@
   "Thêm đơn vị": 0,
   "Tách xin data": 0,
   "Workspace": "ducpro"
+ },
+ {
+  "Biến đổi": 46,
+  "Chặn ô theo tên": 0,
+  "Cảnh báo": "• 21 dòng không có trong file PIM | • 2 model_code lặp ở nhiều dòng file MODEL (PIM sẽ lấy dòng sau cùng — kiểm tra IMPORT có thiếu variant_code không)",
+  "File": "PIM_TSKT 8621 Máy hút sữa_MODEL_20261008_1203.xlsx, PIM_TSKT 8968 Máy khí dung_MODEL_20261008_1203.xlsx",
+  "Không/Đang cập nhật": 0,
+  "Lúc": "2026-10-08 12:03:17",
+  "Người xuất": "ducpro",
+  "Số dòng": 21,
+  "Sửa tay": 0,
+  "Thêm đơn vị": 0,
+  "Tách xin data": 0,
+  "Workspace": "ducpro"
  }
 ]
