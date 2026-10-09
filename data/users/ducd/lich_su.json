@@ -604,5 +604,19 @@
   "Thêm đơn vị": 6,
   "Tách xin data": 0,
   "Workspace": "ducd"
+ },
+ {
+  "Biến đổi": 10,
+  "Chặn ô theo tên": 0,
+  "Cảnh báo": "• 2 SKU thiếu category_code | • 2 dòng không có trong file PIM | • 4 ô giá trị CMS bị MẤT khi map (xem 🧾 Đối soát)",
+  "File": "PIM_TSKT 2063 Lò nướng_MODEL_20261009_0937.xlsx",
+  "Không/Đang cập nhật": 2,
+  "Lúc": "2026-10-09 09:37:05",
+  "Người xuất": "ducd",
+  "Số dòng": 2,
+  "Sửa tay": 0,
+  "Thêm đơn vị": 0,
+  "Tách xin data": 0,
+  "Workspace": "ducd"
  }
 ]
