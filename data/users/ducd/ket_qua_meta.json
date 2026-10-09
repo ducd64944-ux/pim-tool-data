@@ -1,203 +1,50 @@
 {
- "chon": [
-  {
-   "CHỌN": true,
-   "GHI CHÚ": "",
-   "MÃ NH": "7498",
-   "NGUỒN CATE": "CATEGORYID",
-   "SỐ SKU": 4,
-   "TAB TSKT / CẤU HÌNH": "cấu hình — 20 cột",
-   "TÊN NGÀNH HÀNG": "Quạt điều hoà"
-  }
- ],
- "chua_map": [
-  {
-   "cate": "7498",
-   "goi_y_ma": "",
-   "prop_id": "19459",
-   "prop_name": "Remote",
-   "so_dong": 4,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không có"
-  },
-  {
-   "cate": "7498",
-   "goi_y_ma": "",
-   "prop_id": "19460",
-   "prop_name": "Động cơ (Motor)",
-   "so_dong": 4,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không bảo hành"
-  },
-  {
-   "cate": "7498",
-   "goi_y_ma": "",
-   "prop_id": "46422",
-   "prop_name": "Tiện ích",
-   "so_dong": 4,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Có remote"
-  }
- ],
+ "chon": [],
+ "chua_map": [],
  "dx_dang_ap": 0,
  "goc_cms": {},
  "log": [
   [
-   "ID_371961",
-   "7498",
-   "control_panel_filter_master",
-   "FILTER: giá trị CMS \"Có remote\" chưa có option trong DATA PIM — để trống"
+   "ID_371870",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "ID_371961",
-   "7498",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Có chế độ làm lạnh và hút ẩm\" chưa có option trong DATA PIM — để trống"
+   "ID_371871",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "ID_371961",
-   "7498",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Hẹn giờ 1 - 24 giờ\" chưa có option trong DATA PIM — để trống"
+   "ID_371957",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "ID_371961",
-   "7498",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Kết nối Wi-Fi, điều khiển từ xa bằng điện thoại\" chưa có option trong DATA PIM — để trống"
+   "ID_371959",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "ID_371961",
-   "7498",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Smart Mode - Chế độ vận hành thông minh\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "ID_371961",
-   "7498",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Tự động điều chỉnh nhiệt độ\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "ID_371961",
-   "7498",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"UV-C hỗ trợ làm sạch không khí\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "ID_371962",
-   "7498",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Màng lọc thô kết hợp UV-C\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "ID_371962",
-   "7498",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Đảo gió tự động\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "ID_371964",
-   "7498",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"3 chế độ: Làm lạnh/Quạt/Hút ẩm\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "ID_371964",
-   "7498",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Chế độ Sleep\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "ID_371964",
-   "7498",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Cảnh báo và tự động dừng khi đầy nước\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "ID_371964",
-   "7498",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Tắt trễ giúp làm khô dàn lạnh, hạn chế ẩm mốc\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "ID_371964",
-   "7498",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Tự bay hơi nước ngưng (Self-Evaporation)\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "ID_371964",
-   "7498",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Tự động khởi động lại khi có điện\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "ID_371965",
-   "7498",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Hút ẩm\" chưa có option trong DATA PIM — để trống"
+   "ID_371960",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ]
  ],
- "luc": "2026-10-09 10:59:49",
- "nganh": {
-  "7498": {
-   "attr": [
-    "capacity_filter_master",
-    "control_panel_filter_master",
-    "cooling_area_filter_master",
-    "utilities_filter_master",
-    "air_flow_tskt_master",
-    "brand_of_tskt_master",
-    "control_panel_tskt_master",
-    "deep_tskt_master",
-    "high_tskt_master",
-    "horizontal_tskt_master",
-    "machine_weight_tskt_master",
-    "made_in_tskt_master",
-    "noise_level_tskt_master",
-    "power_tskt_master",
-    "release_date_tskt_master",
-    "scope_of_use_tskt_master",
-    "utilities_tskt_master",
-    "water_storage_capacity_tskt_master",
-    "wind_level_tskt_master",
-    "wind_mode_tskt_master"
-   ],
-   "ten": {
-    "air_flow_tskt_master": "Lưu lượng gió",
-    "brand_of_tskt_master": "Thương hiệu của",
-    "capacity_filter_master": "Dung lượng dung tích",
-    "control_panel_filter_master": "Bảng điều khiển",
-    "control_panel_tskt_master": "Bảng điều khiển",
-    "cooling_area_filter_master": "Diện tích làm mát",
-    "deep_tskt_master": "Sâu",
-    "high_tskt_master": "Cao",
-    "horizontal_tskt_master": "Ngang",
-    "machine_weight_tskt_master": "Khối lượng máy",
-    "made_in_tskt_master": "Sản xuất tại",
-    "noise_level_tskt_master": "Độ ồn",
-    "power_tskt_master": "Công suất",
-    "release_date_tskt_master": "Thời gian ra mắt",
-    "scope_of_use_tskt_master": "Phạm vi sử dụng",
-    "utilities_filter_master": "Tiện ích",
-    "utilities_tskt_master": "Tiện ích",
-    "water_storage_capacity_tskt_master": "Dung tích chứa nước",
-    "wind_level_tskt_master": "Mức gió",
-    "wind_mode_tskt_master": "Chế độ gió"
-   },
-   "ten_nh": "Quạt điều hoà",
-   "title": "TSKT 7498 Quạt điều hoà"
-  }
- },
+ "luc": "2026-10-09 11:36:46",
+ "nganh": {},
  "o_theo_ten": [],
  "tom_tat": {
-  "filter_khong_khop": 16,
-  "khong_data": 0,
+  "filter_khong_khop": 0,
+  "khong_data": 5,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 1,
-  "so_o": 80,
-  "so_sku": 4
+  "so_nganh": 0,
+  "so_o": 0,
+  "so_sku": 0
  }
 }
