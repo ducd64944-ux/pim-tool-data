@@ -532,6 +532,55 @@
    "utilities_tskt_master": "Tiện ích"
   }
  },
+ "13798": {
+  "cot": [
+   "brand_of_tskt_master",
+   "capacity_tskt_master",
+   "control_panel_tskt_master",
+   "cooling_capacity_tskt_master",
+   "cycle_time_tskt_master",
+   "electric_current_tskt_master",
+   "fine_filter_core_tskt_master",
+   "high_tskt_master",
+   "horizontal_tskt_master",
+   "machine_weight_tskt_master",
+   "made_in_tskt_master",
+   "noise_level_tskt_master",
+   "operating_environment_tskt_master",
+   "output_power_tskt_master",
+   "quantity_tskt_master",
+   "refrigerant_tskt_master",
+   "release_date_tskt_master",
+   "thick_tskt_master",
+   "utilities_tskt_master",
+   "voltage_tskt_master",
+   "water_source_tskt_master"
+  ],
+  "ten": "Máy làm đá",
+  "ten_cot": {
+   "brand_of_tskt_master": "Thương hiệu của",
+   "capacity_tskt_master": "Dung lượng",
+   "control_panel_tskt_master": "Bảng điều khiển",
+   "cooling_capacity_tskt_master": "Năng suất làm lạnh",
+   "cycle_time_tskt_master": "Thời gian chu kỳ",
+   "electric_current_tskt_master": "Dòng điện",
+   "fine_filter_core_tskt_master": "Lõi lọc tinh",
+   "high_tskt_master": "Cao",
+   "horizontal_tskt_master": "Ngang",
+   "machine_weight_tskt_master": "Khối lượng máy",
+   "made_in_tskt_master": "Sản xuất tại",
+   "noise_level_tskt_master": "Độ ồn",
+   "operating_environment_tskt_master": "Môi trường hoạt động",
+   "output_power_tskt_master": "Công suất đầu ra",
+   "quantity_tskt_master": "Số lượng",
+   "refrigerant_tskt_master": "Chất làm lạnh",
+   "release_date_tskt_master": "Thời gian ra mắt",
+   "thick_tskt_master": "Dày",
+   "utilities_tskt_master": "Tiện ích",
+   "voltage_tskt_master": "Điện áp",
+   "water_source_tskt_master": "Nguồn nước"
+  }
+ },
  "13938": {
   "cot": [
    "utilities_filter_master",
