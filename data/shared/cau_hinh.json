@@ -48,6 +48,49 @@
    "wringer_head_material_tskt_master": "Chất liệu đầu vắt"
   }
  },
+ "10140": {
+  "cot": [
+   "brand_of_tskt_master",
+   "capacity_tskt_master",
+   "control_panel_tskt_master",
+   "cooking_technology_tskt_master",
+   "deep_tskt_master",
+   "function_tskt_master",
+   "high_tskt_master",
+   "horizontal_tskt_master",
+   "inner_pot_tskt_master",
+   "machine_weight_tskt_master",
+   "made_in_tskt_master",
+   "output_power_tskt_master",
+   "release_date_tskt_master",
+   "size_weight_tskt_master",
+   "special_features_tskt_master",
+   "thick_tskt_master",
+   "utilities_tskt_master",
+   "wire_tskt_master"
+  ],
+  "ten": "Nồi nấm chậm",
+  "ten_cot": {
+   "brand_of_tskt_master": "Thương hiệu của",
+   "capacity_tskt_master": "Dung lượng",
+   "control_panel_tskt_master": "Bảng điều khiển",
+   "cooking_technology_tskt_master": "Công nghệ nấu",
+   "deep_tskt_master": "Sâu",
+   "function_tskt_master": "Chức năng",
+   "high_tskt_master": "Cao",
+   "horizontal_tskt_master": "Ngang",
+   "inner_pot_tskt_master": "Lòng nồi",
+   "machine_weight_tskt_master": "Khối lượng máy",
+   "made_in_tskt_master": "Sản xuất tại",
+   "output_power_tskt_master": "Công suất đầu ra",
+   "release_date_tskt_master": "Thời gian ra mắt",
+   "size_weight_tskt_master": "Kích thước Khối lượng",
+   "special_features_tskt_master": "Tính năng đặc biệt",
+   "thick_tskt_master": "Dày",
+   "utilities_tskt_master": "Tiện ích",
+   "wire_tskt_master": "Dây điện"
+  }
+ },
  "10218": {
   "cot": [
    "age_tskt_master",
