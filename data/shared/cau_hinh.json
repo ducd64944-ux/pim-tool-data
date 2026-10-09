@@ -3012,6 +3012,53 @@
    "voltage_tskt_master": "Điện áp"
   }
  },
+ "7498": {
+  "cot": [
+   "capacity_filter_master",
+   "control_panel_filter_master",
+   "cooling_area_filter_master",
+   "utilities_filter_master",
+   "air_flow_tskt_master",
+   "brand_of_tskt_master",
+   "control_panel_tskt_master",
+   "deep_tskt_master",
+   "high_tskt_master",
+   "horizontal_tskt_master",
+   "machine_weight_tskt_master",
+   "made_in_tskt_master",
+   "noise_level_tskt_master",
+   "power_tskt_master",
+   "release_date_tskt_master",
+   "scope_of_use_tskt_master",
+   "utilities_tskt_master",
+   "water_storage_capacity_tskt_master",
+   "wind_level_tskt_master",
+   "wind_mode_tskt_master"
+  ],
+  "ten": "Quạt điều hoà",
+  "ten_cot": {
+   "air_flow_tskt_master": "Lưu lượng gió",
+   "brand_of_tskt_master": "Thương hiệu của",
+   "capacity_filter_master": "Dung lượng dung tích",
+   "control_panel_filter_master": "Bảng điều khiển",
+   "control_panel_tskt_master": "Bảng điều khiển",
+   "cooling_area_filter_master": "Diện tích làm mát",
+   "deep_tskt_master": "Sâu",
+   "high_tskt_master": "Cao",
+   "horizontal_tskt_master": "Ngang",
+   "machine_weight_tskt_master": "Khối lượng máy",
+   "made_in_tskt_master": "Sản xuất tại",
+   "noise_level_tskt_master": "Độ ồn",
+   "power_tskt_master": "Công suất",
+   "release_date_tskt_master": "Thời gian ra mắt",
+   "scope_of_use_tskt_master": "Phạm vi sử dụng",
+   "utilities_filter_master": "Tiện ích",
+   "utilities_tskt_master": "Tiện ích",
+   "water_storage_capacity_tskt_master": "Dung tích chứa nước",
+   "wind_level_tskt_master": "Mức gió",
+   "wind_mode_tskt_master": "Chế độ gió"
+  }
+ },
  "7685": {
   "cot": [
    "brand_of_tskt_master",
