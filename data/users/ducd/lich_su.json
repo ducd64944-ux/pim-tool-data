@@ -842,5 +842,19 @@
   "Thêm đơn vị": 1,
   "Tách xin data": 0,
   "Workspace": "ducd"
+ },
+ {
+  "Biến đổi": 0,
+  "Chặn ô theo tên": 0,
+  "Cảnh báo": "• 2 dòng không có trong file PIM | • 8 ô giá trị CMS bị MẤT khi map (xem 🧾 Đối soát)",
+  "File": "PIM_TSKT 1992 Quạt_MODEL_20261009_1724.xlsx",
+  "Không/Đang cập nhật": 12,
+  "Lúc": "2026-10-09 17:24:46",
+  "Người xuất": "ducd",
+  "Số dòng": 2,
+  "Sửa tay": 0,
+  "Thêm đơn vị": 2,
+  "Tách xin data": 0,
+  "Workspace": "ducd"
  }
 ]
