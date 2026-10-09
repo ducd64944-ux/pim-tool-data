@@ -292,5 +292,19 @@
   "Thêm đơn vị": 6,
   "Tách xin data": 0,
   "Workspace": "ducpro"
+ },
+ {
+  "Biến đổi": 0,
+  "Chặn ô theo tên": 0,
+  "Cảnh báo": "• 4 dòng không có trong file PIM | • 11 ô giá trị CMS bị MẤT khi map (xem 🧾 Đối soát)",
+  "File": "PIM_TSKT 2402 Nồi_MODEL_20261009_1418.xlsx",
+  "Không/Đang cập nhật": 0,
+  "Lúc": "2026-10-09 14:18:23",
+  "Người xuất": "ducpro",
+  "Số dòng": 4,
+  "Sửa tay": 3,
+  "Thêm đơn vị": 0,
+  "Tách xin data": 0,
+  "Workspace": "ducpro"
  }
 ]
