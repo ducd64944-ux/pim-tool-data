@@ -1,38 +1,175 @@
 {
- "chon": [],
- "chua_map": [],
+ "chon": [
+  {
+   "CHỌN": true,
+   "GHI CHÚ": "",
+   "MÃ NH": "1992",
+   "NGUỒN CATE": "CATEGORYID",
+   "SỐ SKU": 1,
+   "TAB TSKT / CẤU HÌNH": "cấu hình — 27 cột",
+   "TÊN NGÀNH HÀNG": "Quạt"
+  }
+ ],
+ "chua_map": [
+  {
+   "cate": "1992",
+   "goi_y_ma": "",
+   "prop_id": "15396",
+   "prop_name": "Remote",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không có"
+  },
+  {
+   "cate": "1992",
+   "goi_y_ma": "",
+   "prop_id": "15437",
+   "prop_name": "Động cơ (Motor)",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không có"
+  },
+  {
+   "cate": "1992",
+   "goi_y_ma": "",
+   "prop_id": "40423",
+   "prop_name": "Chính sách lắp đặt",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "1992",
+   "goi_y_ma": "",
+   "prop_id": "41298",
+   "prop_name": "Motor",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Motor AC"
+  },
+  {
+   "cate": "1992",
+   "goi_y_ma": "",
+   "prop_id": "42099",
+   "prop_name": "Tiện ích",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Điều khiển bằng giọng nói"
+  },
+  {
+   "cate": "1992",
+   "goi_y_ma": "",
+   "prop_id": "46201",
+   "prop_name": "Loại quạt",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Quạt đứng"
+  },
+  {
+   "cate": "1992",
+   "goi_y_ma": "",
+   "prop_id": "47798",
+   "prop_name": "Dòng sản phẩm",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  }
+ ],
  "dx_dang_ap": 0,
  "goc_cms": {},
  "log": [
   [
-   "high_tskt_master",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
+   "4844159000283",
+   "1992",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Chức năng đuổi muỗi\" chưa có option trong DATA PIM — để trống"
   ],
   [
-   "Cao",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
+   "4844159000283",
+   "1992",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Có ngăn chứa tinh dầu\" chưa có option trong DATA PIM — để trống"
   ],
   [
-   "65-90-117.8cm",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
+   "4844159000283",
+   "1992",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Tạo ion âm lọc không khí\" chưa có option trong DATA PIM — để trống"
   ]
  ],
- "luc": "2026-10-09 17:38:50",
- "nganh": {},
+ "luc": "2026-10-09 17:39:49",
+ "nganh": {
+  "1992": {
+   "attr": [
+    "product_type_filter_master",
+    "utilities_filter_master",
+    "battery_capacity_tskt_master",
+    "battery_type_tskt_master",
+    "body_material_tskt_master",
+    "brand_of_tskt_master",
+    "charger_tskt_master",
+    "charging_time_tskt_master",
+    "control_panel_tskt_master",
+    "cooling_area_tskt_master",
+    "deep_tskt_master",
+    "engine_tskt_master",
+    "fan_diameter_tskt_master",
+    "high_tskt_master",
+    "horizontal_tskt_master",
+    "long_cord_tskt_master",
+    "machine_weight_tskt_master",
+    "made_in_tskt_master",
+    "noise_level_tskt_master",
+    "number_of_propellers_tskt_master",
+    "power_tskt_master",
+    "product_type_tskt_master",
+    "release_date_tskt_master",
+    "usage_time_tskt_master",
+    "utilities_tskt_master",
+    "wind_level_tskt_master",
+    "wind_mode_tskt_master"
+   ],
+   "ten": {
+    "battery_capacity_tskt_master": "Dung lượng pin",
+    "battery_type_tskt_master": "Loại pin",
+    "body_material_tskt_master": "Chất liệu thân vỏ",
+    "brand_of_tskt_master": "Thương hiệu của",
+    "charger_tskt_master": "Nguồn sạc",
+    "charging_time_tskt_master": "Thời gian sạc",
+    "control_panel_tskt_master": "Bảng điều khiển",
+    "cooling_area_tskt_master": "Diện tích làm mát",
+    "deep_tskt_master": "Sâu",
+    "engine_tskt_master": "Động cơ",
+    "fan_diameter_tskt_master": "Đường kính cánh quạt",
+    "high_tskt_master": "Cao",
+    "horizontal_tskt_master": "Ngang",
+    "long_cord_tskt_master": "Dài dây",
+    "machine_weight_tskt_master": "Khối lượng máy",
+    "made_in_tskt_master": "Sản xuất tại",
+    "noise_level_tskt_master": "Độ ồn",
+    "number_of_propellers_tskt_master": "Số cánh quạt",
+    "power_tskt_master": "Công suất",
+    "product_type_filter_master": "Loại sản phẩm",
+    "product_type_tskt_master": "Loại sản phẩm",
+    "release_date_tskt_master": "Thời gian ra mắt",
+    "usage_time_tskt_master": "Thời gian sử dụng",
+    "utilities_filter_master": "Tiện ích",
+    "utilities_tskt_master": "Tiện ích",
+    "wind_level_tskt_master": "Mức gió",
+    "wind_mode_tskt_master": "Chế độ gió"
+   },
+   "ten_nh": "Quạt",
+   "title": "TSKT 1992 Quạt"
+  }
+ },
  "o_theo_ten": [],
  "tom_tat": {
-  "filter_khong_khop": 0,
-  "khong_data": 3,
+  "filter_khong_khop": 3,
+  "khong_data": 0,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 0,
-  "so_o": 0,
-  "so_sku": 0
+  "so_nganh": 1,
+  "so_o": 27,
+  "so_sku": 1
  }
 }
