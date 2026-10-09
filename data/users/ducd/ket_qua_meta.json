@@ -1,36 +1,98 @@
 {
  "chon": [
   {
-   "CHỌN": false,
-   "GHI CHÚ": "Chưa có tab TSKT lẫn cấu hình — thêm 1 trong 2",
+   "CHỌN": true,
+   "GHI CHÚ": "",
    "MÃ NH": "1984",
    "NGUỒN CATE": "CATEGORYID",
    "SỐ SKU": 2,
-   "TAB TSKT / CẤU HÌNH": "",
-   "TÊN NGÀNH HÀNG": ""
+   "TAB TSKT / CẤU HÌNH": "cấu hình — 25 cột",
+   "TÊN NGÀNH HÀNG": "Nồi áp suất"
   }
  ],
- "chua_map": [],
+ "chua_map": [
+  {
+   "cate": "1984",
+   "goi_y_ma": "",
+   "prop_id": "36499",
+   "prop_name": "Loại nồi",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Nồi áp suất"
+  }
+ ],
  "dx_dang_ap": 0,
  "goc_cms": {},
- "log": [
-  [
-   "",
-   "1984",
-   "",
-   "Không có tab TSKT lẫn cấu hình — bỏ qua"
-  ]
- ],
- "luc": "2026-10-09 15:32:20",
- "nganh": {},
+ "log": [],
+ "luc": "2026-10-09 15:34:31",
+ "nganh": {
+  "1984": {
+   "attr": [
+    "capacity_filter_master",
+    "control_panel_filter_master",
+    "function_filter_master",
+    "inner_material_filter_master",
+    "product_type_filter_master",
+    "safety_features_filter_master",
+    "body_material_tskt_master",
+    "brand_of_tskt_master",
+    "capacity_tskt_master",
+    "control_panel_tskt_master",
+    "deep_tskt_master",
+    "function_tskt_master",
+    "high_tskt_master",
+    "horizontal_tskt_master",
+    "inner_pot_tskt_master",
+    "long_cord_tskt_master",
+    "machine_weight_tskt_master",
+    "made_in_tskt_master",
+    "output_power_tskt_master",
+    "product_type_tskt_master",
+    "release_date_tskt_master",
+    "safety_features_tskt_master",
+    "safety_valve_tskt_master",
+    "size_weight_tskt_master",
+    "utilities_tskt_master"
+   ],
+   "ten": {
+    "body_material_tskt_master": "Chất liệu thân vỏ",
+    "brand_of_tskt_master": "Thương hiệu của",
+    "capacity_filter_master": "Dung lượng dung tích",
+    "capacity_tskt_master": "Dung lượng",
+    "control_panel_filter_master": "Bảng điều khiển",
+    "control_panel_tskt_master": "Bảng điều khiển",
+    "deep_tskt_master": "Sâu",
+    "function_filter_master": "Chức năng",
+    "function_tskt_master": "Chức năng",
+    "high_tskt_master": "Cao",
+    "horizontal_tskt_master": "Ngang",
+    "inner_material_filter_master": "Chất liệu ruột",
+    "inner_pot_tskt_master": "Lòng nồi",
+    "long_cord_tskt_master": "Dài dây",
+    "machine_weight_tskt_master": "Khối lượng máy",
+    "made_in_tskt_master": "Sản xuất tại",
+    "output_power_tskt_master": "Công suất đầu ra",
+    "product_type_filter_master": "Loại sản phẩm",
+    "product_type_tskt_master": "Loại sản phẩm",
+    "release_date_tskt_master": "Thời gian ra mắt",
+    "safety_features_filter_master": "Tính năng an toàn",
+    "safety_features_tskt_master": "Tính năng an toàn",
+    "safety_valve_tskt_master": "Van an toàn",
+    "size_weight_tskt_master": "Kích thước Khối lượng",
+    "utilities_tskt_master": "Tiện ích"
+   },
+   "ten_nh": "Nồi áp suất",
+   "title": "TSKT 1984 Nồi áp suất"
+  }
+ },
  "o_theo_ten": [],
  "tom_tat": {
   "filter_khong_khop": 0,
-  "khong_data": 2,
+  "khong_data": 0,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 0,
-  "so_o": 0,
-  "so_sku": 0
+  "so_nganh": 1,
+  "so_o": 44,
+  "so_sku": 2
  }
 }
