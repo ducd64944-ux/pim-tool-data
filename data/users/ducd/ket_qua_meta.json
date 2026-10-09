@@ -1,121 +1,32 @@
 {
- "chon": [
-  {
-   "CHỌN": true,
-   "GHI CHÚ": "",
-   "MÃ NH": "2063",
-   "NGUỒN CATE": "CATEGORYID",
-   "SỐ SKU": 2,
-   "TAB TSKT / CẤU HÌNH": "cấu hình — 30 cột",
-   "TÊN NGÀNH HÀNG": "Lò nướng"
-  }
- ],
- "chua_map": [
-  {
-   "cate": "2063",
-   "goi_y_ma": "",
-   "prop_id": "40427",
-   "prop_name": "Chính sách lắp đặt",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  }
- ],
+ "chon": [],
+ "chua_map": [],
  "dx_dang_ap": 0,
  "goc_cms": {},
  "log": [
   [
-   "4844151000399",
-   "2063",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Mặt bếp nướng và nồi lẩu có thể tháo rời, dễ dàng vệ sinh\" chưa có option trong DATA PIM — để trống"
+   "4844154000483",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "4844151000399",
-   "2063",
-   "product_type_filter_master",
-   "FILTER: giá trị CMS \"2025\" chưa có option trong DATA PIM — để trống"
+   "4844154000482",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ]
  ],
- "luc": "2026-10-09 09:34:25",
- "nganh": {
-  "2063": {
-   "attr": [
-    "capacity_filter_master",
-    "control_panel_filter_master",
-    "grilling_power_filter_master",
-    "made_in_filter_master",
-    "product_type_filter_master",
-    "utilities_filter_master",
-    "baking_mode_tskt_master",
-    "body_material_tskt_master",
-    "brand_of_tskt_master",
-    "capacity_tskt_master",
-    "control_panel_tskt_master",
-    "deep_tskt_master",
-    "function_tskt_master",
-    "high_intestinal_tskt_master",
-    "high_tskt_master",
-    "horizontal_tskt_master",
-    "installation_dimensions_tskt_master",
-    "intestinal_worms_tskt_master",
-    "long_cord_tskt_master",
-    "machine_weight_tskt_master",
-    "made_in_tskt_master",
-    "number_of_compartments_tskt_master",
-    "operating_temperature_tskt_master",
-    "output_power_tskt_master",
-    "product_type_tskt_master",
-    "release_date_tskt_master",
-    "technology_tskt_master",
-    "timer_tskt_master",
-    "transverse_intestine_tskt_master",
-    "utilities_tskt_master"
-   ],
-   "ten": {
-    "baking_mode_tskt_master": "Chế độ nướng",
-    "body_material_tskt_master": "Chất liệu thân vỏ",
-    "brand_of_tskt_master": "Thương hiệu của",
-    "capacity_filter_master": "Dung lượng dung tích",
-    "capacity_tskt_master": "Dung lượng",
-    "control_panel_filter_master": "Bảng điều khiển",
-    "control_panel_tskt_master": "Bảng điều khiển",
-    "deep_tskt_master": "Sâu",
-    "function_tskt_master": "Chức năng",
-    "grilling_power_filter_master": "Công suất nướng",
-    "high_intestinal_tskt_master": "Cao ruột",
-    "high_tskt_master": "Cao",
-    "horizontal_tskt_master": "Ngang",
-    "installation_dimensions_tskt_master": "Kích thước lắp đặt",
-    "intestinal_worms_tskt_master": "Sâu ruột",
-    "long_cord_tskt_master": "Dài dây",
-    "machine_weight_tskt_master": "Khối lượng máy",
-    "made_in_filter_master": "Sản xuất tại",
-    "made_in_tskt_master": "Sản xuất tại",
-    "number_of_compartments_tskt_master": "Số ngăn",
-    "operating_temperature_tskt_master": "Nhiệt độ hoạt động",
-    "output_power_tskt_master": "Công suất đầu ra",
-    "product_type_filter_master": "Loại sản phẩm",
-    "product_type_tskt_master": "Loại sản phẩm",
-    "release_date_tskt_master": "Thời gian ra mắt",
-    "technology_tskt_master": "Công nghệ",
-    "timer_tskt_master": "Hẹn giờ",
-    "transverse_intestine_tskt_master": "Ngang ruột",
-    "utilities_filter_master": "Tiện ích",
-    "utilities_tskt_master": "Tiện ích"
-   },
-   "ten_nh": "Lò nướng",
-   "title": "TSKT 2063 Lò nướng"
-  }
- },
+ "luc": "2026-10-09 09:42:43",
+ "nganh": {},
  "o_theo_ten": [],
  "tom_tat": {
-  "filter_khong_khop": 2,
-  "khong_data": 0,
+  "filter_khong_khop": 0,
+  "khong_data": 2,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 1,
-  "so_o": 48,
-  "so_sku": 2
+  "so_nganh": 0,
+  "so_o": 0,
+  "so_sku": 0
  }
 }
