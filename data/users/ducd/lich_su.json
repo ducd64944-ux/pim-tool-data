@@ -632,5 +632,19 @@
   "Thêm đơn vị": 0,
   "Tách xin data": 0,
   "Workspace": "ducd"
+ },
+ {
+  "Biến đổi": 10,
+  "Chặn ô theo tên": 0,
+  "Cảnh báo": "• 2 SKU thiếu category_code | • 2 dòng không có trong file PIM",
+  "File": "PIM_TSKT 10138 Máy vắt cam_MODEL_20261009_1017.xlsx",
+  "Không/Đang cập nhật": 4,
+  "Lúc": "2026-10-09 10:17:44",
+  "Người xuất": "ducd",
+  "Số dòng": 2,
+  "Sửa tay": 0,
+  "Thêm đơn vị": 0,
+  "Tách xin data": 0,
+  "Workspace": "ducd"
  }
 ]
