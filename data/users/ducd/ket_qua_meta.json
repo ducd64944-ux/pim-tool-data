@@ -1,36 +1,107 @@
 {
  "chon": [
   {
-   "CHỌN": false,
-   "GHI CHÚ": "Chưa có tab TSKT lẫn cấu hình — thêm 1 trong 2",
+   "CHỌN": true,
+   "GHI CHÚ": "",
    "MÃ NH": "1922",
    "NGUỒN CATE": "CATEGORYID",
    "SỐ SKU": 1,
-   "TAB TSKT / CẤU HÌNH": "",
-   "TÊN NGÀNH HÀNG": ""
+   "TAB TSKT / CẤU HÌNH": "cấu hình — 26 cột",
+   "TÊN NGÀNH HÀNG": "Nồi cơm điện"
   }
  ],
- "chua_map": [],
+ "chua_map": [
+  {
+   "cate": "1922",
+   "goi_y_ma": "",
+   "prop_id": "27001",
+   "prop_name": "Nấu được",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "5 - 8 cốc gạo"
+  }
+ ],
  "dx_dang_ap": 0,
  "goc_cms": {},
  "log": [
   [
-   "",
+   "4844158000298",
    "1922",
-   "",
-   "Không có tab TSKT lẫn cấu hình — bỏ qua"
+   "other_cooking_functions_filter_master",
+   "FILTER: giá trị CMS \"Đang cập nhật\" chưa có option trong DATA PIM — để trống"
   ]
  ],
- "luc": "2026-10-09 17:11:10",
- "nganh": {},
+ "luc": "2026-10-09 17:14:09",
+ "nganh": {
+  "1922": {
+   "attr": [
+    "capacity_filter_master",
+    "inner_material_filter_master",
+    "launch_year_filter_master",
+    "made_in_filter_master",
+    "other_cooking_functions_filter_master",
+    "product_type_filter_master",
+    "brand_of_tskt_master",
+    "capacity_tskt_master",
+    "control_panel_tskt_master",
+    "cooking_technology_tskt_master",
+    "deep_tskt_master",
+    "function_tskt_master",
+    "high_tskt_master",
+    "horizontal_tskt_master",
+    "inner_material_tskt_master",
+    "language_tskt_master",
+    "long_cord_tskt_master",
+    "machine_weight_tskt_master",
+    "made_in_tskt_master",
+    "number_of_users_tskt_master",
+    "output_power_tskt_master",
+    "product_type_tskt_master",
+    "release_date_tskt_master",
+    "thick_tskt_master",
+    "utilities_tskt_master",
+    "wire_tskt_master"
+   ],
+   "ten": {
+    "brand_of_tskt_master": "Thương hiệu của",
+    "capacity_filter_master": "Dung lượng dung tích",
+    "capacity_tskt_master": "Dung lượng",
+    "control_panel_tskt_master": "Bảng điều khiển",
+    "cooking_technology_tskt_master": "Công nghệ nấu",
+    "deep_tskt_master": "Sâu",
+    "function_tskt_master": "Chức năng",
+    "high_tskt_master": "Cao",
+    "horizontal_tskt_master": "Ngang",
+    "inner_material_filter_master": "Chất liệu ruột",
+    "inner_material_tskt_master": "Chất liệu ruột",
+    "language_tskt_master": "Ngôn ngữ",
+    "launch_year_filter_master": "Năm ra mắt",
+    "long_cord_tskt_master": "Dài dây",
+    "machine_weight_tskt_master": "Khối lượng máy",
+    "made_in_filter_master": "Sản xuất tại",
+    "made_in_tskt_master": "Sản xuất tại",
+    "number_of_users_tskt_master": "Số người sử dụng",
+    "other_cooking_functions_filter_master": "Chức năng nấu khác",
+    "output_power_tskt_master": "Công suất đầu ra",
+    "product_type_filter_master": "Loại sản phẩm",
+    "product_type_tskt_master": "Loại sản phẩm",
+    "release_date_tskt_master": "Thời gian ra mắt",
+    "thick_tskt_master": "Dày",
+    "utilities_tskt_master": "Tiện ích",
+    "wire_tskt_master": "Dây điện"
+   },
+   "ten_nh": "Nồi cơm điện",
+   "title": "TSKT 1922 Nồi cơm điện"
+  }
+ },
  "o_theo_ten": [],
  "tom_tat": {
-  "filter_khong_khop": 0,
-  "khong_data": 1,
+  "filter_khong_khop": 1,
+  "khong_data": 0,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 0,
-  "so_o": 0,
-  "so_sku": 0
+  "so_nganh": 1,
+  "so_o": 24,
+  "so_sku": 1
  }
 }
