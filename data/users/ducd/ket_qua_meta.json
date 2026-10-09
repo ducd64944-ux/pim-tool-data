@@ -1,80 +1,38 @@
 {
- "chon": [
-  {
-   "CHỌN": true,
-   "GHI CHÚ": "",
-   "MÃ NH": "10138",
-   "NGUỒN CATE": "CATEGORYID",
-   "SỐ SKU": 2,
-   "TAB TSKT / CẤU HÌNH": "cấu hình — 21 cột",
-   "TÊN NGÀNH HÀNG": "Máy vắt cam"
-  }
- ],
+ "chon": [],
  "chua_map": [],
  "dx_dang_ap": 0,
  "goc_cms": {},
- "log": [],
- "luc": "2026-10-09 10:14:44",
- "nganh": {
-  "10138": {
-   "attr": [
-    "accessory_materials_tskt_master",
-    "body_material_tskt_master",
-    "brand_of_tskt_master",
-    "capacity_tskt_master",
-    "chassis_material_tskt_master",
-    "deep_tskt_master",
-    "engine_materials_tskt_master",
-    "function_tskt_master",
-    "high_tskt_master",
-    "horizontal_tskt_master",
-    "launch_year_tskt_master",
-    "long_cord_tskt_master",
-    "machine_weight_tskt_master",
-    "made_in_tskt_master",
-    "output_power_tskt_master",
-    "release_date_tskt_master",
-    "safety_features_tskt_master",
-    "size_weight_tskt_master",
-    "spin_speed_tskt_master",
-    "utilities_tskt_master",
-    "wringer_head_material_tskt_master"
-   ],
-   "ten": {
-    "accessory_materials_tskt_master": "Chất liệu phụ kiện",
-    "body_material_tskt_master": "Chất liệu thân vỏ",
-    "brand_of_tskt_master": "Thương hiệu của",
-    "capacity_tskt_master": "Dung lượng",
-    "chassis_material_tskt_master": "Chất liệu thân máy",
-    "deep_tskt_master": "Sâu",
-    "engine_materials_tskt_master": "Chất liệu động cơ",
-    "function_tskt_master": "Chức năng",
-    "high_tskt_master": "Cao",
-    "horizontal_tskt_master": "Ngang",
-    "launch_year_tskt_master": "Năm ra mắt",
-    "long_cord_tskt_master": "Dài dây",
-    "machine_weight_tskt_master": "Khối lượng máy",
-    "made_in_tskt_master": "Sản xuất tại",
-    "output_power_tskt_master": "Công suất đầu ra",
-    "release_date_tskt_master": "Thời gian ra mắt",
-    "safety_features_tskt_master": "Tính năng an toàn",
-    "size_weight_tskt_master": "Kích thước Khối lượng",
-    "spin_speed_tskt_master": "Tốc độ quay vắt",
-    "utilities_tskt_master": "Tiện ích",
-    "wringer_head_material_tskt_master": "Chất liệu đầu vắt"
-   },
-   "ten_nh": "Máy vắt cam",
-   "title": "TSKT 10138 Máy vắt cam"
-  }
- },
+ "log": [
+  [
+   "ID_370602",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844153000415",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844153000416",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ]
+ ],
+ "luc": "2026-10-09 10:25:52",
+ "nganh": {},
  "o_theo_ten": [],
  "tom_tat": {
   "filter_khong_khop": 0,
-  "khong_data": 0,
+  "khong_data": 3,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 1,
-  "so_o": 36,
-  "so_sku": 2
+  "so_nganh": 0,
+  "so_o": 0,
+  "so_sku": 0
  }
 }
