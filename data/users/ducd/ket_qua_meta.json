@@ -5,18 +5,30 @@
  "goc_cms": {},
  "log": [
   [
-   "4844159000283",
+   "high_tskt_master",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "Cao",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "65-90-117.8cm",
    "",
    "",
    "Không có dòng nào trong DATA SP"
   ]
  ],
- "luc": "2026-10-09 17:37:48",
+ "luc": "2026-10-09 17:38:12",
  "nganh": {},
  "o_theo_ten": [],
  "tom_tat": {
   "filter_khong_khop": 0,
-  "khong_data": 1,
+  "khong_data": 3,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
   "so_nganh": 0,
