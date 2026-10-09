@@ -264,5 +264,19 @@
   "Thêm đơn vị": 0,
   "Tách xin data": 0,
   "Workspace": "ducpro"
+ },
+ {
+  "Biến đổi": 36,
+  "Chặn ô theo tên": 0,
+  "Cảnh báo": "• 9 dòng không có trong file PIM | • 1 ô giá trị CMS bị MẤT khi map (xem 🧾 Đối soát)",
+  "File": "PIM_TSKT 9418 Nồi chiên không dầu_MODEL_20261009_1406.xlsx",
+  "Không/Đang cập nhật": 0,
+  "Lúc": "2026-10-09 14:06:14",
+  "Người xuất": "ducpro",
+  "Số dòng": 9,
+  "Sửa tay": 0,
+  "Thêm đơn vị": 6,
+  "Tách xin data": 0,
+  "Workspace": "ducpro"
  }
 ]
