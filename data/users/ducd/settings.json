@@ -1352,16 +1352,6 @@
   {
    "d": {
     "dv": {
-     "11818\tlong_cord_tskt_master\tbd": null
-    }
-   },
-   "luc": "2026-10-09 10:40:16",
-   "nhan": "Biến đổi hàng loạt 1 cột: Thêm cả TRƯỚC và SAU",
-   "so": 1
-  },
-  {
-   "d": {
-    "dv": {
      "13798\thigh_tskt_master\tbd": null
     }
    },
@@ -1508,9 +1498,23 @@
    "luc": "2026-10-09 17:24:23",
    "nhan": "Áp đơn vị hàng loạt",
    "so": 1
+  },
+  {
+   "d": {
+    "sua": {
+     "8579\t1114172000014\tmachine_weight_tskt_master": "Khối lượng 5.8 kg",
+     "8579\t1114172000015\tmachine_weight_tskt_master": "Khối lượng 2 kg",
+     "8579\t1114172000019\tmachine_weight_tskt_master": "Khối lượng 0.6 kg",
+     "8579\t1114172000076\tmachine_weight_tskt_master": "Khối lượng 1.5 kg",
+     "8579\t1114172000077\tmachine_weight_tskt_master": "Khối lượng 5 kg"
+    }
+   },
+   "luc": "2026-10-09 17:46:45",
+   "nhan": "Làm mới lô: xoá IMPORT, DATA SP, kết quả map, sửa tay, spec cũ",
+   "so": 5
   }
  ],
- "luc_luu": "2026-10-09 17:40:07",
+ "luc_luu": "2026-10-09 17:46:45",
  "nguoi_luu": "ducd",
  "rong": {
   "-": [
@@ -1534,11 +1538,5 @@
    ""
   ]
  },
- "sua": {
-  "8579\t1114172000014\tmachine_weight_tskt_master": "Khối lượng 5.8 kg",
-  "8579\t1114172000015\tmachine_weight_tskt_master": "Khối lượng 2 kg",
-  "8579\t1114172000019\tmachine_weight_tskt_master": "Khối lượng 0.6 kg",
-  "8579\t1114172000076\tmachine_weight_tskt_master": "Khối lượng 1.5 kg",
-  "8579\t1114172000077\tmachine_weight_tskt_master": "Khối lượng 5 kg"
- }
+ "sua": {}
 }
