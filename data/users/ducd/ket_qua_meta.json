@@ -1,23 +1,27 @@
 {
- "chon": [],
+ "chon": [
+  {
+   "CHỌN": false,
+   "GHI CHÚ": "Chưa có tab TSKT lẫn cấu hình — thêm 1 trong 2",
+   "MÃ NH": "11818",
+   "NGUỒN CATE": "CATEGORYID",
+   "SỐ SKU": 2,
+   "TAB TSKT / CẤU HÌNH": "",
+   "TÊN NGÀNH HÀNG": ""
+  }
+ ],
  "chua_map": [],
  "dx_dang_ap": 0,
  "goc_cms": {},
  "log": [
   [
-   "4844154000484",
    "",
+   "11818",
    "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4844154000485",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
+   "Không có tab TSKT lẫn cấu hình — bỏ qua"
   ]
  ],
- "luc": "2026-10-09 10:35:18",
+ "luc": "2026-10-09 10:36:07",
  "nganh": {},
  "o_theo_ten": [],
  "tom_tat": {
