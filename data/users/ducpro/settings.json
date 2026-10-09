@@ -821,20 +821,19 @@
     "pham_vi": "tat_ca"
    }
   ],
+  "9418\thigh_tskt_master\tbd": [
+   {
+    "a": "Cao",
+    "b": "cm",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "pham_vi": "tat_ca"
+   }
+  ],
   "9418\tlong_cord_tskt_master": "cm"
  },
  "duyet_ten": [],
  "hoan_tac": [
-  {
-   "d": {
-    "dv": {
-     "6552\tdeep_tskt_master\tbd": null
-    }
-   },
-   "luc": "2026-10-08 15:37:37",
-   "nhan": "Biến đổi hàng loạt 1 cột: Thêm cả TRƯỚC và SAU",
-   "so": 1
-  },
   {
    "d": {
     "dv": {
@@ -975,9 +974,19 @@
    "luc": "2026-10-09 14:02:29",
    "nhan": "Áp đơn vị hàng loạt",
    "so": 1
+  },
+  {
+   "d": {
+    "dv": {
+     "9418\thigh_tskt_master\tbd": null
+    }
+   },
+   "luc": "2026-10-09 14:03:46",
+   "nhan": "Biến đổi hàng loạt 1 cột: Thêm cả TRƯỚC và SAU",
+   "so": 1
   }
  ],
- "luc_luu": "2026-10-09 14:02:29",
+ "luc_luu": "2026-10-09 14:03:46",
  "nguoi_luu": "ducpro",
  "rong": {},
  "sua": {
