@@ -216,6 +216,15 @@
     "pham_vi": "tat_ca"
    }
   ],
+  "1985\thorizontal_tskt_master\tbd": [
+   {
+    "a": "Ngang",
+    "b": "cm",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "pham_vi": "tat_ca"
+   }
+  ],
   "1985\tlong_cord_tskt_master\tbd": [
    {
     "a": "",
@@ -1093,16 +1102,6 @@
   {
    "d": {
     "dv": {
-     "2063\tlong_cord_tskt_master\tbd": null
-    }
-   },
-   "luc": "2026-10-09 09:36:24",
-   "nhan": "Biến đổi hàng loạt 1 cột: Thêm cả TRƯỚC và SAU",
-   "so": 1
-  },
-  {
-   "d": {
-    "dv": {
      "2063\tmachine_weight_tskt_master\tbd": null
     }
    },
@@ -1239,9 +1238,19 @@
    "luc": "2026-10-09 10:30:32",
    "nhan": "Biến đổi hàng loạt 1 cột: Thêm cả TRƯỚC và SAU",
    "so": 1
+  },
+  {
+   "d": {
+    "dv": {
+     "1985\thorizontal_tskt_master\tbd": null
+    }
+   },
+   "luc": "2026-10-09 10:30:51",
+   "nhan": "Biến đổi hàng loạt 1 cột: Thêm cả TRƯỚC và SAU",
+   "so": 1
   }
  ],
- "luc_luu": "2026-10-09 10:30:32",
+ "luc_luu": "2026-10-09 10:30:51",
  "nguoi_luu": "ducd",
  "rong": {
   "-": [
