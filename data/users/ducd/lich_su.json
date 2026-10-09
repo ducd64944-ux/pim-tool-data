@@ -716,5 +716,19 @@
   "Thêm đơn vị": 0,
   "Tách xin data": 0,
   "Workspace": "ducd"
+ },
+ {
+  "Biến đổi": 12,
+  "Chặn ô theo tên": 0,
+  "Cảnh báo": "• 3 dòng không có trong file PIM | • 14 ô giá trị CMS bị MẤT khi map (xem 🧾 Đối soát)",
+  "File": "PIM_TSKT 7498 Quạt điều hoà_MODEL_20261009_1317.xlsx",
+  "Không/Đang cập nhật": 1,
+  "Lúc": "2026-10-09 13:17:38",
+  "Người xuất": "ducd",
+  "Số dòng": 3,
+  "Sửa tay": 0,
+  "Thêm đơn vị": 0,
+  "Tách xin data": 0,
+  "Workspace": "ducd"
  }
 ]
