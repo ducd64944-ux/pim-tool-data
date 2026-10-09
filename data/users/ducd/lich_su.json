@@ -646,5 +646,19 @@
   "Thêm đơn vị": 0,
   "Tách xin data": 0,
   "Workspace": "ducd"
+ },
+ {
+  "Biến đổi": 9,
+  "Chặn ô theo tên": 0,
+  "Cảnh báo": "• 3 dòng không có trong file PIM | • 3 ô giá trị CMS bị MẤT khi map (xem 🧾 Đối soát)",
+  "File": "PIM_TSKT 1985 Máy xay sinh tố_MODEL_20261009_1032.xlsx",
+  "Không/Đang cập nhật": 12,
+  "Lúc": "2026-10-09 10:32:08",
+  "Người xuất": "ducd",
+  "Số dòng": 3,
+  "Sửa tay": 0,
+  "Thêm đơn vị": 0,
+  "Tách xin data": 0,
+  "Workspace": "ducd"
  }
 ]
