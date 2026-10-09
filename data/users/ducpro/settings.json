@@ -865,16 +865,6 @@
   {
    "d": {
     "dv": {
-     "5205\tlid_diameter_tskt_master\tbd": null
-    }
-   },
-   "luc": "2026-10-08 17:14:05",
-   "nhan": "Biến đổi hàng loạt 1 cột: Thêm cả TRƯỚC và SAU",
-   "so": 1
-  },
-  {
-   "d": {
-    "dv": {
      "7858\thigh_tskt_master\tbd": null
     }
    },
@@ -1011,12 +1001,27 @@
    "luc": "2026-10-09 14:15:23",
    "nhan": "Áp đơn vị hàng loạt",
    "so": 1
+  },
+  {
+   "d": {
+    "sua": {
+     "2402\t1033265001197\tthick_tskt_master": null,
+     "2402\t1033265001198\tthick_tskt_master": null,
+     "2402\tID_370577\tthick_tskt_master": null
+    }
+   },
+   "luc": "2026-10-09 14:18:16",
+   "nhan": "Kiểm tra nhanh: sửa 3 ô",
+   "so": 3
   }
  ],
- "luc_luu": "2026-10-09 14:15:23",
+ "luc_luu": "2026-10-09 14:18:16",
  "nguoi_luu": "ducpro",
  "rong": {},
  "sua": {
-  "13938\t4842053001486\tnoise_level_tskt_master": "75 dB"
+  "13938\t4842053001486\tnoise_level_tskt_master": "75 dB",
+  "2402\t1033265001197\tthick_tskt_master": "2.3 mm",
+  "2402\t1033265001198\tthick_tskt_master": "2 mm",
+  "2402\tID_370577\tthick_tskt_master": "2.2 mm"
  }
 }
