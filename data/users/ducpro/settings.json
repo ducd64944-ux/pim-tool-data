@@ -865,16 +865,6 @@
   {
    "d": {
     "dv": {
-     "7858\thigh_tskt_master\tbd": null
-    }
-   },
-   "luc": "2026-10-08 17:24:04",
-   "nhan": "Biến đổi hàng loạt 1 cột: Thêm cả TRƯỚC và SAU",
-   "so": 1
-  },
-  {
-   "d": {
-    "dv": {
      "7858\thorizontal_tskt_master\tbd": null
     }
    },
@@ -1013,15 +1003,28 @@
    "luc": "2026-10-09 14:18:16",
    "nhan": "Kiểm tra nhanh: sửa 3 ô",
    "so": 3
+  },
+  {
+   "d": {
+    "sua": {
+     "5205\tID_370615\tmachine_weight_tskt_master": null,
+     "5205\tID_370616\tmachine_weight_tskt_master": null
+    }
+   },
+   "luc": "2026-10-09 14:30:26",
+   "nhan": "Kiểm tra nhanh: sửa 2 ô",
+   "so": 2
   }
  ],
- "luc_luu": "2026-10-09 14:28:02",
+ "luc_luu": "2026-10-09 14:30:26",
  "nguoi_luu": "ducpro",
  "rong": {},
  "sua": {
   "13938\t4842053001486\tnoise_level_tskt_master": "75 dB",
   "2402\t1033265001197\tthick_tskt_master": "2.3 mm",
   "2402\t1033265001198\tthick_tskt_master": "2 mm",
-  "2402\tID_370577\tthick_tskt_master": "2.2 mm"
+  "2402\tID_370577\tthick_tskt_master": "2.2 mm",
+  "5205\tID_370615\tmachine_weight_tskt_master": "Nặng 0.66 kg",
+  "5205\tID_370616\tmachine_weight_tskt_master": "Nặng 0.66 kg"
  }
 }
