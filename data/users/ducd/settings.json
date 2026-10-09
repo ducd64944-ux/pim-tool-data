@@ -49,6 +49,46 @@
     "pham_vi": "tat_ca"
    }
   ],
+  "10140\tdeep_tskt_master\tbd": [
+   {
+    "a": "Sâu",
+    "b": "cm",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "nguon": "bang",
+    "pham_vi": "so"
+   }
+  ],
+  "10140\thigh_tskt_master\tbd": [
+   {
+    "a": "Cao",
+    "b": "cm",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "nguon": "bang",
+    "pham_vi": "so"
+   }
+  ],
+  "10140\thorizontal_tskt_master\tbd": [
+   {
+    "a": "Ngang",
+    "b": "cm",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "nguon": "bang",
+    "pham_vi": "so"
+   }
+  ],
+  "10140\tmachine_weight_tskt_master\tbd": [
+   {
+    "a": "Nặng",
+    "b": "kg",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "nguon": "bang",
+    "pham_vi": "so"
+   }
+  ],
   "10140\tthick_tskt_master\tbd": [
    {
     "a": "Dày",
@@ -1270,16 +1310,6 @@
   {
    "d": {
     "dv": {
-     "11818\thigh_tskt_master\tbd": null
-    }
-   },
-   "luc": "2026-10-09 10:39:27",
-   "nhan": "Biến đổi hàng loạt 1 cột: Thêm cả TRƯỚC và SAU",
-   "so": 1
-  },
-  {
-   "d": {
-    "dv": {
      "11818\thorizontal_tskt_master\tbd": null
     }
    },
@@ -1419,9 +1449,22 @@
    "luc": "2026-10-09 16:28:38",
    "nhan": "Áp đơn vị hàng loạt",
    "so": 1
+  },
+  {
+   "d": {
+    "dv": {
+     "10140\tdeep_tskt_master\tbd": null,
+     "10140\thigh_tskt_master\tbd": null,
+     "10140\thorizontal_tskt_master\tbd": null,
+     "10140\tmachine_weight_tskt_master\tbd": null
+    }
+   },
+   "luc": "2026-10-09 16:48:16",
+   "nhan": "Áp đơn vị hàng loạt",
+   "so": 4
   }
  ],
- "luc_luu": "2026-10-09 16:46:59",
+ "luc_luu": "2026-10-09 16:48:16",
  "nguoi_luu": "ducd",
  "rong": {
   "-": [
