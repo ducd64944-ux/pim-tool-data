@@ -279,6 +279,46 @@
   ],
   "1942\tlegless_mass_tskt_master": "kg",
   "1942\tmass_with_base_tskt_master": "kg",
+  "1984\tdeep_tskt_master\tbd": [
+   {
+    "a": "Sâu",
+    "b": "cm",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "nguon": "bang",
+    "pham_vi": "so"
+   }
+  ],
+  "1984\thigh_tskt_master\tbd": [
+   {
+    "a": "Cao",
+    "b": "cm",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "nguon": "bang",
+    "pham_vi": "so"
+   }
+  ],
+  "1984\thorizontal_tskt_master\tbd": [
+   {
+    "a": "Ngang",
+    "b": "cm",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "nguon": "bang",
+    "pham_vi": "so"
+   }
+  ],
+  "1984\tmachine_weight_tskt_master\tbd": [
+   {
+    "a": "Nặng",
+    "b": "kg",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "nguon": "bang",
+    "pham_vi": "so"
+   }
+  ],
   "1985\tdeep_tskt_master\tbd": [
    {
     "a": "Sâu",
@@ -1219,16 +1259,6 @@
   {
    "d": {
     "dv": {
-     "1985\tmachine_weight_tskt_master\tbd": null
-    }
-   },
-   "luc": "2026-10-09 10:30:32",
-   "nhan": "Biến đổi hàng loạt 1 cột: Thêm cả TRƯỚC và SAU",
-   "so": 1
-  },
-  {
-   "d": {
-    "dv": {
      "1985\thorizontal_tskt_master\tbd": null
     }
    },
@@ -1365,9 +1395,22 @@
    "luc": "2026-10-09 13:17:04",
    "nhan": "Biến đổi hàng loạt 1 cột: Thêm cả TRƯỚC và SAU",
    "so": 1
+  },
+  {
+   "d": {
+    "dv": {
+     "1984\tdeep_tskt_master\tbd": null,
+     "1984\thigh_tskt_master\tbd": null,
+     "1984\thorizontal_tskt_master\tbd": null,
+     "1984\tmachine_weight_tskt_master\tbd": null
+    }
+   },
+   "luc": "2026-10-09 15:38:57",
+   "nhan": "Áp đơn vị hàng loạt",
+   "so": 4
   }
  ],
- "luc_luu": "2026-10-09 15:36:42",
+ "luc_luu": "2026-10-09 15:38:57",
  "nguoi_luu": "ducd",
  "rong": {
   "-": [
