@@ -1,102 +1,32 @@
 {
- "chon": [
-  {
-   "CHỌN": true,
-   "GHI CHÚ": "",
-   "MÃ NH": "1985",
-   "NGUỒN CATE": "CATEGORYID",
-   "SỐ SKU": 3,
-   "TAB TSKT / CẤU HÌNH": "cấu hình — 32 cột",
-   "TÊN NGÀNH HÀNG": "Máy xay sinh tố"
-  }
- ],
+ "chon": [],
  "chua_map": [],
  "dx_dang_ap": 0,
  "goc_cms": {},
- "log": [],
- "luc": "2026-10-09 10:28:54",
- "nganh": {
-  "1985": {
-   "attr": [
-    "body_material_filter_master",
-    "brand_of_filter_master",
-    "capacity_filter_master",
-    "function_filter_master",
-    "output_power_filter_master",
-    "product_type_filter_master",
-    "safety_features_filter_master",
-    "utilities_filter_master",
-    "blade_material_tskt_master",
-    "blender_tskt_master",
-    "body_material_tskt_master",
-    "brand_of_tskt_master",
-    "control_panel_tskt_master",
-    "cup_tskt_master",
-    "deep_tskt_master",
-    "function_tskt_master",
-    "grinding_speed_tskt_master",
-    "high_tskt_master",
-    "horizontal_tskt_master",
-    "large_mortar_tskt_master",
-    "long_cord_tskt_master",
-    "machine_weight_tskt_master",
-    "made_in_tskt_master",
-    "main_mill_material_tskt_master",
-    "meat_grinder_tskt_master",
-    "output_power_tskt_master",
-    "product_type_tskt_master",
-    "quantity_tskt_master",
-    "release_date_tskt_master",
-    "safety_features_tskt_master",
-    "small_mortar_tskt_master",
-    "utilities_tskt_master"
-   ],
-   "ten": {
-    "blade_material_tskt_master": "Chất liệu lưỡi dao",
-    "blender_tskt_master": "Cốc xay",
-    "body_material_filter_master": "Chất liệu thân vỏ",
-    "body_material_tskt_master": "Chất liệu thân vỏ",
-    "brand_of_filter_master": "Thương hiệu của",
-    "brand_of_tskt_master": "Thương hiệu của",
-    "capacity_filter_master": "Dung lượng dung tích",
-    "control_panel_tskt_master": "Bảng điều khiển",
-    "cup_tskt_master": "Cốc đựng",
-    "deep_tskt_master": "Sâu",
-    "function_filter_master": "Chức năng",
-    "function_tskt_master": "Chức năng",
-    "grinding_speed_tskt_master": "Tốc độ xay",
-    "high_tskt_master": "Cao",
-    "horizontal_tskt_master": "Ngang",
-    "large_mortar_tskt_master": "Cối lớn",
-    "long_cord_tskt_master": "Dài dây",
-    "machine_weight_tskt_master": "Khối lượng máy",
-    "made_in_tskt_master": "Sản xuất tại",
-    "main_mill_material_tskt_master": "Chất liệu cối xay chính",
-    "meat_grinder_tskt_master": "Cối xay thịt",
-    "output_power_filter_master": "Công suất đầu ra",
-    "output_power_tskt_master": "Công suất đầu ra",
-    "product_type_filter_master": "Loại sản phẩm",
-    "product_type_tskt_master": "Loại sản phẩm",
-    "quantity_tskt_master": "Số lượng",
-    "release_date_tskt_master": "Thời gian ra mắt",
-    "safety_features_filter_master": "Tính năng an toàn",
-    "safety_features_tskt_master": "Tính năng an toàn",
-    "small_mortar_tskt_master": "Cối nhỏ",
-    "utilities_filter_master": "Tiện ích",
-    "utilities_tskt_master": "Tiện ích"
-   },
-   "ten_nh": "Máy xay sinh tố",
-   "title": "TSKT 1985 Máy xay sinh tố"
-  }
- },
+ "log": [
+  [
+   "4844154000484",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844154000485",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ]
+ ],
+ "luc": "2026-10-09 10:35:18",
+ "nganh": {},
  "o_theo_ten": [],
  "tom_tat": {
   "filter_khong_khop": 0,
-  "khong_data": 0,
+  "khong_data": 2,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 1,
-  "so_o": 87,
-  "so_sku": 3
+  "so_nganh": 0,
+  "so_o": 0,
+  "so_sku": 0
  }
 }
