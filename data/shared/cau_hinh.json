@@ -958,7 +958,8 @@
    "video_output_port_tskt_master",
    "voice_control_tskt_master",
    "voice_filtering_mode_tskt_master",
-   "wireless_connection_tskt_master"
+   "wireless_connection_tskt_master",
+   "select_by_row_filter_master"
   ],
   "cot_khong_dien": [],
   "nguon": "tab TSKT 1942 Tivi + cấu hình",
@@ -1002,6 +1003,7 @@
    "screen_size_filter_master": "Kích thước màn hình",
    "screen_size_tskt_master": "Kích thước màn hình",
    "screen_type_tskt_master": "Loại màn hình",
+   "select_by_row_filter_master": "Chọn theo dòng",
    "size_with_base_tskt_master": "Kích thước có chân",
    "smart_remote_tskt_master": "Remote thông minh",
    "sole_material_tskt_master": "Chất liệu đế",
