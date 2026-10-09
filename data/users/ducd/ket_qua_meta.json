@@ -1,38 +1,155 @@
 {
- "chon": [],
- "chua_map": [],
+ "chon": [
+  {
+   "CHỌN": true,
+   "GHI CHÚ": "",
+   "MÃ NH": "7498",
+   "NGUỒN CATE": "CATEGORYID",
+   "SỐ SKU": 3,
+   "TAB TSKT / CẤU HÌNH": "cấu hình — 20 cột",
+   "TÊN NGÀNH HÀNG": "Quạt điều hoà"
+  }
+ ],
+ "chua_map": [
+  {
+   "cate": "7498",
+   "goi_y_ma": "",
+   "prop_id": "19459",
+   "prop_name": "Remote",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không có"
+  },
+  {
+   "cate": "7498",
+   "goi_y_ma": "",
+   "prop_id": "19460",
+   "prop_name": "Động cơ (Motor)",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không bảo hành"
+  },
+  {
+   "cate": "7498",
+   "goi_y_ma": "",
+   "prop_id": "46422",
+   "prop_name": "Tiện ích",
+   "so_dong": 5,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "2 đá khô"
+  }
+ ],
  "dx_dang_ap": 0,
  "goc_cms": {},
  "log": [
   [
    "ID_371891",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
+   "7498",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Làm mát bằng hơi nước\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "ID_371891",
+   "7498",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Đảo chiều gió\" chưa có option trong DATA PIM — để trống"
   ],
   [
    "ID_371892",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
+   "7498",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Thùng nước có thể tháo rời\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "ID_371892",
+   "7498",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Tấm lọc bụi\" chưa có option trong DATA PIM — để trống"
   ],
   [
    "ID_371924",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
+   "7498",
+   "control_panel_filter_master",
+   "FILTER: giá trị CMS \"Có remote\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "ID_371924",
+   "7498",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Cảnh báo hết nước\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "ID_371924",
+   "7498",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Hiển thị nhiệt độ\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "ID_371924",
+   "7498",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Đảo gió tự động\" chưa có option trong DATA PIM — để trống"
   ]
  ],
- "luc": "2026-10-09 13:13:42",
- "nganh": {},
+ "luc": "2026-10-09 13:14:13",
+ "nganh": {
+  "7498": {
+   "attr": [
+    "capacity_filter_master",
+    "control_panel_filter_master",
+    "cooling_area_filter_master",
+    "utilities_filter_master",
+    "air_flow_tskt_master",
+    "brand_of_tskt_master",
+    "control_panel_tskt_master",
+    "deep_tskt_master",
+    "high_tskt_master",
+    "horizontal_tskt_master",
+    "machine_weight_tskt_master",
+    "made_in_tskt_master",
+    "noise_level_tskt_master",
+    "power_tskt_master",
+    "release_date_tskt_master",
+    "scope_of_use_tskt_master",
+    "utilities_tskt_master",
+    "water_storage_capacity_tskt_master",
+    "wind_level_tskt_master",
+    "wind_mode_tskt_master"
+   ],
+   "ten": {
+    "air_flow_tskt_master": "Lưu lượng gió",
+    "brand_of_tskt_master": "Thương hiệu của",
+    "capacity_filter_master": "Dung lượng dung tích",
+    "control_panel_filter_master": "Bảng điều khiển",
+    "control_panel_tskt_master": "Bảng điều khiển",
+    "cooling_area_filter_master": "Diện tích làm mát",
+    "deep_tskt_master": "Sâu",
+    "high_tskt_master": "Cao",
+    "horizontal_tskt_master": "Ngang",
+    "machine_weight_tskt_master": "Khối lượng máy",
+    "made_in_tskt_master": "Sản xuất tại",
+    "noise_level_tskt_master": "Độ ồn",
+    "power_tskt_master": "Công suất",
+    "release_date_tskt_master": "Thời gian ra mắt",
+    "scope_of_use_tskt_master": "Phạm vi sử dụng",
+    "utilities_filter_master": "Tiện ích",
+    "utilities_tskt_master": "Tiện ích",
+    "water_storage_capacity_tskt_master": "Dung tích chứa nước",
+    "wind_level_tskt_master": "Mức gió",
+    "wind_mode_tskt_master": "Chế độ gió"
+   },
+   "ten_nh": "Quạt điều hoà",
+   "title": "TSKT 7498 Quạt điều hoà"
+  }
+ },
  "o_theo_ten": [],
  "tom_tat": {
-  "filter_khong_khop": 0,
-  "khong_data": 3,
+  "filter_khong_khop": 8,
+  "khong_data": 0,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 0,
-  "so_o": 0,
-  "so_sku": 0
+  "so_nganh": 1,
+  "so_o": 60,
+  "so_sku": 3
  }
 }
