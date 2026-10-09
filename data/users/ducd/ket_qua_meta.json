@@ -1,50 +1,80 @@
 {
- "chon": [],
+ "chon": [
+  {
+   "CHỌN": true,
+   "GHI CHÚ": "",
+   "MÃ NH": "13798",
+   "NGUỒN CATE": "CATEGORYID",
+   "SỐ SKU": 5,
+   "TAB TSKT / CẤU HÌNH": "cấu hình — 21 cột",
+   "TÊN NGÀNH HÀNG": "Máy làm đá"
+  }
+ ],
  "chua_map": [],
  "dx_dang_ap": 0,
  "goc_cms": {},
- "log": [
-  [
-   "ID_371870",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "ID_371871",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "ID_371957",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "ID_371959",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "ID_371960",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ]
- ],
- "luc": "2026-10-09 11:43:49",
- "nganh": {},
+ "log": [],
+ "luc": "2026-10-09 11:44:58",
+ "nganh": {
+  "13798": {
+   "attr": [
+    "brand_of_tskt_master",
+    "capacity_tskt_master",
+    "control_panel_tskt_master",
+    "cooling_capacity_tskt_master",
+    "cycle_time_tskt_master",
+    "electric_current_tskt_master",
+    "fine_filter_core_tskt_master",
+    "high_tskt_master",
+    "horizontal_tskt_master",
+    "machine_weight_tskt_master",
+    "made_in_tskt_master",
+    "noise_level_tskt_master",
+    "operating_environment_tskt_master",
+    "output_power_tskt_master",
+    "quantity_tskt_master",
+    "refrigerant_tskt_master",
+    "release_date_tskt_master",
+    "thick_tskt_master",
+    "utilities_tskt_master",
+    "voltage_tskt_master",
+    "water_source_tskt_master"
+   ],
+   "ten": {
+    "brand_of_tskt_master": "Thương hiệu của",
+    "capacity_tskt_master": "Dung lượng",
+    "control_panel_tskt_master": "Bảng điều khiển",
+    "cooling_capacity_tskt_master": "Năng suất làm lạnh",
+    "cycle_time_tskt_master": "Thời gian chu kỳ",
+    "electric_current_tskt_master": "Dòng điện",
+    "fine_filter_core_tskt_master": "Lõi lọc tinh",
+    "high_tskt_master": "Cao",
+    "horizontal_tskt_master": "Ngang",
+    "machine_weight_tskt_master": "Khối lượng máy",
+    "made_in_tskt_master": "Sản xuất tại",
+    "noise_level_tskt_master": "Độ ồn",
+    "operating_environment_tskt_master": "Môi trường hoạt động",
+    "output_power_tskt_master": "Công suất đầu ra",
+    "quantity_tskt_master": "Số lượng",
+    "refrigerant_tskt_master": "Chất làm lạnh",
+    "release_date_tskt_master": "Thời gian ra mắt",
+    "thick_tskt_master": "Dày",
+    "utilities_tskt_master": "Tiện ích",
+    "voltage_tskt_master": "Điện áp",
+    "water_source_tskt_master": "Nguồn nước"
+   },
+   "ten_nh": "Máy làm đá",
+   "title": "TSKT 13798 Máy làm đá"
+  }
+ },
  "o_theo_ten": [],
  "tom_tat": {
   "filter_khong_khop": 0,
-  "khong_data": 5,
+  "khong_data": 0,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 0,
-  "so_o": 0,
-  "so_sku": 0
+  "so_nganh": 1,
+  "so_o": 105,
+  "so_sku": 5
  }
 }
