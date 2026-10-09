@@ -1,26 +1,93 @@
 {
- "chon": [],
- "chua_map": [],
+ "chon": [
+  {
+   "CHỌN": true,
+   "GHI CHÚ": "",
+   "MÃ NH": "10140",
+   "NGUỒN CATE": "CATEGORYID",
+   "SỐ SKU": 1,
+   "TAB TSKT / CẤU HÌNH": "cấu hình — 18 cột",
+   "TÊN NGÀNH HÀNG": "Nồi nấm chậm"
+  }
+ ],
+ "chua_map": [
+  {
+   "cate": "10140",
+   "goi_y_ma": "",
+   "prop_id": "42578",
+   "prop_name": "Tính năng đặc biệt",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Hẹn giờ nấu"
+  },
+  {
+   "cate": "10140",
+   "goi_y_ma": "",
+   "prop_id": "45758",
+   "prop_name": "Map cùng dòng",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Trắng"
+  }
+ ],
  "dx_dang_ap": 0,
  "goc_cms": {},
- "log": [
-  [
-   "ID_371675",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ]
- ],
- "luc": "2026-10-09 15:56:04",
- "nganh": {},
+ "log": [],
+ "luc": "2026-10-09 15:56:24",
+ "nganh": {
+  "10140": {
+   "attr": [
+    "brand_of_tskt_master",
+    "capacity_tskt_master",
+    "control_panel_tskt_master",
+    "cooking_technology_tskt_master",
+    "deep_tskt_master",
+    "function_tskt_master",
+    "high_tskt_master",
+    "horizontal_tskt_master",
+    "inner_pot_tskt_master",
+    "machine_weight_tskt_master",
+    "made_in_tskt_master",
+    "output_power_tskt_master",
+    "release_date_tskt_master",
+    "size_weight_tskt_master",
+    "special_features_tskt_master",
+    "thick_tskt_master",
+    "utilities_tskt_master",
+    "wire_tskt_master"
+   ],
+   "ten": {
+    "brand_of_tskt_master": "Thương hiệu của",
+    "capacity_tskt_master": "Dung lượng",
+    "control_panel_tskt_master": "Bảng điều khiển",
+    "cooking_technology_tskt_master": "Công nghệ nấu",
+    "deep_tskt_master": "Sâu",
+    "function_tskt_master": "Chức năng",
+    "high_tskt_master": "Cao",
+    "horizontal_tskt_master": "Ngang",
+    "inner_pot_tskt_master": "Lòng nồi",
+    "machine_weight_tskt_master": "Khối lượng máy",
+    "made_in_tskt_master": "Sản xuất tại",
+    "output_power_tskt_master": "Công suất đầu ra",
+    "release_date_tskt_master": "Thời gian ra mắt",
+    "size_weight_tskt_master": "Kích thước Khối lượng",
+    "special_features_tskt_master": "Tính năng đặc biệt",
+    "thick_tskt_master": "Dày",
+    "utilities_tskt_master": "Tiện ích",
+    "wire_tskt_master": "Dây điện"
+   },
+   "ten_nh": "Nồi nấm chậm",
+   "title": "TSKT 10140 Nồi nấm chậm"
+  }
+ },
  "o_theo_ten": [],
  "tom_tat": {
   "filter_khong_khop": 0,
-  "khong_data": 1,
+  "khong_data": 0,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 0,
-  "so_o": 0,
-  "so_sku": 0
+  "so_nganh": 1,
+  "so_o": 16,
+  "so_sku": 1
  }
 }
