@@ -49,6 +49,16 @@
     "pham_vi": "tat_ca"
    }
   ],
+  "10140\tthick_tskt_master\tbd": [
+   {
+    "a": "Dày",
+    "b": "cm",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "nguon": "bang",
+    "pham_vi": "so"
+   }
+  ],
   "11518\thigh_tskt_master\tbd": [
    {
     "a": "Cao",
@@ -1259,16 +1269,6 @@
   {
    "d": {
     "dv": {
-     "1985\thorizontal_tskt_master\tbd": null
-    }
-   },
-   "luc": "2026-10-09 10:30:51",
-   "nhan": "Biến đổi hàng loạt 1 cột: Thêm cả TRƯỚC và SAU",
-   "so": 1
-  },
-  {
-   "d": {
-    "dv": {
      "11818\tdeep_tskt_master\tbd": null
     }
    },
@@ -1408,9 +1408,19 @@
    "luc": "2026-10-09 15:38:57",
    "nhan": "Áp đơn vị hàng loạt",
    "so": 4
+  },
+  {
+   "d": {
+    "dv": {
+     "10140\tthick_tskt_master\tbd": null
+    }
+   },
+   "luc": "2026-10-09 15:57:27",
+   "nhan": "Áp đơn vị hàng loạt",
+   "so": 1
   }
  ],
- "luc_luu": "2026-10-09 15:56:53",
+ "luc_luu": "2026-10-09 15:57:27",
  "nguoi_luu": "ducd",
  "rong": {
   "-": [
