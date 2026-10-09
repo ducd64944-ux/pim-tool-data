@@ -800,5 +800,19 @@
   "Thêm đơn vị": 0,
   "Tách xin data": 0,
   "Workspace": "ducd"
+ },
+ {
+  "Biến đổi": 0,
+  "Chặn ô theo tên": 0,
+  "Cảnh báo": "• 4 dòng không có trong file PIM | • 6 ô giá trị CMS bị MẤT khi map (xem 🧾 Đối soát)",
+  "File": "PIM_TSKT 2402 Nồi_MODEL_20261009_1629.xlsx",
+  "Không/Đang cập nhật": 3,
+  "Lúc": "2026-10-09 16:29:35",
+  "Người xuất": "ducd",
+  "Số dòng": 4,
+  "Sửa tay": 0,
+  "Thêm đơn vị": 1,
+  "Tách xin data": 0,
+  "Workspace": "ducd"
  }
 ]
