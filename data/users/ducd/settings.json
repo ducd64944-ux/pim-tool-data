@@ -241,6 +241,15 @@
     "pham_vi": "tat_ca"
    }
   ],
+  "13798\thigh_tskt_master\tbd": [
+   {
+    "a": "Cao",
+    "b": "cm",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "pham_vi": "tat_ca"
+   }
+  ],
   "1942\tlegless_mass_tskt_master": "kg",
   "1942\tmass_with_base_tskt_master": "kg",
   "1985\tdeep_tskt_master\tbd": [
@@ -1147,16 +1156,6 @@
   {
    "d": {
     "dv": {
-     "10138\tdeep_tskt_master\tbd": null
-    }
-   },
-   "luc": "2026-10-09 10:15:19",
-   "nhan": "Biến đổi hàng loạt 1 cột: Thêm cả TRƯỚC và SAU",
-   "so": 1
-  },
-  {
-   "d": {
-    "dv": {
      "10138\thorizontal_tskt_master\tbd": null
     }
    },
@@ -1293,9 +1292,19 @@
    "luc": "2026-10-09 10:40:16",
    "nhan": "Biến đổi hàng loạt 1 cột: Thêm cả TRƯỚC và SAU",
    "so": 1
+  },
+  {
+   "d": {
+    "dv": {
+     "13798\thigh_tskt_master\tbd": null
+    }
+   },
+   "luc": "2026-10-09 11:53:55",
+   "nhan": "Biến đổi hàng loạt 1 cột: Thêm cả TRƯỚC và SAU",
+   "so": 1
   }
  ],
- "luc_luu": "2026-10-09 11:53:19",
+ "luc_luu": "2026-10-09 11:53:55",
  "nguoi_luu": "ducd",
  "rong": {
   "-": [
