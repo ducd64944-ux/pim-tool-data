@@ -1928,6 +1928,47 @@
    "utilities_tskt_master": "Tiện ích"
   }
  },
+ "2322": {
+  "cot": [
+   "launch_year_filter_master",
+   "blade_material_tskt_master",
+   "body_material_tskt_master",
+   "brand_of_tskt_master",
+   "capacity_tskt_master",
+   "control_panel_tskt_master",
+   "deep_tskt_master",
+   "function_tskt_master",
+   "high_tskt_master",
+   "horizontal_tskt_master",
+   "jar_material_tskt_master",
+   "machine_weight_tskt_master",
+   "made_in_tskt_master",
+   "output_power_tskt_master",
+   "product_type_tskt_master",
+   "release_date_tskt_master",
+   "utilities_tskt_master"
+  ],
+  "ten": "Máy làm sữa hạt",
+  "ten_cot": {
+   "blade_material_tskt_master": "Chất liệu lưỡi dao",
+   "body_material_tskt_master": "Chất liệu thân vỏ",
+   "brand_of_tskt_master": "Thương hiệu của",
+   "capacity_tskt_master": "Dung lượng",
+   "control_panel_tskt_master": "Bảng điều khiển",
+   "deep_tskt_master": "Sâu",
+   "function_tskt_master": "Chức năng",
+   "high_tskt_master": "Cao",
+   "horizontal_tskt_master": "Ngang",
+   "jar_material_tskt_master": "Chất liệu cối",
+   "launch_year_filter_master": "Năm ra mắt",
+   "machine_weight_tskt_master": "Khối lượng máy",
+   "made_in_tskt_master": "Sản xuất tại",
+   "output_power_tskt_master": "Công suất đầu ra",
+   "product_type_tskt_master": "Loại sản phẩm",
+   "release_date_tskt_master": "Thời gian ra mắt",
+   "utilities_tskt_master": "Tiện ích"
+  }
+ },
  "2342": {
   "cot": [
    "battery_capacity_tskt_master",
