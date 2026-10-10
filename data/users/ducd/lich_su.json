@@ -982,5 +982,19 @@
   "Thêm đơn vị": 0,
   "Tách xin data": 2,
   "Workspace": "ducd"
+ },
+ {
+  "Biến đổi": 0,
+  "Chặn ô theo tên": 0,
+  "Cảnh báo": "• 239 dòng không có trong file PIM | • 1,321 ô giá trị CMS bị MẤT khi map (xem 🧾 Đối soát)",
+  "File": "PIM_TSKT 3187 Dao_MODEL_20261010_1544.xlsx, PIM_TSKT 6790 Thớt_MODEL_20261010_1544.xlsx",
+  "Không/Đang cập nhật": 0,
+  "Lúc": "2026-10-10 15:44:26",
+  "Người xuất": "ducd",
+  "Số dòng": 238,
+  "Sửa tay": 0,
+  "Thêm đơn vị": 0,
+  "Tách xin data": 3,
+  "Workspace": "ducd"
  }
 ]
