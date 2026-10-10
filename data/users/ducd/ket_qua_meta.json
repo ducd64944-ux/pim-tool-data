@@ -1,26 +1,86 @@
 {
- "chon": [],
+ "chon": [
+  {
+   "CHỌN": true,
+   "GHI CHÚ": "",
+   "MÃ NH": "1991",
+   "NGUỒN CATE": "CATEGORYID",
+   "SỐ SKU": 1,
+   "TAB TSKT / CẤU HÌNH": "cấu hình — 24 cột",
+   "TÊN NGÀNH HÀNG": "Máy sấy tóc"
+  }
+ ],
  "chua_map": [],
  "dx_dang_ap": 0,
  "goc_cms": {},
- "log": [
-  [
-   "ID_370788",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ]
- ],
- "luc": "2026-10-10 14:00:38",
- "nganh": {},
+ "log": [],
+ "luc": "2026-10-10 14:00:58",
+ "nganh": {
+  "1991": {
+   "attr": [
+    "output_power_filter_master",
+    "utilities_filter_master",
+    "brand_of_tskt_master",
+    "drying_head_tskt_master",
+    "high_tskt_master",
+    "horizontal_tskt_master",
+    "included_accessories_tskt_master",
+    "long_cord_tskt_master",
+    "made_in_tskt_master",
+    "mass_tskt_master",
+    "maximum_speed_tskt_master",
+    "maximum_temperature_tskt_master",
+    "noise_level_tskt_master",
+    "power_tskt_master",
+    "protection_mode_tskt_master",
+    "release_date_tskt_master",
+    "rotation_speed_tskt_master",
+    "size_weight_tskt_master",
+    "style_tskt_master",
+    "technology_tskt_master",
+    "temperature_level_tskt_master",
+    "utilities_tskt_master",
+    "voltage_source_tskt_master",
+    "wide_tskt_master"
+   ],
+   "ten": {
+    "brand_of_tskt_master": "Thương hiệu của",
+    "drying_head_tskt_master": "Đầu sấy",
+    "high_tskt_master": "Cao",
+    "horizontal_tskt_master": "Ngang",
+    "included_accessories_tskt_master": "Phụ kiện đi kèm",
+    "long_cord_tskt_master": "Dài dây",
+    "made_in_tskt_master": "Sản xuất tại",
+    "mass_tskt_master": "Khối lượng",
+    "maximum_speed_tskt_master": "Tốc độ tối đa",
+    "maximum_temperature_tskt_master": "Nhiệt độ tối đa",
+    "noise_level_tskt_master": "Độ ồn",
+    "output_power_filter_master": "Công suất đầu ra",
+    "power_tskt_master": "Công suất",
+    "protection_mode_tskt_master": "Chế độ bảo vệ",
+    "release_date_tskt_master": "Thời gian ra mắt",
+    "rotation_speed_tskt_master": "Tốc độ xoay",
+    "size_weight_tskt_master": "Kích thước Khối lượng",
+    "style_tskt_master": "Kiểu dáng",
+    "technology_tskt_master": "Công nghệ",
+    "temperature_level_tskt_master": "Mức nhiệt",
+    "utilities_filter_master": "Tiện ích",
+    "utilities_tskt_master": "Tiện ích",
+    "voltage_source_tskt_master": "Nguồn điện áp",
+    "wide_tskt_master": "Rộng"
+   },
+   "ten_nh": "Máy sấy tóc",
+   "title": "TSKT 1991 Máy sấy tóc"
+  }
+ },
  "o_theo_ten": [],
  "tom_tat": {
   "filter_khong_khop": 0,
-  "khong_data": 1,
+  "khong_data": 0,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 0,
-  "so_o": 0,
-  "so_sku": 0
+  "so_nganh": 1,
+  "so_o": 22,
+  "so_sku": 1
  }
 }
