@@ -940,5 +940,19 @@
   "Thêm đơn vị": 0,
   "Tách xin data": 0,
   "Workspace": "ducd"
+ },
+ {
+  "Biến đổi": 0,
+  "Chặn ô theo tên": 0,
+  "Cảnh báo": "• 1,450 ô KHÁC spec PIM (sẽ ghi đè) | • 142 ô tool để trống trong khi PIM đang có | • 10 dòng không có trong file PIM | • 2,068 ô giá trị CMS bị MẤT khi map (xem 🧾 Đối soát) | • 10 SKU KHÔNG có thông số nào (sẽ xuất dòng trống) | • 117 model_code lặp ở nhiều dòng file MODEL (PIM sẽ lấy dòng sau cùng — kiểm tra IMPORT có thiếu variant_code không)",
+  "File": "PIM_TSKT 5205 Bình, ly giữ nhiệt_CHI_FILTER_MODEL_20261010_1514.xlsx",
+  "Không/Đang cập nhật": 0,
+  "Lúc": "2026-10-10 15:14:26",
+  "Người xuất": "ducd",
+  "Số dòng": 666,
+  "Sửa tay": 0,
+  "Thêm đơn vị": 0,
+  "Tách xin data": 10,
+  "Workspace": "ducd"
  }
 ]
