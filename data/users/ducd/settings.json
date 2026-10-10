@@ -626,6 +626,37 @@
     "pham_vi": "tat_ca"
    }
   ],
+  "1991\thigh_tskt_master\tbd": [
+   {
+    "a": "Cao",
+    "b": "cm",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "nguon": "bang",
+    "pham_vi": "so"
+   }
+  ],
+  "1991\thorizontal_tskt_master\tbd": [
+   {
+    "a": "Ngang",
+    "b": "cm",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "nguon": "bang",
+    "pham_vi": "so"
+   }
+  ],
+  "1991\tlong_cord_tskt_master": "cm",
+  "1991\tmass_tskt_master\tbd": [
+   {
+    "a": "Nặng",
+    "b": "kg",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "nguon": "bang",
+    "pham_vi": "so"
+   }
+  ],
   "1992\tfan_diameter_tskt_master": "cm",
   "2063\tdeep_tskt_master\tbd": [
    {
@@ -1393,16 +1424,6 @@
   {
    "d": {
     "dv": {
-     "13798\thorizontal_tskt_master\tbd": null
-    }
-   },
-   "luc": "2026-10-09 11:54:37",
-   "nhan": "Biến đổi hàng loạt 1 cột: Thêm cả TRƯỚC và SAU",
-   "so": 1
-  },
-  {
-   "d": {
-    "dv": {
      "13798\tthick_tskt_master\tbd": null
     }
    },
@@ -1557,9 +1578,22 @@
    "luc": "2026-10-10 12:02:31",
    "nhan": "Áp đơn vị hàng loạt",
    "so": 5
+  },
+  {
+   "d": {
+    "dv": {
+     "1991\thigh_tskt_master\tbd": null,
+     "1991\thorizontal_tskt_master\tbd": null,
+     "1991\tlong_cord_tskt_master": null,
+     "1991\tmass_tskt_master\tbd": null
+    }
+   },
+   "luc": "2026-10-10 14:02:59",
+   "nhan": "Áp đơn vị hàng loạt",
+   "so": 4
   }
  ],
- "luc_luu": "2026-10-10 14:01:04",
+ "luc_luu": "2026-10-10 14:02:59",
  "nguoi_luu": "ducd",
  "rong": {
   "-": [
