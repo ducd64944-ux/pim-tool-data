@@ -2700,13 +2700,15 @@
    "compatibility_tskt_master",
    "made_in_tskt_master",
    "maximum_load_tskt_master",
-   "size_tskt_master"
+   "size_tskt_master",
+   "product_type_filter_master"
   ],
   "ten": "Giá đỡ máy giặt, máy lọc nước, chân loa",
   "ten_cot": {
    "compatibility_tskt_master": "Tương thích",
    "made_in_tskt_master": "Sản xuất tại",
    "maximum_load_tskt_master": "Tải trọng tối đa",
+   "product_type_filter_master": "Loại sản phẩm",
    "size_tskt_master": "Kích thước"
   }
  },
