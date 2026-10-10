@@ -41,33 +41,6 @@
   {
    "cate": "4930",
    "goi_y_ma": "",
-   "prop_id": "31881",
-   "prop_name": "Đường kính đáy",
-   "so_dong": 160,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Hãng không công bố"
-  },
-  {
-   "cate": "4930",
-   "goi_y_ma": "",
-   "prop_id": "31882",
-   "prop_name": "Đường kính nắp",
-   "so_dong": 160,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Hãng không công bố"
-  },
-  {
-   "cate": "4930",
-   "goi_y_ma": "",
-   "prop_id": "31883",
-   "prop_name": "Cao",
-   "so_dong": 160,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Hãng không công bố"
-  },
-  {
-   "cate": "4930",
-   "goi_y_ma": "",
    "prop_id": "11982",
    "prop_name": "Chất liệu",
    "so_dong": 4,
@@ -142,7 +115,7 @@
    "FILTER: giá trị CMS \"Có dây đeo tiện lợi\" chưa có option trong DATA PIM — để trống"
   ]
  ],
- "luc": "2026-10-10 15:56:49",
+ "luc": "2026-10-10 16:07:42",
  "nganh": {
   "4930": {
    "attr": [
@@ -182,7 +155,7 @@
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
   "so_nganh": 1,
-  "so_o": 922,
+  "so_o": 1402,
   "so_sku": 162
  }
 }
