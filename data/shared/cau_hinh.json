@@ -2710,6 +2710,15 @@
    "size_tskt_master": "Kích thước"
   }
  },
+ "3187": {
+  "cot": [
+   "product_type_filter_master"
+  ],
+  "ten": "Dao",
+  "ten_cot": {
+   "product_type_filter_master": "Loại sản phẩm"
+  }
+ },
  "344": {
   "cot": [
    "airbag_location_tskt_master",
@@ -3405,6 +3414,17 @@
    "utilities_tskt_master": "Tiện ích",
    "wide_tskt_master": "Rộng",
    "wine_capacity_filter_master": "Sức chứa"
+  }
+ },
+ "6790": {
+  "cot": [
+   "body_material_filter_master",
+   "product_type_filter_master"
+  ],
+  "ten": "Thớt",
+  "ten_cot": {
+   "body_material_filter_master": "Chất liệu thân vỏ",
+   "product_type_filter_master": "Loại sản phẩm"
   }
  },
  "7358": {
