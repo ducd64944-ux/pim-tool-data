@@ -1,1 +1,107 @@
-{}
+{
+ "chon": [
+  {
+   "CHỌN": true,
+   "GHI CHÚ": "",
+   "MÃ NH": "13538",
+   "NGUỒN CATE": "CATEGORYID",
+   "SỐ SKU": 1,
+   "TAB TSKT / CẤU HÌNH": "cấu hình — 20 cột",
+   "TÊN NGÀNH HÀNG": "Tủ sấy quần áo"
+  }
+ ],
+ "chua_map": [
+  {
+   "cate": "13538",
+   "goi_y_ma": "",
+   "prop_id": "45158",
+   "prop_name": "Loại máy",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Tủ sấy quần áo"
+  }
+ ],
+ "dx_dang_ap": 0,
+ "goc_cms": {},
+ "log": [
+  [
+   "4844743000092",
+   "13538",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Chức năng sấy khô khử khuẩn\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "4844743000092",
+   "13538",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Có điều khiển từ xa\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "4844743000092",
+   "13538",
+   "inner_material_filter_master",
+   "FILTER: giá trị CMS \"Không\" chưa có option trong DATA PIM — để trống"
+  ]
+ ],
+ "luc": "2026-10-10 11:39:51",
+ "nganh": {
+  "13538": {
+   "attr": [
+    "inner_material_filter_master",
+    "utilities_filter_master",
+    "control_panel_tskt_master",
+    "deep_tskt_master",
+    "drying_time_tskt_master",
+    "electricity_consumption_tskt_master",
+    "engine_tskt_master",
+    "high_tskt_master",
+    "horizontal_tskt_master",
+    "inner_material_tskt_master",
+    "machine_weight_tskt_master",
+    "made_in_tskt_master",
+    "main_load_tskt_master",
+    "maximum_temperature_tskt_master",
+    "number_of_users_tskt_master",
+    "product_line_tskt_master",
+    "product_type_tskt_master",
+    "quantity_tskt_master",
+    "size_weight_tskt_master",
+    "utilities_tskt_master"
+   ],
+   "ten": {
+    "control_panel_tskt_master": "Bảng điều khiển",
+    "deep_tskt_master": "Sâu",
+    "drying_time_tskt_master": "Thời gian sấy",
+    "electricity_consumption_tskt_master": "Điện năng tiêu thụ",
+    "engine_tskt_master": "Động cơ",
+    "high_tskt_master": "Cao",
+    "horizontal_tskt_master": "Ngang",
+    "inner_material_filter_master": "Chất liệu ruột",
+    "inner_material_tskt_master": "Chất liệu ruột",
+    "machine_weight_tskt_master": "Khối lượng máy",
+    "made_in_tskt_master": "Sản xuất tại",
+    "main_load_tskt_master": "Khối lượng tải chính",
+    "maximum_temperature_tskt_master": "Nhiệt độ tối đa",
+    "number_of_users_tskt_master": "Số người sử dụng",
+    "product_line_tskt_master": "Dòng sản phẩm",
+    "product_type_tskt_master": "Loại sản phẩm",
+    "quantity_tskt_master": "Số lượng",
+    "size_weight_tskt_master": "Kích thước Khối lượng",
+    "utilities_filter_master": "Tiện ích",
+    "utilities_tskt_master": "Tiện ích"
+   },
+   "ten_nh": "Tủ sấy quần áo",
+   "title": "TSKT 13538 Tủ sấy quần áo"
+  }
+ },
+ "o_theo_ten": [],
+ "tom_tat": {
+  "filter_khong_khop": 3,
+  "khong_data": 0,
+  "map_theo_ten": 0,
+  "o_sua_theo_quy_tac": 0,
+  "so_nganh": 1,
+  "so_o": 18,
+  "so_sku": 1
+ }
+}
