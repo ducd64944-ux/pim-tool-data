@@ -1671,7 +1671,8 @@
    "safety_features_tskt_master",
    "surface_material_tskt_master",
    "utilities_tskt_master",
-   "wide_accessories_tskt_master"
+   "wide_accessories_tskt_master",
+   "product_type_filter_master"
   ],
   "ten": "Bàn ủi",
   "ten_cot": {
@@ -1689,6 +1690,7 @@
    "main_accessory_thickness_tskt_master": "Độ dày phụ kiện chính",
    "output_power_filter_master": "Công suất đầu ra",
    "power_tskt_master": "Công suất",
+   "product_type_filter_master": "Loại sản phẩm",
    "product_type_tskt_master": "Loại sản phẩm",
    "release_date_tskt_master": "Thời gian ra mắt",
    "safety_features_tskt_master": "Tính năng an toàn",
