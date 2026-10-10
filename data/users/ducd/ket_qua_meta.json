@@ -1,171 +1,122 @@
 {
- "chon": [
-  {
-   "CHỌN": true,
-   "GHI CHÚ": "",
-   "MÃ NH": "3187",
-   "NGUỒN CATE": "CATEGORYID",
-   "SỐ SKU": 156,
-   "TAB TSKT / CẤU HÌNH": "cấu hình — 1 cột",
-   "TÊN NGÀNH HÀNG": "Dao"
-  },
-  {
-   "CHỌN": true,
-   "GHI CHÚ": "",
-   "MÃ NH": "6790",
-   "NGUỒN CATE": "CATEGORYID",
-   "SỐ SKU": 85,
-   "TAB TSKT / CẤU HÌNH": "cấu hình — 2 cột",
-   "TÊN NGÀNH HÀNG": "Thớt"
-  }
- ],
- "chua_map": [
-  {
-   "cate": "3187",
-   "goi_y_ma": "",
-   "prop_id": "11335",
-   "prop_name": "Loại dao",
-   "so_dong": 154,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Dao Thái Lan"
-  },
-  {
-   "cate": "3187",
-   "goi_y_ma": "",
-   "prop_id": "15430",
-   "prop_name": "Chất liệu lưỡi dao",
-   "so_dong": 154,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Thép không gỉ"
-  },
-  {
-   "cate": "3187",
-   "goi_y_ma": "",
-   "prop_id": "19260",
-   "prop_name": "Chất liệu cán dao",
-   "so_dong": 154,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Nhựa"
-  },
-  {
-   "cate": "3187",
-   "goi_y_ma": "",
-   "prop_id": "19263",
-   "prop_name": "Mã sản phẩm",
-   "so_dong": 84,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "MS1304 - 112C"
-  },
-  {
-   "cate": "3187",
-   "goi_y_ma": "",
-   "prop_id": "19308",
-   "prop_name": "Trường tên",
-   "so_dong": 3,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Dao cắt Moriitalia MS1304 112C inox 9cm"
-  },
-  {
-   "cate": "3187",
-   "goi_y_ma": "",
-   "prop_id": "19261",
-   "prop_name": "Điểm nổi bật (*)",
-   "so_dong": 9,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Tích hợp 3 lưỡi dao có hình dáng khác nhau đáp ứng nhu cầu sử dụng của người nội trợ."
-  },
-  {
-   "cate": "6790",
-   "goi_y_ma": "",
-   "prop_id": "15477",
-   "prop_name": "Kích thước",
-   "so_dong": 80,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "25 cm"
-  },
-  {
-   "cate": "6790",
-   "goi_y_ma": "",
-   "prop_id": "18582",
-   "prop_name": "Chất liệu",
-   "so_dong": 77,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Nhựa nguyên sinh LDPE"
-  },
-  {
-   "cate": "6790",
-   "goi_y_ma": "",
-   "prop_id": "18584",
-   "prop_name": "Nơi sản xuất",
-   "so_dong": 77,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Thái Lan"
-  },
-  {
-   "cate": "6790",
-   "goi_y_ma": "",
-   "prop_id": "19240",
-   "prop_name": "Tiện ích",
-   "so_dong": 60,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Có lỗ treo"
-  },
-  {
-   "cate": "6790",
-   "goi_y_ma": "",
-   "prop_id": "19358",
-   "prop_name": "Kích thước (tên)",
-   "so_dong": 66,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "31 cm"
-  }
- ],
+ "chon": [],
+ "chua_map": [],
  "dx_dang_ap": 0,
  "goc_cms": {},
- "log": [],
- "luc": "2026-10-10 15:43:40",
- "nganh": {
-  "3187": {
-   "attr": [
-    "product_type_filter_master"
-   ],
-   "ten": {
-    "color_tskt_master": "Màu sắc",
-    "made_in_tskt_master": "Sản xuất tại",
-    "material_tskt_master": "Chất liệu",
-    "product_type_filter_master": "Loại sản phẩm",
-    "product_type_tskt_master": "Loại sản phẩm",
-    "size_tskt_master": "Kích thước"
-   },
-   "ten_nh": "Dao",
-   "title": "TSKT 3187 Dao"
-  },
-  "6790": {
-   "attr": [
-    "body_material_filter_master",
-    "product_type_filter_master"
-   ],
-   "ten": {
-    "body_material_filter_master": "Chất liệu thân vỏ",
-    "material_tskt_master": "Chất liệu",
-    "place_of_production_tskt_master": "Nơi sản xuất",
-    "product_type_filter_master": "Loại sản phẩm",
-    "product_type_tskt_master": "Loại sản phẩm",
-    "style_tskt_master": "Kiểu dáng",
-    "uses_tskt_master": "Công dụng"
-   },
-   "ten_nh": "Thớt",
-   "title": "TSKT 6790 Thớt"
-  }
- },
+ "log": [
+  [
+   "0164324000010",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "0160073000358",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1394324000019",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "0164324000001",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "0160073000003",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "0160073000354",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "0160073000002",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "0164324000002",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "0160073000359",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "0160073000355",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1394324000014",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1394324000015",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1394324000016",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "0160073000295",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "0160073000308",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1394324000011",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1394324000010",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ]
+ ],
+ "luc": "2026-10-10 15:50:40",
+ "nganh": {},
  "o_theo_ten": [],
  "tom_tat": {
   "filter_khong_khop": 0,
-  "khong_data": 0,
+  "khong_data": 17,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 2,
-  "so_o": 318,
-  "so_sku": 241
+  "so_nganh": 0,
+  "so_o": 0,
+  "so_sku": 0
  }
 }
