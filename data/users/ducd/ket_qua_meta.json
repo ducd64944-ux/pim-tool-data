@@ -1,36 +1,136 @@
 {
  "chon": [
   {
-   "CHỌN": false,
-   "GHI CHÚ": "Chưa có tab TSKT lẫn cấu hình — thêm 1 trong 2",
+   "CHỌN": true,
+   "GHI CHÚ": "",
    "MÃ NH": "1990",
    "NGUỒN CATE": "CATEGORYID",
    "SỐ SKU": 1,
-   "TAB TSKT / CẤU HÌNH": "",
-   "TÊN NGÀNH HÀNG": ""
+   "TAB TSKT / CẤU HÌNH": "cấu hình — 27 cột",
+   "TÊN NGÀNH HÀNG": "Máy hút bụi"
   }
  ],
- "chua_map": [],
+ "chua_map": [
+  {
+   "cate": "1990",
+   "goi_y_ma": "",
+   "prop_id": "6903",
+   "prop_name": "Công suất hoạt động",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Dưới 1000W"
+  },
+  {
+   "cate": "1990",
+   "goi_y_ma": "",
+   "prop_id": "27773",
+   "prop_name": "Loại sản phẩm",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Máy hút bụi cầm tay"
+  }
+ ],
  "dx_dang_ap": 0,
  "goc_cms": {},
  "log": [
   [
-   "",
+   "ID_371669",
    "1990",
-   "",
-   "Không có tab TSKT lẫn cấu hình — bỏ qua"
+   "operating_capacity_filter_master",
+   "FILTER: giá trị CMS \"600W\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "ID_371669",
+   "1990",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Hộp bụi tháo rời\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "ID_371669",
+   "1990",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Thiết kế 2 trong 1 (có thể tháo rời khỏi ống nối/thân máy)\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "ID_371669",
+   "1990",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Thiết kế giá treo tường tiện lợi\" chưa có option trong DATA PIM — để trống"
   ]
  ],
- "luc": "2026-10-10 14:45:27",
- "nganh": {},
+ "luc": "2026-10-10 14:47:14",
+ "nganh": {
+  "1990": {
+   "attr": [
+    "dust_compartment_filter_master",
+    "made_in_filter_master",
+    "operating_capacity_filter_master",
+    "product_type_filter_master",
+    "utilities_filter_master",
+    "vacuum_cleaner_head_filter_master",
+    "battery_capacity_tskt_master",
+    "brand_of_tskt_master",
+    "capacity_tskt_master",
+    "charging_time_tskt_master",
+    "deep_tskt_master",
+    "filter_tskt_master",
+    "high_tskt_master",
+    "horizontal_tskt_master",
+    "long_cord_tskt_master",
+    "machine_weight_tskt_master",
+    "made_in_tskt_master",
+    "noise_level_tskt_master",
+    "output_power_tskt_master",
+    "product_type_tskt_master",
+    "release_date_tskt_master",
+    "suction_power_tskt_master",
+    "technology_tskt_master",
+    "type_of_storage_compartment_tskt_master",
+    "types_of_hair_dryer_attachments_tskt_master",
+    "usage_time_tskt_master",
+    "utilities_tskt_master"
+   ],
+   "ten": {
+    "battery_capacity_tskt_master": "Dung lượng pin",
+    "brand_of_tskt_master": "Thương hiệu của",
+    "capacity_tskt_master": "Dung lượng",
+    "charging_time_tskt_master": "Thời gian sạc",
+    "deep_tskt_master": "Sâu",
+    "dust_compartment_filter_master": "Khoang chứa",
+    "filter_tskt_master": "Bộ lọc",
+    "high_tskt_master": "Cao",
+    "horizontal_tskt_master": "Ngang",
+    "long_cord_tskt_master": "Dài dây",
+    "machine_weight_tskt_master": "Khối lượng máy",
+    "made_in_filter_master": "Sản xuất tại",
+    "made_in_tskt_master": "Sản xuất tại",
+    "noise_level_tskt_master": "Độ ồn",
+    "operating_capacity_filter_master": "Công suất hoạt động",
+    "output_power_tskt_master": "Công suất đầu ra",
+    "product_type_filter_master": "Loại sản phẩm",
+    "product_type_tskt_master": "Loại sản phẩm",
+    "release_date_tskt_master": "Thời gian ra mắt",
+    "suction_power_tskt_master": "Công suất hút",
+    "technology_tskt_master": "Công nghệ",
+    "type_of_storage_compartment_tskt_master": "Loại khoang chứa",
+    "types_of_hair_dryer_attachments_tskt_master": "Các loại đầu hút sấy",
+    "usage_time_tskt_master": "Thời gian sử dụng",
+    "utilities_filter_master": "Tiện ích",
+    "utilities_tskt_master": "Tiện ích",
+    "vacuum_cleaner_head_filter_master": "Đầu hút bụi"
+   },
+   "ten_nh": "Máy hút bụi",
+   "title": "TSKT 1990 Máy hút bụi"
+  }
+ },
  "o_theo_ten": [],
  "tom_tat": {
-  "filter_khong_khop": 0,
-  "khong_data": 1,
+  "filter_khong_khop": 4,
+  "khong_data": 0,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 0,
-  "so_o": 0,
-  "so_sku": 0
+  "so_nganh": 1,
+  "so_o": 25,
+  "so_sku": 1
  }
 }
