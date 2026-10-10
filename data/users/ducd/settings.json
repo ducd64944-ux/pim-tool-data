@@ -291,6 +291,47 @@
     "pham_vi": "tat_ca"
    }
   ],
+  "13538\tdeep_tskt_master\tbd": [
+   {
+    "a": "Sâu",
+    "b": "cm",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "nguon": "bang",
+    "pham_vi": "so"
+   }
+  ],
+  "13538\thigh_tskt_master\tbd": [
+   {
+    "a": "Cao",
+    "b": "cm",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "nguon": "bang",
+    "pham_vi": "so"
+   }
+  ],
+  "13538\thorizontal_tskt_master\tbd": [
+   {
+    "a": "Ngang",
+    "b": "cm",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "nguon": "bang",
+    "pham_vi": "so"
+   }
+  ],
+  "13538\tmachine_weight_tskt_master\tbd": [
+   {
+    "a": "Nặng",
+    "b": "kg",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "nguon": "bang",
+    "pham_vi": "so"
+   }
+  ],
+  "13538\tmain_load_tskt_master": "kg",
   "13798\thigh_tskt_master\tbd": [
    {
     "a": "Cao",
@@ -1352,16 +1393,6 @@
   {
    "d": {
     "dv": {
-     "13798\thigh_tskt_master\tbd": null
-    }
-   },
-   "luc": "2026-10-09 11:53:55",
-   "nhan": "Biến đổi hàng loạt 1 cột: Thêm cả TRƯỚC và SAU",
-   "so": 1
-  },
-  {
-   "d": {
-    "dv": {
      "13798\thorizontal_tskt_master\tbd": null
     }
    },
@@ -1512,9 +1543,23 @@
    "luc": "2026-10-09 17:46:45",
    "nhan": "Làm mới lô: xoá IMPORT, DATA SP, kết quả map, sửa tay, spec cũ",
    "so": 5
+  },
+  {
+   "d": {
+    "dv": {
+     "13538\tdeep_tskt_master\tbd": null,
+     "13538\thigh_tskt_master\tbd": null,
+     "13538\thorizontal_tskt_master\tbd": null,
+     "13538\tmachine_weight_tskt_master\tbd": null,
+     "13538\tmain_load_tskt_master": null
+    }
+   },
+   "luc": "2026-10-10 12:02:31",
+   "nhan": "Áp đơn vị hàng loạt",
+   "so": 5
   }
  ],
- "luc_luu": "2026-10-10 11:40:25",
+ "luc_luu": "2026-10-10 12:02:31",
  "nguoi_luu": "ducd",
  "rong": {
   "-": [
