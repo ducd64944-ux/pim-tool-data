@@ -1,26 +1,121 @@
 {
- "chon": [],
- "chua_map": [],
+ "chon": [
+  {
+   "CHỌN": true,
+   "GHI CHÚ": "",
+   "MÃ NH": "2222",
+   "NGUỒN CATE": "CATEGORYID",
+   "SỐ SKU": 1,
+   "TAB TSKT / CẤU HÌNH": "cấu hình — 30 cột",
+   "TÊN NGÀNH HÀNG": "Cây nước nóng lạnh"
+  }
+ ],
+ "chua_map": [
+  {
+   "cate": "2222",
+   "goi_y_ma": "",
+   "prop_id": "9153",
+   "prop_name": "Công suất tiêu thụ",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "420 W"
+  }
+ ],
  "dx_dang_ap": 0,
  "goc_cms": {},
  "log": [
   [
    "ID_371970",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
+   "2222",
+   "number_of_water_taps_filter_master",
+   "FILTER: giá trị CMS \"Không\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "ID_371970",
+   "2222",
+   "safety_features_filter_master",
+   "FILTER: giá trị CMS \"Bảo vệ chống quá nhiệt\" chưa có option trong DATA PIM — để trống"
   ]
  ],
- "luc": "2026-10-11 19:57:15",
- "nganh": {},
+ "luc": "2026-10-11 20:00:49",
+ "nganh": {
+  "2222": {
+   "attr": [
+    "cooling_system_filter_master",
+    "number_of_water_taps_filter_master",
+    "safety_features_filter_master",
+    "utilities_filter_master",
+    "water_bottle_mounting_type_filter_master",
+    "actual_cold_water_temperature_tskt_master",
+    "actual_hot_water_temperature_tskt_master",
+    "actual_temperature_tskt_master",
+    "body_material_tskt_master",
+    "brand_of_tskt_master",
+    "capacity_tskt_master",
+    "cold_water_temperature_tskt_master",
+    "cooling_capacity_tskt_master",
+    "cooling_power_tskt_master",
+    "cooling_system_tskt_master",
+    "deep_tskt_master",
+    "electricity_consumption_tskt_master",
+    "heating_efficiency_tskt_master",
+    "heating_power_tskt_master",
+    "high_tskt_master",
+    "horizontal_tskt_master",
+    "hot_water_temperature_tskt_master",
+    "machine_weight_tskt_master",
+    "made_in_tskt_master",
+    "maximum_power_tskt_master",
+    "number_of_water_taps_tskt_master",
+    "release_date_tskt_master",
+    "safety_features_tskt_master",
+    "size_weight_tskt_master",
+    "utilities_tskt_master"
+   ],
+   "ten": {
+    "actual_cold_water_temperature_tskt_master": "Nhiệt độ nước lạnh thực tế",
+    "actual_hot_water_temperature_tskt_master": "Nhiệt độ nước nóng thực tế",
+    "actual_temperature_tskt_master": "Nhiệt độ thực tế",
+    "body_material_tskt_master": "Chất liệu thân vỏ",
+    "brand_of_tskt_master": "Thương hiệu của",
+    "capacity_tskt_master": "Dung lượng",
+    "cold_water_temperature_tskt_master": "Nhiệt độ nước lạnh",
+    "cooling_capacity_tskt_master": "Năng suất làm lạnh",
+    "cooling_power_tskt_master": "Công suất làm lạnh",
+    "cooling_system_filter_master": "Hệ thống làm lạnh",
+    "cooling_system_tskt_master": "Hệ thống làm lạnh",
+    "deep_tskt_master": "Sâu",
+    "electricity_consumption_tskt_master": "Điện năng tiêu thụ",
+    "heating_efficiency_tskt_master": "Năng suất làm nóng",
+    "heating_power_tskt_master": "Nhiệt độ nước nóng",
+    "high_tskt_master": "Cao",
+    "horizontal_tskt_master": "Ngang",
+    "hot_water_temperature_tskt_master": "Nhiệt độ nước nóng",
+    "machine_weight_tskt_master": "Khối lượng máy",
+    "made_in_tskt_master": "Sản xuất tại",
+    "maximum_power_tskt_master": "Công suất tối đa",
+    "number_of_water_taps_filter_master": "Số vòi nước",
+    "number_of_water_taps_tskt_master": "Số vòi nước",
+    "release_date_tskt_master": "Thời gian ra mắt",
+    "safety_features_filter_master": "Tính năng an toàn",
+    "safety_features_tskt_master": "Tính năng an toàn",
+    "size_weight_tskt_master": "Kích thước Khối lượng",
+    "utilities_filter_master": "Tiện ích",
+    "utilities_tskt_master": "Tiện ích",
+    "water_bottle_mounting_type_filter_master": "Kiểu lắp bình nước"
+   },
+   "ten_nh": "Cây nước nóng lạnh",
+   "title": "TSKT 2222 Cây nước nóng lạnh"
+  }
+ },
  "o_theo_ten": [],
  "tom_tat": {
-  "filter_khong_khop": 0,
-  "khong_data": 1,
+  "filter_khong_khop": 2,
+  "khong_data": 0,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 0,
-  "so_o": 0,
-  "so_sku": 0
+  "so_nganh": 1,
+  "so_o": 26,
+  "so_sku": 1
  }
 }
