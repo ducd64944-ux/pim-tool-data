@@ -1,224 +1,26 @@
 {
- "chon": [
-  {
-   "CHỌN": true,
-   "GHI CHÚ": "",
-   "MÃ NH": "3305",
-   "NGUỒN CATE": "CATEGORYID",
-   "SỐ SKU": 1,
-   "TAB TSKT / CẤU HÌNH": "cấu hình — 29 cột",
-   "TÊN NGÀNH HÀNG": "Bếp hồng ngoại"
-  }
- ],
- "chua_map": [
-  {
-   "cate": "3305",
-   "goi_y_ma": "",
-   "prop_id": "10944",
-   "prop_name": "Loại bếp",
-   "so_dong": 1,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Bếp hồng ngoại đơn"
-  },
-  {
-   "cate": "3305",
-   "goi_y_ma": "",
-   "prop_id": "13028",
-   "prop_name": "Lắp âm",
-   "so_dong": 1,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "3305",
-   "goi_y_ma": "",
-   "prop_id": "28140",
-   "prop_name": "Số vùng nấu",
-   "so_dong": 1,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "1 vùng nấu"
-  },
-  {
-   "cate": "3305",
-   "goi_y_ma": "",
-   "prop_id": "30240",
-   "prop_name": "Kiểu lắp đặt",
-   "so_dong": 1,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Lắp dương"
-  },
-  {
-   "cate": "3305",
-   "goi_y_ma": "",
-   "prop_id": "31181",
-   "prop_name": "Ngang",
-   "so_dong": 1,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Dưới 40 cm"
-  },
-  {
-   "cate": "3305",
-   "goi_y_ma": "",
-   "prop_id": "31182",
-   "prop_name": "Dọc",
-   "so_dong": 1,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Dưới 40 cm"
-  },
-  {
-   "cate": "3305",
-   "goi_y_ma": "",
-   "prop_id": "36440",
-   "prop_name": "Loại bếp",
-   "so_dong": 1,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Bếp đơn"
-  },
-  {
-   "cate": "3305",
-   "goi_y_ma": "",
-   "prop_id": "36538",
-   "prop_name": "Công suất",
-   "so_dong": 1,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "2000W"
-  },
-  {
-   "cate": "3305",
-   "goi_y_ma": "",
-   "prop_id": "40498",
-   "prop_name": "Chính sách lắp đặt",
-   "so_dong": 1,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "3305",
-   "goi_y_ma": "",
-   "prop_id": "41060",
-   "prop_name": "Label trong thumb",
-   "so_dong": 1,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "3305",
-   "goi_y_ma": "",
-   "prop_id": "42984",
-   "prop_name": "Bếp hồng ngoại 2 vùng nấu trở lên map với máy rửa chén cùng hãng",
-   "so_dong": 1,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Bếp hồng ngoại đơn"
-  },
-  {
-   "cate": "3305",
-   "goi_y_ma": "",
-   "prop_id": "43061",
-   "prop_name": "Bếp hồng ngoại 2 vùng nấu trở lên map với máy hút mùi cùng hãng",
-   "so_dong": 1,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Bếp hồng ngoại đơn"
-  },
-  {
-   "cate": "3305",
-   "goi_y_ma": "",
-   "prop_id": "43063",
-   "prop_name": "Bếp hồng ngoại map với Nồi cùng hãng",
-   "so_dong": 1,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Hãng khác (Sanaky,Malloca,Whirlpool,Hafele,Junger,Smeg,Lock&Lock,KAFF)"
-  },
-  {
-   "cate": "3305",
-   "goi_y_ma": "",
-   "prop_id": "43099",
-   "prop_name": "Bếp hồng ngoại map với Chảo cùng hãng",
-   "so_dong": 1,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Hãng khác (Sanaky,Malloca,Whirlpool,Rapido,Hafele,Junger,Smeg,Lock&Lock,KAFF)"
-  }
- ],
+ "chon": [],
+ "chua_map": [],
  "dx_dang_ap": 0,
  "goc_cms": {},
- "log": [],
- "luc": "2026-10-11 19:13:54",
- "nganh": {
-  "3305": {
-   "attr": [
-    "installation_type_filter_master",
-    "launch_year_filter_master",
-    "made_in_filter_master",
-    "output_power_filter_master",
-    "product_type_filter_master",
-    "safety_features_filter_master",
-    "utilities_filter_master",
-    "automatic_mode_tskt_master",
-    "brand_of_tskt_master",
-    "control_panel_tskt_master",
-    "cooking_pot_brand_tskt_master",
-    "cooking_zone_size_tskt_master",
-    "high_tskt_master",
-    "horizontal_installation_tskt_master",
-    "horizontal_tskt_master",
-    "long_cord_tskt_master",
-    "machine_weight_tskt_master",
-    "made_in_tskt_master",
-    "maximum_power_tskt_master",
-    "output_power_tskt_master",
-    "product_type_tskt_master",
-    "release_date_tskt_master",
-    "safety_features_tskt_master",
-    "surface_material_tskt_master",
-    "type_of_cooking_pot_tskt_master",
-    "utilities_tskt_master",
-    "vertical_installation_tskt_master",
-    "vertical_tskt_master",
-    "voltage_tskt_master"
-   ],
-   "ten": {
-    "automatic_mode_tskt_master": "Chế độ tự động",
-    "brand_of_tskt_master": "Thương hiệu của",
-    "control_panel_tskt_master": "Bảng điều khiển",
-    "cooking_pot_brand_tskt_master": "Thương hiệu mâm nấu",
-    "cooking_zone_size_tskt_master": "Kích thước vùng nấu",
-    "high_tskt_master": "Cao",
-    "horizontal_installation_tskt_master": "Ngang lắp đặt",
-    "horizontal_tskt_master": "Ngang",
-    "installation_method_tskt_master": "Phương thức lắp đặt",
-    "installation_type_filter_master": "Kiểu/loại lắp đặt",
-    "launch_year_filter_master": "Năm ra mắt",
-    "long_cord_tskt_master": "Dài dây",
-    "machine_weight_tskt_master": "Khối lượng máy",
-    "made_in_filter_master": "Sản xuất tại",
-    "made_in_tskt_master": "Sản xuất tại",
-    "maximum_power_tskt_master": "Công suất tối đa",
-    "output_power_filter_master": "Công suất đầu ra",
-    "output_power_tskt_master": "Công suất đầu ra",
-    "product_type_filter_master": "Loại sản phẩm",
-    "product_type_tskt_master": "Loại sản phẩm",
-    "release_date_tskt_master": "Thời gian ra mắt",
-    "safety_features_filter_master": "Tính năng an toàn",
-    "safety_features_tskt_master": "Tính năng an toàn",
-    "surface_material_tskt_master": "Chất liệu mặt",
-    "type_of_cooking_pot_tskt_master": "Loại nồi nấu",
-    "utilities_filter_master": "Tiện ích",
-    "utilities_tskt_master": "Tiện ích",
-    "vertical_installation_tskt_master": "Dọc lắp đặt",
-    "vertical_tskt_master": "Dọc",
-    "voltage_tskt_master": "Điện áp"
-   },
-   "ten_nh": "Bếp hồng ngoại",
-   "title": "TSKT 3305 Bếp hồng ngoại"
-  }
- },
+ "log": [
+  [
+   "ID_371676",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ]
+ ],
+ "luc": "2026-10-11 19:29:48",
+ "nganh": {},
  "o_theo_ten": [],
  "tom_tat": {
   "filter_khong_khop": 0,
-  "khong_data": 0,
+  "khong_data": 1,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 1,
-  "so_o": 24,
-  "so_sku": 1
+  "so_nganh": 0,
+  "so_o": 0,
+  "so_sku": 0
  }
 }
