@@ -1164,5 +1164,19 @@
   "Thêm đơn vị": 0,
   "Tách xin data": 0,
   "Workspace": "ducd"
+ },
+ {
+  "Biến đổi": 4,
+  "Chặn ô theo tên": 0,
+  "Cảnh báo": "• 1 dòng không có trong file PIM | • 2 ô giá trị CMS bị MẤT khi map (xem 🧾 Đối soát)",
+  "File": "PIM_TSKT 2063 Lò nướng_MODEL_20261011_1943.xlsx",
+  "Không/Đang cập nhật": 2,
+  "Lúc": "2026-10-11 19:43:44",
+  "Người xuất": "ducd",
+  "Số dòng": 1,
+  "Sửa tay": 0,
+  "Thêm đơn vị": 0,
+  "Tách xin data": 0,
+  "Workspace": "ducd"
  }
 ]
