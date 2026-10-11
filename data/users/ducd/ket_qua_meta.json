@@ -1,646 +1,1724 @@
 {
- "chon": [
-  {
-   "CHỌN": true,
-   "GHI CHÚ": "",
-   "MÃ NH": "9758",
-   "NGUỒN CATE": "CATEGORYID",
-   "SỐ SKU": 1460,
-   "TAB TSKT / CẤU HÌNH": "cấu hình — 54 cột",
-   "TÊN NGÀNH HÀNG": "xe đạp"
-  }
- ],
- "chua_map": [
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "28219",
-   "prop_name": "Hãng",
-   "so_dong": 1450,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Fornix"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "28498",
-   "prop_name": "Model",
-   "so_dong": 1392,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "F24"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "31687",
-   "prop_name": "Label sản phẩm",
-   "so_dong": 1442,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "35969",
-   "prop_name": "Kích cỡ",
-   "so_dong": 736,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Size M"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "28214",
-   "prop_name": "Kích thước - Khối lượng",
-   "so_dong": 8,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "105 cm - 68 cm - 55 cm - 10.5 kg"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "39363",
-   "prop_name": "Độ tuổi khuyến nghị",
-   "so_dong": 33,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "4 - 6 tuổi"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "43678",
-   "prop_name": "Map cùng dòng",
-   "so_dong": 308,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Xanh"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48765",
-   "prop_name": "Loại động cơ",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48766",
-   "prop_name": "Vị trí động cơ",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48767",
-   "prop_name": "Công suất động cơ",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48768",
-   "prop_name": "Mô-men xoắn",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48769",
-   "prop_name": "Mức trợ lực",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48772",
-   "prop_name": "Tốc độ trợ lực tối đa",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48776",
-   "prop_name": "Loại pin",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48782",
-   "prop_name": "Dung lượng pin",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48786",
-   "prop_name": "Pin tháo rời",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48787",
-   "prop_name": "Vị trí pin",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48789",
-   "prop_name": "Thời gian sạc",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48790",
-   "prop_name": "Bộ sạc đi kèm",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48792",
-   "prop_name": "Quãng đường/lần sạc",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48800",
-   "prop_name": "Chất liệu khung sườn",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48801",
-   "prop_name": "Kích cỡ khung",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48802",
-   "prop_name": "Kích cỡ bánh xe",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48808",
-   "prop_name": "Loại lốp",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48809",
-   "prop_name": "Phuộc",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48810",
-   "prop_name": "Bộ truyền động",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48811",
-   "prop_name": "Loại phanh",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48813",
-   "prop_name": "Loại xe",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48814",
-   "prop_name": "Phù hợp chiều cao",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48815",
-   "prop_name": "Màn hình hiển thị",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48816",
-   "prop_name": "Thông tin hiển thị",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48818",
-   "prop_name": "Gấp gọn",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48821",
-   "prop_name": "Chất liệu cổ xe",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48822",
-   "prop_name": "Chất liệu ghi đông",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48823",
-   "prop_name": "Chất liệu yên",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48827",
-   "prop_name": "Năm ra mắt",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48829",
-   "prop_name": "Sản xuất tại",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48830",
-   "prop_name": "Thương hiệu của",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48858",
-   "prop_name": "Xe đạp trợ lực điện",
-   "so_dong": 152,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48770",
-   "prop_name": "Cảm biến trợ lực",
-   "so_dong": 17,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Cảm biến vòng xoay"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48774",
-   "prop_name": "Chế độ trợ lực thông minh",
-   "so_dong": 17,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Tự động tối ưu lực đạp"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48812",
-   "prop_name": "Tải trọng tối đa",
-   "so_dong": 5,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "120"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48817",
-   "prop_name": "Kết nối ứng dụng",
-   "so_dong": 17,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Bluetooth App hãng"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48819",
-   "prop_name": "Chống nước, bụi",
-   "so_dong": 27,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "IP65 (màn hình hiển thị)"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48820",
-   "prop_name": "Tiện ích",
-   "so_dong": 29,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Có baga"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48824",
-   "prop_name": "Kích thước",
-   "so_dong": 5,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Dài 156 cm - Cao 115 cm - Rộng 59 cm"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48825",
-   "prop_name": "Khối lượng không bao gồm pin",
-   "so_dong": 5,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "17.2"
-  },
-  {
-   "cate": "9758",
-   "goi_y_ma": "",
-   "prop_id": "48826",
-   "prop_name": "Khối lượng bao gồm pin",
-   "so_dong": 5,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "20"
-  }
- ],
+ "chon": [],
+ "chua_map": [],
  "dx_dang_ap": 0,
  "goc_cms": {},
  "log": [
   [
-   "1314742000906",
+   "1750893000007",
    "",
    "",
    "Không có dòng nào trong DATA SP"
   ],
   [
-   "1314740000013",
-   "9758",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Không\" chưa có option trong DATA PIM — để trống"
+   "3050893000255",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "1314740000004",
-   "9758",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Hãng không công bố\" chưa có option trong DATA PIM — để trống"
+   "3050893000260",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "1314741000096",
-   "9758",
-   "frame_material_filter_master",
-   "FILTER: giá trị CMS \"Hợp kim magie & nhôm\" chưa có option trong DATA PIM — để trống"
+   "3050893000076",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "1314740000105",
-   "9758",
-   "frame_material_filter_master",
-   "FILTER: giá trị CMS \"Đang cập nhật\" chưa có option trong DATA PIM — để trống"
+   "3050893000066",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "1314740000105",
-   "9758",
-   "wheel_size_filter_master",
-   "FILTER: giá trị CMS \"Đang cập nhật\" chưa có option trong DATA PIM — để trống"
+   "3050893000174",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "1314740000105",
-   "9758",
-   "product_type_filter_master",
-   "FILTER: giá trị CMS \"Đang cập nhật\" chưa có option trong DATA PIM — để trống"
+   "1750893000068",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "1317180000001",
-   "9758",
-   "frame_material_filter_master",
-   "FILTER: giá trị CMS \"Không\" chưa có option trong DATA PIM — để trống"
+   "1750893000085",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "1317180000001",
-   "9758",
-   "wheel_size_filter_master",
-   "FILTER: giá trị CMS \"Không\" chưa có option trong DATA PIM — để trống"
+   "1750893000067",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "1317180000001",
-   "9758",
-   "number_of_gears_filter_master",
-   "FILTER: giá trị CMS \"Không\" chưa có option trong DATA PIM — để trống"
+   "1750893000061",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "1317180000001",
-   "9758",
-   "first_type_filter_master",
-   "FILTER: giá trị CMS \"Không\" chưa có option trong DATA PIM — để trống"
+   "1750893000063",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750893000083",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750893000080",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750893000076",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750893000079",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750893000051",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750893000078",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750893000062",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000310",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000311",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750893000065",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750893000087",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750893000081",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000111",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750893000070",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000312",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750893000064",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750893000082",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750894000045",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750893000077",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750893000052",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000059",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000317",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750893000035",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750894000044",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750894000042",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000060",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000065",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750893000086",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750893000074",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750893000084",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750893000073",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750893000075",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750893000072",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750893000071",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000047",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000073",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750893000036",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000189",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000191",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000190",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000192",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750893000054",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000188",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750894000043",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000068",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000079",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000063",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000071",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000270",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000181",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000281",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000282",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000054",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000208",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000049",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000217",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000026",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000046",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000056",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000051",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000254",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000048",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000196",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000194",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000075",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000093",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000061",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000057",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000059",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000062",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000065",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000064",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000058",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000060",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000063",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000070",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000094",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000187",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000272",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000271",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000223",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000221",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000206",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000205",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000234",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000227",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000232",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000231",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000235",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000236",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000228",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000233",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000230",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000229",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000178",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000015",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000044",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000278",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000076",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750893000005",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000261",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000045",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000044",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000273",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750894000028",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000267",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000266",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000279",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000265",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000066",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000072",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000264",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000204",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000262",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000069",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000053",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000074",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000263",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000049",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000077",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000047",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000052",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750894000025",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000050",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000195",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000068",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000209",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000173",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000290",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000048",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000280",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000277",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000041",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750893000055",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000218",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000222",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000220",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000219",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000180",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000163",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000179",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000045",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000037",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000092",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000090",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000091",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000274",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000283",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000256",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000314",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750893000014",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750893000020",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750893000017",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750893000018",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750893000019",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750893000023",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000184",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000211",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750893000022",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000183",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000186",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000215",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750893000021",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000144",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000143",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000100",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750893000011",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750894000026",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000291",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000098",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000301",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000299",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000214",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000300",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000088",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000296",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000295",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000309",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750894000031",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000289",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000287",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750893000003",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000104",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000107",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000103",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000097",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750893000004",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000087",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1802208000200",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1802208001700",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1802208001600",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000038",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000017",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000008",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000292",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000294",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000298",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000297",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000253",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000252",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000268",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750893000002",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000193",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000210",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000207",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000052",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000083",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000085",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000160",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000146",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000162",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000084",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000083",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000213",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000095",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000085",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000089",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000105",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750894000029",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000259",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750893000001",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750894000030",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000275",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000050",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000008",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000099",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1802208001400",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1802208001500",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750893000008",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750893000010",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000258",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750894000023",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000101",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000102",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000106",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750894000022",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000293",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750894000027",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000302",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000288",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750893000024",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000005",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000110",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000022",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000018",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000096",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000025",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050894000099",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000308",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750893000027",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750893000013",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750893000009",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750893000012",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750893000016",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750894000032",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750894000024",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750893000006",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000315",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000149",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000116",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750893000053",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000115",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000114",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000154",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000084",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000185",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000304",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1750893000066",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000313",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000306",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000305",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000212",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "3050893000067",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ]
  ],
- "luc": "2026-10-11 14:47:32",
- "nganh": {
-  "9758": {
-   "attr": [
-    "drivers_height_filter_master",
-    "first_type_filter_master",
-    "frame_material_filter_master",
-    "number_of_gears_filter_master",
-    "product_type_filter_master",
-    "purpose_of_use_filter_master",
-    "utilities_filter_master",
-    "wheel_size_filter_master",
-    "bicycle_chain_tskt_master",
-    "bone_type_tskt_master",
-    "brake_set_tskt_master",
-    "brake_type_tskt_master",
-    "brand_of_tskt_master",
-    "cam_tskt_master",
-    "change_disc_tskt_master",
-    "core_material_tskt_master",
-    "diameter_tskt_master",
-    "drive_system_warranty_tskt_master",
-    "fork_material_tskt_master",
-    "fork_position_tskt_master",
-    "frame_material_tskt_master",
-    "frame_size_tskt_master",
-    "handle_bar_tskt_master",
-    "hand_tskt_master",
-    "highly_recommended_tskt_master",
-    "high_tskt_master",
-    "horizontal_tskt_master",
-    "hub_tskt_master",
-    "machine_weight_tskt_master",
-    "made_in_tskt_master",
-    "note_tskt_master",
-    "number_of_discs_tskt_master",
-    "number_of_gears_tskt_master",
-    "passenger_seat_load_tskt_master",
-    "pork_knuckle_tskt_master",
-    "pump_valve_type_tskt_master",
-    "recommended_age_tskt_master",
-    "rim_height_tskt_master",
-    "rim_type_tskt_master",
-    "saddle_brand_tskt_master",
-    "saddle_material_tskt_master",
-    "shock_absorber_warranty_tskt_master",
-    "stem_material_tskt_master",
-    "surface_material_tskt_master",
-    "suspension_travel_tskt_master",
-    "tires_tskt_master",
-    "type_of_gear_tskt_master",
-    "type_of_shifter_tskt_master",
-    "type_of_shock_absorber_tskt_master",
-    "utilities_tskt_master",
-    "vehicle_load_tskt_master",
-    "wheel_size_tskt_master",
-    "wide_tskt_master",
-    "winning_hands_tskt_master"
-   ],
-   "ten": {
-    "bicycle_chain_tskt_master": "Sên xe",
-    "bone_type_tskt_master": "Loại cốt",
-    "brake_set_tskt_master": "Bộ thắng",
-    "brake_type_tskt_master": "Loại phanh thắng",
-    "brand_of_tskt_master": "Thương hiệu của",
-    "cam_tskt_master": "Căm",
-    "change_disc_tskt_master": "Chuyển dĩa",
-    "core_material_tskt_master": "Chất liệu cốt",
-    "diameter_tskt_master": "Đường kính",
-    "drive_system_warranty_tskt_master": "Bảo hành bộ truyền động",
-    "drivers_height_filter_master": "Chiều cao người lái",
-    "first_type_filter_master": "Loại thắng trước",
-    "fork_material_tskt_master": "Chất liệu phuộc",
-    "fork_position_tskt_master": "Vị trí phuộc",
-    "frame_material_filter_master": "Chất liệu khung sườn",
-    "frame_material_tskt_master": "Chất liệu khung viền",
-    "frame_size_tskt_master": "Kích thước khung viền",
-    "hand_tskt_master": "Tay đề",
-    "handle_bar_tskt_master": "Ghi đông",
-    "high_tskt_master": "Cao",
-    "highly_recommended_tskt_master": "Cao khuyến nghị",
-    "horizontal_tskt_master": "Ngang",
-    "hub_tskt_master": "Đùm",
-    "machine_weight_tskt_master": "Khối lượng máy",
-    "made_in_tskt_master": "Sản xuất tại",
-    "note_tskt_master": "Lưu ý",
-    "number_of_discs_tskt_master": "Số đĩa",
-    "number_of_gears_filter_master": "Số líp",
-    "number_of_gears_tskt_master": "Số líp",
-    "passenger_seat_load_tskt_master": "Tải trọng yên phụ",
-    "pork_knuckle_tskt_master": "Giò dĩa",
-    "product_type_filter_master": "Loại sản phẩm",
-    "pump_valve_type_tskt_master": "Loại van bơm",
-    "purpose_of_use_filter_master": "Mục đích sử dụng",
-    "recommended_age_tskt_master": "Độ tuổi khuyến nghị",
-    "rim_height_tskt_master": "Độ cao vành",
-    "rim_type_tskt_master": "Loại vành",
-    "saddle_brand_tskt_master": "Thương hiệu yên xe",
-    "saddle_material_tskt_master": "Chất liệu yên",
-    "shock_absorber_warranty_tskt_master": "Bảo hành phuộc giảm xóc",
-    "stem_material_tskt_master": "Chất liệu Pô tăng Cổ xe",
-    "surface_material_tskt_master": "Chất liệu mặt",
-    "suspension_travel_tskt_master": "Hành trình phuộc",
-    "tires_tskt_master": "Lốp xe",
-    "type_of_gear_tskt_master": "Loại líp",
-    "type_of_shifter_tskt_master": "Loại tay đề",
-    "type_of_shock_absorber_tskt_master": "Loại phuộc",
-    "utilities_filter_master": "Tiện ích",
-    "utilities_tskt_master": "Tiện ích",
-    "vehicle_load_tskt_master": "Tải trọng nguyên xe",
-    "wheel_size_filter_master": "Kích cỡ bánh xe",
-    "wheel_size_tskt_master": "Kích cỡ bánh xe",
-    "wide_tskt_master": "Rộng",
-    "winning_hands_tskt_master": "Tay thắng"
-   },
-   "ten_nh": "xe đạp",
-   "title": "TSKT 9758 xe đạp"
-  }
- },
+ "luc": "2026-10-11 15:13:38",
+ "nganh": {},
  "o_theo_ten": [],
  "tom_tat": {
-  "filter_khong_khop": 10,
-  "khong_data": 1,
+  "filter_khong_khop": 0,
+  "khong_data": 284,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 1,
-  "so_o": 73116,
-  "so_sku": 1460
+  "so_nganh": 0,
+  "so_o": 0,
+  "so_sku": 0
  }
 }
