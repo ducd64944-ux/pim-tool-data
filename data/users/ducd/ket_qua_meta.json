@@ -54,11 +54,17 @@
   [
    "ID_371972",
    "3385",
+   "product_type_filter_master",
+   "FILTER: giá trị CMS \"Máy lọc nước RO nóng nguội lạnh\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "ID_371972",
+   "3385",
    "utilities_filter_master",
    "FILTER: giá trị CMS \"Có đèn báo/trạng thái hoạt động thuận tiện sử dụng\" chưa có option trong DATA PIM — để trống"
   ]
  ],
- "luc": "2026-10-11 20:08:36",
+ "luc": "2026-10-11 20:14:01",
  "nganh": {
   "3385": {
    "attr": [
@@ -189,7 +195,7 @@
  },
  "o_theo_ten": [],
  "tom_tat": {
-  "filter_khong_khop": 1,
+  "filter_khong_khop": 2,
   "khong_data": 0,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
