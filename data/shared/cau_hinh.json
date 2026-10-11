@@ -4814,6 +4814,45 @@
    "year_of_manufacture_tskt_master": "Năm sản xuất"
   }
  },
+ "9599": {
+  "cot": [
+   "blade_diameter_tskt_master",
+   "brand_of_tskt_master",
+   "compartment_tskt_master",
+   "control_panel_tskt_master",
+   "grinding_capacity_per_batch_tskt_master",
+   "grind_size_tskt_master",
+   "made_in_tskt_master",
+   "mass_tskt_master",
+   "material_tskt_master",
+   "maximum_grinding_capacity_tskt_master",
+   "modes_tskt_master",
+   "power_tskt_master",
+   "release_date_tskt_master",
+   "safety_features_tskt_master",
+   "size_tskt_master",
+   "utilities_tskt_master"
+  ],
+  "ten": "Máy xay cà phê",
+  "ten_cot": {
+   "blade_diameter_tskt_master": "Đường kính lưỡi",
+   "brand_of_tskt_master": "Thương hiệu của",
+   "compartment_tskt_master": "Ngăn chứa",
+   "control_panel_tskt_master": "Bảng điều khiển",
+   "grind_size_tskt_master": "Kích cỡ xay",
+   "grinding_capacity_per_batch_tskt_master": "Khối lượng 1 lần xay",
+   "made_in_tskt_master": "Sản xuất tại",
+   "mass_tskt_master": "Khối lượng",
+   "material_tskt_master": "Chất liệu",
+   "maximum_grinding_capacity_tskt_master": "Công suất tối đa 1 lần xay",
+   "modes_tskt_master": "Các chế độ",
+   "power_tskt_master": "Công suất",
+   "release_date_tskt_master": "Thời gian ra mắt",
+   "safety_features_tskt_master": "Tính năng an toàn",
+   "size_tskt_master": "Kích thước",
+   "utilities_tskt_master": "Tiện ích"
+  }
+ },
  "9678": {
   "cot": [
    "body_material_tskt_master",
