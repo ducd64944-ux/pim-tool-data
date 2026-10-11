@@ -1192,5 +1192,19 @@
   "Thêm đơn vị": 0,
   "Tách xin data": 0,
   "Workspace": "ducd"
+ },
+ {
+  "Biến đổi": 0,
+  "Chặn ô theo tên": 0,
+  "Cảnh báo": "• 1 dòng không có trong file PIM | • 1 ô giá trị CMS bị MẤT khi map (xem 🧾 Đối soát)",
+  "File": "PIM_TSKT 2222 Cây nước nóng lạnh_MODEL_20261011_2001.xlsx",
+  "Không/Đang cập nhật": 4,
+  "Lúc": "2026-10-11 20:01:36",
+  "Người xuất": "ducd",
+  "Số dòng": 1,
+  "Sửa tay": 0,
+  "Thêm đơn vị": 0,
+  "Tách xin data": 0,
+  "Workspace": "ducd"
  }
 ]
