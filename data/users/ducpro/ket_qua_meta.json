@@ -3,38 +3,56 @@
   {
    "CHỌN": true,
    "GHI CHÚ": "",
-   "MÃ NH": "4645",
+   "MÃ NH": "2322",
    "NGUỒN CATE": "CATEGORYID",
-   "SỐ SKU": 3,
-   "TAB TSKT / CẤU HÌNH": "cấu hình — 21 cột",
-   "TÊN NGÀNH HÀNG": "Máy hút mùi"
+   "SỐ SKU": 1,
+   "TAB TSKT / CẤU HÌNH": "cấu hình — 17 cột",
+   "TÊN NGÀNH HÀNG": "Máy làm sữa hạt"
   }
  ],
  "chua_map": [
   {
-   "cate": "4645",
+   "cate": "2322",
    "goi_y_ma": "",
-   "prop_id": "40434",
-   "prop_name": "Chính sách lắp đặt",
-   "so_dong": 3,
+   "prop_id": "8653",
+   "prop_name": "Lưới lọc",
+   "so_dong": 1,
    "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
+   "vi_du": "Không có"
   },
   {
-   "cate": "4645",
+   "cate": "2322",
    "goi_y_ma": "",
-   "prop_id": "42964",
-   "prop_name": "Máy hút mùi map bếp từ 2 vùng nấu trở lên theo hãng",
-   "so_dong": 3,
+   "prop_id": "8657",
+   "prop_name": "Bảo hành",
+   "so_dong": 1,
    "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Đang cập nhật"
+   "vi_du": "Không có"
   },
   {
-   "cate": "4645",
+   "cate": "2322",
    "goi_y_ma": "",
-   "prop_id": "43062",
-   "prop_name": "Máy hút mùi map bếp hồng ngoại 2 vùng nấu trở lên theo hãng",
-   "so_dong": 3,
+   "prop_id": "9340",
+   "prop_name": "Tiện ích 1",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không có"
+  },
+  {
+   "cate": "2322",
+   "goi_y_ma": "",
+   "prop_id": "9341",
+   "prop_name": "Tiện ích 2",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không có"
+  },
+  {
+   "cate": "2322",
+   "goi_y_ma": "",
+   "prop_id": "43598",
+   "prop_name": "Map cùng dòng",
+   "so_dong": 1,
    "trang_thai": "CHƯA MAP — bỏ qua",
    "vi_du": "Đang cập nhật"
   }
@@ -42,64 +60,49 @@
  "dx_dang_ap": 0,
  "goc_cms": {},
  "log": [],
- "luc": "2026-10-11 21:23:10",
+ "luc": "2026-10-11 21:26:12",
  "nganh": {
-  "4645": {
+  "2322": {
    "attr": [
-    "suction_power_filter_master",
-    "usable_area_filter_master",
+    "launch_year_filter_master",
+    "blade_material_tskt_master",
     "body_material_tskt_master",
     "brand_of_tskt_master",
     "capacity_tskt_master",
-    "coverage_area_tskt_master",
+    "control_panel_tskt_master",
     "deep_tskt_master",
+    "function_tskt_master",
     "high_tskt_master",
     "horizontal_tskt_master",
-    "long_cord_tskt_master",
+    "jar_material_tskt_master",
     "machine_weight_tskt_master",
     "made_in_tskt_master",
-    "noise_level_tskt_master",
     "output_power_tskt_master",
-    "processing_time_tskt_master",
+    "product_type_tskt_master",
     "release_date_tskt_master",
-    "size_weight_tskt_master",
-    "suction_power_tskt_master",
-    "technology_tskt_master",
-    "usage_time_tskt_master",
     "utilities_tskt_master"
    ],
    "ten": {
-    "accessory_materials_tskt_master": "Chất liệu phụ kiện",
+    "blade_material_tskt_master": "Chất liệu lưỡi dao",
     "body_material_tskt_master": "Chất liệu thân vỏ",
     "brand_of_tskt_master": "Thương hiệu của",
     "capacity_tskt_master": "Dung lượng",
     "control_panel_tskt_master": "Bảng điều khiển",
-    "coverage_area_tskt_master": "Diện tích sử dụng",
     "deep_tskt_master": "Sâu",
-    "diameter_tskt_master": "Đường kính",
+    "function_tskt_master": "Chức năng",
     "high_tskt_master": "Cao",
     "horizontal_tskt_master": "Ngang",
-    "lighting_tskt_master": "Đèn chiếu sáng",
-    "long_cord_tskt_master": "Dài dây",
+    "jar_material_tskt_master": "Chất liệu cối",
+    "launch_year_filter_master": "Năm ra mắt",
     "machine_weight_tskt_master": "Khối lượng máy",
     "made_in_tskt_master": "Sản xuất tại",
-    "noise_level_tskt_master": "Độ ồn",
     "output_power_tskt_master": "Công suất đầu ra",
-    "processing_time_tskt_master": "Thời gian xử lý",
     "product_type_tskt_master": "Loại sản phẩm",
-    "quantity_tskt_master": "Số lượng",
     "release_date_tskt_master": "Thời gian ra mắt",
-    "size_weight_tskt_master": "Kích thước Khối lượng",
-    "suction_power_filter_master": "Công suất hút",
-    "suction_power_tskt_master": "Công suất hút",
-    "suction_speed_tskt_master": "Tốc độ hút",
-    "technology_tskt_master": "Công nghệ",
-    "usable_area_filter_master": "Diện tích sử dụng",
-    "usage_time_tskt_master": "Thời gian sử dụng",
     "utilities_tskt_master": "Tiện ích"
    },
-   "ten_nh": "Máy hút mùi",
-   "title": "TSKT 4645 Máy hút mùi"
+   "ten_nh": "Máy làm sữa hạt",
+   "title": "TSKT 2322 Máy làm sữa hạt"
   }
  },
  "o_theo_ten": [],
@@ -109,7 +112,7 @@
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
   "so_nganh": 1,
-  "so_o": 36,
-  "so_sku": 3
+  "so_o": 17,
+  "so_sku": 1
  }
 }
