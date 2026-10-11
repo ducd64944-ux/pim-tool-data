@@ -3,97 +3,86 @@
   {
    "CHỌN": true,
    "GHI CHÚ": "",
-   "MÃ NH": "9418",
+   "MÃ NH": "1984",
    "NGUỒN CATE": "CATEGORYID",
    "SỐ SKU": 2,
-   "TAB TSKT / CẤU HÌNH": "cấu hình — 26 cột",
-   "TÊN NGÀNH HÀNG": "Nồi chiên không dầu"
+   "TAB TSKT / CẤU HÌNH": "cấu hình — 25 cột",
+   "TÊN NGÀNH HÀNG": "Nồi áp suất"
   }
  ],
  "chua_map": [
   {
-   "cate": "9418",
+   "cate": "1984",
    "goi_y_ma": "",
-   "prop_id": "30241",
-   "prop_name": "Chương trình cài đặt sẵn",
+   "prop_id": "36499",
+   "prop_name": "Loại nồi",
    "so_dong": 2,
    "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Hơn 16 chương trình"
-  },
-  {
-   "cate": "9418",
-   "goi_y_ma": "",
-   "prop_id": "41428",
-   "prop_name": "Label trong thumb",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
+   "vi_du": "Nồi áp suất"
   }
  ],
  "dx_dang_ap": 0,
  "goc_cms": {},
  "log": [],
- "luc": "2026-10-11 21:56:44",
+ "luc": "2026-10-11 21:58:34",
  "nganh": {
-  "9418": {
+  "1984": {
    "attr": [
     "capacity_filter_master",
     "control_panel_filter_master",
-    "launch_year_filter_master",
-    "other_cooking_functions_filter_master",
-    "utilities_filter_master",
+    "function_filter_master",
+    "inner_material_filter_master",
+    "product_type_filter_master",
+    "safety_features_filter_master",
     "body_material_tskt_master",
     "brand_of_tskt_master",
+    "capacity_tskt_master",
     "control_panel_tskt_master",
     "deep_tskt_master",
     "function_tskt_master",
     "high_tskt_master",
     "horizontal_tskt_master",
-    "included_accessories_tskt_master",
+    "inner_pot_tskt_master",
     "long_cord_tskt_master",
     "machine_weight_tskt_master",
     "made_in_tskt_master",
-    "operating_temperature_tskt_master",
     "output_power_tskt_master",
     "product_type_tskt_master",
     "release_date_tskt_master",
-    "technology_tskt_master",
-    "timer_tskt_master",
-    "total_capacity_tskt_master",
-    "usable_capacity_tskt_master",
-    "utilities_tskt_master",
-    "voltage_tskt_master"
+    "safety_features_tskt_master",
+    "safety_valve_tskt_master",
+    "size_weight_tskt_master",
+    "utilities_tskt_master"
    ],
    "ten": {
     "body_material_tskt_master": "Chất liệu thân vỏ",
     "brand_of_tskt_master": "Thương hiệu của",
     "capacity_filter_master": "Dung lượng dung tích",
+    "capacity_tskt_master": "Dung lượng",
     "control_panel_filter_master": "Bảng điều khiển",
     "control_panel_tskt_master": "Bảng điều khiển",
     "deep_tskt_master": "Sâu",
+    "function_filter_master": "Chức năng",
     "function_tskt_master": "Chức năng",
     "high_tskt_master": "Cao",
     "horizontal_tskt_master": "Ngang",
-    "included_accessories_tskt_master": "Phụ kiện đi kèm",
-    "launch_year_filter_master": "Năm ra mắt",
+    "inner_material_filter_master": "Chất liệu ruột",
+    "inner_pot_tskt_master": "Lòng nồi",
     "long_cord_tskt_master": "Dài dây",
     "machine_weight_tskt_master": "Khối lượng máy",
     "made_in_tskt_master": "Sản xuất tại",
-    "operating_temperature_tskt_master": "Nhiệt độ hoạt động",
-    "other_cooking_functions_filter_master": "Chức năng nấu khác",
     "output_power_tskt_master": "Công suất đầu ra",
+    "product_type_filter_master": "Loại sản phẩm",
     "product_type_tskt_master": "Loại sản phẩm",
     "release_date_tskt_master": "Thời gian ra mắt",
-    "technology_tskt_master": "Công nghệ",
-    "timer_tskt_master": "Hẹn giờ",
-    "total_capacity_tskt_master": "Dung tích tổng",
-    "usable_capacity_tskt_master": "Dung tích sử dụng",
-    "utilities_filter_master": "Tiện ích",
-    "utilities_tskt_master": "Tiện ích",
-    "voltage_tskt_master": "Điện áp"
+    "safety_features_filter_master": "Tính năng an toàn",
+    "safety_features_tskt_master": "Tính năng an toàn",
+    "safety_valve_tskt_master": "Van an toàn",
+    "size_weight_tskt_master": "Kích thước Khối lượng",
+    "utilities_tskt_master": "Tiện ích"
    },
-   "ten_nh": "Nồi chiên không dầu",
-   "title": "TSKT 9418 Nồi chiên không dầu"
+   "ten_nh": "Nồi áp suất",
+   "title": "TSKT 1984 Nồi áp suất"
   }
  },
  "o_theo_ten": [],
@@ -103,7 +92,7 @@
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
   "so_nganh": 1,
-  "so_o": 51,
+  "so_o": 46,
   "so_sku": 2
  }
 }
