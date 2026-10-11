@@ -1,38 +1,137 @@
 {
- "chon": [],
- "chua_map": [],
+ "chon": [
+  {
+   "CHỌN": true,
+   "GHI CHÚ": "",
+   "MÃ NH": "1943",
+   "NGUỒN CATE": "CATEGORYID",
+   "SỐ SKU": 3,
+   "TAB TSKT / CẤU HÌNH": "tab TSKT 1943 Tủ lạnh + cấu hình",
+   "TÊN NGÀNH HÀNG": "Tủ lạnh"
+  }
+ ],
+ "chua_map": [
+  {
+   "cate": "1943",
+   "goi_y_ma": "",
+   "prop_id": "9068",
+   "prop_name": "Dung tích dùng để tính CP vận chuyển",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Từ 300 đến dưới 450 lít"
+  },
+  {
+   "cate": "1943",
+   "goi_y_ma": "",
+   "prop_id": "15486",
+   "prop_name": "Thời gian bảo hành động cơ",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "máy nén 12 năm"
+  },
+  {
+   "cate": "1943",
+   "goi_y_ma": "",
+   "prop_id": "26089",
+   "prop_name": "Label hình đại diện",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Đang cập nhật"
+  },
+  {
+   "cate": "1943",
+   "goi_y_ma": "",
+   "prop_id": "26848",
+   "prop_name": "Chất liệu cửa tủ",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Mặt kính"
+  }
+ ],
  "dx_dang_ap": 0,
  "goc_cms": {},
- "log": [
-  [
-   "1751097000248",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1751097000265",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1751097000267",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ]
- ],
- "luc": "2026-10-11 21:50:22",
- "nganh": {},
+ "log": [],
+ "luc": "2026-10-11 21:52:25",
+ "nganh": {
+  "1943": {
+   "attr": [
+    "capacity_filter_master",
+    "inverter_type_filter_master",
+    "made_in_filter_master",
+    "number_of_doors_filter_master",
+    "style_filter_master",
+    "utilities_filter_master",
+    "accessory_materials_tskt_master",
+    "antibac_deodorizing_tech_tskt_master",
+    "automatic_ice_making_tskt_master",
+    "conversion_compartment_capacity_tskt_master",
+    "cooling_technology_tskt_master",
+    "deep_tskt_master",
+    "door_material_tskt_master",
+    "energysaving_technology_tskt_master",
+    "food_preservation_technology_tskt_master",
+    "freezer_capacity_tskt_master",
+    "get_water_from_abroad_tskt_master",
+    "high_tskt_master",
+    "horizontal_tskt_master",
+    "machine_weight_tskt_master",
+    "made_in_tskt_master",
+    "number_of_doors_tskt_master",
+    "number_of_users_tskt_master",
+    "product_type_tskt_master",
+    "refrigerator_compartment_capacity_tskt_master",
+    "refrigerator_tray_material_tskt_master",
+    "release_date_tskt_master",
+    "total_capacity_tskt_master",
+    "total_power_consumption_tskt_master",
+    "usable_capacity_tskt_master",
+    "utilities_tskt_master"
+   ],
+   "ten": {
+    "accessory_materials_tskt_master": "Chất liệu phụ kiện",
+    "antibac_deodorizing_tech_tskt_master": "Công nghệ kháng khuẩn, khử mùi",
+    "automatic_ice_making_tskt_master": "Làm đá tự động",
+    "capacity_filter_master": "Dung lượng dung tích",
+    "conversion_compartment_capacity_tskt_master": "Dung tích ngăn chuyển đổi",
+    "cooling_technology_tskt_master": "Công nghệ làm lạnh",
+    "deep_tskt_master": "Sâu",
+    "door_material_tskt_master": "Chất liệu cửa",
+    "energysaving_technology_tskt_master": "Công nghệ tiết kiệm điện",
+    "food_preservation_technology_tskt_master": "Công nghệ bảo quản thực phẩm",
+    "freezer_capacity_tskt_master": "Dung tích ngăn đá",
+    "get_water_from_abroad_tskt_master": "Lấy nước ngoài",
+    "high_tskt_master": "Cao",
+    "horizontal_tskt_master": "Ngang",
+    "inverter_type_filter_master": "Loại Inverter",
+    "machine_weight_tskt_master": "Khối lượng máy",
+    "made_in_filter_master": "Sản xuất tại",
+    "made_in_tskt_master": "Sản xuất tại",
+    "number_of_doors_filter_master": "Số cửa",
+    "number_of_doors_tskt_master": "Số cửa",
+    "number_of_users_tskt_master": "Số người sử dụng",
+    "product_type_tskt_master": "Loại sản phẩm",
+    "refrigerator_compartment_capacity_tskt_master": "Dung tích ngăn lạnh",
+    "refrigerator_tray_material_tskt_master": "Chất liệu khay ngăn lạnh",
+    "release_date_tskt_master": "Thời gian ra mắt",
+    "style_filter_master": "Phong cách",
+    "total_capacity_tskt_master": "Dung tích tổng",
+    "total_power_consumption_tskt_master": "Tổng công suất tiêu thụ",
+    "usable_capacity_tskt_master": "Dung tích sử dụng",
+    "utilities_filter_master": "Tiện ích",
+    "utilities_tskt_master": "Tiện ích"
+   },
+   "ten_nh": "Tủ lạnh",
+   "title": "TSKT 1943 Tủ lạnh"
+  }
+ },
  "o_theo_ten": [],
  "tom_tat": {
   "filter_khong_khop": 0,
-  "khong_data": 3,
+  "khong_data": 0,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 0,
-  "so_o": 0,
-  "so_sku": 0
+  "so_nganh": 1,
+  "so_o": 91,
+  "so_sku": 3
  }
 }
