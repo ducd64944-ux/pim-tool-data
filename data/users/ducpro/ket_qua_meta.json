@@ -1,32 +1,91 @@
 {
- "chon": [],
- "chua_map": [],
+ "chon": [
+  {
+   "CHỌN": true,
+   "GHI CHÚ": "",
+   "MÃ NH": "8765",
+   "NGUỒN CATE": "CATEGORYID",
+   "SỐ SKU": 2,
+   "TAB TSKT / CẤU HÌNH": "cấu hình — 17 cột",
+   "TÊN NGÀNH HÀNG": "Mũ bảo hiểm"
+  }
+ ],
+ "chua_map": [
+  {
+   "cate": "8765",
+   "goi_y_ma": "",
+   "prop_id": "28335",
+   "prop_name": "Màu sắc",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Xanh da trời"
+  },
+  {
+   "cate": "8765",
+   "goi_y_ma": "",
+   "prop_id": "42538",
+   "prop_name": "Size + Hoạ tiết + Màu sắc",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  }
+ ],
  "dx_dang_ap": 0,
  "goc_cms": {},
- "log": [
-  [
-   "1034302000105",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1034302000106",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ]
- ],
- "luc": "2026-10-11 22:10:51",
- "nganh": {},
+ "log": [],
+ "luc": "2026-10-11 22:11:10",
+ "nganh": {
+  "8765": {
+   "attr": [
+    "color_filter_master",
+    "product_type_filter_master",
+    "size_filter_master",
+    "utilities_filter_master",
+    "body_material_tskt_master",
+    "brand_of_tskt_master",
+    "head_circumference_tskt_master",
+    "included_accessories_tskt_master",
+    "inner_material_tskt_master",
+    "made_in_tskt_master",
+    "main_accessory_thickness_tskt_master",
+    "mass_tskt_master",
+    "product_type_tskt_master",
+    "release_date_tskt_master",
+    "size_tskt_master",
+    "surface_material_tskt_master",
+    "utilities_tskt_master"
+   ],
+   "ten": {
+    "body_material_tskt_master": "Chất liệu thân vỏ",
+    "brand_of_tskt_master": "Thương hiệu của",
+    "color_filter_master": "Màu sắc",
+    "head_circumference_tskt_master": "Chu vi vòng đầu",
+    "included_accessories_tskt_master": "Phụ kiện đi kèm",
+    "inner_material_tskt_master": "Chất liệu ruột",
+    "made_in_tskt_master": "Sản xuất tại",
+    "main_accessory_thickness_tskt_master": "Độ dày phụ kiện chính",
+    "mass_tskt_master": "Khối lượng",
+    "product_type_filter_master": "Loại sản phẩm",
+    "product_type_tskt_master": "Loại sản phẩm",
+    "release_date_tskt_master": "Thời gian ra mắt",
+    "size_filter_master": "Kích thước",
+    "size_tskt_master": "Kích thước",
+    "surface_material_tskt_master": "Chất liệu mặt",
+    "utilities_filter_master": "Tiện ích",
+    "utilities_tskt_master": "Tiện ích"
+   },
+   "ten_nh": "Mũ bảo hiểm",
+   "title": "TSKT 8765 Mũ bảo hiểm"
+  }
+ },
  "o_theo_ten": [],
  "tom_tat": {
   "filter_khong_khop": 0,
-  "khong_data": 2,
+  "khong_data": 0,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 0,
-  "so_o": 0,
-  "so_sku": 0
+  "so_nganh": 1,
+  "so_o": 28,
+  "so_sku": 2
  }
 }
