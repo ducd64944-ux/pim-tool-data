@@ -1,32 +1,78 @@
 {
- "chon": [],
- "chua_map": [],
+ "chon": [
+  {
+   "CHỌN": true,
+   "GHI CHÚ": "",
+   "MÃ NH": "8980",
+   "NGUỒN CATE": "CATEGORYID",
+   "SỐ SKU": 2,
+   "TAB TSKT / CẤU HÌNH": "cấu hình — 15 cột",
+   "TÊN NGÀNH HÀNG": "Ổ khóa"
+  }
+ ],
+ "chua_map": [
+  {
+   "cate": "8980",
+   "goi_y_ma": "",
+   "prop_id": "49418",
+   "prop_name": "Kích thước",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "40 mm"
+  }
+ ],
  "dx_dang_ap": 0,
  "goc_cms": {},
- "log": [
-  [
-   "1037400000009",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1037400000010",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ]
- ],
- "luc": "2026-10-11 22:12:24",
- "nganh": {},
+ "log": [],
+ "luc": "2026-10-11 22:12:50",
+ "nganh": {
+  "8980": {
+   "attr": [
+    "brand_of_tskt_master",
+    "long_tskt_master",
+    "machine_weight_tskt_master",
+    "made_in_tskt_master",
+    "material_tskt_master",
+    "maximum_operating_time_tskt_master",
+    "modes_tskt_master",
+    "note_tskt_master",
+    "power_source_tskt_master",
+    "product_type_tskt_master",
+    "size_weight_tskt_master",
+    "thick_tskt_master",
+    "utilities_tskt_master",
+    "warning_sound_tskt_master",
+    "wide_tskt_master"
+   ],
+   "ten": {
+    "brand_of_tskt_master": "Thương hiệu của",
+    "long_tskt_master": "Dài",
+    "machine_weight_tskt_master": "Khối lượng máy",
+    "made_in_tskt_master": "Sản xuất tại",
+    "material_tskt_master": "Chất liệu",
+    "maximum_operating_time_tskt_master": "Thời gian hoạt động tối đa",
+    "modes_tskt_master": "Các chế độ",
+    "note_tskt_master": "Lưu ý",
+    "power_source_tskt_master": "Nguồn điện",
+    "product_type_tskt_master": "Loại sản phẩm",
+    "size_weight_tskt_master": "Kích thước Khối lượng",
+    "thick_tskt_master": "Dày",
+    "utilities_tskt_master": "Tiện ích",
+    "warning_sound_tskt_master": "Âm thanh cảnh báo",
+    "wide_tskt_master": "Rộng"
+   },
+   "ten_nh": "Ổ khóa",
+   "title": "TSKT 8980 Ổ khóa"
+  }
+ },
  "o_theo_ten": [],
  "tom_tat": {
   "filter_khong_khop": 0,
-  "khong_data": 2,
+  "khong_data": 0,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 0,
-  "so_o": 0,
-  "so_sku": 0
+  "so_nganh": 1,
+  "so_o": 26,
+  "so_sku": 2
  }
 }
