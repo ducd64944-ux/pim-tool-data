@@ -3653,6 +3653,45 @@
    "wind_mode_tskt_master": "Chế độ gió"
   }
  },
+ "7684": {
+  "cot": [
+   "made_in_filter_master",
+   "accessory_materials_tskt_master",
+   "body_material_tskt_master",
+   "brand_of_tskt_master",
+   "capacity_tskt_master",
+   "control_panel_tskt_master",
+   "holding_time_tskt_master",
+   "made_in_tskt_master",
+   "power_tskt_master",
+   "processing_time_tskt_master",
+   "product_type_tskt_master",
+   "release_date_tskt_master",
+   "size_weight_tskt_master",
+   "technology_tskt_master",
+   "type_of_machine_tskt_master",
+   "utilities_tskt_master"
+  ],
+  "ten": "Máy pha cà phê",
+  "ten_cot": {
+   "accessory_materials_tskt_master": "Chất liệu phụ kiện",
+   "body_material_tskt_master": "Chất liệu thân vỏ",
+   "brand_of_tskt_master": "Thương hiệu của",
+   "capacity_tskt_master": "Dung lượng",
+   "control_panel_tskt_master": "Bảng điều khiển",
+   "holding_time_tskt_master": "Thời gian giữ",
+   "made_in_filter_master": "Sản xuất tại",
+   "made_in_tskt_master": "Sản xuất tại",
+   "power_tskt_master": "Công suất",
+   "processing_time_tskt_master": "Thời gian xử lý",
+   "product_type_tskt_master": "Loại sản phẩm",
+   "release_date_tskt_master": "Thời gian ra mắt",
+   "size_weight_tskt_master": "Kích thước Khối lượng",
+   "technology_tskt_master": "Công nghệ",
+   "type_of_machine_tskt_master": "Loại máy",
+   "utilities_tskt_master": "Tiện ích"
+  }
+ },
  "7685": {
   "cot": [
    "brand_of_tskt_master",
