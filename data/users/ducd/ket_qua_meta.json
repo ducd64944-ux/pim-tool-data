@@ -1,243 +1,36 @@
 {
  "chon": [
   {
-   "CHỌN": true,
-   "GHI CHÚ": "",
-   "MÃ NH": "1982",
+   "CHỌN": false,
+   "GHI CHÚ": "Chưa có tab TSKT lẫn cấu hình — thêm 1 trong 2",
+   "MÃ NH": "9599",
    "NGUỒN CATE": "CATEGORYID",
-   "SỐ SKU": 7,
-   "TAB TSKT / CẤU HÌNH": "cấu hình — 31 cột",
-   "TÊN NGÀNH HÀNG": "Bếp từ"
+   "SỐ SKU": 2,
+   "TAB TSKT / CẤU HÌNH": "",
+   "TÊN NGÀNH HÀNG": ""
   }
  ],
- "chua_map": [
-  {
-   "cate": "1982",
-   "goi_y_ma": "",
-   "prop_id": "10943",
-   "prop_name": "Loại bếp",
-   "so_dong": 7,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Bếp từ đôi"
-  },
-  {
-   "cate": "1982",
-   "goi_y_ma": "",
-   "prop_id": "13026",
-   "prop_name": "Lắp âm",
-   "so_dong": 7,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "âm"
-  },
-  {
-   "cate": "1982",
-   "goi_y_ma": "",
-   "prop_id": "28908",
-   "prop_name": "Loại lắp đặt",
-   "so_dong": 7,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Bếp âm cần lắp CB"
-  },
-  {
-   "cate": "1982",
-   "goi_y_ma": "",
-   "prop_id": "31183",
-   "prop_name": "Ngang",
-   "so_dong": 7,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Từ 60 - 70 cm"
-  },
-  {
-   "cate": "1982",
-   "goi_y_ma": "",
-   "prop_id": "31184",
-   "prop_name": "Dọc",
-   "so_dong": 7,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Từ 38 - 40 cm"
-  },
-  {
-   "cate": "1982",
-   "goi_y_ma": "",
-   "prop_id": "39962",
-   "prop_name": "Công suất",
-   "so_dong": 7,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "4800W"
-  },
-  {
-   "cate": "1982",
-   "goi_y_ma": "",
-   "prop_id": "40433",
-   "prop_name": "Chính sách lắp đặt",
-   "so_dong": 7,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "1982",
-   "goi_y_ma": "",
-   "prop_id": "40438",
-   "prop_name": "Label trong thumb",
-   "so_dong": 7,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "1982",
-   "goi_y_ma": "",
-   "prop_id": "41420",
-   "prop_name": "Ngang",
-   "so_dong": 5,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "68"
-  },
-  {
-   "cate": "1982",
-   "goi_y_ma": "",
-   "prop_id": "41421",
-   "prop_name": "Dọc",
-   "so_dong": 5,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "39"
-  },
-  {
-   "cate": "1982",
-   "goi_y_ma": "",
-   "prop_id": "41422",
-   "prop_name": "Cao",
-   "so_dong": 5,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "5.5"
-  },
-  {
-   "cate": "1982",
-   "goi_y_ma": "",
-   "prop_id": "42963",
-   "prop_name": "Map với máy hút mùi",
-   "so_dong": 7,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Đang cập nhật"
-  },
-  {
-   "cate": "1982",
-   "goi_y_ma": "",
-   "prop_id": "42985",
-   "prop_name": "Bếp từ 2 vùng nấu trở lên map với máy rửa chén cùng hãng",
-   "so_dong": 7,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Đang cập nhật"
-  },
-  {
-   "cate": "1982",
-   "goi_y_ma": "",
-   "prop_id": "42999",
-   "prop_name": "Bếp từ map với Chảo dùng được bếp từ cùng hãng",
-   "so_dong": 7,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Đang cập nhật"
-  },
-  {
-   "cate": "1982",
-   "goi_y_ma": "",
-   "prop_id": "43019",
-   "prop_name": "Bếp từ map với Nồi dùng được bếp từ cùng hãng",
-   "so_dong": 7,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Đang cập nhật"
-  }
- ],
+ "chua_map": [],
  "dx_dang_ap": 0,
  "goc_cms": {},
  "log": [
   [
-   "4844147000249",
-   "1982",
-   "safety_features_filter_master",
-   "FILTER: giá trị CMS \"Không có\" chưa có option trong DATA PIM — để trống"
+   "",
+   "9599",
+   "",
+   "Không có tab TSKT lẫn cấu hình — bỏ qua"
   ]
  ],
- "luc": "2026-10-11 21:56:12",
- "nganh": {
-  "1982": {
-   "attr": [
-    "installation_type_filter_master",
-    "made_in_filter_master",
-    "number_of_cooking_zones_filter_master",
-    "output_power_filter_master",
-    "product_type_filter_master",
-    "safety_features_filter_master",
-    "utilities_filter_master",
-    "automatic_mode_tskt_master",
-    "brand_of_tskt_master",
-    "control_panel_tskt_master",
-    "cooking_pot_brand_tskt_master",
-    "cooking_zone_size_tskt_master",
-    "high_tskt_master",
-    "horizontal_installation_tskt_master",
-    "horizontal_tskt_master",
-    "installation_method_tskt_master",
-    "installation_type_tskt_master",
-    "long_cord_tskt_master",
-    "machine_weight_tskt_master",
-    "made_in_tskt_master",
-    "maximum_power_tskt_master",
-    "output_power_tskt_master",
-    "product_type_tskt_master",
-    "release_date_tskt_master",
-    "safety_features_tskt_master",
-    "surface_material_tskt_master",
-    "type_of_cooking_pot_tskt_master",
-    "utilities_tskt_master",
-    "vertical_installation_tskt_master",
-    "vertical_tskt_master",
-    "voltage_tskt_master"
-   ],
-   "ten": {
-    "automatic_mode_tskt_master": "Chế độ tự động",
-    "brand_of_tskt_master": "Thương hiệu của",
-    "control_panel_tskt_master": "Bảng điều khiển",
-    "cooking_pot_brand_tskt_master": "Thương hiệu mâm nấu",
-    "cooking_zone_size_tskt_master": "Kích thước vùng nấu",
-    "high_tskt_master": "Cao",
-    "horizontal_installation_tskt_master": "Ngang lắp đặt",
-    "horizontal_tskt_master": "Ngang",
-    "installation_method_tskt_master": "Phương thức lắp đặt",
-    "installation_type_filter_master": "Kiểu/loại lắp đặt",
-    "installation_type_tskt_master": "Kiểu lắp đặt",
-    "long_cord_tskt_master": "Dài dây",
-    "machine_weight_tskt_master": "Khối lượng máy",
-    "made_in_filter_master": "Sản xuất tại",
-    "made_in_tskt_master": "Sản xuất tại",
-    "maximum_power_tskt_master": "Công suất tối đa",
-    "number_of_cooking_zones_filter_master": "Số vùng nấu",
-    "output_power_filter_master": "Công suất đầu ra",
-    "output_power_tskt_master": "Công suất đầu ra",
-    "product_type_filter_master": "Loại sản phẩm",
-    "product_type_tskt_master": "Loại sản phẩm",
-    "release_date_tskt_master": "Thời gian ra mắt",
-    "safety_features_filter_master": "Tính năng an toàn",
-    "safety_features_tskt_master": "Tính năng an toàn",
-    "surface_material_tskt_master": "Chất liệu mặt",
-    "type_of_cooking_pot_tskt_master": "Loại nồi nấu",
-    "utilities_filter_master": "Tiện ích",
-    "utilities_tskt_master": "Tiện ích",
-    "vertical_installation_tskt_master": "Dọc lắp đặt",
-    "vertical_tskt_master": "Dọc",
-    "voltage_tskt_master": "Điện áp"
-   },
-   "ten_nh": "Bếp từ",
-   "title": "TSKT 1982 Bếp từ"
-  }
- },
+ "luc": "2026-10-11 22:02:50",
+ "nganh": {},
  "o_theo_ten": [],
  "tom_tat": {
-  "filter_khong_khop": 1,
-  "khong_data": 0,
+  "filter_khong_khop": 0,
+  "khong_data": 2,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 1,
-  "so_o": 202,
-  "so_sku": 7
+  "so_nganh": 0,
+  "so_o": 0,
+  "so_sku": 0
  }
 }
