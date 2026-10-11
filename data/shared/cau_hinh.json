@@ -3194,6 +3194,35 @@
    "utilities_tskt_master": "Tiện ích"
   }
  },
+ "4366": {
+  "cot": [
+   "accessory_materials_tskt_master",
+   "brand_of_tskt_master",
+   "charging_time_tskt_master",
+   "frame_material_tskt_master",
+   "machine_weight_tskt_master",
+   "made_in_tskt_master",
+   "release_date_tskt_master",
+   "size_tskt_master",
+   "size_weight_tskt_master",
+   "usage_time_tskt_master",
+   "utilities_tskt_master"
+  ],
+  "ten": "Vợt muỗi",
+  "ten_cot": {
+   "accessory_materials_tskt_master": "Chất liệu phụ kiện",
+   "brand_of_tskt_master": "Thương hiệu của",
+   "charging_time_tskt_master": "Thời gian sạc",
+   "frame_material_tskt_master": "Chất liệu khung viền",
+   "machine_weight_tskt_master": "Khối lượng máy",
+   "made_in_tskt_master": "Sản xuất tại",
+   "release_date_tskt_master": "Thời gian ra mắt",
+   "size_tskt_master": "Kích thước",
+   "size_weight_tskt_master": "Kích thước Khối lượng",
+   "usage_time_tskt_master": "Thời gian sử dụng",
+   "utilities_tskt_master": "Tiện ích"
+  }
+ },
  "4645": {
   "cot": [
    "suction_power_filter_master",
