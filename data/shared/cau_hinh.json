@@ -3248,6 +3248,39 @@
    "year_of_manufacture_tskt_master": "Năm sản xuất"
   }
  },
+ "346": {
+  "cot": [
+   "long_cord_filter_master",
+   "number_of_ports_filter_master",
+   "product_type_filter_master",
+   "body_material_tskt_master",
+   "brand_of_tskt_master",
+   "input_voltage_tskt_master",
+   "long_cord_tskt_master",
+   "machine_weight_tskt_master",
+   "made_in_tskt_master",
+   "maximum_power_tskt_master",
+   "quantity_tskt_master",
+   "size_tskt_master",
+   "usb_tskt_master"
+  ],
+  "ten": "Ổ cắm, phích cắm",
+  "ten_cot": {
+   "body_material_tskt_master": "Chất liệu thân vỏ",
+   "brand_of_tskt_master": "Thương hiệu của",
+   "input_voltage_tskt_master": "Điện áp đầu vào",
+   "long_cord_filter_master": "Dài dây",
+   "long_cord_tskt_master": "Dài dây",
+   "machine_weight_tskt_master": "Khối lượng máy",
+   "made_in_tskt_master": "Sản xuất tại",
+   "maximum_power_tskt_master": "Công suất tối đa",
+   "number_of_ports_filter_master": "Số ổ cắm",
+   "product_type_filter_master": "Loại sản phẩm",
+   "quantity_tskt_master": "Số lượng",
+   "size_tskt_master": "Kích thước",
+   "usb_tskt_master": "USB"
+  }
+ },
  "365": {
   "cot": [
    "accuracy_tskt_master",
