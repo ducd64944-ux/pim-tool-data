@@ -1066,5 +1066,19 @@
   "Thêm đơn vị": 0,
   "Tách xin data": 0,
   "Workspace": "ducd"
+ },
+ {
+  "Biến đổi": 0,
+  "Chặn ô theo tên": 0,
+  "Cảnh báo": "• 3,759 ô KHÁC spec PIM (sẽ ghi đè) | • 850 ô tool để trống trong khi PIM đang có | • 4,915 ô kích thước/khối lượng chưa có đơn vị | • 218 dòng không có trong file PIM | • 1,744 ô giá trị CMS bị MẤT khi map (xem 🧾 Đối soát) | • 2 SKU KHÔNG có thông số nào (sẽ xuất dòng trống)",
+  "File": "PIM_TSKT 1944 máy giặt_CHI_FILTER_MODEL_20261011_1428.xlsx, PIM_TSKT 1944 máy giặt_CHI_FILTER_BIENTHE_20261011_1428.xlsx, PIM_TSKT 1962 Máy nước nóng_CHI_FILTER_MODEL_20261011_1428.xlsx, PIM_TSKT 1962 Máy nước nóng_CHI_FILTER_BIENTHE_20261011_1428.xlsx",
+  "Không/Đang cập nhật": 0,
+  "Lúc": "2026-10-11 14:28:22",
+  "Người xuất": "ducd",
+  "Số dòng": 1839,
+  "Sửa tay": 0,
+  "Thêm đơn vị": 0,
+  "Tách xin data": 2,
+  "Workspace": "ducd"
  }
 ]
