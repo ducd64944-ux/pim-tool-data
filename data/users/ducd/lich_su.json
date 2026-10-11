@@ -1108,5 +1108,19 @@
   "Thêm đơn vị": 0,
   "Tách xin data": 4,
   "Workspace": "ducd"
+ },
+ {
+  "Biến đổi": 0,
+  "Chặn ô theo tên": 0,
+  "Cảnh báo": "• 920 ô KHÁC spec PIM (sẽ ghi đè) | • 10 ô tool để trống trong khi PIM đang có | • 914 ô kích thước/khối lượng chưa có đơn vị | • 87 ô giá trị CMS bị MẤT khi map (xem 🧾 Đối soát)",
+  "File": "PIM_TSKT 166 Tủ đông, tủ mát_CHI_FILTER_MODEL_20261011_1517.xlsx, PIM_TSKT 166 Tủ đông, tủ mát_CHI_FILTER_BIENTHE_20261011_1517.xlsx",
+  "Không/Đang cập nhật": 0,
+  "Lúc": "2026-10-11 15:17:27",
+  "Người xuất": "ducd",
+  "Số dòng": 283,
+  "Sửa tay": 0,
+  "Thêm đơn vị": 0,
+  "Tách xin data": 0,
+  "Workspace": "ducd"
  }
 ]
