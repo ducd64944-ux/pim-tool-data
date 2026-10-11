@@ -4317,6 +4317,47 @@
    "utilities_tskt_master": "Tiện ích"
   }
  },
+ "8765": {
+  "cot": [
+   "color_filter_master",
+   "product_type_filter_master",
+   "size_filter_master",
+   "utilities_filter_master",
+   "body_material_tskt_master",
+   "brand_of_tskt_master",
+   "head_circumference_tskt_master",
+   "included_accessories_tskt_master",
+   "inner_material_tskt_master",
+   "made_in_tskt_master",
+   "main_accessory_thickness_tskt_master",
+   "mass_tskt_master",
+   "product_type_tskt_master",
+   "release_date_tskt_master",
+   "size_tskt_master",
+   "surface_material_tskt_master",
+   "utilities_tskt_master"
+  ],
+  "ten": "Mũ bảo hiểm",
+  "ten_cot": {
+   "body_material_tskt_master": "Chất liệu thân vỏ",
+   "brand_of_tskt_master": "Thương hiệu của",
+   "color_filter_master": "Màu sắc",
+   "head_circumference_tskt_master": "Chu vi vòng đầu",
+   "included_accessories_tskt_master": "Phụ kiện đi kèm",
+   "inner_material_tskt_master": "Chất liệu ruột",
+   "made_in_tskt_master": "Sản xuất tại",
+   "main_accessory_thickness_tskt_master": "Độ dày phụ kiện chính",
+   "mass_tskt_master": "Khối lượng",
+   "product_type_filter_master": "Loại sản phẩm",
+   "product_type_tskt_master": "Loại sản phẩm",
+   "release_date_tskt_master": "Thời gian ra mắt",
+   "size_filter_master": "Kích thước",
+   "size_tskt_master": "Kích thước",
+   "surface_material_tskt_master": "Chất liệu mặt",
+   "utilities_filter_master": "Tiện ích",
+   "utilities_tskt_master": "Tiện ích"
+  }
+ },
  "8968": {
   "cot": [
    "accessory_compatibility_tskt_master",
