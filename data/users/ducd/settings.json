@@ -1555,16 +1555,6 @@
   {
    "d": {
     "dv": {
-     "7498\thigh_tskt_master\tbd": null
-    }
-   },
-   "luc": "2026-10-09 13:16:10",
-   "nhan": "Biến đổi hàng loạt 1 cột: Thêm cả TRƯỚC và SAU",
-   "so": 1
-  },
-  {
-   "d": {
-    "dv": {
      "7498\thorizontal_tskt_master\tbd": null
     }
    },
@@ -1733,9 +1723,24 @@
    "luc": "2026-10-11 20:24:34",
    "nhan": "Áp đơn vị hàng loạt",
    "so": 6
+  },
+  {
+   "d": {
+    "sua": {
+     "1982\t1213779000500\thigh_tskt_master": null,
+     "1982\t1213779000500\thorizontal_tskt_master": null,
+     "1982\t4844147000248\thigh_tskt_master": null,
+     "1982\t4844147000248\thorizontal_tskt_master": null,
+     "1982\t4844147000249\thigh_tskt_master": null,
+     "1982\t4844147000249\thorizontal_tskt_master": null
+    }
+   },
+   "luc": "2026-10-11 20:27:36",
+   "nhan": "Kiểm tra nhanh: sửa 6 ô",
+   "so": 6
   }
  ],
- "luc_luu": "2026-10-11 20:24:34",
+ "luc_luu": "2026-10-11 20:27:36",
  "nguoi_luu": "ducd",
  "rong": {
   "-": [
@@ -1759,5 +1764,12 @@
    ""
   ]
  },
- "sua": {}
+ "sua": {
+  "1982\t1213779000500\thigh_tskt_master": "Cao 8.18 cm",
+  "1982\t1213779000500\thorizontal_tskt_master": "Ngang 78 cm",
+  "1982\t4844147000248\thigh_tskt_master": "Cao 7.4 cm",
+  "1982\t4844147000248\thorizontal_tskt_master": "Ngang 32 cm",
+  "1982\t4844147000249\thigh_tskt_master": "Cao 6 cm",
+  "1982\t4844147000249\thorizontal_tskt_master": "Ngang 27 cm"
+ }
 }
