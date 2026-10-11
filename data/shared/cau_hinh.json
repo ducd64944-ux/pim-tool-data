@@ -4399,6 +4399,43 @@
    "size_weight_tskt_master": "Kích thước Khối lượng"
   }
  },
+ "8980": {
+  "cot": [
+   "brand_of_tskt_master",
+   "long_tskt_master",
+   "machine_weight_tskt_master",
+   "made_in_tskt_master",
+   "material_tskt_master",
+   "maximum_operating_time_tskt_master",
+   "modes_tskt_master",
+   "note_tskt_master",
+   "power_source_tskt_master",
+   "product_type_tskt_master",
+   "size_weight_tskt_master",
+   "thick_tskt_master",
+   "utilities_tskt_master",
+   "warning_sound_tskt_master",
+   "wide_tskt_master"
+  ],
+  "ten": "Ổ khóa",
+  "ten_cot": {
+   "brand_of_tskt_master": "Thương hiệu của",
+   "long_tskt_master": "Dài",
+   "machine_weight_tskt_master": "Khối lượng máy",
+   "made_in_tskt_master": "Sản xuất tại",
+   "material_tskt_master": "Chất liệu",
+   "maximum_operating_time_tskt_master": "Thời gian hoạt động tối đa",
+   "modes_tskt_master": "Các chế độ",
+   "note_tskt_master": "Lưu ý",
+   "power_source_tskt_master": "Nguồn điện",
+   "product_type_tskt_master": "Loại sản phẩm",
+   "size_weight_tskt_master": "Kích thước Khối lượng",
+   "thick_tskt_master": "Dày",
+   "utilities_tskt_master": "Tiện ích",
+   "warning_sound_tskt_master": "Âm thanh cảnh báo",
+   "wide_tskt_master": "Rộng"
+  }
+ },
  "8984": {
   "cot": [
    "brand_of_tskt_master",
