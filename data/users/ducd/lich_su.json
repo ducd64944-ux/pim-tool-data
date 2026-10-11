@@ -1262,5 +1262,19 @@
   "Thêm đơn vị": 0,
   "Tách xin data": 0,
   "Workspace": "ducd"
+ },
+ {
+  "Biến đổi": 19,
+  "Chặn ô theo tên": 0,
+  "Cảnh báo": "• 7 dòng không có trong file PIM | • 7 ô giá trị CMS bị MẤT khi map (xem 🧾 Đối soát)",
+  "File": "PIM_TSKT 1982 Bếp từ_MODEL_20261011_2027.xlsx",
+  "Không/Đang cập nhật": 13,
+  "Lúc": "2026-10-11 20:27:55",
+  "Người xuất": "ducd",
+  "Số dòng": 7,
+  "Sửa tay": 6,
+  "Thêm đơn vị": 2,
+  "Tách xin data": 0,
+  "Workspace": "ducd"
  }
 ]
