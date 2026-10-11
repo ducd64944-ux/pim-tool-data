@@ -1,209 +1,26 @@
 {
- "chon": [
-  {
-   "CHỌN": true,
-   "GHI CHÚ": "",
-   "MÃ NH": "1982",
-   "NGUỒN CATE": "CATEGORYID",
-   "SỐ SKU": 1,
-   "TAB TSKT / CẤU HÌNH": "cấu hình — 31 cột",
-   "TÊN NGÀNH HÀNG": "Bếp từ"
-  }
- ],
- "chua_map": [
-  {
-   "cate": "1982",
-   "goi_y_ma": "",
-   "prop_id": "10943",
-   "prop_name": "Loại bếp",
-   "so_dong": 1,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Bếp từ đơn"
-  },
-  {
-   "cate": "1982",
-   "goi_y_ma": "",
-   "prop_id": "13026",
-   "prop_name": "Lắp âm",
-   "so_dong": 1,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "1982",
-   "goi_y_ma": "",
-   "prop_id": "28908",
-   "prop_name": "Loại lắp đặt",
-   "so_dong": 1,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "1982",
-   "goi_y_ma": "",
-   "prop_id": "31183",
-   "prop_name": "Ngang",
-   "so_dong": 1,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không có"
-  },
-  {
-   "cate": "1982",
-   "goi_y_ma": "",
-   "prop_id": "31184",
-   "prop_name": "Dọc",
-   "so_dong": 1,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không có"
-  },
-  {
-   "cate": "1982",
-   "goi_y_ma": "",
-   "prop_id": "39962",
-   "prop_name": "Công suất",
-   "so_dong": 1,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "2000W"
-  },
-  {
-   "cate": "1982",
-   "goi_y_ma": "",
-   "prop_id": "40433",
-   "prop_name": "Chính sách lắp đặt",
-   "so_dong": 1,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "1982",
-   "goi_y_ma": "",
-   "prop_id": "40438",
-   "prop_name": "Label trong thumb",
-   "so_dong": 1,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "1982",
-   "goi_y_ma": "",
-   "prop_id": "42963",
-   "prop_name": "Map với máy hút mùi",
-   "so_dong": 1,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Hãng Hoà Phát"
-  },
-  {
-   "cate": "1982",
-   "goi_y_ma": "",
-   "prop_id": "42985",
-   "prop_name": "Bếp từ 2 vùng nấu trở lên map với máy rửa chén cùng hãng",
-   "so_dong": 1,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Bếp từ đơn"
-  },
-  {
-   "cate": "1982",
-   "goi_y_ma": "",
-   "prop_id": "42999",
-   "prop_name": "Bếp từ map với Chảo dùng được bếp từ cùng hãng",
-   "so_dong": 1,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Hãng khác (Electrolux,Midea,Whirlpool,Malloca,Kiwa,Comfee,Rapido,Hafele,Toshiba,Galanz,Torino,Kocher,Modena,Pramie,Chef's,Nagakaw,Makano,Daikiosan,Hawonkoo,Dreamer,Rinnai,Teka,Sakura,Bosch,Lock&Lock,Ferroli,Zemmer,KAFF,Panasonic,Samsung,BlueStone)"
-  },
-  {
-   "cate": "1982",
-   "goi_y_ma": "",
-   "prop_id": "43019",
-   "prop_name": "Bếp từ map với Nồi dùng được bếp từ cùng hãng",
-   "so_dong": 1,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Hãng khác (Electrolux,Midea,Whirlpool,Malloca,Kiwa,Comfee,Hafele,Toshiba,Galanz,Torino,Kocher,Modena,Junger,Pramie,Chef's,Nagakawa,Makano,Daikiosan,Hawonkoo,Dreamer,Rinnai,Teka,Sakura,Bosch,Lock&Lock,Ferroli,Zemmer,KAFF,Panasonic,Samsung)"
-  }
- ],
+ "chon": [],
+ "chua_map": [],
  "dx_dang_ap": 0,
  "goc_cms": {},
- "log": [],
- "luc": "2026-10-11 19:33:33",
- "nganh": {
-  "1982": {
-   "attr": [
-    "installation_type_filter_master",
-    "made_in_filter_master",
-    "number_of_cooking_zones_filter_master",
-    "output_power_filter_master",
-    "product_type_filter_master",
-    "safety_features_filter_master",
-    "utilities_filter_master",
-    "automatic_mode_tskt_master",
-    "brand_of_tskt_master",
-    "control_panel_tskt_master",
-    "cooking_pot_brand_tskt_master",
-    "cooking_zone_size_tskt_master",
-    "high_tskt_master",
-    "horizontal_installation_tskt_master",
-    "horizontal_tskt_master",
-    "installation_method_tskt_master",
-    "installation_type_tskt_master",
-    "long_cord_tskt_master",
-    "machine_weight_tskt_master",
-    "made_in_tskt_master",
-    "maximum_power_tskt_master",
-    "output_power_tskt_master",
-    "product_type_tskt_master",
-    "release_date_tskt_master",
-    "safety_features_tskt_master",
-    "surface_material_tskt_master",
-    "type_of_cooking_pot_tskt_master",
-    "utilities_tskt_master",
-    "vertical_installation_tskt_master",
-    "vertical_tskt_master",
-    "voltage_tskt_master"
-   ],
-   "ten": {
-    "automatic_mode_tskt_master": "Chế độ tự động",
-    "brand_of_tskt_master": "Thương hiệu của",
-    "control_panel_tskt_master": "Bảng điều khiển",
-    "cooking_pot_brand_tskt_master": "Thương hiệu mâm nấu",
-    "cooking_zone_size_tskt_master": "Kích thước vùng nấu",
-    "high_tskt_master": "Cao",
-    "horizontal_installation_tskt_master": "Ngang lắp đặt",
-    "horizontal_tskt_master": "Ngang",
-    "installation_method_tskt_master": "Phương thức lắp đặt",
-    "installation_type_filter_master": "Kiểu/loại lắp đặt",
-    "installation_type_tskt_master": "Kiểu lắp đặt",
-    "long_cord_tskt_master": "Dài dây",
-    "machine_weight_tskt_master": "Khối lượng máy",
-    "made_in_filter_master": "Sản xuất tại",
-    "made_in_tskt_master": "Sản xuất tại",
-    "maximum_power_tskt_master": "Công suất tối đa",
-    "number_of_cooking_zones_filter_master": "Số vùng nấu",
-    "output_power_filter_master": "Công suất đầu ra",
-    "output_power_tskt_master": "Công suất đầu ra",
-    "product_type_filter_master": "Loại sản phẩm",
-    "product_type_tskt_master": "Loại sản phẩm",
-    "release_date_tskt_master": "Thời gian ra mắt",
-    "safety_features_filter_master": "Tính năng an toàn",
-    "safety_features_tskt_master": "Tính năng an toàn",
-    "surface_material_tskt_master": "Chất liệu mặt",
-    "type_of_cooking_pot_tskt_master": "Loại nồi nấu",
-    "utilities_filter_master": "Tiện ích",
-    "utilities_tskt_master": "Tiện ích",
-    "vertical_installation_tskt_master": "Dọc lắp đặt",
-    "vertical_tskt_master": "Dọc",
-    "voltage_tskt_master": "Điện áp"
-   },
-   "ten_nh": "Bếp từ",
-   "title": "TSKT 1982 Bếp từ"
-  }
- },
+ "log": [
+  [
+   "ID_371677",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ]
+ ],
+ "luc": "2026-10-11 19:38:18",
+ "nganh": {},
  "o_theo_ten": [],
  "tom_tat": {
   "filter_khong_khop": 0,
-  "khong_data": 0,
+  "khong_data": 1,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 1,
-  "so_o": 25,
-  "so_sku": 1
+  "so_nganh": 0,
+  "so_o": 0,
+  "so_sku": 0
  }
 }
