@@ -1,64 +1,1088 @@
 {
- "chon": [
-  {
-   "CHỌN": true,
-   "GHI CHÚ": "",
-   "MÃ NH": "346",
-   "NGUỒN CATE": "CATEGORYID",
-   "SỐ SKU": 1,
-   "TAB TSKT / CẤU HÌNH": "cấu hình — 13 cột",
-   "TÊN NGÀNH HÀNG": "Ổ cắm, phích cắm"
-  }
- ],
+ "chon": [],
  "chua_map": [],
  "dx_dang_ap": 0,
  "goc_cms": {},
- "log": [],
- "luc": "2026-10-11 22:21:36",
- "nganh": {
-  "346": {
-   "attr": [
-    "long_cord_filter_master",
-    "number_of_ports_filter_master",
-    "product_type_filter_master",
-    "body_material_tskt_master",
-    "brand_of_tskt_master",
-    "input_voltage_tskt_master",
-    "long_cord_tskt_master",
-    "machine_weight_tskt_master",
-    "made_in_tskt_master",
-    "maximum_power_tskt_master",
-    "quantity_tskt_master",
-    "size_tskt_master",
-    "usb_tskt_master"
-   ],
-   "ten": {
-    "body_material_tskt_master": "Chất liệu thân vỏ",
-    "brand_of_tskt_master": "Thương hiệu của",
-    "input_voltage_tskt_master": "Điện áp đầu vào",
-    "long_cord_filter_master": "Dài dây",
-    "long_cord_tskt_master": "Dài dây",
-    "machine_weight_tskt_master": "Khối lượng máy",
-    "made_in_tskt_master": "Sản xuất tại",
-    "maximum_power_tskt_master": "Công suất tối đa",
-    "number_of_ports_filter_master": "Số ổ cắm",
-    "product_type_filter_master": "Loại sản phẩm",
-    "quantity_tskt_master": "Số lượng",
-    "size_tskt_master": "Kích thước",
-    "usb_tskt_master": "USB"
-   },
-   "ten_nh": "Ổ cắm, phích cắm",
-   "title": "TSKT 346 Ổ cắm, phích cắm"
-  }
- },
+ "log": [
+  [
+   "4844743000072",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000076",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000077",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000082",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000090",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000065",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000064",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000063",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "0162791000270",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "0162791000271",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "0162791000273",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "0162791000274",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000071",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000070",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000067",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000030",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000006",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000035",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000246",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000192",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000034",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000021",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000032",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000031",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000033",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000174",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000180",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "0162791000272",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000047",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000050",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000051",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000074",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000080",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000068",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000056",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000075",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000079",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000066",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000059",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000062",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000058",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000081",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000045",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000060",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000069",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000078",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000061",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000042",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000041",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000044",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000043",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "0162791000269",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000196",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000007",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000006",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000194",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000011",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2727122838200",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000197",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4840965000215",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000067",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4840965000380",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000254",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000247",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000073",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000005",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000057",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000248",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000249",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000195",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000198",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000202",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000115",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000100",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000142",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000158",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000106",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000159",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4840965000604",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4840965000237",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000140",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000105",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000175",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000160",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4840965000998",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000059",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000177",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000176",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000173",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000116",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000113",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000112",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000111",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000110",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000107",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4840965000609",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4840965000606",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4840965000605",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000102",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000101",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000063",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000061",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000034",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000156",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000155",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000148",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000145",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000162",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4840965000999",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000161",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4840965000997",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4840965000996",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000157",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2727122838300",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000053",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000091",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2727122875700",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2727122809100",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2727122872100",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000010",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4840965000216",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2727122871900",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2727122875400",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4840965000217",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000251",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000022",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2727122875500",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2727122871500",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000066",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000024",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2727122875600",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000026",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000021",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2727122871700",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000027",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000013",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2727122871600",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000020",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000028",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2727122875300",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2727122872000",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2727122871400",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4840965000050",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2727122839200",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4840965000053",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4840965000052",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2727122818000",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000025",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2727122871800",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000009",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2727122839300",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4840965000236",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2727122839100",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2727122875800",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000012",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2727122817900",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4840965000051",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000029",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000191",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000252",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000016",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000019",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000003",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000004",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000020",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000007",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000001",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000009",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000018",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000014",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000178",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000022",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000017",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000012",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4843799000062",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4844743000029",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "2727122818100",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4840965000995",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ]
+ ],
+ "luc": "2026-10-13 09:53:12",
+ "nganh": {},
  "o_theo_ten": [],
  "tom_tat": {
   "filter_khong_khop": 0,
-  "khong_data": 0,
+  "khong_data": 178,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 1,
-  "so_o": 13,
-  "so_sku": 1
+  "so_nganh": 0,
+  "so_o": 0,
+  "so_sku": 0
  }
 }
