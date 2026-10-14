@@ -712,5 +712,19 @@
   "Thêm đơn vị": 0,
   "Tách xin data": 0,
   "Workspace": "ducpro"
+ },
+ {
+  "Biến đổi": 0,
+  "Chặn ô theo tên": 0,
+  "Cảnh báo": "• 1,441 ô KHÁC spec PIM (sẽ ghi đè) | • 17 ô tool để trống trong khi PIM đang có | • 1,305 ô kích thước/khối lượng chưa có đơn vị | • 326 ô giá trị CMS bị MẤT khi map (xem 🧾 Đối soát)",
+  "File": "PIM_TSKT 1962 Máy nước nóng_CHI_FILTER_MODEL_20261014_2130.xlsx, PIM_TSKT 1962 Máy nước nóng_CHI_FILTER_BIENTHE_20261014_2130.xlsx",
+  "Không/Đang cập nhật": 0,
+  "Lúc": "2026-10-14 21:30:13",
+  "Người xuất": "ducpro",
+  "Số dòng": 375,
+  "Sửa tay": 0,
+  "Thêm đơn vị": 0,
+  "Tách xin data": 0,
+  "Workspace": "ducpro"
  }
 ]
