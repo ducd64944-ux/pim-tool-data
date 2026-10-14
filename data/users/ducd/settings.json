@@ -1555,16 +1555,6 @@
   {
    "d": {
     "dv": {
-     "7498\tmachine_weight_tskt_master\tbd": null
-    }
-   },
-   "luc": "2026-10-09 13:17:04",
-   "nhan": "Biến đổi hàng loạt 1 cột: Thêm cả TRƯỚC và SAU",
-   "so": 1
-  },
-  {
-   "d": {
-    "dv": {
      "1984\tdeep_tskt_master\tbd": null,
      "1984\thigh_tskt_master\tbd": null,
      "1984\thorizontal_tskt_master\tbd": null,
@@ -1745,9 +1735,32 @@
    "luc": "2026-10-11 22:14:41",
    "nhan": "Kiểm tra nhanh: sửa 8 ô",
    "so": 8
+  },
+  {
+   "d": {
+    "sua": {
+     "1982\t1213779000500\thigh_tskt_master": "Cao 8.18 cm",
+     "1982\t1213779000500\thorizontal_tskt_master": "Ngang 78 cm",
+     "1982\t4844147000248\thigh_tskt_master": "Cao 7.4 cm",
+     "1982\t4844147000248\thorizontal_tskt_master": "Ngang 32 cm",
+     "1982\t4844147000249\thigh_tskt_master": "Cao 6 cm",
+     "1982\t4844147000249\thorizontal_tskt_master": "Ngang 27 cm",
+     "8980\t1037400000009\tlong_tskt_master": "Dài 64 cm",
+     "8980\t1037400000009\tmachine_weight_tskt_master": "Nặng 0.182 kg",
+     "8980\t1037400000009\tthick_tskt_master": "Dày 23 cm",
+     "8980\t1037400000009\twide_tskt_master": "Rộng 40 cm",
+     "8980\t1037400000010\tlong_tskt_master": "Dài 100 cm",
+     "8980\t1037400000010\tmachine_weight_tskt_master": "Nặng 0.592 kg",
+     "8980\t1037400000010\tthick_tskt_master": "Dày 18 cm",
+     "8980\t1037400000010\twide_tskt_master": "Rộng 70 cm"
+    }
+   },
+   "luc": "2026-10-14 21:48:57",
+   "nhan": "Làm mới lô: xoá IMPORT, DATA SP, kết quả map, sửa tay, spec cũ",
+   "so": 14
   }
  ],
- "luc_luu": "2026-10-11 22:15:08",
+ "luc_luu": "2026-10-14 21:48:57",
  "nguoi_luu": "ducd",
  "rong": {
   "-": [
@@ -1771,20 +1784,5 @@
    ""
   ]
  },
- "sua": {
-  "1982\t1213779000500\thigh_tskt_master": "Cao 8.18 cm",
-  "1982\t1213779000500\thorizontal_tskt_master": "Ngang 78 cm",
-  "1982\t4844147000248\thigh_tskt_master": "Cao 7.4 cm",
-  "1982\t4844147000248\thorizontal_tskt_master": "Ngang 32 cm",
-  "1982\t4844147000249\thigh_tskt_master": "Cao 6 cm",
-  "1982\t4844147000249\thorizontal_tskt_master": "Ngang 27 cm",
-  "8980\t1037400000009\tlong_tskt_master": "Dài 64 cm",
-  "8980\t1037400000009\tmachine_weight_tskt_master": "Nặng 0.182 kg",
-  "8980\t1037400000009\tthick_tskt_master": "Dày 23 cm",
-  "8980\t1037400000009\twide_tskt_master": "Rộng 40 cm",
-  "8980\t1037400000010\tlong_tskt_master": "Dài 100 cm",
-  "8980\t1037400000010\tmachine_weight_tskt_master": "Nặng 0.592 kg",
-  "8980\t1037400000010\tthick_tskt_master": "Dày 18 cm",
-  "8980\t1037400000010\twide_tskt_master": "Rộng 70 cm"
- }
+ "sua": {}
 }
