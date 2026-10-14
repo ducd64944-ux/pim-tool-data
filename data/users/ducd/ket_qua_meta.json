@@ -1,1 +1,198 @@
-{}
+{
+ "chon": [
+  {
+   "CHỌN": true,
+   "GHI CHÚ": "",
+   "MÃ NH": "5475",
+   "NGUỒN CATE": "CATEGORYID",
+   "SỐ SKU": 149,
+   "TAB TSKT / CẤU HÌNH": "tab TSKT 5475 Máy rửa chén + cấu hình",
+   "TÊN NGÀNH HÀNG": "Máy rửa chén"
+  }
+ ],
+ "chua_map": [
+  {
+   "cate": "5475",
+   "goi_y_ma": "",
+   "prop_id": "19256",
+   "prop_name": "Kích thước - Khối lượng",
+   "so_dong": 11,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Cao 84.5 cm -  Rộng 60 cm - Sâu 60 cm"
+  },
+  {
+   "cate": "5475",
+   "goi_y_ma": "",
+   "prop_id": "25340",
+   "prop_name": "Lượng nước tiêu thụ",
+   "so_dong": 148,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Từ 5 - 10 lít"
+  },
+  {
+   "cate": "5475",
+   "goi_y_ma": "",
+   "prop_id": "26658",
+   "prop_name": "Label đại diện",
+   "so_dong": 143,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Đang cập nhật"
+  },
+  {
+   "cate": "5475",
+   "goi_y_ma": "",
+   "prop_id": "41365",
+   "prop_name": "Số chén đĩa rửa",
+   "so_dong": 122,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "8 bộ Châu Âu"
+  },
+  {
+   "cate": "5475",
+   "goi_y_ma": "",
+   "prop_id": "42983",
+   "prop_name": "Máy rửa chén map với bếp hồng ngoại cùng hãng",
+   "so_dong": 100,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Hãng khác (Junger,Electrolux,Toshiba,Galanz,Candy,Midea,Bosch,Whirlpool,Beko,Nagakawa,Comfee,Hòa Phát,Samsung)"
+  },
+  {
+   "cate": "5475",
+   "goi_y_ma": "",
+   "prop_id": "42986",
+   "prop_name": "Máy rửa chén map với bếp từ cùng hãng",
+   "so_dong": 100,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Hãng Electrolux"
+  },
+  {
+   "cate": "5475",
+   "goi_y_ma": "",
+   "prop_id": "45280",
+   "prop_name": "Map mua kèm Máy rửa chén - Máy giặt",
+   "so_dong": 78,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Hãng (Bosch, Junger, Hafele, Elec, Comfee, LG, Samsung, Galanz, Hitachi, Hoà Phát)"
+  },
+  {
+   "cate": "5475",
+   "goi_y_ma": "",
+   "prop_id": "49379",
+   "prop_name": "Map mua kèm máy sấy CTKM tháng 06/2026",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Máy sấy Aqua AQH-V800H SS"
+  }
+ ],
+ "dx_dang_ap": 0,
+ "goc_cms": {},
+ "log": [
+  [
+   "1753859000047",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1753859000044",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1753859000046",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1753859000045",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1753859000048",
+   "5475",
+   "number_of_dishes_washed_filter_master",
+   "FILTER: giá trị CMS \"Đang cập nhật\" chưa có option trong DATA PIM — để trống"
+  ]
+ ],
+ "luc": "2026-10-14 21:52:03",
+ "nganh": {
+  "5475": {
+   "attr": [
+    "control_panel_filter_master",
+    "made_in_filter_master",
+    "number_of_dishes_washed_filter_master",
+    "type_of_machine_filter_master",
+    "utilities_filter_master",
+    "body_material_tskt_master",
+    "control_panel_tskt_master",
+    "deep_tskt_master",
+    "door_material_tskt_master",
+    "drying_technology_tskt_master",
+    "high_tskt_master",
+    "horizontal_tskt_master",
+    "long_drain_pipe_tskt_master",
+    "long_water_supply_pipe_tskt_master",
+    "machine_weight_tskt_master",
+    "made_in_tskt_master",
+    "noise_level_tskt_master",
+    "operating_program_count_tskt_master",
+    "output_power_tskt_master",
+    "product_line_tskt_master",
+    "product_type_tskt_master",
+    "programme_tskt_master",
+    "quantity_tskt_master",
+    "size_weight_tskt_master",
+    "technology_tskt_master",
+    "tray_tskt_master",
+    "utilities_tskt_master",
+    "water_consumption_tskt_master"
+   ],
+   "ten": {
+    "body_material_tskt_master": "Chất liệu thân vỏ",
+    "control_panel_filter_master": "Bảng điều khiển",
+    "control_panel_tskt_master": "Bảng điều khiển",
+    "deep_tskt_master": "Sâu",
+    "door_material_tskt_master": "Chất liệu cửa",
+    "drying_technology_tskt_master": "Công nghệ sấy",
+    "high_tskt_master": "Cao",
+    "horizontal_tskt_master": "Ngang",
+    "long_drain_pipe_tskt_master": "Dài ống xả nước",
+    "long_water_supply_pipe_tskt_master": "Dài ống cấp nước",
+    "machine_weight_tskt_master": "Khối lượng máy",
+    "made_in_filter_master": "Sản xuất tại",
+    "made_in_tskt_master": "Sản xuất tại",
+    "noise_level_tskt_master": "Độ ồn",
+    "number_of_dishes_washed_filter_master": "Số chén bát rửa được",
+    "operating_program_count_tskt_master": "Số chương trình hoạt động",
+    "output_power_tskt_master": "Công suất đầu ra",
+    "product_line_tskt_master": "Dòng sản phẩm",
+    "product_type_tskt_master": "Loại sản phẩm",
+    "programme_tskt_master": "Chương trình",
+    "quantity_tskt_master": "Số lượng",
+    "size_weight_tskt_master": "Kích thước Khối lượng",
+    "technology_tskt_master": "Công nghệ",
+    "tray_tskt_master": "Khay chén",
+    "type_of_machine_filter_master": "Loại máy",
+    "utilities_filter_master": "Tiện ích",
+    "utilities_tskt_master": "Tiện ích",
+    "water_consumption_tskt_master": "Tiêu thụ nước"
+   },
+   "ten_nh": "Máy rửa chén",
+   "title": "TSKT 5475 Máy rửa chén"
+  }
+ },
+ "o_theo_ten": [],
+ "tom_tat": {
+  "filter_khong_khop": 1,
+  "khong_data": 4,
+  "map_theo_ten": 0,
+  "o_sua_theo_quy_tac": 0,
+  "so_nganh": 1,
+  "so_o": 3630,
+  "so_sku": 149
+ }
+}
