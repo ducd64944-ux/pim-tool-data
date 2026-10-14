@@ -1332,5 +1332,19 @@
   "Thêm đơn vị": 0,
   "Tách xin data": 1,
   "Workspace": "ducd"
+ },
+ {
+  "Biến đổi": 0,
+  "Chặn ô theo tên": 0,
+  "Cảnh báo": "• 783 ô KHÁC spec PIM (sẽ ghi đè) | • 6 ô tool để trống trong khi PIM đang có | • 780 ô kích thước/khối lượng chưa có đơn vị | • 1 dòng không có trong file PIM | • 148 ô giá trị CMS bị MẤT khi map (xem 🧾 Đối soát) | • 1 SKU KHÔNG có thông số nào (sẽ xuất dòng trống)",
+  "File": "PIM_TSKT 5475 Máy rửa chén_CHI_FILTER_MODEL_20261014_2157.xlsx, PIM_TSKT 5475 Máy rửa chén_CHI_FILTER_BIENTHE_20261014_2157.xlsx",
+  "Không/Đang cập nhật": 0,
+  "Lúc": "2026-10-14 21:57:55",
+  "Người xuất": "ducd",
+  "Số dòng": 148,
+  "Sửa tay": 0,
+  "Thêm đơn vị": 0,
+  "Tách xin data": 1,
+  "Workspace": "ducd"
  }
 ]
