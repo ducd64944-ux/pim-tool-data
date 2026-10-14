@@ -118,7 +118,7 @@
    "FILTER: giá trị CMS \"Đang cập nhật\" chưa có option trong DATA PIM — để trống"
   ]
  ],
- "luc": "2026-10-14 21:52:15",
+ "luc": "2026-10-14 21:57:16",
  "nganh": {
   "5475": {
    "attr": [
@@ -192,7 +192,7 @@
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
   "so_nganh": 1,
-  "so_o": 3630,
+  "so_o": 3775,
   "so_sku": 149
  }
 }
