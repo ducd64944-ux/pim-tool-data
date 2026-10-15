@@ -726,5 +726,19 @@
   "Thêm đơn vị": 0,
   "Tách xin data": 0,
   "Workspace": "ducpro"
+ },
+ {
+  "Biến đổi": 0,
+  "Chặn ô theo tên": 0,
+  "Cảnh báo": "• 4 SKU thiếu category_code | • 1 ô giá trị CMS bị MẤT khi map (xem 🧾 Đối soát)",
+  "File": "PIM_TSKT 2202 Máy sấy quần áo_MODEL_20261015_1550.xlsx, PIM_TSKT 1943 Tủ lạnh_MODEL_20261015_1550.xlsx, PIM_TSKT 166 Tủ đông, tủ mát_MODEL_20261015_1550.xlsx",
+  "Không/Đang cập nhật": 0,
+  "Lúc": "2026-10-15 15:50:29",
+  "Người xuất": "ducpro",
+  "Số dòng": 4,
+  "Sửa tay": 13,
+  "Thêm đơn vị": 0,
+  "Tách xin data": 0,
+  "Workspace": "ducpro"
  }
 ]
