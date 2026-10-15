@@ -1016,16 +1016,6 @@
   {
    "d": {
     "dv": {
-     "9418\tdeep_tskt_master\tbd": null
-    }
-   },
-   "luc": "2026-10-09 14:04:06",
-   "nhan": "Biến đổi hàng loạt 1 cột: Thêm cả TRƯỚC và SAU",
-   "so": 1
-  },
-  {
-   "d": {
-    "dv": {
      "9418\thorizontal_tskt_master\tbd": null
     }
    },
@@ -1206,12 +1196,31 @@
    "luc": "2026-10-15 20:24:51",
    "nhan": "Áp đơn vị hàng loạt",
    "so": 5
+  },
+  {
+   "d": {
+    "rong": {
+     "hãng không công bố": null,
+     "không có": null
+    }
+   },
+   "luc": "2026-10-15 20:25:50",
+   "nhan": "Tất cả giá trị rỗng → để trống",
+   "so": 2
   }
  ],
- "luc_luu": "2026-10-15 20:25:39",
+ "luc_luu": "2026-10-15 20:25:50",
  "nguoi_luu": "ducpro",
  "rong": {
+  "hãng không công bố": [
+   "trong",
+   ""
+  ],
   "không": [
+   "trong",
+   ""
+  ],
+  "không có": [
    "trong",
    ""
   ],
