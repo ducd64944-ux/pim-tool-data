@@ -768,5 +768,19 @@
   "Thêm đơn vị": 0,
   "Tách xin data": 0,
   "Workspace": "ducpro"
+ },
+ {
+  "Biến đổi": 20,
+  "Chặn ô theo tên": 0,
+  "Cảnh báo": "• 5 SKU thiếu category_code | • 5 ô giá trị CMS bị MẤT khi map (xem 🧾 Đối soát)",
+  "File": "PIM_TSKT 1944 máy giặt_MODEL_20261015_2034.xlsx, PIM_TSKT 1944 máy giặt_BIENTHE_20261015_2034.xlsx",
+  "Không/Đang cập nhật": 39,
+  "Lúc": "2026-10-15 20:34:42",
+  "Người xuất": "ducpro",
+  "Số dòng": 5,
+  "Sửa tay": 0,
+  "Thêm đơn vị": 1,
+  "Tách xin data": 0,
+  "Workspace": "ducpro"
  }
 ]
