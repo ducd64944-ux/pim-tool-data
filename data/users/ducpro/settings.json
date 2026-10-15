@@ -865,16 +865,6 @@
   {
    "d": {
     "dv": {
-     "14078\thigh_tskt_master\tbd": null
-    }
-   },
-   "luc": "2026-10-08 17:34:17",
-   "nhan": "Biến đổi hàng loạt 1 cột: Thêm cả TRƯỚC và SAU",
-   "so": 1
-  },
-  {
-   "d": {
-    "dv": {
      "14078\thorizontal_tskt_master\tbd": null
     }
    },
@@ -1029,24 +1019,32 @@
    "luc": "2026-10-15 15:49:39",
    "nhan": "Sửa 1 ô kích thước",
    "so": 1
+  },
+  {
+   "d": {
+    "sua": {
+     "166\t1750893000088\tdeep_tskt_master": "Sâu 62.7 cm",
+     "166\t1750893000088\thigh_tskt_master": "Cao 85.9 cm",
+     "166\t1750893000088\thorizontal_tskt_master": "Ngang 115.5 cm",
+     "166\t1750893000088\tmachine_weight_tskt_master": "Nặng 41 kg",
+     "166\t1750893000089\tdeep_tskt_master": "Sâu 68.8 cm",
+     "166\t1750893000089\thigh_tskt_master": "Cao 85.5 cm",
+     "166\t1750893000089\thorizontal_tskt_master": "Ngang 127 cm",
+     "166\t1750893000089\tmachine_weight_tskt_master": "Nặng 50 kg",
+     "1943\t1751097100268\tmachine_weight_tskt_master": "Nặng 67 kg",
+     "2202\t1753659000040\tdeep_tskt_master": "Sâu 64.5 cm",
+     "2202\t1753659000040\thigh_tskt_master": "Cao 84.4 cm",
+     "2202\t1753659000040\thorizontal_tskt_master": "Ngang 59.8 cm",
+     "2202\t1753659000040\tmachine_weight_tskt_master": "Nặng 48 kg"
+    }
+   },
+   "luc": "2026-10-15 16:31:25",
+   "nhan": "Làm mới lô: xoá IMPORT, DATA SP, kết quả map, sửa tay",
+   "so": 13
   }
  ],
- "luc_luu": "2026-10-15 15:50:29",
+ "luc_luu": "2026-10-15 16:31:25",
  "nguoi_luu": "ducpro",
  "rong": {},
- "sua": {
-  "166\t1750893000088\tdeep_tskt_master": "Sâu 62.7 cm",
-  "166\t1750893000088\thigh_tskt_master": "Cao 85.9 cm",
-  "166\t1750893000088\thorizontal_tskt_master": "Ngang 115.5 cm",
-  "166\t1750893000088\tmachine_weight_tskt_master": "Nặng 41 kg",
-  "166\t1750893000089\tdeep_tskt_master": "Sâu 68.8 cm",
-  "166\t1750893000089\thigh_tskt_master": "Cao 85.5 cm",
-  "166\t1750893000089\thorizontal_tskt_master": "Ngang 127 cm",
-  "166\t1750893000089\tmachine_weight_tskt_master": "Nặng 50 kg",
-  "1943\t1751097100268\tmachine_weight_tskt_master": "Nặng 67 kg",
-  "2202\t1753659000040\tdeep_tskt_master": "Sâu 64.5 cm",
-  "2202\t1753659000040\thigh_tskt_master": "Cao 84.4 cm",
-  "2202\t1753659000040\thorizontal_tskt_master": "Ngang 59.8 cm",
-  "2202\t1753659000040\tmachine_weight_tskt_master": "Nặng 48 kg"
- }
+ "sua": {}
 }
