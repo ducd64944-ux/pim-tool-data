@@ -865,16 +865,6 @@
   {
    "d": {
     "dv": {
-     "14078\tdeep_tskt_master\tbd": null
-    }
-   },
-   "luc": "2026-10-08 17:33:57",
-   "nhan": "Biến đổi hàng loạt 1 cột: Thêm cả TRƯỚC và SAU",
-   "so": 1
-  },
-  {
-   "d": {
-    "dv": {
      "14078\thigh_tskt_master\tbd": null
     }
    },
@@ -1029,9 +1019,19 @@
    "luc": "2026-10-15 15:48:38",
    "nhan": "Sửa 8 ô kích thước",
    "so": 8
+  },
+  {
+   "d": {
+    "sua": {
+     "1943\t1751097100268\tmachine_weight_tskt_master": null
+    }
+   },
+   "luc": "2026-10-15 15:49:39",
+   "nhan": "Sửa 1 ô kích thước",
+   "so": 1
   }
  ],
- "luc_luu": "2026-10-15 15:48:38",
+ "luc_luu": "2026-10-15 15:49:39",
  "nguoi_luu": "ducpro",
  "rong": {},
  "sua": {
@@ -1043,6 +1043,7 @@
   "166\t1750893000089\thigh_tskt_master": "Cao 85.5 cm",
   "166\t1750893000089\thorizontal_tskt_master": "Ngang 127 cm",
   "166\t1750893000089\tmachine_weight_tskt_master": "Nặng 50 kg",
+  "1943\t1751097100268\tmachine_weight_tskt_master": "Nặng 67 kg",
   "2202\t1753659000040\tdeep_tskt_master": "Sâu 64.5 cm",
   "2202\t1753659000040\thigh_tskt_master": "Cao 84.4 cm",
   "2202\t1753659000040\thorizontal_tskt_master": "Ngang 59.8 cm",
