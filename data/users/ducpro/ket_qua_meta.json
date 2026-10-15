@@ -1,1 +1,50 @@
-{}
+{
+ "chon": [],
+ "chua_map": [],
+ "dx_dang_ap": 0,
+ "goc_cms": {},
+ "log": [
+  [
+   "1751099000049",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1751099000050",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1751099000051",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1751099000102",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "1751099000106",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ]
+ ],
+ "luc": "2026-10-15 20:21:18",
+ "nganh": {},
+ "o_theo_ten": [],
+ "tom_tat": {
+  "filter_khong_khop": 0,
+  "khong_data": 5,
+  "map_theo_ten": 0,
+  "o_sua_theo_quy_tac": 0,
+  "so_nganh": 0,
+  "so_o": 0,
+  "so_sku": 0
+ }
+}
