@@ -865,16 +865,6 @@
   {
    "d": {
     "dv": {
-     "7858\twide_tskt_master\tbd": null
-    }
-   },
-   "luc": "2026-10-08 17:24:57",
-   "nhan": "Biến đổi hàng loạt 1 cột: Thêm cả TRƯỚC và SAU",
-   "so": 1
-  },
-  {
-   "d": {
-    "dv": {
      "7858\tmachine_weight_tskt_master\tbd": null
     }
    },
@@ -1019,10 +1009,28 @@
    "luc": "2026-10-11 20:41:26",
    "nhan": "Làm mới lô: xoá IMPORT, DATA SP, kết quả map, sửa tay, spec cũ",
    "so": 6
+  },
+  {
+   "d": {
+    "sua": {
+     "2202\t1753659000040\tdeep_tskt_master": null,
+     "2202\t1753659000040\thigh_tskt_master": null,
+     "2202\t1753659000040\thorizontal_tskt_master": null,
+     "2202\t1753659000040\tmachine_weight_tskt_master": null
+    }
+   },
+   "luc": "2026-10-15 15:47:34",
+   "nhan": "Sửa 4 ô kích thước",
+   "so": 4
   }
  ],
- "luc_luu": "2026-10-15 15:45:55",
+ "luc_luu": "2026-10-15 15:47:34",
  "nguoi_luu": "ducpro",
  "rong": {},
- "sua": {}
+ "sua": {
+  "2202\t1753659000040\tdeep_tskt_master": "Sâu 64.5 cm",
+  "2202\t1753659000040\thigh_tskt_master": "Cao 84.4 cm",
+  "2202\t1753659000040\thorizontal_tskt_master": "Ngang 59.8 cm",
+  "2202\t1753659000040\tmachine_weight_tskt_master": "Nặng 48 kg"
+ }
 }
