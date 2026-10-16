@@ -782,5 +782,19 @@
   "Thêm đơn vị": 1,
   "Tách xin data": 0,
   "Workspace": "ducpro"
+ },
+ {
+  "Biến đổi": 81,
+  "Chặn ô theo tên": 0,
+  "Cảnh báo": "• 18 SKU thiếu category_code | • 1 ô kích thước/khối lượng chưa có đơn vị | • 13 ô giá trị CMS bị MẤT khi map (xem 🧾 Đối soát)",
+  "File": "PIM_TSKT 2162 Loa_MODEL_20261016_1146.xlsx, PIM_TSKT 1944 máy giặt_MODEL_20261016_1146.xlsx, PIM_TSKT 14078 Tủ chống ẩm_MODEL_20261016_1146.xlsx",
+  "Không/Đang cập nhật": 68,
+  "Lúc": "2026-10-16 11:46:46",
+  "Người xuất": "ducpro",
+  "Số dòng": 18,
+  "Sửa tay": 16,
+  "Thêm đơn vị": 13,
+  "Tách xin data": 0,
+  "Workspace": "ducpro"
  }
 ]
