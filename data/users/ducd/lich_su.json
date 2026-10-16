@@ -1346,5 +1346,19 @@
   "Thêm đơn vị": 0,
   "Tách xin data": 1,
   "Workspace": "ducd"
+ },
+ {
+  "Biến đổi": 0,
+  "Chặn ô theo tên": 0,
+  "Cảnh báo": "• 729 ô kích thước/khối lượng chưa có đơn vị | • 7 dòng không có trong file PIM | • 353 ô giá trị CMS bị MẤT khi map (xem 🧾 Đối soát) | • 6 SKU KHÔNG có thông số nào (sẽ xuất dòng trống)",
+  "File": "PIM_TSKT 2062 Máy ép trái cây_MODEL_20261016_2048.xlsx, PIM_TSKT 2062 Máy ép trái cây_BIENTHE_20261016_2048.xlsx",
+  "Không/Đang cập nhật": 449,
+  "Lúc": "2026-10-16 20:48:09",
+  "Người xuất": "ducd",
+  "Số dòng": 220,
+  "Sửa tay": 0,
+  "Thêm đơn vị": 0,
+  "Tách xin data": 6,
+  "Workspace": "ducd"
  }
 ]
