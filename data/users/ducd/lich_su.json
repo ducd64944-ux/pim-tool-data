@@ -1472,5 +1472,19 @@
   "Thêm đơn vị": 0,
   "Tách xin data": 0,
   "Workspace": "ducd"
+ },
+ {
+  "Biến đổi": 0,
+  "Chặn ô theo tên": 0,
+  "Cảnh báo": "• 299 ô KHÁC spec PIM (sẽ ghi đè) | • 162 ô tool để trống trong khi PIM đang có | • 291 ô kích thước/khối lượng chưa có đơn vị | • 155 ô giá trị CMS bị MẤT khi map (xem 🧾 Đối soát)",
+  "File": "PIM_TSKT 9360 Máy mài_CHI_FILTER_MODEL_20261016_2318.xlsx",
+  "Không/Đang cập nhật": 0,
+  "Lúc": "2026-10-16 23:18:54",
+  "Người xuất": "ducd",
+  "Số dòng": 81,
+  "Sửa tay": 0,
+  "Thêm đơn vị": 0,
+  "Tách xin data": 0,
+  "Workspace": "ducd"
  }
 ]
