@@ -6,7 +6,7 @@
    "MÃ NH": "9360",
    "NGUỒN CATE": "CATEGORYID",
    "SỐ SKU": 81,
-   "TAB TSKT / CẤU HÌNH": "cấu hình — 2 cột",
+   "TAB TSKT / CẤU HÌNH": "cấu hình — 23 cột",
    "TÊN NGÀNH HÀNG": "Máy mài"
   }
  ],
@@ -373,12 +373,33 @@
    "FILTER: giá trị CMS \"Máy mài đá\" chưa có option trong DATA PIM — để trống"
   ]
  ],
- "luc": "2026-10-16 22:58:19",
+ "luc": "2026-10-16 23:01:21",
  "nganh": {
   "9360": {
    "attr": [
     "power_filter_master",
-    "product_type_filter_master"
+    "product_type_filter_master",
+    "battery_type_tskt_master",
+    "compatibility_tskt_master",
+    "diameter_tskt_master",
+    "engine_core_tskt_master",
+    "engine_tskt_master",
+    "grinding_wheel_diameter_tskt_master",
+    "grinding_wheel_shaft_thread_tskt_master",
+    "high_tskt_master",
+    "included_accessories_tskt_master",
+    "long_tskt_master",
+    "machine_weight_tskt_master",
+    "made_in_tskt_master",
+    "maximum_idle_speed_tskt_master",
+    "output_power_tskt_master",
+    "power_source_tskt_master",
+    "product_type_tskt_master",
+    "release_date_tskt_master",
+    "squeezing_jaws_tskt_master",
+    "switch_tskt_master",
+    "utilities_tskt_master",
+    "wide_tskt_master"
    ],
    "ten": {
     "battery_type_tskt_master": "Loại pin",
@@ -416,7 +437,7 @@
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
   "so_nganh": 1,
-  "so_o": 0,
+  "so_o": 1457,
   "so_sku": 81
  }
 }
