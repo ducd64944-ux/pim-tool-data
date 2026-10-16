@@ -4505,6 +4505,15 @@
    "utilities_tskt_master": "Tiện ích"
   }
  },
+ "8862": {
+  "cot": [
+   "product_type_filter_master"
+  ],
+  "ten": "Tua vít",
+  "ten_cot": {
+   "product_type_filter_master": "Loại sản phẩm"
+  }
+ },
  "8968": {
   "cot": [
    "accessory_compatibility_tskt_master",
