@@ -3,139 +3,120 @@
   {
    "CHỌN": true,
    "GHI CHÚ": "",
-   "MÃ NH": "8862",
+   "MÃ NH": "8861",
    "NGUỒN CATE": "CATEGORYID",
-   "SỐ SKU": 56,
+   "SỐ SKU": 28,
    "TAB TSKT / CẤU HÌNH": "cấu hình — 1 cột",
-   "TÊN NGÀNH HÀNG": "Tua vít"
+   "TÊN NGÀNH HÀNG": "Cờ lê - Mỏ lết"
   }
  ],
  "chua_map": [
   {
-   "cate": "8862",
+   "cate": "8861",
+   "goi_y_ma": "",
+   "prop_id": "25751",
+   "prop_name": "Loại sản phẩm - Mua kèm",
+   "so_dong": 27,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Cờ lê - mỏ lết"
+  },
+  {
+   "cate": "8861",
+   "goi_y_ma": "",
+   "prop_id": "28909",
+   "prop_name": "Kích thước",
+   "so_dong": 20,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "15 cm"
+  },
+  {
+   "cate": "8861",
    "goi_y_ma": "",
    "prop_id": "16503",
    "prop_name": "Loại sản phẩm",
-   "so_dong": 20,
+   "so_dong": 3,
    "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Bộ vặn vít"
+   "vi_du": "Bộ chìa khoá vòng miệng"
   },
   {
-   "cate": "8862",
+   "cate": "8861",
    "goi_y_ma": "",
    "prop_id": "20491",
    "prop_name": "Kích thước - Trọng lượng",
-   "so_dong": 20,
+   "so_dong": 3,
    "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Dài 15.5 cm - Rộng 8 cm - Dày 2 cm - Nặng 0.3 kg"
+   "vi_du": "Dài 24 cm - Rộng 22 cm - Cao 3.5 cm - Nặng 0.75 kg"
   },
   {
-   "cate": "8862",
+   "cate": "8861",
    "goi_y_ma": "",
    "prop_id": "20492",
    "prop_name": "Dòng sản phẩm",
-   "so_dong": 20,
+   "so_dong": 3,
    "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "2018"
+   "vi_du": "2024"
   },
   {
-   "cate": "8862",
+   "cate": "8861",
    "goi_y_ma": "",
    "prop_id": "20493",
    "prop_name": "Nơi sản xuất",
-   "so_dong": 15,
+   "so_dong": 3,
    "trang_thai": "CHƯA MAP — bỏ qua",
    "vi_du": "Trung Quốc"
   },
   {
-   "cate": "8862",
+   "cate": "8861",
    "goi_y_ma": "",
    "prop_id": "24306",
    "prop_name": "Chính sách đặc biệt",
-   "so_dong": 20,
+   "so_dong": 3,
    "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Đang cập nhật"
+   "vi_du": "Không"
   },
   {
-   "cate": "8862",
-   "goi_y_ma": "",
-   "prop_id": "25754",
-   "prop_name": "Loại sản phẩm",
-   "so_dong": 20,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Bộ dụng cụ đa năng"
-  },
-  {
-   "cate": "8862",
-   "goi_y_ma": "",
-   "prop_id": "20905",
-   "prop_name": "Loại sản phẩm",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Dụng cụ đa năng"
-  },
-  {
-   "cate": "8862",
-   "goi_y_ma": "",
-   "prop_id": "23218",
-   "prop_name": "phiên bản",
-   "so_dong": 2,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "25 in 1"
-  },
-  {
-   "cate": "8862",
+   "cate": "8861",
    "goi_y_ma": "",
    "prop_id": "24789",
    "prop_name": "Chính hãng",
-   "so_dong": 19,
+   "so_dong": 3,
    "trang_thai": "CHƯA MAP — bỏ qua",
    "vi_du": "Đang cập nhật"
+  },
+  {
+   "cate": "8861",
+   "goi_y_ma": "",
+   "prop_id": "25754",
+   "prop_name": "Loại sản phẩm",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Bộ dụng cụ đa năng"
   }
  ],
  "dx_dang_ap": 0,
  "goc_cms": {},
- "log": [
-  [
-   "9923381000206",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "3053384000061",
-   "8862",
-   "product_type_filter_master",
-   "FILTER: giá trị CMS \"Tua vít\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "9923381000160",
-   "8862",
-   "product_type_filter_master",
-   "FILTER: giá trị CMS \"Bộ lục giác\" chưa có option trong DATA PIM — để trống"
-  ]
- ],
- "luc": "2026-10-17 00:06:24",
+ "log": [],
+ "luc": "2026-10-17 00:18:36",
  "nganh": {
-  "8862": {
+  "8861": {
    "attr": [
     "product_type_filter_master"
    ],
    "ten": {
     "product_type_filter_master": "Loại sản phẩm"
    },
-   "ten_nh": "Tua vít",
-   "title": "TSKT 8862 Tua vít"
+   "ten_nh": "Cờ lê - Mỏ lết",
+   "title": "TSKT 8861 Cờ lê - Mỏ lết"
   }
  },
  "o_theo_ten": [],
  "tom_tat": {
-  "filter_khong_khop": 2,
-  "khong_data": 1,
+  "filter_khong_khop": 0,
+  "khong_data": 0,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
   "so_nganh": 1,
-  "so_o": 31,
-  "so_sku": 56
+  "so_o": 27,
+  "so_sku": 28
  }
 }
