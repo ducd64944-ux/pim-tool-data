@@ -325,7 +325,7 @@
    "FILTER: giá trị CMS \"Máy mài hơi\" chưa có option trong DATA PIM — để trống"
   ]
  ],
- "luc": "2026-10-16 23:27:42",
+ "luc": "2026-10-16 23:30:52",
  "nganh": {
   "9360": {
    "attr": [
@@ -389,7 +389,7 @@
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
   "so_nganh": 1,
-  "so_o": 1308,
+  "so_o": 1470,
   "so_sku": 81
  }
 }
