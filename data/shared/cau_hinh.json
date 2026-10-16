@@ -3496,12 +3496,14 @@
    "made_in_tskt_master",
    "product_line_tskt_master",
    "product_type_tskt_master",
-   "size_weight_tskt_master"
+   "size_weight_tskt_master",
+   "product_type_filter_master"
   ],
-  "ten": "Bộ dụng cụ đa năng",
+  "ten": "Tua vít",
   "ten_cot": {
    "made_in_tskt_master": "Sản xuất tại",
    "product_line_tskt_master": "Dòng sản phẩm",
+   "product_type_filter_master": "Loại sản phẩm",
    "product_type_tskt_master": "Loại sản phẩm",
    "size_weight_tskt_master": "Kích thước Khối lượng"
   }
