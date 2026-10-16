@@ -604,6 +604,21 @@
    "wide_tskt_master": "Rộng"
   }
  },
+ "12838": {
+  "cot": [
+   "product_type_filter_master",
+   "type_of_machine_filter_master",
+   "output_power_tskt_master",
+   "product_type_tskt_master"
+  ],
+  "ten": "Dịch vụ vệ sinh, bảo dưỡng",
+  "ten_cot": {
+   "output_power_tskt_master": "Công suất đầu ra",
+   "product_type_filter_master": "Loại sản phẩm",
+   "product_type_tskt_master": "Loại sản phẩm",
+   "type_of_machine_filter_master": "Loại máy"
+  }
+ },
  "13238": {
   "cot": [
    "brand_of_tskt_master",
