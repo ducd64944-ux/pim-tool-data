@@ -4505,6 +4505,15 @@
    "utilities_tskt_master": "Tiện ích"
   }
  },
+ "8861": {
+  "cot": [
+   "product_type_filter_master"
+  ],
+  "ten": "Cờ lê - Mỏ lết",
+  "ten_cot": {
+   "product_type_filter_master": "Loại sản phẩm"
+  }
+ },
  "8862": {
   "cot": [
    "product_type_filter_master"
