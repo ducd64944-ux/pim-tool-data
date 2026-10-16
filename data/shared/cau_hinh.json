@@ -2760,6 +2760,15 @@
    "utilities_tskt_master": "Tiện ích"
   }
  },
+ "234": {
+  "cot": [
+   "product_type_filter_master"
+  ],
+  "ten": "export_product20261016234318",
+  "ten_cot": {
+   "product_type_filter_master": "Loại sản phẩm"
+  }
+ },
  "2342": {
   "cot": [
    "battery_capacity_tskt_master",
