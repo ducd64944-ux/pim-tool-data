@@ -1570,5 +1570,19 @@
   "Thêm đơn vị": 0,
   "Tách xin data": 1,
   "Workspace": "ducd"
+ },
+ {
+  "Biến đổi": 0,
+  "Chặn ô theo tên": 0,
+  "Cảnh báo": "• 14 ô tool để trống trong khi PIM đang có | • 5 ô giá trị CMS bị MẤT khi map (xem 🧾 Đối soát)",
+  "File": "PIM_TSKT 12838 Dịch vụ vệ sinh, bảo_CHI_FILTER_MODEL_20261017_0031.xlsx, PIM_TSKT 12838 Dịch vụ vệ sinh, bảo_CHI_FILTER_BIENTHE_20261017_0031.xlsx",
+  "Không/Đang cập nhật": 0,
+  "Lúc": "2026-10-17 00:31:06",
+  "Người xuất": "ducd",
+  "Số dòng": 9,
+  "Sửa tay": 0,
+  "Thêm đơn vị": 0,
+  "Tách xin data": 5,
+  "Workspace": "ducd"
  }
 ]
