@@ -1,111 +1,101 @@
 {
- "chon": [],
- "chua_map": [],
+ "chon": [
+  {
+   "CHỌN": true,
+   "GHI CHÚ": "",
+   "MÃ NH": "8862",
+   "NGUỒN CATE": "CATEGORYID",
+   "SỐ SKU": 56,
+   "TAB TSKT / CẤU HÌNH": "cấu hình — 1 cột",
+   "TÊN NGÀNH HÀNG": "Tua vít"
+  }
+ ],
+ "chua_map": [
+  {
+   "cate": "8862",
+   "goi_y_ma": "",
+   "prop_id": "16503",
+   "prop_name": "Loại sản phẩm",
+   "so_dong": 20,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Bộ vặn vít"
+  },
+  {
+   "cate": "8862",
+   "goi_y_ma": "",
+   "prop_id": "20491",
+   "prop_name": "Kích thước - Trọng lượng",
+   "so_dong": 20,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Dài 15.5 cm - Rộng 8 cm - Dày 2 cm - Nặng 0.3 kg"
+  },
+  {
+   "cate": "8862",
+   "goi_y_ma": "",
+   "prop_id": "20492",
+   "prop_name": "Dòng sản phẩm",
+   "so_dong": 20,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "2018"
+  },
+  {
+   "cate": "8862",
+   "goi_y_ma": "",
+   "prop_id": "20493",
+   "prop_name": "Nơi sản xuất",
+   "so_dong": 15,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Trung Quốc"
+  },
+  {
+   "cate": "8862",
+   "goi_y_ma": "",
+   "prop_id": "24306",
+   "prop_name": "Chính sách đặc biệt",
+   "so_dong": 20,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Đang cập nhật"
+  },
+  {
+   "cate": "8862",
+   "goi_y_ma": "",
+   "prop_id": "25754",
+   "prop_name": "Loại sản phẩm",
+   "so_dong": 20,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Bộ dụng cụ đa năng"
+  },
+  {
+   "cate": "8862",
+   "goi_y_ma": "",
+   "prop_id": "20905",
+   "prop_name": "Loại sản phẩm",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Dụng cụ đa năng"
+  },
+  {
+   "cate": "8862",
+   "goi_y_ma": "",
+   "prop_id": "23218",
+   "prop_name": "phiên bản",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "25 in 1"
+  },
+  {
+   "cate": "8862",
+   "goi_y_ma": "",
+   "prop_id": "24789",
+   "prop_name": "Chính hãng",
+   "so_dong": 19,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Đang cập nhật"
+  }
+ ],
  "dx_dang_ap": 0,
  "goc_cms": {},
  "log": [
-  [
-   "0160017001176",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "9923381000204",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "9923381000396",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "9923381000673",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "9923381000674",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "9923381000675",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "9923381000388",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "9923381000400",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "9923381000398",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "9923381000399",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "9923381000401",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "9923381000410",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "9923381000395",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "9923381000393",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "9923381000391",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "9923381000209",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "9923189000178",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
   [
    "9923381000206",
    "",
@@ -113,250 +103,39 @@
    "Không có dòng nào trong DATA SP"
   ],
   [
-   "9923381000208",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "9923189000179",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "9923381000157",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "9923189000184",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "9923189000183",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "9923381000686",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "9923381000706",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "9923381000704",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "9923381000688",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "9923189000177",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "9923189000185",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "9923189000221",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "9923381000161",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "9923381000162",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
    "3053384000061",
    "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "3053384000065",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "3053384000035",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "3053384000019",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "9923381000392",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "9923381000376",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "9923381000158",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
+   "product_type_filter_master",
+   "FILTER: giá trị CMS \"Tua vít\" chưa có option trong DATA PIM — để trống"
   ],
   [
    "9923381000160",
    "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "9923381000626",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "9923381000163",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "3053384000068",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "9923381000707",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "9923381000703",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "3053384000062",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "9923381000457",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "9923381000159",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "3053384000067",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "3053384000066",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "9923381000474",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "9923381000155",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "9923189000223",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "9923381000708",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "9923381000705",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "9923381000475",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
-  ],
-  [
-   "0160017001175",
-   "8862",
-   "",
-   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
+   "product_type_filter_master",
+   "FILTER: giá trị CMS \"Bộ lục giác\" chưa có option trong DATA PIM — để trống"
   ]
  ],
- "luc": "2026-10-17 00:03:48",
- "nganh": {},
+ "luc": "2026-10-17 00:06:24",
+ "nganh": {
+  "8862": {
+   "attr": [
+    "product_type_filter_master"
+   ],
+   "ten": {
+    "product_type_filter_master": "Loại sản phẩm"
+   },
+   "ten_nh": "Tua vít",
+   "title": "TSKT 8862 Tua vít"
+  }
+ },
  "o_theo_ten": [],
  "tom_tat": {
-  "filter_khong_khop": 0,
-  "khong_data": 57,
+  "filter_khong_khop": 2,
+  "khong_data": 1,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 0,
-  "so_o": 0,
-  "so_sku": 0
+  "so_nganh": 1,
+  "so_o": 31,
+  "so_sku": 56
  }
 }
