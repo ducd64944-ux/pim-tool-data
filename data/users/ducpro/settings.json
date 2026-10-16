@@ -1025,16 +1025,6 @@
   {
    "d": {
     "dv": {
-     "9418\tmachine_weight_tskt_master\tbd": null
-    }
-   },
-   "luc": "2026-10-09 14:05:06",
-   "nhan": "Biến đổi hàng loạt 1 cột: Thêm cả TRƯỚC và SAU",
-   "so": 1
-  },
-  {
-   "d": {
-    "dv": {
      "2402\tthick_tskt_master": null
     }
    },
@@ -1216,9 +1206,34 @@
    "luc": "2026-10-16 11:41:35",
    "nhan": "Biến đổi hàng loạt 1 cột: Thêm cả TRƯỚC và SAU",
    "so": 1
+  },
+  {
+   "d": {
+    "sua": {
+     "14078\t4842053001458\tcapacity_tskt_master": null,
+     "14078\t4842053001458\tmaximum_load_tskt_master": null,
+     "14078\t4842053001458\tmaximum_tray_load_tskt_master": null,
+     "14078\t4842053001458\tpower_tskt_master": null,
+     "14078\t4842053001459\tcapacity_tskt_master": null,
+     "14078\t4842053001459\tmaximum_load_tskt_master": null,
+     "14078\t4842053001459\tmaximum_tray_load_tskt_master": null,
+     "14078\t4842053001459\tpower_tskt_master": null,
+     "14078\t4842053001468\tcapacity_tskt_master": null,
+     "14078\t4842053001468\tmaximum_load_tskt_master": null,
+     "14078\t4842053001468\tmaximum_tray_load_tskt_master": null,
+     "14078\t4842053001468\tpower_tskt_master": null,
+     "14078\t4842053001469\tcapacity_tskt_master": null,
+     "14078\t4842053001469\tmaximum_load_tskt_master": null,
+     "14078\t4842053001469\tmaximum_tray_load_tskt_master": null,
+     "14078\t4842053001469\tpower_tskt_master": null
+    }
+   },
+   "luc": "2026-10-16 11:46:20",
+   "nhan": "Kiểm tra nhanh: sửa 16 ô",
+   "so": 16
   }
  ],
- "luc_luu": "2026-10-16 11:41:35",
+ "luc_luu": "2026-10-16 11:46:20",
  "nguoi_luu": "ducpro",
  "rong": {
   "hãng không công bố": [
@@ -1238,5 +1253,22 @@
    ""
   ]
  },
- "sua": {}
+ "sua": {
+  "14078\t4842053001458\tcapacity_tskt_master": "800 lít",
+  "14078\t4842053001458\tmaximum_load_tskt_master": "200 kg",
+  "14078\t4842053001458\tmaximum_tray_load_tskt_master": "10 kg",
+  "14078\t4842053001458\tpower_tskt_master": "30 W",
+  "14078\t4842053001459\tcapacity_tskt_master": "80 lít",
+  "14078\t4842053001459\tmaximum_load_tskt_master": "100 kg",
+  "14078\t4842053001459\tmaximum_tray_load_tskt_master": "10 kg",
+  "14078\t4842053001459\tpower_tskt_master": "7 W",
+  "14078\t4842053001468\tcapacity_tskt_master": "500 lít",
+  "14078\t4842053001468\tmaximum_load_tskt_master": "200 kg",
+  "14078\t4842053001468\tmaximum_tray_load_tskt_master": "10 kg",
+  "14078\t4842053001468\tpower_tskt_master": "30 W",
+  "14078\t4842053001469\tcapacity_tskt_master": "80 lít",
+  "14078\t4842053001469\tmaximum_load_tskt_master": "100 kg",
+  "14078\t4842053001469\tmaximum_tray_load_tskt_master": "10 kg",
+  "14078\t4842053001469\tpower_tskt_master": "7 W"
+ }
 }
