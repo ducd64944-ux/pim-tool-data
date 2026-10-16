@@ -5006,6 +5006,17 @@
    "utilities_tskt_master": "Tiện ích"
   }
  },
+ "9360": {
+  "cot": [
+   "power_filter_master",
+   "product_type_filter_master"
+  ],
+  "ten": "Máy mài",
+  "ten_cot": {
+   "power_filter_master": "Công suất",
+   "product_type_filter_master": "Loại sản phẩm"
+  }
+ },
  "9418": {
   "cot": [
    "capacity_filter_master",
