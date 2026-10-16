@@ -5,7 +5,7 @@
    "GHI CHÚ": "",
    "MÃ NH": "9360",
    "NGUỒN CATE": "CATEGORYID",
-   "SỐ SKU": 62,
+   "SỐ SKU": 81,
    "TAB TSKT / CẤU HÌNH": "cấu hình — 2 cột",
    "TÊN NGÀNH HÀNG": "Máy mài"
   }
@@ -14,18 +14,135 @@
   {
    "cate": "9360",
    "goi_y_ma": "",
+   "prop_id": "20476",
+   "prop_name": "Công suất",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "850W"
+  },
+  {
+   "cate": "9360",
+   "goi_y_ma": "",
+   "prop_id": "20477",
+   "prop_name": "Tốc độ không tải tối đa",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "11.000 vòng/phút"
+  },
+  {
+   "cate": "9360",
+   "goi_y_ma": "",
+   "prop_id": "20478",
+   "prop_name": "Ren trục",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Đang cập nhật"
+  },
+  {
+   "cate": "9360",
+   "goi_y_ma": "",
+   "prop_id": "20479",
+   "prop_name": "Đường kính đá",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Đang cập nhật"
+  },
+  {
+   "cate": "9360",
+   "goi_y_ma": "",
+   "prop_id": "20480",
+   "prop_name": "Đường kính đĩa tối đa",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "115 mm"
+  },
+  {
+   "cate": "9360",
+   "goi_y_ma": "",
+   "prop_id": "20481",
+   "prop_name": "Kích thước - Khối lượng",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Dài 27.5 cm - Cao 10 cm - Dày 7.5 cm - Nặng 2.7 kg"
+  },
+  {
+   "cate": "9360",
+   "goi_y_ma": "",
+   "prop_id": "20482",
+   "prop_name": "Năm ra mắt",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "2019"
+  },
+  {
+   "cate": "9360",
+   "goi_y_ma": "",
+   "prop_id": "20483",
+   "prop_name": "Sản xuất tại",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Trung Quốc"
+  },
+  {
+   "cate": "9360",
+   "goi_y_ma": "",
+   "prop_id": "22435",
+   "prop_name": "Loại máy",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Máy cắt đa năng"
+  },
+  {
+   "cate": "9360",
+   "goi_y_ma": "",
+   "prop_id": "26267",
+   "prop_name": "Kích thước - Khối lượng",
+   "so_dong": 5,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Dài: 10 cm - Ngang: 27.5 cm - Dày: 7.5 cm - Nặng: 2.7 kg"
+  },
+  {
+   "cate": "9360",
+   "goi_y_ma": "",
+   "prop_id": "27503",
+   "prop_name": "Dài",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "27.5 cm"
+  },
+  {
+   "cate": "9360",
+   "goi_y_ma": "",
+   "prop_id": "27504",
+   "prop_name": "Ngang",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "7.5 cm"
+  },
+  {
+   "cate": "9360",
+   "goi_y_ma": "",
+   "prop_id": "27505",
+   "prop_name": "Cao",
+   "so_dong": 1,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "2.7 kg"
+  },
+  {
+   "cate": "9360",
+   "goi_y_ma": "",
    "prop_id": "39021",
    "prop_name": "Hãng máy mài",
-   "so_dong": 34,
+   "so_dong": 39,
    "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Máy mài Tolsen"
+   "vi_du": "Đang cập nhật"
   },
   {
    "cate": "9360",
    "goi_y_ma": "",
    "prop_id": "39022",
    "prop_name": "Map pin",
-   "so_dong": 34,
+   "so_dong": 39,
    "trang_thai": "CHƯA MAP — bỏ qua",
    "vi_du": "Đang cập nhật"
   }
@@ -34,202 +151,28 @@
  "goc_cms": {},
  "log": [
   [
-   "9923384000507",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000437",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000520",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000599",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000519",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000506",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000435",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000601",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000455",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000518",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000597",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000430",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000460",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000510",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000512",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000206",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000521",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000205",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923384000210",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "9923381000698",
-   "9360",
-   "power_filter_master",
-   "FILTER: giá trị CMS \"Máy mài hơi\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "9923381000698",
-   "9360",
-   "product_type_filter_master",
-   "FILTER: giá trị CMS \"Không\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "9923384000353",
-   "9360",
-   "power_filter_master",
-   "FILTER: giá trị CMS \"Máy mài đá\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "9923384000353",
-   "9360",
-   "product_type_filter_master",
-   "FILTER: giá trị CMS \"150W\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "9923384000736",
+   "3053384000026",
    "9360",
    "power_filter_master",
    "FILTER: giá trị CMS \"Máy mài góc\" chưa có option trong DATA PIM — để trống"
   ],
   [
-   "9923384000736",
+   "3053384000026",
    "9360",
    "product_type_filter_master",
-   "FILTER: giá trị CMS \"710W\" chưa có option trong DATA PIM — để trống"
+   "FILTER: giá trị CMS \"850W\" chưa có option trong DATA PIM — để trống"
   ],
   [
-   "9923384000735",
+   "9923384000203",
    "9360",
    "product_type_filter_master",
-   "FILTER: giá trị CMS \"1200W\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "9923384000750",
-   "9360",
-   "product_type_filter_master",
-   "FILTER: giá trị CMS \"950W\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "9923384000360",
-   "9360",
-   "product_type_filter_master",
-   "FILTER: giá trị CMS \"760W\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "9923384000312",
-   "9360",
-   "power_filter_master",
-   "FILTER: giá trị CMS \"Máy mài thẳng\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "9923384000312",
-   "9360",
-   "product_type_filter_master",
-   "FILTER: giá trị CMS \"300W\" chưa có option trong DATA PIM — để trống"
+   "FILTER: giá trị CMS \"750W\" chưa có option trong DATA PIM — để trống"
   ],
   [
    "9923384000204",
    "9360",
    "product_type_filter_master",
    "FILTER: giá trị CMS \"900W\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "9923384000202",
-   "9360",
-   "product_type_filter_master",
-   "FILTER: giá trị CMS \"750W\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "9923384000201",
-   "9360",
-   "product_type_filter_master",
-   "FILTER: giá trị CMS \"850W\" chưa có option trong DATA PIM — để trống"
   ],
   [
    "9923384000208",
@@ -244,34 +187,28 @@
    "FILTER: giá trị CMS \"2400W\" chưa có option trong DATA PIM — để trống"
   ],
   [
-   "9923384000408",
-   "9360",
-   "product_type_filter_master",
-   "FILTER: giá trị CMS \"1010W\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "9923384000438",
-   "9360",
-   "product_type_filter_master",
-   "FILTER: giá trị CMS \"1050W\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "9923384000470",
-   "9360",
-   "power_filter_master",
-   "FILTER: giá trị CMS \"Máy mài khuôn\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "9923384000470",
-   "9360",
-   "product_type_filter_master",
-   "FILTER: giá trị CMS \"400W\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "9923384000456",
+   "9923384000205",
    "9360",
    "product_type_filter_master",
    "FILTER: giá trị CMS \"720W\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "9923384000206",
+   "9360",
+   "product_type_filter_master",
+   "FILTER: giá trị CMS \"800W\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "9923384000207",
+   "9360",
+   "product_type_filter_master",
+   "FILTER: giá trị CMS \"950W\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "9923384000210",
+   "9360",
+   "product_type_filter_master",
+   "FILTER: giá trị CMS \"1400W\" chưa có option trong DATA PIM — để trống"
   ],
   [
    "9923384000296",
@@ -286,58 +223,34 @@
    "FILTER: giá trị CMS \"250W\" chưa có option trong DATA PIM — để trống"
   ],
   [
-   "9923384000390",
-   "9360",
-   "product_type_filter_master",
-   "FILTER: giá trị CMS \"500W\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "9923384000440",
-   "9360",
-   "product_type_filter_master",
-   "FILTER: giá trị CMS \"2200W\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "9923384000434",
-   "9360",
-   "product_type_filter_master",
-   "FILTER: giá trị CMS \"840W\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "9923384000454",
-   "9360",
-   "product_type_filter_master",
-   "FILTER: giá trị CMS \"540W\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "9923384000517",
-   "9360",
-   "product_type_filter_master",
-   "FILTER: giá trị CMS \"1400W\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
    "9923384000302",
    "9360",
    "product_type_filter_master",
    "FILTER: giá trị CMS \"670W\" chưa có option trong DATA PIM — để trống"
   ],
   [
-   "9923384000598",
+   "9923384000312",
    "9360",
-   "product_type_filter_master",
-   "FILTER: giá trị CMS \"680W\" chưa có option trong DATA PIM — để trống"
+   "power_filter_master",
+   "FILTER: giá trị CMS \"Máy mài thẳng\" chưa có option trong DATA PIM — để trống"
   ],
   [
-   "9923384000595",
+   "9923384000312",
    "9360",
    "product_type_filter_master",
-   "FILTER: giá trị CMS \"620W\" chưa có option trong DATA PIM — để trống"
+   "FILTER: giá trị CMS \"300W\" chưa có option trong DATA PIM — để trống"
   ],
   [
-   "9923384000660",
+   "9923384000390",
    "9360",
    "product_type_filter_master",
-   "FILTER: giá trị CMS \"Không có\" chưa có option trong DATA PIM — để trống"
+   "FILTER: giá trị CMS \"500W\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "9923384000407",
+   "9360",
+   "product_type_filter_master",
+   "FILTER: giá trị CMS \"1010W\" chưa có option trong DATA PIM — để trống"
   ],
   [
    "9923384000447",
@@ -350,9 +263,117 @@
    "9360",
    "product_type_filter_master",
    "FILTER: giá trị CMS \"530W\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "9923384000429",
+   "9360",
+   "product_type_filter_master",
+   "FILTER: giá trị CMS \"710W\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "9923384000433",
+   "9360",
+   "product_type_filter_master",
+   "FILTER: giá trị CMS \"840W\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "9923384000436",
+   "9360",
+   "product_type_filter_master",
+   "FILTER: giá trị CMS \"1050W\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "9923384000439",
+   "9360",
+   "product_type_filter_master",
+   "FILTER: giá trị CMS \"2200W\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "9923384000454",
+   "9360",
+   "product_type_filter_master",
+   "FILTER: giá trị CMS \"540W\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "9923384000481",
+   "9360",
+   "product_type_filter_master",
+   "FILTER: giá trị CMS \"Không có\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "9923384000469",
+   "9360",
+   "power_filter_master",
+   "FILTER: giá trị CMS \"Máy mài khuôn\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "9923384000470",
+   "9360",
+   "product_type_filter_master",
+   "FILTER: giá trị CMS \"400W\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "9923384000519",
+   "9360",
+   "product_type_filter_master",
+   "FILTER: giá trị CMS \"2000W\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "9923384000595",
+   "9360",
+   "product_type_filter_master",
+   "FILTER: giá trị CMS \"620W\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "9923384000597",
+   "9360",
+   "product_type_filter_master",
+   "FILTER: giá trị CMS \"680W\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "9923384000360",
+   "9360",
+   "product_type_filter_master",
+   "FILTER: giá trị CMS \"760W\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "9923384000535",
+   "9360",
+   "product_type_filter_master",
+   "FILTER: giá trị CMS \"Không\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "9923384000518",
+   "9360",
+   "product_type_filter_master",
+   "FILTER: giá trị CMS \"1800W\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "9923384000375",
+   "9360",
+   "product_type_filter_master",
+   "FILTER: giá trị CMS \"150W\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "9923381000698",
+   "9360",
+   "power_filter_master",
+   "FILTER: giá trị CMS \"Máy mài hơi\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "9923384000735",
+   "9360",
+   "product_type_filter_master",
+   "FILTER: giá trị CMS \"1200W\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "9923384000353",
+   "9360",
+   "power_filter_master",
+   "FILTER: giá trị CMS \"Máy mài đá\" chưa có option trong DATA PIM — để trống"
   ]
  ],
- "luc": "2026-10-16 22:51:46",
+ "luc": "2026-10-16 22:53:51",
  "nganh": {
   "9360": {
    "attr": [
@@ -390,12 +411,12 @@
  },
  "o_theo_ten": [],
  "tom_tat": {
-  "filter_khong_khop": 34,
-  "khong_data": 19,
+  "filter_khong_khop": 37,
+  "khong_data": 0,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
   "so_nganh": 1,
   "so_o": 0,
-  "so_sku": 62
+  "so_sku": 81
  }
 }
