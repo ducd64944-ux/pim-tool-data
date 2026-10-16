@@ -3,120 +3,328 @@
   {
    "CHỌN": true,
    "GHI CHÚ": "",
-   "MÃ NH": "8861",
+   "MÃ NH": "12838",
    "NGUỒN CATE": "CATEGORYID",
-   "SỐ SKU": 28,
-   "TAB TSKT / CẤU HÌNH": "cấu hình — 1 cột",
-   "TÊN NGÀNH HÀNG": "Cờ lê - Mỏ lết"
+   "SỐ SKU": 14,
+   "TAB TSKT / CẤU HÌNH": "cấu hình — 4 cột",
+   "TÊN NGÀNH HÀNG": "Dịch vụ vệ sinh, bảo dưỡng"
   }
  ],
  "chua_map": [
   {
-   "cate": "8861",
+   "cate": "12838",
    "goi_y_ma": "",
-   "prop_id": "25751",
-   "prop_name": "Loại sản phẩm - Mua kèm",
-   "so_dong": 27,
+   "prop_id": "41430",
+   "prop_name": "Vệ sinh",
+   "so_dong": 14,
    "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Cờ lê - mỏ lết"
+   "vi_du": "Máy lạnh treo tường"
   },
   {
-   "cate": "8861",
+   "cate": "12838",
    "goi_y_ma": "",
-   "prop_id": "28909",
-   "prop_name": "Kích thước",
-   "so_dong": 20,
+   "prop_id": "41431",
+   "prop_name": "Công suất",
+   "so_dong": 14,
    "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "15 cm"
+   "vi_du": "1 HP - 2.5 HP"
   },
   {
-   "cate": "8861",
+   "cate": "12838",
    "goi_y_ma": "",
-   "prop_id": "16503",
-   "prop_name": "Loại sản phẩm",
-   "so_dong": 3,
+   "prop_id": "42176",
+   "prop_name": "Máy lạnh map VSML",
+   "so_dong": 14,
    "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Bộ chìa khoá vòng miệng"
+   "vi_du": "Vệ sinh máy lạnh treo tường 1HP - 2.5 HP"
   },
   {
-   "cate": "8861",
+   "cate": "12838",
    "goi_y_ma": "",
-   "prop_id": "20491",
-   "prop_name": "Kích thước - Trọng lượng",
-   "so_dong": 3,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Dài 24 cm - Rộng 22 cm - Cao 3.5 cm - Nặng 0.75 kg"
-  },
-  {
-   "cate": "8861",
-   "goi_y_ma": "",
-   "prop_id": "20492",
-   "prop_name": "Dòng sản phẩm",
-   "so_dong": 3,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "2024"
-  },
-  {
-   "cate": "8861",
-   "goi_y_ma": "",
-   "prop_id": "20493",
-   "prop_name": "Nơi sản xuất",
-   "so_dong": 3,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Trung Quốc"
-  },
-  {
-   "cate": "8861",
-   "goi_y_ma": "",
-   "prop_id": "24306",
-   "prop_name": "Chính sách đặc biệt",
-   "so_dong": 3,
+   "prop_id": "47838",
+   "prop_name": "Kích cỡ màn hình",
+   "so_dong": 13,
    "trang_thai": "CHƯA MAP — bỏ qua",
    "vi_du": "Không"
   },
   {
-   "cate": "8861",
+   "cate": "12838",
    "goi_y_ma": "",
-   "prop_id": "24789",
-   "prop_name": "Chính hãng",
-   "so_dong": 3,
+   "prop_id": "47839",
+   "prop_name": "Dung tích",
+   "so_dong": 13,
    "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Đang cập nhật"
+   "vi_du": "Không"
   },
   {
-   "cate": "8861",
+   "cate": "12838",
    "goi_y_ma": "",
-   "prop_id": "25754",
-   "prop_name": "Loại sản phẩm",
-   "so_dong": 3,
+   "prop_id": "47840",
+   "prop_name": "Khối lượng giặt",
+   "so_dong": 13,
    "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Bộ dụng cụ đa năng"
+   "vi_du": "Không"
+  },
+  {
+   "cate": "12838",
+   "goi_y_ma": "",
+   "prop_id": "47841",
+   "prop_name": "Lắp đặt",
+   "so_dong": 13,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Không"
+  },
+  {
+   "cate": "12838",
+   "goi_y_ma": "",
+   "prop_id": "47843",
+   "prop_name": "Map dòng liên quan",
+   "so_dong": 11,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Máy giặt cửa trên"
   }
  ],
  "dx_dang_ap": 0,
  "goc_cms": {},
- "log": [],
- "luc": "2026-10-17 00:18:59",
+ "log": [
+  [
+   "4241411000308",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4241411000329",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4241411000067",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4241411000316",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4241411000322",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4241411000338",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4241411000307",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4241411000328",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4241412000858",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4241411000311",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4241411000309",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4241411000319",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4241411000317",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4241411000310",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4241411000326",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4241411000324",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4241411000327",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4241411000340",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4241411000341",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4241411000325",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4241411000342",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4241411000323",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4241411000320",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4241411000318",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4241411000321",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4241411000339",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4241411000330",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4241411000010",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4241411000335",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4241411000333",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4241412000860",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4241411000331",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4241412000857",
+   "12838",
+   "type_of_machine_filter_master",
+   "FILTER: giá trị CMS \"Vệ sinh Máy nước nóng năng lượng mặt trời\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "4241412000853",
+   "12838",
+   "type_of_machine_filter_master",
+   "FILTER: giá trị CMS \"Vệ sinh Tủ lạnh\" chưa có option trong DATA PIM — để trống"
+  ],
+  [
+   "4241412000006",
+   "12838",
+   "type_of_machine_filter_master",
+   "FILTER: giá trị CMS \"Vệ sinh Quạt đứng/Treo tường\" chưa có option trong DATA PIM — để trống"
+  ]
+ ],
+ "luc": "2026-10-17 00:30:41",
  "nganh": {
-  "8861": {
+  "12838": {
    "attr": [
-    "product_type_filter_master"
+    "product_type_filter_master",
+    "type_of_machine_filter_master",
+    "output_power_tskt_master",
+    "product_type_tskt_master"
    ],
    "ten": {
-    "product_type_filter_master": "Loại sản phẩm"
+    "output_power_tskt_master": "Công suất đầu ra",
+    "product_type_filter_master": "Loại sản phẩm",
+    "product_type_tskt_master": "Loại sản phẩm",
+    "type_of_machine_filter_master": "Loại máy"
    },
-   "ten_nh": "Cờ lê - Mỏ lết",
-   "title": "TSKT 8861 Cờ lê - Mỏ lết"
+   "ten_nh": "Dịch vụ vệ sinh, bảo dưỡng",
+   "title": "TSKT 12838 Dịch vụ vệ sinh, bảo dưỡng"
   }
  },
  "o_theo_ten": [],
  "tom_tat": {
-  "filter_khong_khop": 0,
-  "khong_data": 0,
+  "filter_khong_khop": 3,
+  "khong_data": 32,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
   "so_nganh": 1,
-  "so_o": 27,
-  "so_sku": 28
+  "so_o": 9,
+  "so_sku": 14
  }
 }
