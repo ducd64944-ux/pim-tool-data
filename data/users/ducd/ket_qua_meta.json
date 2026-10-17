@@ -171,20 +171,8 @@
   [
    "8801775586216",
    "4929",
-   "body_material_filter_master",
-   "FILTER: giá trị CMS \"Thủy tinh\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "8801775586216",
-   "4929",
    "utilities_filter_master",
    "FILTER: giá trị CMS \"Chống đổ nước\" chưa có option trong DATA PIM — để trống"
-  ],
-  [
-   "8801775586216",
-   "4929",
-   "utilities_filter_master",
-   "FILTER: giá trị CMS \"Dùng được lò nướng, lò vi sóng\" chưa có option trong DATA PIM — để trống"
   ],
   [
    "8801775586179",
@@ -433,7 +421,7 @@
    "FILTER: giá trị CMS \"Nhựa PP, Silicone\" chưa có option trong DATA PIM — để trống"
   ]
  ],
- "luc": "2026-10-17 21:04:50",
+ "luc": "2026-10-17 21:08:25",
  "nganh": {
   "4929": {
    "attr": [
@@ -470,12 +458,12 @@
  },
  "o_theo_ten": [],
  "tom_tat": {
-  "filter_khong_khop": 44,
+  "filter_khong_khop": 42,
   "khong_data": 0,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
   "so_nganh": 1,
-  "so_o": 2457,
+  "so_o": 2581,
   "so_sku": 251
  }
 }
