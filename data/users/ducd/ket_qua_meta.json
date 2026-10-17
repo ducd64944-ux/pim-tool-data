@@ -5,7 +5,7 @@
    "GHI CHÚ": "",
    "MÃ NH": "8967",
    "NGUỒN CATE": "CATEGORYID",
-   "SỐ SKU": 2,
+   "SỐ SKU": 1,
    "TAB TSKT / CẤU HÌNH": "cấu hình — 25 cột",
    "TÊN NGÀNH HÀNG": "Máy rửa mặt"
   }
@@ -16,253 +16,24 @@
    "goi_y_ma": "",
    "prop_id": "34181",
    "prop_name": "Màu sắc",
-   "so_dong": 2,
+   "so_dong": 1,
    "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Xám"
+   "vi_du": "Hồng nhạt"
   },
   {
    "cate": "8967",
    "goi_y_ma": "",
    "prop_id": "38658",
    "prop_name": "Thời gian sử dụng pin",
-   "so_dong": 2,
+   "so_dong": 1,
    "trang_thai": "CHƯA MAP — bỏ qua",
    "vi_du": "Pin dùng 6 giờ"
   }
  ],
  "dx_dang_ap": 0,
  "goc_cms": {},
- "log": [
-  [
-   "4845000000210",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4845000000206",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4845000000209",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4845000000211",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4845000000447",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4845000000446",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001049",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001050",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001268",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001269",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001272",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001313",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1515423000004",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1515423000006",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1515422000005",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4845000000025",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4845000000024",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001151",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001150",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1515423000001",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1515423000003",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1515423000007",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001160",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1515423000005",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1515422000004",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1515423000002",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1515423000008",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1515423000009",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001082",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001083",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001086",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001085",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001087",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001307",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001309",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001308",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001267",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "4842053001283",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ]
- ],
- "luc": "2026-10-17 14:58:17",
+ "log": [],
+ "luc": "2026-10-17 14:59:33",
  "nganh": {
   "8967": {
    "attr": [
@@ -326,11 +97,11 @@
  "o_theo_ten": [],
  "tom_tat": {
   "filter_khong_khop": 0,
-  "khong_data": 38,
+  "khong_data": 0,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
   "so_nganh": 1,
-  "so_o": 46,
-  "so_sku": 2
+  "so_o": 23,
+  "so_sku": 1
  }
 }
