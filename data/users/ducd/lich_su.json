@@ -1584,5 +1584,19 @@
   "Thêm đơn vị": 0,
   "Tách xin data": 5,
   "Workspace": "ducd"
+ },
+ {
+  "Biến đổi": 3,
+  "Chặn ô theo tên": 0,
+  "Cảnh báo": "• 3 ô KHÁC spec PIM (sẽ ghi đè) | • 1 ô tool để trống trong khi PIM đang có",
+  "File": "PIM_TSKT 8967 Máy rửa mặt_MODEL_20261017_1503.xlsx",
+  "Không/Đang cập nhật": 1,
+  "Lúc": "2026-10-17 15:03:28",
+  "Người xuất": "ducd",
+  "Số dòng": 1,
+  "Sửa tay": 0,
+  "Thêm đơn vị": 0,
+  "Tách xin data": 0,
+  "Workspace": "ducd"
  }
 ]
