@@ -3,328 +3,334 @@
   {
    "CHỌN": true,
    "GHI CHÚ": "",
-   "MÃ NH": "12838",
+   "MÃ NH": "8967",
    "NGUỒN CATE": "CATEGORYID",
-   "SỐ SKU": 14,
-   "TAB TSKT / CẤU HÌNH": "cấu hình — 4 cột",
-   "TÊN NGÀNH HÀNG": "Dịch vụ vệ sinh, bảo dưỡng"
+   "SỐ SKU": 2,
+   "TAB TSKT / CẤU HÌNH": "cấu hình — 25 cột",
+   "TÊN NGÀNH HÀNG": "Máy rửa mặt"
   }
  ],
  "chua_map": [
   {
-   "cate": "12838",
+   "cate": "8967",
    "goi_y_ma": "",
-   "prop_id": "41430",
-   "prop_name": "Vệ sinh",
-   "so_dong": 14,
+   "prop_id": "34181",
+   "prop_name": "Màu sắc",
+   "so_dong": 2,
    "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Máy lạnh treo tường"
+   "vi_du": "Xám"
   },
   {
-   "cate": "12838",
+   "cate": "8967",
    "goi_y_ma": "",
-   "prop_id": "41431",
-   "prop_name": "Công suất",
-   "so_dong": 14,
+   "prop_id": "38658",
+   "prop_name": "Thời gian sử dụng pin",
+   "so_dong": 2,
    "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "1 HP - 2.5 HP"
-  },
-  {
-   "cate": "12838",
-   "goi_y_ma": "",
-   "prop_id": "42176",
-   "prop_name": "Máy lạnh map VSML",
-   "so_dong": 14,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Vệ sinh máy lạnh treo tường 1HP - 2.5 HP"
-  },
-  {
-   "cate": "12838",
-   "goi_y_ma": "",
-   "prop_id": "47838",
-   "prop_name": "Kích cỡ màn hình",
-   "so_dong": 13,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "12838",
-   "goi_y_ma": "",
-   "prop_id": "47839",
-   "prop_name": "Dung tích",
-   "so_dong": 13,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "12838",
-   "goi_y_ma": "",
-   "prop_id": "47840",
-   "prop_name": "Khối lượng giặt",
-   "so_dong": 13,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "12838",
-   "goi_y_ma": "",
-   "prop_id": "47841",
-   "prop_name": "Lắp đặt",
-   "so_dong": 13,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Không"
-  },
-  {
-   "cate": "12838",
-   "goi_y_ma": "",
-   "prop_id": "47843",
-   "prop_name": "Map dòng liên quan",
-   "so_dong": 11,
-   "trang_thai": "CHƯA MAP — bỏ qua",
-   "vi_du": "Máy giặt cửa trên"
+   "vi_du": "Pin dùng 6 giờ"
   }
  ],
  "dx_dang_ap": 0,
  "goc_cms": {},
  "log": [
   [
-   "4241411000308",
+   "4845000000210",
    "",
    "",
    "Không có dòng nào trong DATA SP"
   ],
   [
-   "4241411000329",
+   "4845000000206",
    "",
    "",
    "Không có dòng nào trong DATA SP"
   ],
   [
-   "4241411000067",
+   "4845000000209",
    "",
    "",
    "Không có dòng nào trong DATA SP"
   ],
   [
-   "4241411000316",
+   "4845000000211",
    "",
    "",
    "Không có dòng nào trong DATA SP"
   ],
   [
-   "4241411000322",
+   "4845000000447",
    "",
    "",
    "Không có dòng nào trong DATA SP"
   ],
   [
-   "4241411000338",
+   "4845000000446",
    "",
    "",
    "Không có dòng nào trong DATA SP"
   ],
   [
-   "4241411000307",
+   "4842053001049",
    "",
    "",
    "Không có dòng nào trong DATA SP"
   ],
   [
-   "4241411000328",
+   "4842053001050",
    "",
    "",
    "Không có dòng nào trong DATA SP"
   ],
   [
-   "4241412000858",
+   "4842053001268",
    "",
    "",
    "Không có dòng nào trong DATA SP"
   ],
   [
-   "4241411000311",
+   "4842053001269",
    "",
    "",
    "Không có dòng nào trong DATA SP"
   ],
   [
-   "4241411000309",
+   "4842053001272",
    "",
    "",
    "Không có dòng nào trong DATA SP"
   ],
   [
-   "4241411000319",
+   "4842053001313",
    "",
    "",
    "Không có dòng nào trong DATA SP"
   ],
   [
-   "4241411000317",
+   "1515423000004",
    "",
    "",
    "Không có dòng nào trong DATA SP"
   ],
   [
-   "4241411000310",
+   "1515423000006",
    "",
    "",
    "Không có dòng nào trong DATA SP"
   ],
   [
-   "4241411000326",
+   "1515422000005",
    "",
    "",
    "Không có dòng nào trong DATA SP"
   ],
   [
-   "4241411000324",
+   "4845000000025",
    "",
    "",
    "Không có dòng nào trong DATA SP"
   ],
   [
-   "4241411000327",
+   "4845000000024",
    "",
    "",
    "Không có dòng nào trong DATA SP"
   ],
   [
-   "4241411000340",
+   "4842053001151",
    "",
    "",
    "Không có dòng nào trong DATA SP"
   ],
   [
-   "4241411000341",
+   "4842053001150",
    "",
    "",
    "Không có dòng nào trong DATA SP"
   ],
   [
-   "4241411000325",
+   "1515423000001",
    "",
    "",
    "Không có dòng nào trong DATA SP"
   ],
   [
-   "4241411000342",
+   "1515423000003",
    "",
    "",
    "Không có dòng nào trong DATA SP"
   ],
   [
-   "4241411000323",
+   "1515423000007",
    "",
    "",
    "Không có dòng nào trong DATA SP"
   ],
   [
-   "4241411000320",
+   "4842053001160",
    "",
    "",
    "Không có dòng nào trong DATA SP"
   ],
   [
-   "4241411000318",
+   "1515423000005",
    "",
    "",
    "Không có dòng nào trong DATA SP"
   ],
   [
-   "4241411000321",
+   "1515422000004",
    "",
    "",
    "Không có dòng nào trong DATA SP"
   ],
   [
-   "4241411000339",
+   "1515423000002",
    "",
    "",
    "Không có dòng nào trong DATA SP"
   ],
   [
-   "4241411000330",
+   "1515423000008",
    "",
    "",
    "Không có dòng nào trong DATA SP"
   ],
   [
-   "4241411000010",
+   "1515423000009",
    "",
    "",
    "Không có dòng nào trong DATA SP"
   ],
   [
-   "4241411000335",
+   "4842053001082",
    "",
    "",
    "Không có dòng nào trong DATA SP"
   ],
   [
-   "4241411000333",
+   "4842053001083",
    "",
    "",
    "Không có dòng nào trong DATA SP"
   ],
   [
-   "4241412000860",
+   "4842053001086",
    "",
    "",
    "Không có dòng nào trong DATA SP"
   ],
   [
-   "4241411000331",
+   "4842053001085",
    "",
    "",
    "Không có dòng nào trong DATA SP"
   ],
   [
-   "4241412000857",
-   "12838",
-   "type_of_machine_filter_master",
-   "FILTER: giá trị CMS \"Vệ sinh Máy nước nóng năng lượng mặt trời\" chưa có option trong DATA PIM — để trống"
+   "4842053001087",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "4241412000853",
-   "12838",
-   "type_of_machine_filter_master",
-   "FILTER: giá trị CMS \"Vệ sinh Tủ lạnh\" chưa có option trong DATA PIM — để trống"
+   "4842053001307",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ],
   [
-   "4241412000006",
-   "12838",
-   "type_of_machine_filter_master",
-   "FILTER: giá trị CMS \"Vệ sinh Quạt đứng/Treo tường\" chưa có option trong DATA PIM — để trống"
+   "4842053001309",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4842053001308",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4842053001267",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
+  ],
+  [
+   "4842053001283",
+   "",
+   "",
+   "Không có dòng nào trong DATA SP"
   ]
  ],
- "luc": "2026-10-17 00:30:49",
+ "luc": "2026-10-17 14:58:17",
  "nganh": {
-  "12838": {
+  "8967": {
    "attr": [
-    "product_type_filter_master",
-    "type_of_machine_filter_master",
-    "output_power_tskt_master",
-    "product_type_tskt_master"
+    "function_filter_master",
+    "skin_type_filter_master",
+    "utilities_filter_master",
+    "adjustment_level_tskt_master",
+    "area_of_use_tskt_master",
+    "battery_capacity_tskt_master",
+    "brand_of_tskt_master",
+    "brush_head_material_tskt_master",
+    "charging_time_tskt_master",
+    "function_tskt_master",
+    "high_tskt_master",
+    "horizontal_tskt_master",
+    "machine_weight_tskt_master",
+    "made_in_tskt_master",
+    "massage_head_material_tskt_master",
+    "operating_frequency_tskt_master",
+    "power_source_tskt_master",
+    "size_weight_tskt_master",
+    "skin_type_tskt_master",
+    "technology_tskt_master",
+    "treatment_head_material_tskt_master",
+    "usage_time_tskt_master",
+    "utilities_tskt_master",
+    "water_and_dust_resistant_tskt_master",
+    "wide_tskt_master"
    ],
    "ten": {
-    "output_power_tskt_master": "Công suất đầu ra",
-    "product_type_filter_master": "Loại sản phẩm",
-    "product_type_tskt_master": "Loại sản phẩm",
-    "type_of_machine_filter_master": "Loại máy"
+    "adjustment_level_tskt_master": "Mức điều chỉnh",
+    "area_of_use_tskt_master": "Vùng sử dụng",
+    "battery_capacity_tskt_master": "Dung lượng pin",
+    "brand_of_tskt_master": "Thương hiệu của",
+    "brush_head_material_tskt_master": "Chất liệu đầu rửa",
+    "charging_time_tskt_master": "Thời gian sạc",
+    "function_filter_master": "Chức năng",
+    "function_tskt_master": "Chức năng",
+    "high_tskt_master": "Cao",
+    "horizontal_tskt_master": "Ngang",
+    "machine_weight_tskt_master": "Khối lượng máy",
+    "made_in_tskt_master": "Sản xuất tại",
+    "massage_head_material_tskt_master": "Chất liệu đầu massage",
+    "operating_frequency_tskt_master": "Tần số hoạt động",
+    "power_source_tskt_master": "Nguồn điện",
+    "size_weight_tskt_master": "Kích thước Khối lượng",
+    "skin_type_filter_master": "Loại da",
+    "skin_type_tskt_master": "Dùng được cho da",
+    "technology_tskt_master": "Công nghệ",
+    "treatment_head_material_tskt_master": "Chất liệu đầu trị liệu",
+    "usage_time_tskt_master": "Thời gian sử dụng",
+    "utilities_filter_master": "Tiện ích",
+    "utilities_tskt_master": "Tiện ích",
+    "water_and_dust_resistant_tskt_master": "Chuẩn chống nước, bụi",
+    "wide_tskt_master": "Rộng"
    },
-   "ten_nh": "Dịch vụ vệ sinh, bảo dưỡng",
-   "title": "TSKT 12838 Dịch vụ vệ sinh, bảo dưỡng"
+   "ten_nh": "Máy rửa mặt",
+   "title": "TSKT 8967 Máy rửa mặt"
   }
  },
  "o_theo_ten": [],
  "tom_tat": {
-  "filter_khong_khop": 3,
-  "khong_data": 32,
+  "filter_khong_khop": 0,
+  "khong_data": 38,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
   "so_nganh": 1,
-  "so_o": 9,
-  "so_sku": 14
+  "so_o": 46,
+  "so_sku": 2
  }
 }
