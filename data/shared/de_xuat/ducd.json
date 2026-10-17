@@ -1,0 +1,36 @@
+[
+ {
+  "cate": "4929",
+  "gia_tri_cu": "Thủy tinh",
+  "gia_tri_moi": "6",
+  "id": "ducd-261017210820-350d",
+  "loai": "filter",
+  "luc": "2026-10-17 21:08:20",
+  "ly_do": "Giá trị CMS chưa có option trong DATA PIM",
+  "ma": "body_material_filter_master",
+  "nguoi": "ducd",
+  "pham_vi": "quy_doi",
+  "sku": "",
+  "sku_vd": "8801775586216",
+  "so_sku": 110,
+  "ten_cot": "Chất liệu thân vỏ",
+  "ten_nguoi": "Duccontent"
+ },
+ {
+  "cate": "4929",
+  "gia_tri_cu": "Dùng được lò nướng, lò vi sóng",
+  "gia_tri_moi": "875",
+  "id": "ducd-261017210820-9469",
+  "loai": "filter",
+  "luc": "2026-10-17 21:08:20",
+  "ly_do": "Giá trị CMS chưa có option trong DATA PIM",
+  "ma": "utilities_filter_master",
+  "nguoi": "ducd",
+  "pham_vi": "quy_doi",
+  "sku": "",
+  "sku_vd": "8801775586216",
+  "so_sku": 16,
+  "ten_cot": "Tiện ích",
+  "ten_nguoi": "Duccontent"
+ }
+]
