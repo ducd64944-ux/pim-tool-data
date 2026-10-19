@@ -1696,5 +1696,19 @@
   "Thêm đơn vị": 0,
   "Tách xin data": 0,
   "Workspace": "ducd"
+ },
+ {
+  "Biến đổi": 0,
+  "Chặn ô theo tên": 0,
+  "Cảnh báo": "• 1 SKU thiếu category_code | • 2 ô giá trị CMS bị MẤT khi map (xem 🧾 Đối soát)",
+  "File": "PIM_TSKT 1942 Tivi_MODEL_20261019_1505.xlsx",
+  "Không/Đang cập nhật": 4,
+  "Lúc": "2026-10-19 15:05:27",
+  "Người xuất": "ducd",
+  "Số dòng": 1,
+  "Sửa tay": 0,
+  "Thêm đơn vị": 2,
+  "Tách xin data": 0,
+  "Workspace": "ducd"
  }
 ]
