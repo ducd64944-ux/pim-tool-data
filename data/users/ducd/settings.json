@@ -49,6 +49,87 @@
     "pham_vi": "tat_ca"
    }
   ],
+  "10139\tdeep_tskt_master\tbd": [
+   {
+    "a": "Sâu",
+    "b": "cm",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "nguon": "bang",
+    "pham_vi": "so"
+   }
+  ],
+  "10139\tdepth_charging_station_tskt_master\tbd": [
+   {
+    "a": "Sâu",
+    "b": "cm",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "nguon": "bang",
+    "pham_vi": "so"
+   }
+  ],
+  "10139\thigh_charging_station_tskt_master\tbd": [
+   {
+    "a": "Cao",
+    "b": "cm",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "nguon": "bang",
+    "pham_vi": "so"
+   }
+  ],
+  "10139\thigh_tskt_master\tbd": [
+   {
+    "a": "Cao",
+    "b": "cm",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "nguon": "bang",
+    "pham_vi": "so"
+   }
+  ],
+  "10139\thorizontal_tskt_master\tbd": [
+   {
+    "a": "Ngang",
+    "b": "cm",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "nguon": "bang",
+    "pham_vi": "so"
+   }
+  ],
+  "10139\tmachine_weight_tskt_master\tbd": [
+   {
+    "a": "Nặng",
+    "b": "kg",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "nguon": "bang",
+    "pham_vi": "so"
+   }
+  ],
+  "10139\tmass_tskt_master\tbd": [
+   {
+    "a": "Nặng",
+    "b": "kg",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "nguon": "bang",
+    "pham_vi": "so"
+   }
+  ],
+  "10139\tobstacle_climbing_height_tskt_master": "mm",
+  "10139\twidth_charging_station_tskt_master\tbd": [
+   {
+    "a": "Ngang",
+    "b": "cm",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "nguon": "bang",
+    "pham_vi": "so"
+   }
+  ],
   "10140\tdeep_tskt_master\tbd": [
    {
     "a": "Sâu",
@@ -1595,16 +1676,6 @@
   {
    "d": {
     "dv": {
-     "10140\tthick_tskt_master\tbd": null
-    }
-   },
-   "luc": "2026-10-09 15:57:27",
-   "nhan": "Áp đơn vị hàng loạt",
-   "so": 1
-  },
-  {
-   "d": {
-    "dv": {
      "2402\tthick_tskt_master": null
     }
    },
@@ -1798,9 +1869,27 @@
    "luc": "2026-10-17 15:02:16",
    "nhan": "Áp đơn vị hàng loạt",
    "so": 4
+  },
+  {
+   "d": {
+    "dv": {
+     "10139\tdeep_tskt_master\tbd": null,
+     "10139\tdepth_charging_station_tskt_master\tbd": null,
+     "10139\thigh_charging_station_tskt_master\tbd": null,
+     "10139\thigh_tskt_master\tbd": null,
+     "10139\thorizontal_tskt_master\tbd": null,
+     "10139\tmachine_weight_tskt_master\tbd": null,
+     "10139\tmass_tskt_master\tbd": null,
+     "10139\tobstacle_climbing_height_tskt_master": null,
+     "10139\twidth_charging_station_tskt_master\tbd": null
+    }
+   },
+   "luc": "2026-10-19 09:39:15",
+   "nhan": "Áp đơn vị hàng loạt",
+   "so": 9
   }
  ],
- "luc_luu": "2026-10-19 09:35:59",
+ "luc_luu": "2026-10-19 09:39:15",
  "nguoi_luu": "ducd",
  "rong": {
   "-": [
