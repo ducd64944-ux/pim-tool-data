@@ -1668,5 +1668,19 @@
   "Thêm đơn vị": 0,
   "Tách xin data": 0,
   "Workspace": "ducd"
+ },
+ {
+  "Biến đổi": 8,
+  "Chặn ô theo tên": 0,
+  "Cảnh báo": "• 4 SKU thiếu category_code | • 8 ô kích thước/khối lượng chưa có đơn vị | • 4 dòng không có trong file PIM | • 1 ô giá trị CMS bị MẤT khi map (xem 🧾 Đối soát)",
+  "File": "PIM_TSKT 2202 Máy sấy quần áo_MODEL_20261019_1329.xlsx, PIM_TSKT 166 Tủ đông, tủ mát_MODEL_20261019_1329.xlsx, PIM_TSKT 1944 máy giặt_MODEL_20261019_1329.xlsx",
+  "Không/Đang cập nhật": 27,
+  "Lúc": "2026-10-19 13:30:00",
+  "Người xuất": "ducd",
+  "Số dòng": 4,
+  "Sửa tay": 0,
+  "Thêm đơn vị": 0,
+  "Tách xin data": 0,
+  "Workspace": "ducd"
  }
 ]
