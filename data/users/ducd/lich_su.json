@@ -1640,5 +1640,19 @@
   "Thêm đơn vị": 0,
   "Tách xin data": 0,
   "Workspace": "ducd"
+ },
+ {
+  "Biến đổi": 28,
+  "Chặn ô theo tên": 0,
+  "Cảnh báo": "• 4 SKU thiếu model_code | • 4 dòng không có trong file PIM",
+  "File": "PIM_TSKT 10139 Robot hút bụi_BIENTHE_20261019_0940.xlsx",
+  "Không/Đang cập nhật": 6,
+  "Lúc": "2026-10-19 09:40:39",
+  "Người xuất": "ducd",
+  "Số dòng": 4,
+  "Sửa tay": 3,
+  "Thêm đơn vị": 3,
+  "Tách xin data": 0,
+  "Workspace": "ducd"
  }
 ]
