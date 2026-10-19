@@ -1676,16 +1676,6 @@
   {
    "d": {
     "dv": {
-     "2402\tthick_tskt_master": null
-    }
-   },
-   "luc": "2026-10-09 16:28:38",
-   "nhan": "Áp đơn vị hàng loạt",
-   "so": 1
-  },
-  {
-   "d": {
-    "dv": {
      "10140\tdeep_tskt_master\tbd": null,
      "10140\thigh_tskt_master\tbd": null,
      "10140\thorizontal_tskt_master\tbd": null,
@@ -1887,9 +1877,21 @@
    "luc": "2026-10-19 09:39:15",
    "nhan": "Áp đơn vị hàng loạt",
    "so": 9
+  },
+  {
+   "d": {
+    "sua": {
+     "10139\t4844439000100\tautomatic_mop_lifting_tskt_master": null,
+     "10139\t4844439000108\tautomatic_mop_lifting_tskt_master": null,
+     "10139\t4844439000109\tautomatic_mop_lifting_tskt_master": null
+    }
+   },
+   "luc": "2026-10-19 09:40:24",
+   "nhan": "Kiểm tra nhanh: sửa 3 ô",
+   "so": 3
   }
  ],
- "luc_luu": "2026-10-19 09:39:48",
+ "luc_luu": "2026-10-19 09:40:24",
  "nguoi_luu": "ducd",
  "rong": {
   "-": [
@@ -1913,5 +1915,9 @@
    ""
   ]
  },
- "sua": {}
+ "sua": {
+  "10139\t4844439000100\tautomatic_mop_lifting_tskt_master": "7 mm",
+  "10139\t4844439000108\tautomatic_mop_lifting_tskt_master": "10 mm",
+  "10139\t4844439000109\tautomatic_mop_lifting_tskt_master": "10 mm"
+ }
 }
