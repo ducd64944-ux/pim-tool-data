@@ -449,6 +449,46 @@
     "pham_vi": "tat_ca"
    }
   ],
+  "166\tdeep_tskt_master\tbd": [
+   {
+    "a": "Sâu",
+    "b": "cm",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "nguon": "bang",
+    "pham_vi": "so"
+   }
+  ],
+  "166\thigh_tskt_master\tbd": [
+   {
+    "a": "Cao",
+    "b": "cm",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "nguon": "bang",
+    "pham_vi": "so"
+   }
+  ],
+  "166\thorizontal_tskt_master\tbd": [
+   {
+    "a": "Ngang",
+    "b": "cm",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "nguon": "bang",
+    "pham_vi": "so"
+   }
+  ],
+  "166\tmachine_weight_tskt_master\tbd": [
+   {
+    "a": "Nặng",
+    "b": "kg",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "nguon": "bang",
+    "pham_vi": "so"
+   }
+  ],
   "1922\tdeep_tskt_master\tbd": [
    {
     "a": "Sâu",
@@ -523,6 +563,46 @@
    }
   ],
   "1943\tmachine_weight_tskt_master\tbd": [
+   {
+    "a": "Nặng",
+    "b": "kg",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "nguon": "bang",
+    "pham_vi": "so"
+   }
+  ],
+  "1944\tdeep_tskt_master\tbd": [
+   {
+    "a": "Sâu",
+    "b": "cm",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "nguon": "bang",
+    "pham_vi": "so"
+   }
+  ],
+  "1944\thigh_tskt_master\tbd": [
+   {
+    "a": "Cao",
+    "b": "cm",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "nguon": "bang",
+    "pham_vi": "so"
+   }
+  ],
+  "1944\thorizontal_tskt_master\tbd": [
+   {
+    "a": "Ngang",
+    "b": "cm",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "nguon": "bang",
+    "pham_vi": "so"
+   }
+  ],
+  "1944\tmachine_weight_tskt_master\tbd": [
    {
     "a": "Nặng",
     "b": "kg",
@@ -1796,20 +1876,6 @@
   {
    "d": {
     "dv": {
-     "1922\tdeep_tskt_master\tbd": null,
-     "1922\thigh_tskt_master\tbd": null,
-     "1922\thorizontal_tskt_master\tbd": null,
-     "1922\tlong_cord_tskt_master": null,
-     "1922\tmachine_weight_tskt_master\tbd": null
-    }
-   },
-   "luc": "2026-10-09 17:16:39",
-   "nhan": "Áp đơn vị hàng loạt",
-   "so": 5
-  },
-  {
-   "d": {
-    "dv": {
      "1992\tfan_diameter_tskt_master": null
     }
    },
@@ -2017,9 +2083,26 @@
    "luc": "2026-10-19 10:47:14",
    "nhan": "Áp đơn vị hàng loạt",
    "so": 12
+  },
+  {
+   "d": {
+    "dv": {
+     "166\tdeep_tskt_master\tbd": null,
+     "166\thigh_tskt_master\tbd": null,
+     "166\thorizontal_tskt_master\tbd": null,
+     "166\tmachine_weight_tskt_master\tbd": null,
+     "1944\tdeep_tskt_master\tbd": null,
+     "1944\thigh_tskt_master\tbd": null,
+     "1944\thorizontal_tskt_master\tbd": null,
+     "1944\tmachine_weight_tskt_master\tbd": null
+    }
+   },
+   "luc": "2026-10-19 13:28:39",
+   "nhan": "Áp đơn vị hàng loạt",
+   "so": 8
   }
  ],
- "luc_luu": "2026-10-19 13:27:08",
+ "luc_luu": "2026-10-19 13:28:39",
  "nguoi_luu": "ducd",
  "rong": {
   "-": [
