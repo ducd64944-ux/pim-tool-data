@@ -796,5 +796,19 @@
   "Thêm đơn vị": 13,
   "Tách xin data": 0,
   "Workspace": "ducpro"
+ },
+ {
+  "Biến đổi": 12,
+  "Chặn ô theo tên": 0,
+  "Cảnh báo": "• 3 SKU thiếu category_code | • 3 ô giá trị CMS bị MẤT khi map (xem 🧾 Đối soát)",
+  "File": "PIM_TSKT 1944 máy giặt_MODEL_20261019_1553.xlsx",
+  "Không/Đang cập nhật": 16,
+  "Lúc": "2026-10-19 15:53:30",
+  "Người xuất": "ducpro",
+  "Số dòng": 3,
+  "Sửa tay": 0,
+  "Thêm đơn vị": 0,
+  "Tách xin data": 0,
+  "Workspace": "ducpro"
  }
 ]
