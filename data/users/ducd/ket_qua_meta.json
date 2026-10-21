@@ -5,7 +5,7 @@
    "GHI CHÚ": "",
    "MÃ NH": "1944",
    "NGUỒN CATE": "CATEGORYID",
-   "SỐ SKU": 1461,
+   "SỐ SKU": 1471,
    "TAB TSKT / CẤU HÌNH": "tab TSKT 1944 Máy giặt + cấu hình",
    "TÊN NGÀNH HÀNG": "Máy giặt"
   }
@@ -25,7 +25,7 @@
    "goi_y_ma": "",
    "prop_id": "7987",
    "prop_name": "Inverter",
-   "so_dong": 1233,
+   "so_dong": 1243,
    "trang_thai": "CHƯA MAP — bỏ qua",
    "vi_du": "Không"
   },
@@ -34,7 +34,7 @@
    "goi_y_ma": "",
    "prop_id": "8943",
    "prop_name": "Lựa chọn",
-   "so_dong": 1116,
+   "so_dong": 1126,
    "trang_thai": "CHƯA MAP — bỏ qua",
    "vi_du": "7 KG"
   },
@@ -43,7 +43,7 @@
    "goi_y_ma": "",
    "prop_id": "26091",
    "prop_name": "Label đại diện",
-   "so_dong": 719,
+   "so_dong": 729,
    "trang_thai": "CHƯA MAP — bỏ qua",
    "vi_du": "Đang cập nhật"
   },
@@ -52,7 +52,7 @@
    "goi_y_ma": "",
    "prop_id": "27304",
    "prop_name": "Tên máy giặt",
-   "so_dong": 687,
+   "so_dong": 697,
    "trang_thai": "CHƯA MAP — bỏ qua",
    "vi_du": "Đang cập nhật"
   },
@@ -61,7 +61,7 @@
    "goi_y_ma": "",
    "prop_id": "39758",
    "prop_name": "Map mua kèm chân đế",
-   "so_dong": 1257,
+   "so_dong": 1268,
    "trang_thai": "CHƯA MAP — bỏ qua",
    "vi_du": "Đang cập nhật"
   },
@@ -70,7 +70,7 @@
    "goi_y_ma": "",
    "prop_id": "45278",
    "prop_name": "Map mua kèm máy sấy",
-   "so_dong": 347,
+   "so_dong": 356,
    "trang_thai": "CHƯA MAP — bỏ qua",
    "vi_du": "Hãng khác (không phải các hãng Samsung,LG, Electrolux, Aqua, Toshiba, Haier)"
   },
@@ -79,7 +79,7 @@
    "goi_y_ma": "",
    "prop_id": "45300",
    "prop_name": "Map mua kèm máy rửa chén",
-   "so_dong": 347,
+   "so_dong": 356,
    "trang_thai": "CHƯA MAP — bỏ qua",
    "vi_du": "Hãng"
   },
@@ -97,73 +97,13 @@
  "goc_cms": {},
  "log": [
   [
-   "1751099000225",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1751099000268",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1751099000269",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1751099000265",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1751099000266",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1751099000271",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1751099000272",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1751099000273",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1751099000274",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
-   "1751099000275",
-   "",
-   "",
-   "Không có dòng nào trong DATA SP"
-  ],
-  [
    "1751099000267",
+   "0",
    "",
-   "",
-   "Không có dòng nào trong DATA SP"
+   "CATEGORYID không tồn tại trong mapping — bỏ qua SKU"
   ]
  ],
- "luc": "2026-10-21 14:44:18",
+ "luc": "2026-10-21 14:48:16",
  "nganh": {
   "1944": {
    "attr": [
@@ -241,11 +181,11 @@
  "o_theo_ten": [],
  "tom_tat": {
   "filter_khong_khop": 0,
-  "khong_data": 11,
+  "khong_data": 1,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
   "so_nganh": 1,
-  "so_o": 30541,
-  "so_sku": 1461
+  "so_o": 30841,
+  "so_sku": 1471
  }
 }
