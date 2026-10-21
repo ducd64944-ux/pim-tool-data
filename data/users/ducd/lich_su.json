@@ -1766,5 +1766,19 @@
   "Thêm đơn vị": 1053,
   "Tách xin data": 2,
   "Workspace": "ducd"
+ },
+ {
+  "Biến đổi": 0,
+  "Chặn ô theo tên": 0,
+  "Cảnh báo": "• 1 SKU thiếu category_code | • 1 dòng không có trong file PIM",
+  "File": "PIM_TSKT 44 Laptop_MODEL_20261021_2041.xlsx",
+  "Không/Đang cập nhật": 6,
+  "Lúc": "2026-10-21 20:41:39",
+  "Người xuất": "ducd",
+  "Số dòng": 1,
+  "Sửa tay": 4,
+  "Thêm đơn vị": 0,
+  "Tách xin data": 0,
+  "Workspace": "ducd"
  }
 ]
