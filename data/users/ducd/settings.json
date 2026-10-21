@@ -1919,19 +1919,6 @@
   {
    "d": {
     "dv": {
-     "1991\thigh_tskt_master\tbd": null,
-     "1991\thorizontal_tskt_master\tbd": null,
-     "1991\tlong_cord_tskt_master": null,
-     "1991\tmass_tskt_master\tbd": null
-    }
-   },
-   "luc": "2026-10-10 14:02:59",
-   "nhan": "Áp đơn vị hàng loạt",
-   "so": 4
-  },
-  {
-   "d": {
-    "dv": {
      "5474\tdeep_tskt_master\tbd": null,
      "5474\thigh_tskt_master\tbd": null,
      "5474\thorizontal_tskt_master\tbd": null,
@@ -2142,9 +2129,22 @@
    "luc": "2026-10-21 20:40:09",
    "nhan": "Áp đơn vị hàng loạt",
    "so": 4
+  },
+  {
+   "d": {
+    "sua": {
+     "44\t0220042004136\tlong_tskt_master": null,
+     "44\t0220042004136\tmachine_weight_tskt_master": null,
+     "44\t0220042004136\tthick_tskt_master": null,
+     "44\t0220042004136\twide_tskt_master": null
+    }
+   },
+   "luc": "2026-10-21 20:41:31",
+   "nhan": "Kiểm tra nhanh: sửa 4 ô",
+   "so": 4
   }
  ],
- "luc_luu": "2026-10-21 20:40:09",
+ "luc_luu": "2026-10-21 20:41:31",
  "nguoi_luu": "ducd",
  "rong": {
   "-": [
@@ -2168,5 +2168,10 @@
    ""
   ]
  },
- "sua": {}
+ "sua": {
+  "44\t0220042004136\tlong_tskt_master": "Dài 313.4 mm",
+  "44\t0220042004136\tmachine_weight_tskt_master": "Nặng 1.39 kg",
+  "44\t0220042004136\tthick_tskt_master": "Dày 16.9 mm",
+  "44\t0220042004136\twide_tskt_master": "Rộng 222 mm"
+ }
 }
