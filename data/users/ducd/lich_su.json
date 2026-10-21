@@ -1710,5 +1710,19 @@
   "Thêm đơn vị": 2,
   "Tách xin data": 0,
   "Workspace": "ducd"
+ },
+ {
+  "Biến đổi": 2539,
+  "Chặn ô theo tên": 0,
+  "Cảnh báo": "• 39 ô KHÁC spec PIM (sẽ ghi đè) | • 30 ô tool để trống trong khi PIM đang có | • 1,043 ô kích thước/khối lượng chưa có đơn vị | • 476 dòng không có trong file PIM | • 2 SKU KHÔNG có thông số nào (sẽ xuất dòng trống)",
+  "File": "PIM_TSKT 1944 Máy giặt_CHI_TSKT_MODEL_20261021_1029.xlsx, PIM_TSKT 1944 Máy giặt_CHI_TSKT_BIENTHE_20261021_1029.xlsx",
+  "Không/Đang cập nhật": 2532,
+  "Lúc": "2026-10-21 10:29:33",
+  "Người xuất": "ducd",
+  "Số dòng": 1459,
+  "Sửa tay": 0,
+  "Thêm đơn vị": 0,
+  "Tách xin data": 2,
+  "Workspace": "ducd"
  }
 ]
