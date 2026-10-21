@@ -163,7 +163,7 @@
    "Không có dòng nào trong DATA SP"
   ]
  ],
- "luc": "2026-10-21 10:26:58",
+ "luc": "2026-10-21 10:28:30",
  "nganh": {
   "1944": {
    "attr": [
@@ -226,7 +226,6 @@
     "product_type_tskt_master": "Loại sản phẩm",
     "programme_tskt_master": "Chương trình",
     "quantity_tskt_master": "Số lượng",
-    "release_date_tskt_master": "Thời gian ra mắt",
     "surface_material_tskt_master": "Chất liệu mặt",
     "technology_tskt_master": "Công nghệ",
     "usage_time_tskt_master": "Thời gian sử dụng",
@@ -246,7 +245,7 @@
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
   "so_nganh": 1,
-  "so_o": 29128,
+  "so_o": 30541,
   "so_sku": 1461
  }
 }
