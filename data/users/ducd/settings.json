@@ -615,6 +615,46 @@
    }
   ],
   "1944\twashing_capacity_tskt_master": "kg",
+  "1962\thigh_tskt_master\tbd": [
+   {
+    "a": "Cao",
+    "b": "cm",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "nguon": "bang",
+    "pham_vi": "so"
+   }
+  ],
+  "1962\tmachine_weight_tskt_master\tbd": [
+   {
+    "a": "Nặng",
+    "b": "kg",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "nguon": "bang",
+    "pham_vi": "so"
+   }
+  ],
+  "1962\tthick_tskt_master\tbd": [
+   {
+    "a": "Dày",
+    "b": "cm",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "nguon": "bang",
+    "pham_vi": "so"
+   }
+  ],
+  "1962\twide_tskt_master\tbd": [
+   {
+    "a": "Rộng",
+    "b": "cm",
+    "he_so": "",
+    "kieu": "ca_hai",
+    "nguon": "bang",
+    "pham_vi": "so"
+   }
+  ],
   "1982\thigh_tskt_master\tbd": [
    {
     "a": "Cao",
@@ -1919,19 +1959,6 @@
   {
    "d": {
     "dv": {
-     "5474\tdeep_tskt_master\tbd": null,
-     "5474\thigh_tskt_master\tbd": null,
-     "5474\thorizontal_tskt_master\tbd": null,
-     "5474\tmachine_weight_tskt_master\tbd": null
-    }
-   },
-   "luc": "2026-10-10 14:09:30",
-   "nhan": "Áp đơn vị hàng loạt",
-   "so": 4
-  },
-  {
-   "d": {
-    "dv": {
      "3385\tdeep_tskt_master\tbd": null,
      "3385\thigh_tskt_master\tbd": null,
      "3385\thorizontal_tskt_master\tbd": null,
@@ -2142,9 +2169,22 @@
    "luc": "2026-10-21 20:41:31",
    "nhan": "Kiểm tra nhanh: sửa 4 ô",
    "so": 4
+  },
+  {
+   "d": {
+    "dv": {
+     "1962\thigh_tskt_master\tbd": null,
+     "1962\tmachine_weight_tskt_master\tbd": null,
+     "1962\tthick_tskt_master\tbd": null,
+     "1962\twide_tskt_master\tbd": null
+    }
+   },
+   "luc": "2026-10-22 15:45:23",
+   "nhan": "Áp đơn vị hàng loạt",
+   "so": 4
   }
  ],
- "luc_luu": "2026-10-22 15:44:45",
+ "luc_luu": "2026-10-22 15:45:23",
  "nguoi_luu": "ducd",
  "rong": {
   "-": [
