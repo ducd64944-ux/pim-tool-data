@@ -1959,19 +1959,6 @@
   {
    "d": {
     "dv": {
-     "3385\tdeep_tskt_master\tbd": null,
-     "3385\thigh_tskt_master\tbd": null,
-     "3385\thorizontal_tskt_master\tbd": null,
-     "3385\tmachine_weight_tskt_master\tbd": null
-    }
-   },
-   "luc": "2026-10-11 20:09:41",
-   "nhan": "Áp đơn vị hàng loạt",
-   "so": 4
-  },
-  {
-   "d": {
-    "dv": {
      "1982\thigh_tskt_master\tbd": null,
      "1982\thorizontal_installation_tskt_master\tbd": null,
      "1982\thorizontal_tskt_master\tbd": null,
@@ -2182,9 +2169,22 @@
    "luc": "2026-10-22 15:45:23",
    "nhan": "Áp đơn vị hàng loạt",
    "so": 4
+  },
+  {
+   "d": {
+    "sua": {
+     "44\t0220042004136\tlong_tskt_master": "Dài 313.4 mm",
+     "44\t0220042004136\tmachine_weight_tskt_master": "Nặng 1.39 kg",
+     "44\t0220042004136\tthick_tskt_master": "Dày 16.9 mm",
+     "44\t0220042004136\twide_tskt_master": "Rộng 222 mm"
+    }
+   },
+   "luc": "2026-10-23 14:45:24",
+   "nhan": "Làm mới lô: xoá IMPORT, DATA SP, kết quả map, sửa tay, spec cũ",
+   "so": 4
   }
  ],
- "luc_luu": "2026-10-22 15:45:53",
+ "luc_luu": "2026-10-23 14:45:24",
  "nguoi_luu": "ducd",
  "rong": {
   "-": [
@@ -2208,10 +2208,5 @@
    ""
   ]
  },
- "sua": {
-  "44\t0220042004136\tlong_tskt_master": "Dài 313.4 mm",
-  "44\t0220042004136\tmachine_weight_tskt_master": "Nặng 1.39 kg",
-  "44\t0220042004136\tthick_tskt_master": "Dày 16.9 mm",
-  "44\t0220042004136\twide_tskt_master": "Rộng 222 mm"
- }
+ "sua": {}
 }
