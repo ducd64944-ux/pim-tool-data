@@ -1864,5 +1864,19 @@
   "Thêm đơn vị": 0,
   "Tách xin data": 0,
   "Workspace": "ducd"
+ },
+ {
+  "Biến đổi": 0,
+  "Chặn ô theo tên": 0,
+  "Cảnh báo": "• 18 SKU thiếu category_code",
+  "File": "PIM_TSKT 14558 phụ kiện máy hút mùi_MODEL_20261028_1425.xlsx, PIM_TSKT 14560 Phụ kiện máy nước nó_MODEL_20261028_1425.xlsx, PIM_TSKT 14561 Phụ kiện bếp ga_MODEL_20261028_1425.xlsx",
+  "Không/Đang cập nhật": 50,
+  "Lúc": "2026-10-28 14:25:27",
+  "Người xuất": "ducd",
+  "Số dòng": 18,
+  "Sửa tay": 0,
+  "Thêm đơn vị": 0,
+  "Tách xin data": 0,
+  "Workspace": "ducd"
  }
 ]
