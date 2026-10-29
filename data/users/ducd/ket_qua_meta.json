@@ -3,130 +3,154 @@
   {
    "CHỌN": true,
    "GHI CHÚ": "",
-   "MÃ NH": "14558",
+   "MÃ NH": "1944",
    "NGUỒN CATE": "CATEGORYID",
-   "SỐ SKU": 8,
-   "TAB TSKT / CẤU HÌNH": "cấu hình — 11 cột",
-   "TÊN NGÀNH HÀNG": "phụ kiện máy hút mùi"
-  },
-  {
-   "CHỌN": true,
-   "GHI CHÚ": "",
-   "MÃ NH": "14560",
-   "NGUỒN CATE": "CATEGORYID",
-   "SỐ SKU": 5,
-   "TAB TSKT / CẤU HÌNH": "cấu hình — 11 cột",
-   "TÊN NGÀNH HÀNG": "Phụ kiện máy nước nóng"
-  },
-  {
-   "CHỌN": true,
-   "GHI CHÚ": "",
-   "MÃ NH": "14561",
-   "NGUỒN CATE": "CATEGORYID",
-   "SỐ SKU": 5,
-   "TAB TSKT / CẤU HÌNH": "cấu hình — 13 cột",
-   "TÊN NGÀNH HÀNG": "Phụ kiện bếp ga"
+   "SỐ SKU": 2,
+   "TAB TSKT / CẤU HÌNH": "tab TSKT 1944 Máy giặt + cấu hình",
+   "TÊN NGÀNH HÀNG": "Máy giặt"
   }
  ],
- "chua_map": [],
+ "chua_map": [
+  {
+   "cate": "1944",
+   "goi_y_ma": "",
+   "prop_id": "7987",
+   "prop_name": "Inverter",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Công nghệ DD Inverter"
+  },
+  {
+   "cate": "1944",
+   "goi_y_ma": "",
+   "prop_id": "8943",
+   "prop_name": "Lựa chọn",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "9 KG"
+  },
+  {
+   "cate": "1944",
+   "goi_y_ma": "",
+   "prop_id": "26091",
+   "prop_name": "Label đại diện",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Đang cập nhật"
+  },
+  {
+   "cate": "1944",
+   "goi_y_ma": "",
+   "prop_id": "27304",
+   "prop_name": "Tên máy giặt",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Đang cập nhật"
+  },
+  {
+   "cate": "1944",
+   "goi_y_ma": "",
+   "prop_id": "39758",
+   "prop_name": "Map mua kèm chân đế",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Đang cập nhật"
+  },
+  {
+   "cate": "1944",
+   "goi_y_ma": "",
+   "prop_id": "45278",
+   "prop_name": "Map mua kèm máy sấy",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Hãng khác (không phải các hãng Samsung,LG, Electrolux, Aqua, Toshiba, Haier)"
+  },
+  {
+   "cate": "1944",
+   "goi_y_ma": "",
+   "prop_id": "45300",
+   "prop_name": "Map mua kèm máy rửa chén",
+   "so_dong": 2,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Hãng"
+  }
+ ],
  "dx_dang_ap": 0,
  "goc_cms": {},
  "log": [],
- "luc": "2026-10-28 14:24:13",
+ "luc": "2026-10-29 15:46:13",
  "nganh": {
-  "14558": {
+  "1944": {
    "attr": [
-    "brand_of_tskt_master",
-    "cleaning_replacement_cycle_tskt_master",
-    "compatibility_tskt_master",
-    "diameter_tskt_master",
-    "length_tskt_master",
+    "main_load_filter_master",
+    "product_type_filter_master",
+    "utilities_filter_master",
+    "body_material_tskt_master",
+    "control_panel_tskt_master",
+    "deep_tskt_master",
+    "door_material_tskt_master",
+    "drying_technology_tskt_master",
+    "electricity_consumption_tskt_master",
+    "engine_tskt_master",
+    "engine_warranty_tskt_master",
+    "high_tskt_master",
+    "horizontal_tskt_master",
+    "inner_material_tskt_master",
+    "inverter_type_tskt_master",
+    "launch_year_tskt_master",
+    "long_drain_pipe_tskt_master",
+    "long_water_supply_pipe_tskt_master",
+    "machine_weight_tskt_master",
     "made_in_tskt_master",
-    "manufacturer_tskt_master",
-    "material_tskt_master",
+    "main_load_tskt_master",
+    "maximum_spin_speed_tskt_master",
+    "number_of_users_tskt_master",
     "product_type_tskt_master",
+    "programme_tskt_master",
     "quantity_tskt_master",
-    "size_tskt_master"
+    "surface_material_tskt_master",
+    "technology_tskt_master",
+    "usage_time_tskt_master",
+    "utilities_tskt_master",
+    "washing_capacity_tskt_master",
+    "washing_drum_tskt_master"
    ],
    "ten": {
-    "brand_of_tskt_master": "Thương hiệu của",
-    "cleaning_replacement_cycle_tskt_master": "Chu kỳ vệ sinh, thay thế",
-    "compatibility_tskt_master": "Tương thích",
-    "diameter_tskt_master": "Đường kính",
-    "length_tskt_master": "Độ dài",
+    "body_material_tskt_master": "Chất liệu thân vỏ",
+    "control_panel_tskt_master": "Bảng điều khiển",
+    "deep_tskt_master": "Sâu",
+    "door_material_tskt_master": "Chất liệu cửa",
+    "drying_technology_tskt_master": "Công nghệ sấy",
+    "electricity_consumption_tskt_master": "Điện năng tiêu thụ",
+    "engine_tskt_master": "Động cơ",
+    "engine_warranty_tskt_master": "Bảo hành động cơ",
+    "high_tskt_master": "Cao",
+    "horizontal_tskt_master": "Ngang",
+    "inner_material_tskt_master": "Chất liệu ruột",
+    "inverter_type_tskt_master": "Loại Inverter",
+    "launch_year_tskt_master": "Năm ra mắt",
+    "long_drain_pipe_tskt_master": "Dài ống xả nước",
+    "long_water_supply_pipe_tskt_master": "Dài ống cấp nước",
+    "machine_weight_tskt_master": "Khối lượng máy",
     "made_in_tskt_master": "Sản xuất tại",
-    "manufacturer_tskt_master": "Hãng sản xuất",
-    "material_tskt_master": "Chất liệu",
+    "main_load_filter_master": "Khối lượng tải chính",
+    "main_load_tskt_master": "Khối lượng tải chính",
+    "maximum_spin_speed_tskt_master": "Tốc độ quay vắt tối đa",
+    "number_of_users_tskt_master": "Số người sử dụng",
+    "product_type_filter_master": "Loại sản phẩm",
     "product_type_tskt_master": "Loại sản phẩm",
+    "programme_tskt_master": "Chương trình",
     "quantity_tskt_master": "Số lượng",
-    "size_tskt_master": "Kích thước"
+    "surface_material_tskt_master": "Chất liệu mặt",
+    "technology_tskt_master": "Công nghệ",
+    "usage_time_tskt_master": "Thời gian sử dụng",
+    "utilities_filter_master": "Tiện ích",
+    "utilities_tskt_master": "Tiện ích",
+    "washing_capacity_tskt_master": "Khối lượng giặt",
+    "washing_drum_tskt_master": "Lồng giặt"
    },
-   "ten_nh": "phụ kiện máy hút mùi",
-   "title": "TSKT 14558 phụ kiện máy hút mùi"
-  },
-  "14560": {
-   "attr": [
-    "brand_of_tskt_master",
-    "compatibility_tskt_master",
-    "compatible_tank_capacity_tskt_master",
-    "made_in_tskt_master",
-    "material_tskt_master",
-    "operating_temperature_tskt_master",
-    "product_type_tskt_master",
-    "replacement_cycle_tskt_master",
-    "size_tskt_master",
-    "thread_diameter_tskt_master",
-    "working_pressure_tskt_master"
-   ],
-   "ten": {
-    "brand_of_tskt_master": "Thương hiệu của",
-    "compatibility_tskt_master": "Tương thích",
-    "compatible_tank_capacity_tskt_master": "Dung tích bình tương thích",
-    "made_in_tskt_master": "Sản xuất tại",
-    "material_tskt_master": "Chất liệu",
-    "operating_temperature_tskt_master": "Nhiệt độ hoạt động",
-    "product_type_tskt_master": "Loại sản phẩm",
-    "replacement_cycle_tskt_master": "Chu kỳ thay thế",
-    "size_tskt_master": "Kích thước",
-    "thread_diameter_tskt_master": "Đường kính ren / Cỡ kết nối",
-    "working_pressure_tskt_master": "Áp suất làm việc"
-   },
-   "ten_nh": "Phụ kiện máy nước nóng",
-   "title": "TSKT 14560 Phụ kiện máy nước nóng"
-  },
-  "14561": {
-   "attr": [
-    "brand_of_tskt_master",
-    "compatible_gas_tank_type_tskt_master",
-    "connector_diameter_tskt_master",
-    "input_pressure_tskt_master",
-    "made_in_tskt_master",
-    "manufacturer_tskt_master",
-    "material_tskt_master",
-    "max_gas_flow_rate_tskt_master",
-    "output_pressure_tskt_master",
-    "product_type_tskt_master",
-    "replacement_cycle_tskt_master",
-    "safety_features_tskt_master",
-    "wire_length_tskt_master"
-   ],
-   "ten": {
-    "brand_of_tskt_master": "Thương hiệu của",
-    "compatible_gas_tank_type_tskt_master": "Loại bình gas tương thích",
-    "connector_diameter_tskt_master": "Đường kính đầu nối",
-    "input_pressure_tskt_master": "Áp suất đầu vào",
-    "made_in_tskt_master": "Sản xuất tại",
-    "manufacturer_tskt_master": "Hãng sản xuất",
-    "material_tskt_master": "Chất liệu",
-    "max_gas_flow_rate_tskt_master": "Lưu lượng gas tối đa",
-    "output_pressure_tskt_master": "Áp suất đầu ra",
-    "product_type_tskt_master": "Loại sản phẩm",
-    "replacement_cycle_tskt_master": "Chu kỳ thay thế",
-    "safety_features_tskt_master": "Tính năng an toàn",
-    "wire_length_tskt_master": "Chiều dài dây"
-   },
-   "ten_nh": "Phụ kiện bếp ga",
-   "title": "TSKT 14561 Phụ kiện bếp ga"
+   "ten_nh": "Máy giặt",
+   "title": "TSKT 1944 Máy giặt"
   }
  },
  "o_theo_ten": [],
@@ -135,8 +159,8 @@
   "khong_data": 0,
   "map_theo_ten": 0,
   "o_sua_theo_quy_tac": 0,
-  "so_nganh": 3,
-  "so_o": 169,
-  "so_sku": 18
+  "so_nganh": 1,
+  "so_o": 59,
+  "so_sku": 2
  }
 }
