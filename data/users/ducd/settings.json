@@ -1958,21 +1958,6 @@
  "hoan_tac": [
   {
    "d": {
-    "dv": {
-     "1982\thigh_tskt_master\tbd": null,
-     "1982\thorizontal_installation_tskt_master\tbd": null,
-     "1982\thorizontal_tskt_master\tbd": null,
-     "1982\tlong_cord_tskt_master": null,
-     "1982\tmachine_weight_tskt_master\tbd": null,
-     "1982\tvertical_tskt_master\tbd": null
-    }
-   },
-   "luc": "2026-10-11 20:24:34",
-   "nhan": "Áp đơn vị hàng loạt",
-   "so": 6
-  },
-  {
-   "d": {
     "sua": {
      "1982\t1213779000500\thigh_tskt_master": null,
      "1982\t1213779000500\thorizontal_tskt_master": null,
@@ -2182,9 +2167,19 @@
    "luc": "2026-10-23 14:45:24",
    "nhan": "Làm mới lô: xoá IMPORT, DATA SP, kết quả map, sửa tay, spec cũ",
    "so": 4
+  },
+  {
+   "d": {
+    "sua": {
+     "1944\t1751099000264\tmachine_weight_tskt_master": null
+    }
+   },
+   "luc": "2026-10-29 15:46:46",
+   "nhan": "Kiểm tra nhanh: sửa 1 ô",
+   "so": 1
   }
  ],
- "luc_luu": "2026-10-29 15:46:13",
+ "luc_luu": "2026-10-29 15:46:46",
  "nguoi_luu": "ducd",
  "rong": {
   "-": [
@@ -2208,5 +2203,7 @@
    ""
   ]
  },
- "sua": {}
+ "sua": {
+  "1944\t1751099000264\tmachine_weight_tskt_master": "Nặng 44 kg"
+ }
 }
