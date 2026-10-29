@@ -1878,5 +1878,19 @@
   "Thêm đơn vị": 0,
   "Tách xin data": 0,
   "Workspace": "ducd"
+ },
+ {
+  "Biến đổi": 7,
+  "Chặn ô theo tên": 0,
+  "Cảnh báo": "• 2 SKU thiếu category_code",
+  "File": "PIM_TSKT 1944 Máy giặt_MODEL_20261029_1546.xlsx",
+  "Không/Đang cập nhật": 9,
+  "Lúc": "2026-10-29 15:46:52",
+  "Người xuất": "ducd",
+  "Số dòng": 2,
+  "Sửa tay": 1,
+  "Thêm đơn vị": 3,
+  "Tách xin data": 0,
+  "Workspace": "ducd"
  }
 ]
