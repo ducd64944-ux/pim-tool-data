@@ -1892,5 +1892,19 @@
   "Thêm đơn vị": 3,
   "Tách xin data": 0,
   "Workspace": "ducd"
+ },
+ {
+  "Biến đổi": 12,
+  "Chặn ô theo tên": 0,
+  "Cảnh báo": "• 3 SKU thiếu category_code | • 3 ô giá trị CMS bị MẤT khi map (xem 🧾 Đối soát)",
+  "File": "PIM_TSKT 166 Tủ đông, tủ mát_MODEL_20261030_1636.xlsx",
+  "Không/Đang cập nhật": 12,
+  "Lúc": "2026-10-30 16:36:25",
+  "Người xuất": "ducd",
+  "Số dòng": 3,
+  "Sửa tay": 0,
+  "Thêm đơn vị": 0,
+  "Tách xin data": 0,
+  "Workspace": "ducd"
  }
 ]
