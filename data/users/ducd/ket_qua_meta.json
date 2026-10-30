@@ -1,1 +1,133 @@
-{}
+{
+ "chon": [
+  {
+   "CHỌN": true,
+   "GHI CHÚ": "",
+   "MÃ NH": "166",
+   "NGUỒN CATE": "CATEGORYID",
+   "SỐ SKU": 3,
+   "TAB TSKT / CẤU HÌNH": "tab TSKT 166 Tủ đông - Tủ mát + cấu hình",
+   "TÊN NGÀNH HÀNG": "Tủ đông, tủ mát"
+  }
+ ],
+ "chua_map": [
+  {
+   "cate": "166",
+   "goi_y_ma": "",
+   "prop_id": "26090",
+   "prop_name": "Label đại diện",
+   "so_dong": 3,
+   "trang_thai": "CHƯA MAP — bỏ qua",
+   "vi_du": "Đang cập nhật"
+  }
+ ],
+ "dx_dang_ap": 0,
+ "goc_cms": {},
+ "log": [
+  [
+   "1750893000019",
+   "166",
+   "utilities_filter_master",
+   "FILTER: giá trị CMS \"Khóa cửa tủ\" chưa có option trong DATA PIM — để trống"
+  ]
+ ],
+ "luc": "2026-10-30 16:34:37",
+ "nganh": {
+  "166": {
+   "attr": [
+    "cabinet_style_filter_master",
+    "capacity_filter_master",
+    "number_of_compartments_filter_master",
+    "number_of_doors_filter_master",
+    "product_type_filter_master",
+    "utilities_filter_master",
+    "body_material_tskt_master",
+    "brand_of_tskt_master",
+    "deep_tskt_master",
+    "door_material_tskt_master",
+    "door_trim_material_tskt_master",
+    "electricity_consumption_tskt_master",
+    "energysaving_technology_tskt_master",
+    "engine_materials_tskt_master",
+    "freezer_compartment_capacity_tskt_master",
+    "freezer_temperature_c_tskt_master",
+    "fridge_temp_celsius_tskt_master",
+    "gas_type_tskt_master",
+    "high_tskt_master",
+    "horizontal_tskt_master",
+    "inner_material_tskt_master",
+    "machine_weight_tskt_master",
+    "made_in_tskt_master",
+    "noise_level_tskt_master",
+    "number_of_compartments_tskt_master",
+    "number_of_doors_tskt_master",
+    "outer_material_tskt_master",
+    "product_type_tskt_master",
+    "ratednominal_power_tskt_master",
+    "refrigerator_compartment_capacity_tskt_master",
+    "release_date_tskt_master",
+    "size_weight_tskt_master",
+    "softfreezing_compartment_capacity_tskt_master",
+    "style_tskt_master",
+    "surface_material_tskt_master",
+    "technology_tskt_master",
+    "total_capacity_tskt_master",
+    "usable_capacity_tskt_master",
+    "utilities_tskt_master"
+   ],
+   "ten": {
+    "body_material_tskt_master": "Chất liệu thân vỏ",
+    "brand_of_tskt_master": "Thương hiệu của",
+    "cabinet_style_filter_master": "Kiểu tủ",
+    "capacity_filter_master": "Dung lượng dung tích",
+    "deep_tskt_master": "Sâu",
+    "door_material_tskt_master": "Chất liệu cửa",
+    "door_trim_material_tskt_master": "Chất liệu viền cửa tủ",
+    "electricity_consumption_tskt_master": "Điện năng tiêu thụ",
+    "energysaving_technology_tskt_master": "Công nghệ tiết kiệm điện",
+    "engine_materials_tskt_master": "Chất liệu động cơ",
+    "freezer_compartment_capacity_tskt_master": "Dung tích sử dụng ngăn đông",
+    "freezer_temperature_c_tskt_master": "Nhiệt độ ngăn đông (độ C)",
+    "fridge_temp_celsius_tskt_master": "Nhiệt độ ngăn mát (độ C)",
+    "gas_type_tskt_master": "Loại Gas",
+    "high_tskt_master": "Cao",
+    "horizontal_tskt_master": "Ngang",
+    "inner_material_tskt_master": "Chất liệu ruột",
+    "machine_weight_tskt_master": "Khối lượng máy",
+    "made_in_tskt_master": "Sản xuất tại",
+    "noise_level_tskt_master": "Độ ồn",
+    "number_of_compartments_filter_master": "Số ngăn",
+    "number_of_compartments_tskt_master": "Số ngăn",
+    "number_of_doors_filter_master": "Số cửa",
+    "number_of_doors_tskt_master": "Số cửa",
+    "outer_material_tskt_master": "Chất liệu bên ngoài",
+    "product_type_filter_master": "Loại sản phẩm",
+    "product_type_tskt_master": "Loại sản phẩm",
+    "ratednominal_power_tskt_master": "Công suất định mức / danh định",
+    "refrigerator_compartment_capacity_tskt_master": "Dung tích ngăn lạnh",
+    "release_date_tskt_master": "Thời gian ra mắt",
+    "size_weight_tskt_master": "Kích thước Khối lượng",
+    "softfreezing_compartment_capacity_tskt_master": "Dung tích ngăn đông mềm",
+    "style_tskt_master": "Kiểu dáng",
+    "surface_material_tskt_master": "Chất liệu mặt",
+    "technology_tskt_master": "Công nghệ",
+    "total_capacity_tskt_master": "Dung tích tổng",
+    "usable_capacity_tskt_master": "Dung tích sử dụng",
+    "utilities_filter_master": "Tiện ích",
+    "utilities_tskt_master": "Tiện ích"
+   },
+   "ten_nh": "Tủ đông, tủ mát",
+   "title": "TSKT 166 Tủ đông, tủ mát"
+  }
+ },
+ "o_theo_ten": [],
+ "tom_tat": {
+  "filter_khong_khop": 1,
+  "khong_data": 0,
+  "map_theo_ten": 0,
+  "o_sua_theo_quy_tac": 0,
+  "so_nganh": 1,
+  "so_o": 111,
+  "so_sku": 3
+ }
+}
