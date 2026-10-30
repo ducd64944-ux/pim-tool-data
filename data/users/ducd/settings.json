@@ -1959,21 +1959,6 @@
   {
    "d": {
     "sua": {
-     "1982\t1213779000500\thigh_tskt_master": null,
-     "1982\t1213779000500\thorizontal_tskt_master": null,
-     "1982\t4844147000248\thigh_tskt_master": null,
-     "1982\t4844147000248\thorizontal_tskt_master": null,
-     "1982\t4844147000249\thigh_tskt_master": null,
-     "1982\t4844147000249\thorizontal_tskt_master": null
-    }
-   },
-   "luc": "2026-10-11 20:27:36",
-   "nhan": "Kiểm tra nhanh: sửa 6 ô",
-   "so": 6
-  },
-  {
-   "d": {
-    "sua": {
      "8980\t1037400000009\tlong_tskt_master": null,
      "8980\t1037400000009\tmachine_weight_tskt_master": null,
      "8980\t1037400000009\tthick_tskt_master": null,
@@ -2177,9 +2162,19 @@
    "luc": "2026-10-29 15:46:46",
    "nhan": "Kiểm tra nhanh: sửa 1 ô",
    "so": 1
+  },
+  {
+   "d": {
+    "sua": {
+     "1944\t1751099000264\tmachine_weight_tskt_master": "Nặng 44 kg"
+    }
+   },
+   "luc": "2026-10-30 16:33:38",
+   "nhan": "Làm mới lô: xoá IMPORT, DATA SP, kết quả map, sửa tay",
+   "so": 1
   }
  ],
- "luc_luu": "2026-10-29 15:46:52",
+ "luc_luu": "2026-10-30 16:33:38",
  "nguoi_luu": "ducd",
  "rong": {
   "-": [
@@ -2203,7 +2198,5 @@
    ""
   ]
  },
- "sua": {
-  "1944\t1751099000264\tmachine_weight_tskt_master": "Nặng 44 kg"
- }
+ "sua": {}
 }
